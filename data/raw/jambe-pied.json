@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "jambe-pression-intramusculaire-loge",
+    "nom": "Pression intramusculaire de loge (syndrome de loge chronique d'effort)",
+    "region": "jambe",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Syndrome de loge chronique d'effort (sportif, militaire)",
+    "technique": "Mesure invasive des pressions intramusculaires (cathéter/aiguille) dans la loge suspecte, au repos puis au décours immédiat d'un effort standardisé (tapis roulant) ; lecture 1 min après l'effort. L'IRM T2 après effort (hypersignal, bombement des fascias, ratio avant/après) est complémentaire.",
+    "normes": "Pression de repos habituellement basse (souvent déjà > 15 mmHg chez le patient symptomatique)",
+    "pathologique": "Test positif si la pression 1 min après l'effort est ≥ 30 mmHg au-dessus de la pression de repos",
+    "pieges": "Test très sensible mais peu spécifique ; valeur pronostique discutée. Modalité 'Radio' par défaut (mesure non radiologique) ; l'IRM d'effort ne fournit pas de seuil chiffré.",
+    "pediatrie": false,
+    "source": "Cotten ch.28 p.800",
+    "tags": [
+      "syndrome de loge",
+      "pression",
+      "effort",
+      "fasciotomie"
+    ]
+  },
+  {
+    "id": "jambe-fredericson-kijowski",
+    "nom": "Classification de Fredericson modifiée par Kijowski (périostite / fracture de fatigue tibiale)",
+    "region": "jambe",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Syndrome tibial médial de stress (périostite) et fractures de fatigue du tibia",
+    "technique": "IRM axiale T1 et T2 FS (± plan perpendiculaire) : graduer l'œdème périosté, l'œdème médullaire (T2 puis T1) et les anomalies intracorticales.",
+    "normes": "Absence d'œdème périosté ou médullaire",
+    "pathologique": "Grade 1 : œdème périosté discret/modéré ; grade 2 : œdème périosté modéré/important + œdème médullaire T2 ; grade 3 : grade 2 plus étendu + œdème médullaire marqué en T1 ; grade 4a : grade 3 + anomalies de signal focales intracorticales ; grade 4b : grade 3 + anomalies linéaires intracorticales (trait de fracture)",
+    "pieges": "Certaines fractures corticales ne sont détectées qu'en TDM ; striations corticales hyperintenses possibles.",
+    "pediatrie": false,
+    "source": "Cotten ch.28 p.805",
+    "tags": [
+      "fracture de fatigue",
+      "périostite",
+      "tibia",
+      "sportif",
+      "classification"
+    ]
+  },
+  {
+    "id": "cheville-pied-tendon-calcaneen-epaisseur",
+    "nom": "Diamètre antéropostérieur du tendon calcanéen (Achille)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Tendinopathie corporéale (fusiforme) / d'insertion du tendon calcanéen",
+    "technique": "Coupe axiale (écho ou IRM DP/T2) perpendiculaire au tendon : mesure du diamètre antéropostérieur ; analyse du bord antérieur (plat ou concave à l'état normal).",
+    "normes": "< 6 mm (augmente avec l'âge et la taille) ; bord antérieur plat ou concave",
+    "pathologique": "Épaississement fusiforme avec ovalisation et perte de la concavité antérieure = tendinopathie (tendinose)",
+    "pieges": "Comparer au côté controlatéral ; atteinte souvent bilatérale ; muscle plantaire grêle au bord médial à ne pas confondre.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.827-828",
+    "tags": [
+      "Achille",
+      "tendinopathie",
+      "tendon calcanéen"
+    ]
+  },
+  {
+    "id": "cheville-pied-rupture-achille-niveau",
+    "nom": "Niveau et écart d'une rupture complète du tendon calcanéen",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Rupture complète du tendon calcanéen (bilan pré-thérapeutique)",
+    "technique": "Coupes longitudinales : mesurer en mm la distance entre l'extrémité du fragment distal et l'angle postérosupérieur du calcanéus ou l'insertion ; écart interfragmentaire et réductibilité en flexion plantaire (manœuvres dynamiques en écho).",
+    "normes": "—",
+    "pathologique": "Siège typique à 4–6 cm de l'insertion distale ; rétraction supracentimétrique du fragment proximal = rupture évidente ; préciser qualité des moignons, réductibilité de l'écart, présence du tendon plantaire",
+    "pieges": "Le tendon plantaire intact peut simuler une continuité partielle ; son incarcération dans le foyer est possible.",
+    "pediatrie": false,
+    "source": "Cotten ch.28 p.817 ; ch.29 p.835",
+    "tags": [
+      "Achille",
+      "rupture",
+      "compte rendu"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-chauveaux-liet",
+    "nom": "Angle de Chauveaux-Liet (maladie de Haglund)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Haglund : conflit angle postérosupérieur du calcanéus / tendon calcanéen",
+    "technique": "Profil du pied en charge : angle β entre la ligne d'appui plantaire du calcanéus et la tangente à la face postérieure de la tubérosité (bord postérosupérieur), auquel on soustrait la pente calcanéenne α (angle de Chauveaux-Liet = β − α).",
+    "normes": "≤ 12° (complément)",
+    "pathologique": "> 12° : angle postérosupérieur proéminent / agressif, conflit de Haglund (complément) ; rechercher aussi un pied creux postérieur (angle de Djian, pente calcanéenne)",
+    "pieges": "Le livre cite l'angle de Chauveaux comme le plus utilisé sans en donner la valeur ; seuil issu de la littérature.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.832 + complément",
+    "tags": [
+      "Haglund",
+      "calcanéus",
+      "bursite rétrocalcanéenne"
+    ]
+  },
+  {
+    "id": "cheville-pied-ttp-gaine",
+    "nom": "Épaisseur de la gaine du tendon tibial postérieur (ténosynovite)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Ténosynovite du tendon du muscle tibial postérieur (TTP)",
+    "technique": "Coupes axiales rétro- et sous-malléolaires médiales : mesure de l'épaississement synovial / épanchement autour du tendon ; Doppler.",
+    "normes": "Fine lame liquidienne péritendineuse possible à l'état normal",
+    "pathologique": "Épanchement circonférentiel et/ou hypertrophie de la gaine > 2 mm = ténosynovite (± hyperhémie Doppler, rehaussement)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.837",
+    "tags": [
+      "tibial postérieur",
+      "ténosynovite",
+      "pied plat"
+    ]
+  },
+  {
+    "id": "cheville-pied-ttp-insertion",
+    "nom": "Épaisseur de l'insertion naviculaire du tendon tibial postérieur",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Enthésopathie distale du TTP / os naviculaire accessoire",
+    "technique": "Coupes longitudinales et axiales à l'insertion sur la tubérosité naviculaire, étude bilatérale comparative en écho.",
+    "normes": "Épaisseur moyenne ≈ 8 mm à l'insertion (élargissement physiologique) ; hypersignal DP/T2 modéré physiologique (fibrocartilage, ossicules)",
+    "pathologique": "Interprétation prudente : comparer au côté opposé",
+    "pieges": "Phénomène de l'angle magique ; foyers fibrocartilagineux physiologiques.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.839",
+    "tags": [
+      "tibial postérieur",
+      "enthèse",
+      "naviculaire"
+    ]
+  },
+  {
+    "id": "cheville-pied-os-naviculaire-accessoire",
+    "nom": "Os naviculaire accessoire : classification en 3 types",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Syndrome de l'os naviculaire accessoire (douleur médiale du médiopied)",
+    "technique": "Radiographie de face/3/4 du pied, TDM/IRM : taille de l'ossicule et rapports avec la tubérosité naviculaire (synchondrose).",
+    "normes": "Bilatéral dans 50–90 % des cas",
+    "pathologique": "Type I (30 %) : sésamoïde du TTP rond/ovalaire de 2–6 mm, sans connexion, asymptomatique ; type II (50–60 %) : triangulaire/en cœur, jusqu'à 12 mm, relié par une synchondrose d'environ 2 mm, volontiers symptomatique (œdème de part et d'autre en IRM) ; type III : tubérosité naviculaire proéminente (fusion)",
+    "pieges": "Diagnostic différentiel : avulsion de l'insertion du TTP (exceptionnelle).",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.839",
+    "tags": [
+      "naviculaire accessoire",
+      "tibial postérieur",
+      "classification"
+    ]
+  },
+  {
+    "id": "cheville-pied-spring-ligament",
+    "nom": "Épaisseur du spring ligament (faisceau supéromédial)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Insuffisance / rupture du spring ligament, pied plat valgus acquis",
+    "technique": "Écho et IRM axiale (stricte ou oblique) et frontale : faisceau supéromédial entre le TTP et la tête du talus ; mesure de l'épaisseur proximale et distale.",
+    "normes": "Faisceau supéromédial ≈ 3,2 mm ; 3,6–4 mm selon les auteurs ; faisceau inféroplantaire longitudinal ≈ 4 mm",
+    "pathologique": "Rupture évoquée si ligament hétérogène, épaississement proximal > 5 mm, amincissement distal < 2 mm avec aspect en vague, ou solution de continuité ; radiographie : subluxation inférieure de la tête du talus, augmentation de l'angle talocalcanéen",
+    "pieges": "Mesure peu reproductible (épaisseur variable d'avant en arrière) ; effet de bord et pathologie du TTP adjacent.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.841-842",
+    "tags": [
+      "spring ligament",
+      "pied plat",
+      "tibial postérieur"
+    ]
+  },
+  {
+    "id": "cheville-pied-trochlee-fibulaire",
+    "nom": "Taille de la trochlée fibulaire",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM",
+      "Écho"
+    ],
+    "contexte": "Conflit os-tendon et tendinopathie/ténosynovite du long fibulaire",
+    "technique": "Face latérale du calcanéus : mesurer la saillie de la trochlée fibulaire (TDM/IRM axiale ou frontale, écho).",
+    "normes": "≤ 5 mm",
+    "pathologique": "Hypertrophie > 5 mm : facteur de conflit avec le tendon du long fibulaire",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.845",
+    "tags": [
+      "fibulaires",
+      "trochlée fibulaire",
+      "conflit"
+    ]
+  },
+  {
+    "id": "cheville-pied-court-fibulaire-jonction-basse",
+    "nom": "Jonction myotendineuse basse du court fibulaire",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Écho"
+    ],
+    "contexte": "Instabilité / tendinopathie des fibulaires",
+    "technique": "Coupes axiales : présence de fibres musculaires du court fibulaire en regard ou sous la pointe de la fibula ; mesurer la distance sous la pointe.",
+    "normes": "Fibres musculaires s'étendant rarement à plus de 13 mm sous la pointe de la fibula",
+    "pathologique": "Jonction basse = encombrement de la gouttière rétromalléolaire, rôle pathogène discuté",
+    "pieges": "Dépend de la position en dorsiflexion du pied.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.845",
+    "tags": [
+      "fibulaires",
+      "variante",
+      "gouttière rétromalléolaire"
+    ]
+  },
+  {
+    "id": "cheville-pied-gaine-fibulaires-liquide",
+    "nom": "Épanchement de la gaine des fibulaires",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Ténosynovite des fibulaires, rupture du ligament calcanéofibulaire",
+    "technique": "Coupes axiales rétro- et sous-malléolaires latérales, étude comparative en écho.",
+    "normes": "Fine lame liquidienne < 3 mm fréquente chez l'asymptomatique",
+    "pathologique": "Épanchement plus abondant / asymétrique : ténosynovite ; fréquent en cas de rupture transfixiante du ligament calcanéofibulaire (communication articulaire)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.845",
+    "tags": [
+      "fibulaires",
+      "ténosynovite",
+      "épanchement"
+    ]
+  },
+  {
+    "id": "cheville-pied-sobel-fissure-court-fibulaire",
+    "nom": "Classification de Sobel (fissure longitudinale du court fibulaire)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Fissure longitudinale du tendon du court fibulaire",
+    "technique": "Écho/IRM axiale et longitudinale du tendon rétromalléolaire ; manœuvres en extension/éversion en écho ; mesurer la longueur de la fissure.",
+    "normes": "Tendon homogène, en croissant à concavité postérieure",
+    "pathologique": "Grade 1 : amincissement ; grade 2 : lésion non transfixiante < 1 cm ; grade 3 : lésion transfixiante < 2 cm ; grade 4 : lésion transfixiante > 2 cm",
+    "pieges": "Un muscle peroneus quartus peut mimer une fissure.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.846",
+    "tags": [
+      "fibulaires",
+      "fissure",
+      "classification"
+    ]
+  },
+  {
+    "id": "cheville-pied-os-peroneum-diastasis",
+    "nom": "Écart interfragmentaire de l'os peroneum (rupture du long fibulaire)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Fracture de l'os peroneum / rupture du tendon du long fibulaire",
+    "technique": "Radiographie (3/4 interne, face), TDM : mesure de la distance entre les fragments de l'os peroneum ; suivi après quelques jours.",
+    "normes": "Os peroneum non fragmenté (ou bipartite à bords réguliers)",
+    "pathologique": "Distance ≥ 6 mm entre les fragments = déchirure complète du tendon ; déplacement postérieur habituellement < 2 cm (blocage à la trochlée fibulaire)",
+    "pieges": "Os peroneum bipartite (bords lisses) vs fracture (bords irréguliers en puzzle).",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.849",
+    "tags": [
+      "fibulaires",
+      "os peroneum",
+      "rupture"
+    ]
+  },
+  {
+    "id": "cheville-pied-tibial-anterieur-epaisseur",
+    "nom": "Épaisseur distale du tendon tibial antérieur",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Tendinopathie / rupture distale du tibial antérieur",
+    "technique": "Écho : mesure du tendon dans les 3 cm précédant son insertion (cunéiforme médial/base de M1).",
+    "normes": "≤ 5 mm dans les 3 derniers cm",
+    "pathologique": "Épaississement fusiforme hypoéchogène > 5 mm = tendinopathie ; rupture typiquement entre 0,5 et 3 cm de l'insertion (sous le rétinaculum inférieur des extenseurs)",
+    "pieges": "Aspect bifide normal du tendon distal ; angle magique en IRM.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.853",
+    "tags": [
+      "tibial antérieur",
+      "tendinopathie"
+    ]
+  },
+  {
+    "id": "cheville-pied-ligaments-collateraux-lateraux-dimensions",
+    "nom": "Dimensions du ligament collatéral latéral (LTFA, LCF)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Entorse latérale de cheville",
+    "technique": "Écho/IRM axiale (LTFA) et coronale/oblique (LCF).",
+    "normes": "LTFA : largeur 6–10 mm, horizontal en position neutre ; LCF : longueur moyenne 20 mm, largeur 6–8 mm, oblique en bas et en arrière",
+    "pathologique": "Interruption, épaississement, non-visibilité ou aspect détendu = lésion ligamentaire",
+    "pieges": "LTFA parfois bifasciculé.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.854",
+    "tags": [
+      "entorse",
+      "LTFA",
+      "LCF",
+      "ligament"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-tibiotalien-varus",
+    "nom": "Angle tibiotalien latéral (bâillement en varus forcé)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Laxité / instabilité latérale chronique de cheville",
+    "technique": "Cliché dynamique de face en varus forcé (appareillage ou manuel), comparatif : angle entre la surface articulaire du pilon tibial et celle du dôme du talus.",
+    "normes": "Laxité physiologique variable ; différentiel controlatéral < 10°",
+    "pathologique": "> 10° : rupture du LTFA ; > 15° : rupture de deux faisceaux ; > 25° : rupture des trois faisceaux ; différentiel ≥ 10° vs côté sain = critère le plus pertinent",
+    "pieges": "Mauvaise sensibilité, valeur uniquement positive.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.857",
+    "tags": [
+      "entorse",
+      "laxité",
+      "varus forcé",
+      "dynamique"
+    ]
+  },
+  {
+    "id": "cheville-pied-tiroir-anterieur",
+    "nom": "Tiroir antérieur radiographique de cheville",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Laxité du ligament talofibulaire antérieur",
+    "technique": "Cliché dynamique de profil en tiroir antérieur, comparatif : translation antérieure du talus sous le tibia (distance entre la lèvre postérieure du pilon et le dôme talien).",
+    "normes": "< 4 mm",
+    "pathologique": "Seuil pathologique 4–8 mm ; différence ≥ 3 mm entre les deux côtés = rupture du LTFA",
+    "pieges": "Valeur uniquement positive.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.857",
+    "tags": [
+      "entorse",
+      "laxité",
+      "tiroir",
+      "dynamique"
+    ]
+  },
+  {
+    "id": "cheville-pied-syndesmose-espace-clair",
+    "nom": "Espace clair tibiofibulaire (clear space)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Entorse / diastasis de la syndesmose tibiofibulaire distale, fracture malléolaire",
+    "technique": "Face et mortaise (rotation médiale 10–20°), idéalement en charge : distance horizontale entre le bord médial de la fibula et le bord postérolatéral du tibia (incisure), 1 cm au-dessus de la surface articulaire tibiale.",
+    "normes": "< 5 mm (face et mortaise)",
+    "pathologique": "≥ 6 mm = diastasis tibiofibulaire",
+    "pieges": "Critères adultes non applicables chez l'enfant (incisure visible vers 8 ans chez la fille, 11 ans chez le garçon). Comparer au côté sain en cas de doute.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.868",
+    "tags": [
+      "syndesmose",
+      "diastasis",
+      "clear space",
+      "Weber"
+    ]
+  },
+  {
+    "id": "cheville-pied-syndesmose-chevauchement",
+    "nom": "Chevauchement (recouvrement) tibiofibulaire",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Entorse / diastasis de la syndesmose tibiofibulaire distale",
+    "technique": "Face et mortaise, 1 cm au-dessus de la surface articulaire tibiale : distance horizontale entre le bord médial de la fibula et le bord latéral du tubercule antérieur du tibia.",
+    "normes": "> 6 mm de face (AP) ; > 1 mm sur la mortaise",
+    "pathologique": "Diminution ou disparition du chevauchement = diastasis",
+    "pieges": "Rotation du cliché ; chez l'enfant, le chevauchement n'apparaît que vers 5 ans de face.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.868",
+    "tags": [
+      "syndesmose",
+      "diastasis",
+      "overlap"
+    ]
+  },
+  {
+    "id": "cheville-pied-espace-clair-medial",
+    "nom": "Espace clair talocrural médial (medial clear space)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Lésion du ligament collatéral médial (deltoïde) associée à une lésion de syndesmose / fracture",
+    "technique": "Face et mortaise : distance entre la face latérale de la malléole médiale et le bord médial du talus, à hauteur du dôme talien ; comparer à l'interligne talocrural supérieur.",
+    "normes": "< 4 mm et ≤ largeur de l'interligne talocrural supérieur",
+    "pathologique": "Élargissement > 4 mm ou supérieur à l'interligne tibiotalien = lésion du plan collatéral médial / instabilité",
+    "pieges": "Cheville controlatérale utile en cas de doute.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.868",
+    "tags": [
+      "syndesmose",
+      "deltoïde",
+      "clear space médial"
+    ]
+  },
+  {
+    "id": "cheville-pied-aponevrose-plantaire-epaisseur",
+    "nom": "Épaisseur de l'aponévrose plantaire (enthèse calcanéenne)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Aponévropathie plantaire mécanique (fasciite plantaire)",
+    "technique": "Écho en coupe longitudinale (sagittale) au niveau de l'enthèse sur le tubercule médial du calcanéus, comparatif ; IRM sagittale/frontale.",
+    "normes": "Faisceau central ≈ 4 mm ; faisceau latéral ≈ 2,3 mm ; faisceau médial ≈ 0,6 mm (varie avec sexe, poids, taille)",
+    "pathologique": "Enthèse épaissie > 4–5 mm et hypoéchogène = aponévropathie ; plage anéchogène = rupture partielle ; ± hyperhémie Doppler, irrégularités corticales",
+    "pieges": "L'enthésophyte calcanéen inférieur n'est pas pathologique en soi.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.872-873",
+    "tags": [
+      "aponévrose plantaire",
+      "fasciite",
+      "talalgie"
+    ]
+  },
+  {
+    "id": "cheville-pied-veines-tunnel-tarsien",
+    "nom": "Diamètre des veines plantaires (tunnel tarsien distal)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Syndrome du tunnel tarsien d'origine veineuse",
+    "technique": "Écho en position debout du tunnel tarsien distal : diamètre des veines plantaires, compressibilité, reproduction de la douleur.",
+    "normes": "≤ 5 mm",
+    "pathologique": "Dilatation > 5 mm, veines tortueuses, stase = cause possible de compression nerveuse",
+    "pieges": "Examen debout indispensable.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.879",
+    "tags": [
+      "tunnel tarsien",
+      "varices",
+      "nerf tibial"
+    ]
+  },
+  {
+    "id": "cheville-pied-nevrome-morton",
+    "nom": "Taille du névrome de Morton",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Métatarsalgie (2e/3e espace intercapitométatarsien)",
+    "technique": "Écho coupes longitudinales plantaires et dorsales + compression latérale de l'avant-pied (signe de Mulder, « clic ») ; mesurer l'épaisseur de la masse fusiforme hypoéchogène intercapitométatarsienne.",
+    "normes": "Petits névromes asymptomatiques fréquents",
+    "pathologique": "Épaisseur > 5 mm : plutôt symptomatique",
+    "pieges": "Bursite intercapitométatarsienne associée (aspect mixte, bilobé, compressible) ; distinguer du syndrome du 2e rayon.",
+    "pediatrie": false,
+    "source": "Cotten ch.29 p.882",
+    "tags": [
+      "Morton",
+      "névrome",
+      "métatarsalgie"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-djian-annonier",
+    "nom": "Angle de Djian-Annonier (arche médiale)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Pied plat / pied creux (radiopodométrie)",
+    "technique": "Profil du pied en charge : angle tracé entre le point le plus déclive du calcanéus, le point le plus déclive de l'articulation talonaviculaire (sommet) et le point le plus déclive du sésamoïde médial de l'hallux.",
+    "normes": "120–130°",
+    "pathologique": "> 130° : pied plat ; < 120° : pied creux (direct ou varus), quel que soit le siège",
+    "pieges": "Valgus calcanéen et abduction de l'avant-pied marqués majorent l'angle (refaire le cliché en corrigeant) ; n'évalue que l'arche médiale (pied creux valgus).",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.891, 896, 904",
+    "tags": [
+      "radiopodométrie",
+      "pied plat",
+      "pied creux",
+      "arche médiale"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-meary-tomeno",
+    "nom": "Angle de Méary-Tomeno (axe talus – 1er métatarsien)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Pied plat, pied creux antérieur",
+    "technique": "Profil du pied en charge : axe longitudinal du col et de la tête du talus et axe du 1er métatarsien ; noter le siège de la cassure (talonaviculaire, cunéo-naviculaire, cunéo-métatarsienne) et sa valeur en degrés.",
+    "normes": "0° (droite continue)",
+    "pathologique": "Cassure à sommet inférieur = pied plat (le plus souvent talonaviculaire) ; à sommet supérieur (angle positif, axe talien au-dessus de M1) = pied creux antérieur",
+    "pieges": "Préciser l'interligne siège de la cassure.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.891, 896, 904",
+    "tags": [
+      "radiopodométrie",
+      "pied plat",
+      "pied creux"
+    ]
+  },
+  {
+    "id": "cheville-pied-pente-calcaneenne",
+    "nom": "Pente du calcanéus (calcaneal pitch)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Pied plat, pied creux postérieur, Haglund",
+    "technique": "Profil du pied en charge : angle entre la tangente à la face plantaire du calcanéus et le plan d'appui au sol.",
+    "normes": "15–25°",
+    "pathologique": "< 10° : pied plat ; > 30° : pied creux postérieur ; diminuée dans le pied creux antérieur ou mixte (talus horizontalisé)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.891, 896, 904",
+    "tags": [
+      "radiopodométrie",
+      "pied creux",
+      "pied plat",
+      "calcanéus"
+    ]
+  },
+  {
+    "id": "cheville-pied-divergence-talocalcaneenne-profil",
+    "nom": "Divergence talocalcanéenne de profil",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Troubles statiques de l'arrière-pied",
+    "technique": "Profil du pied en charge : angle entre l'axe du talus et l'axe du calcanéus.",
+    "normes": "20–25°",
+    "pathologique": "Augmentée dans le pied plat valgus ; diminuée dans le varus de l'arrière-pied",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.891",
+    "tags": [
+      "radiopodométrie",
+      "talocalcanéen",
+      "Kite"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-attaque-metatarsiens",
+    "nom": "Angle d'attaque des métatarsiens (pente de M1)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Pied plat, pied creux, métatarsalgies",
+    "technique": "Profil du pied en charge : angle entre l'axe de chaque métatarsien et le plan du sol.",
+    "normes": "M1 : 17–22° ; décroissance régulière jusqu'à M5 : 5°",
+    "pathologique": "M1 < 15° : pied plat ; augmenté dans le pied creux (surcharge capitale)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.891, 896, 904",
+    "tags": [
+      "radiopodométrie",
+      "métatarsiens",
+      "pied creux"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-talocrural",
+    "nom": "Angle talocrural (tibia – talus) de profil",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Équinisme, pied creux, pied plat",
+    "technique": "Profil du pied/cheville en charge : angle entre l'axe du tibia et l'axe du talus.",
+    "normes": "105–110°",
+    "pathologique": "> 110° : pied équin (aussi augmenté dans le pied plat avec verticalisation du talus) ; diminué dans le pied creux antérieur ou mixte",
+    "pieges": "Profils en flexion dorsale/plantaire maximale pour juger de la réductibilité de l'équin.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892, 896, 904-905",
+    "tags": [
+      "radiopodométrie",
+      "équin"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-ouverture-avant-pied",
+    "nom": "Angle d'ouverture de l'avant-pied (M1-M5)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Largeur de l'éventail métatarsien, hallux valgus, quintus varus",
+    "technique": "Dorsoplantaire du pied en charge : angle entre l'axe de M1 et l'axe de M5.",
+    "normes": "≈ 15–20°",
+    "pathologique": "Augmenté dans l'avant-pied étalé (hallux valgus, metatarsus valgus de M5)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892",
+    "tags": [
+      "radiopodométrie",
+      "avant-pied",
+      "éventail métatarsien"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-meschan",
+    "nom": "Angle de Meschan",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Formule métatarsienne (longueur relative des métatarsiens)",
+    "technique": "Dorsoplantaire en charge : angle entre la tangente aux têtes de M1 et M2 et la tangente aux têtes de M2 et M5.",
+    "normes": "≈ 135°",
+    "pathologique": "Modifié en cas de M1 court / index plus (pied égyptien vs grec)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892",
+    "tags": [
+      "radiopodométrie",
+      "formule métatarsienne"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-m1-m2",
+    "nom": "Angle intermétatarsien M1-M2 (metatarsus varus)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Hallux valgus (planification chirurgicale)",
+    "technique": "Dorsoplantaire du pied en charge : angle entre les axes diaphysaires de M1 et M2.",
+    "normes": "≈ 5°",
+    "pathologique": "> 10° : varus de M1 (metatarsus varus) ; corrélé à la largeur de l'éventail métatarsien",
+    "pieges": "Obliquité de l'interligne cunéo-métatarsien majore le varus de M1.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892, 907",
+    "tags": [
+      "hallux valgus",
+      "M1-M2",
+      "metatarsus varus"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-m1-p1",
+    "nom": "Angle métatarsophalangien du 1er rayon (M1-P1, hallux valgus)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Hallux valgus",
+    "technique": "Dorsoplantaire du pied en charge : angle entre l'axe diaphysaire de M1 et l'axe de P1.",
+    "normes": "8–12° (valgus physiologique)",
+    "pathologique": "> 15° : hallux valgus (exemple illustré : 40°)",
+    "pieges": "Pronation de l'hallux ; rechercher pied plat valgus associé.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892, 906-907",
+    "tags": [
+      "hallux valgus",
+      "M1-P1"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-m5-p1",
+    "nom": "Angle métatarsophalangien du 5e rayon (M5-P1, quintus varus)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Quintus varus, bunionette",
+    "technique": "Dorsoplantaire en charge : angle entre l'axe de M5 et celui de P1 du 5e rayon.",
+    "normes": "8–10°",
+    "pathologique": "Au-delà : quintus varus",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.892",
+    "tags": [
+      "quintus varus",
+      "avant-pied"
+    ]
+  },
+  {
+    "id": "cheville-pied-dmaa",
+    "nom": "DMAA (Distal Metatarsal Articular Angle)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Hallux valgus (notamment congénital), planification d'ostéotomie",
+    "technique": "Dorsoplantaire en charge : angle entre la surface articulaire de la tête de M1 et l'axe diaphysaire de M1 (perpendiculaire).",
+    "normes": "0–10° (légère orientation latérale)",
+    "pathologique": "Augmenté dans la plupart des hallux valgus congénitaux (exemple : 12°)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.907",
+    "tags": [
+      "hallux valgus",
+      "DMAA",
+      "congénital"
+    ]
+  },
+  {
+    "id": "cheville-pied-sesamoides-position",
+    "nom": "Position des sésamoïdes de l'hallux (subluxation latérale)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Hallux valgus",
+    "technique": "Dorsoplantaire en charge : débord du sésamoïde latéral dans le 1er espace intermétatarsien ; incidence axiale des sésamoïdes (Gunz) : position par rapport à la crête intersésamoïdienne de M1.",
+    "normes": "Sésamoïdes de part et d'autre de la crête intersésamoïdienne",
+    "pathologique": "Face : stade 1 débord léger, stade 2 débord > 50 %, stade 3 sésamoïde latéral entièrement dans le 1er espace. Incidence de Gunz : stade 1 sésamoïde latéral débordant ; stade 2 sésamoïde latéral entièrement dans le 1er espace ; stade 3 les deux sésamoïdes dans le 1er espace",
+    "pieges": "L'incidence axiale montre aussi l'hypoplasie de la crête (origine congénitale) et l'arthrose métatarso-sésamoïdienne.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.906, 908",
+    "tags": [
+      "hallux valgus",
+      "sésamoïdes",
+      "Gunz"
+    ]
+  },
+  {
+    "id": "cheville-pied-formule-orteils",
+    "nom": "Formule des orteils / métatarsienne",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Hallux valgus, hallux rigidus, métatarsalgies",
+    "technique": "Dorsoplantaire en charge : longueur relative des 1er et 2e rayons ; courbe de Hoffmann-Lelièvre reliant les interlignes métatarsophalangiens (concave en arrière).",
+    "normes": "Pied égyptien (1er > 2e, 50 %), carré (1er = 2e, 27 %), grec (2e > 1er, 23 %) ; formule métatarsienne d'un M1 court : M2 > M3 > M4 > M1 >> M5",
+    "pathologique": "Pied égyptien présent dans > 70 % des hallux valgus ; brièveté de M1 = transfert de charge latéral",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.893, 906-907",
+    "tags": [
+      "formule des orteils",
+      "Hoffmann-Lelièvre",
+      "hallux valgus"
+    ]
+  },
+  {
+    "id": "cheville-pied-bifocale-divergence-talocalcaneenne",
+    "nom": "Divergence talocalcanéenne de face (incidence bifocale, angle de Kite)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Pied plat valgus, varus de l'arrière-pied, pied creux",
+    "technique": "Radiographie dorsoplantaire en incidence bifocale (double exposition avant/arrière-pied) en charge : angle entre l'axe du talus et l'axe du calcanéus.",
+    "normes": "15–25°",
+    "pathologique": "Augmentée dans le pied plat valgus (découverture de la tête du talus) ; < 15° : varus de l'arrière-pied (pied creux varus)",
+    "pieges": "Chez l'enfant < 5 ans, axes imprécis ; mesures fiables après 12 ans.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.893, 897, 904",
+    "tags": [
+      "incidence bifocale",
+      "talocalcanéen",
+      "Kite",
+      "pied plat"
+    ]
+  },
+  {
+    "id": "cheville-pied-abduction-avant-pied",
+    "nom": "Abduction de l'avant-pied (angle talus – M2)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Pied plat valgus",
+    "technique": "Incidence bifocale / dorsoplantaire en charge : angle entre l'axe du talus et celui de M2.",
+    "normes": "6–42°",
+    "pathologique": "Augmentée dans le pied plat (abduction) ; adduction du pied dans le pied creux (angle entre l'axe du calcanéus et M5)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.893, 897, 904",
+    "tags": [
+      "incidence bifocale",
+      "avant-pied",
+      "pied plat"
+    ]
+  },
+  {
+    "id": "cheville-pied-declinaison-talienne",
+    "nom": "Déclinaison talienne (angle corps-col du talus)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Analyse morphologique du talus (statique du pied)",
+    "technique": "Incidence bifocale : angle entre l'axe du corps et l'axe du col du talus.",
+    "normes": "150–160°",
+    "pathologique": "—",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.893",
+    "tags": [
+      "talus",
+      "incidence bifocale"
+    ]
+  },
+  {
+    "id": "cheville-pied-valgus-arriere-pied-meary",
+    "nom": "Valgus de l'arrière-pied — cheville de face en charge (méthode de Méary)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Pied plat valgus, pied creux varus, déformations de l'arrière-pied",
+    "technique": "Cheville de face en charge avec cerclage métallique (ou marqueurs) de la zone d'appui du talon (talonnette radiotransparente) : l'axe du tibia doit couper la zone d'appui ; ou angle entre la verticale et la droite reliant le milieu du dôme du talus au milieu de la zone d'appui.",
+    "normes": "Axe tibial coupant la zone d'appui à l'union tiers médial / deux tiers latéraux ; valgus physiologique 3–5°",
+    "pathologique": "Axe passant en dedans de cette jonction : valgus calcanéen ; en dehors : varus calcanéen",
+    "pieges": "Cheville parfaitement de face ; le cerclage doit passer par le talon et non par le plan des malléoles (sous-estimation). Cliché avec talonnette varisante pour la réductibilité.",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.893-894, 897",
+    "tags": [
+      "arrière-pied",
+      "valgus",
+      "Méary",
+      "alignement"
+    ]
+  },
+  {
+    "id": "cheville-pied-angle-m4-m5-m2-m5",
+    "nom": "Angles intermétatarsiens M4-M5 et M2-M5 (metatarsus valgus de M5)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Metatarsalgie latérale, bursite du 5e rayon (quintus varus / bunionette)",
+    "technique": "Dorsoplantaire en charge : angle entre les axes de M4 et M5 ; angle entre M2 et M5 (largeur de l'éventail).",
+    "normes": "M4-M5 : 12–15° ; M2-M5 : 16–18°",
+    "pathologique": "Augmentation = metatarsus valgus du 5e rayon (M5 dévié en dehors ou incurvé à concavité latérale)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.912",
+    "tags": [
+      "5e rayon",
+      "avant-pied",
+      "quintus varus"
+    ]
+  },
+  {
+    "id": "cheville-pied-rostre-calcaneen",
+    "nom": "Distance rostre calcanéen – os naviculaire",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Coalition calcanéonaviculaire incomplète / rostre long pathogène",
+    "technique": "Profil et 3/4 interne du pied, TDM : distance entre l'extrémité du rostre de l'apophyse antérieure du calcanéus et l'os naviculaire.",
+    "normes": "≈ 5–10 mm (rostre arrondi, de petite taille)",
+    "pathologique": "Rostre long (distance réduite) : conflit avec le talus en supination, chondropathie talienne",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.30 p.900",
+    "tags": [
+      "synostose",
+      "coalition",
+      "calcanéus"
+    ]
+  },
+  {
+    "id": "membre-entier-aitken-pffd",
+    "nom": "Classification d'Aitken (déficience fémorale proximale focale, PFFD)",
+    "region": "membre-entier",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Raccourcissement congénital du fémur proximal (inégalité de longueur des membres inférieurs)",
+    "technique": "Radiographie du bassin et du membre inférieur (± IRM pour les maquettes cartilagineuses) : présence de la tête/col fémoral, de l'acétabulum, longueur du segment fémoral résiduel.",
+    "normes": "Unilatérale dans 90 % ; ~1/50 000 naissances",
+    "pathologique": "Type A (bénin) : tête/col présents, acétabulum normal, petite perte fémorale proximale ; type B : tête/col présents, acétabulum normal ou modérément dysplasique, perte plus importante ; type C : tête/col absents ou très hypoplasiques, acétabulum très dysplasique, fémur résiduel effilé ; type D (sévère) : tête, col et acétabulum absents, fémur très court parfois fusionné au tibia",
+    "pieges": "La jonction non ossifiée peut s'ossifier secondairement ; IRM pour classer plus précisément.",
+    "pediatrie": true,
+    "source": "Cotten ch.35 p.985-986",
+    "tags": [
+      "PFFD",
+      "dysostose",
+      "inégalité de longueur",
+      "classification"
+    ]
+  },
+  {
+    "id": "membre-entier-femur-court-congenital",
+    "nom": "Fémur court congénital (raccourcissement)",
+    "region": "membre-entier",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Inégalité de longueur des membres inférieurs congénitale",
+    "technique": "Radiographie / goniométrie (EOS) des membres inférieurs : longueur fémorale comparée au côté sain.",
+    "normes": "—",
+    "pathologique": "Raccourcissement de 40–60 % de la longueur fémorale normale, ± incurvation latérale de la diaphyse et coxa vara",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.35 p.986-987",
+    "tags": [
+      "fémur court",
+      "inégalité de longueur",
+      "dysostose"
+    ]
+  },
+  {
+    "id": "jambe-clement-hemimelie-tibiale",
+    "nom": "Classification de Clément (hémimélie tibiale)",
+    "region": "jambe",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Jambe courte déviée en varus (hémimélie tibiale)",
+    "technique": "Radiographies de jambe (± IRM des maquettes cartilagineuses) : portion de tibia présente.",
+    "normes": "—",
+    "pathologique": "Type I (59 %) : tibia totalement absent ; type IIa (10 %) : épiphyse proximale cartilagineuse seule ; type IIb (24 %) : fragment proximal métaphysodiaphysaire avec épiphyse et physe normales ; type III (1,5 %) : tibia distal seul ; type IV (5 %) : tibia entier hypoplasique",
+    "pieges": "Le type IIa peut paraître de type I chez le jeune enfant (ossification secondaire).",
+    "pediatrie": true,
+    "source": "Cotten ch.35 p.987-988",
+    "tags": [
+      "hémimélie tibiale",
+      "dysostose",
+      "classification"
+    ]
+  },
+  {
+    "id": "jambe-achterman-kalamchi",
+    "nom": "Classification d'Achterman et Kalamchi (hémimélie fibulaire)",
+    "region": "jambe",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Jambe courte incurvée vers l'avant (hémimélie fibulaire)",
+    "technique": "Radiographies de jambe : présence et longueur de la fibula ; IRM pour anlages fibreux et anomalies ligamentaires (agénésie des croisés) et vasculaires.",
+    "normes": "—",
+    "pathologique": "Type IA : fibula entière mais hypoplasique, extrémité proximale abaissée ; type IB : fibula proximale absente (fibula distale non fonctionnelle) ; type II : aplasie fibulaire complète, tibia incurvé à convexité antéromédiale",
+    "pieges": "Ne tient compte que de la fibula (Stanitski pour cheville/pied).",
+    "pediatrie": true,
+    "source": "Cotten ch.35 p.990-991",
+    "tags": [
+      "hémimélie fibulaire",
+      "dysostose",
+      "classification"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-angle-talonaviculaire",
+    "nom": "Angle talonaviculaire échographique (TN) — pied bot varus équin",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Pied bot varus équin (PBVE) : diagnostic, sévérité, suivi Ponseti",
+    "technique": "Coupe axiale par voie médiale en abduction forcée (sonde parallèle à la plante) : axe du talus = tangente au bord médial du col (≈ axe du noyau d'ossification) ; axe du naviculaire = tangente à sa face postérieure (perpendiculaire). Négatif si ouvert vers l'axe médian du pied.",
+    "normes": "Témoins à la naissance : −26 ± 10° (−44 à −15°)",
+    "pathologique": "PBVE : +25 ± 15° (−17 à +72°), sans chevauchement avec les témoins ; sous Ponseti : +21° (M1) → −3,4° (M3) → −10,5° (M12) ; TN ≥ −4° à 6, 9 ou 12 mois = risque accru de récidive tardive",
+    "pieges": "Toujours associer l'angle talométatarsal : amélioration de TM > TN = fausse correction par abduction du médio/avant-pied (15 % des PBVE). ICC 0,91.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.997-998, 1001, 1003",
+    "tags": [
+      "PBVE",
+      "pied bot",
+      "Ponseti",
+      "échographie",
+      "nourrisson"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-angles-talometatarsal-talocuneen",
+    "nom": "Angles talométatarsal (TM) et talocunéen (TC) échographiques",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE, metatarsus adductus, pied en Z",
+    "technique": "Coupe axiale médiale : axe du talus vs tangente à la face médiale du 1er métatarsien (TM) ou du 1er cunéiforme (TC, si M1 mal vu) ; signe négatif si ouvert vers l'axe médian.",
+    "normes": "Témoins : TM −16 ± 10° ; TC −25 ± 6°",
+    "pathologique": "PBVE : TM +20 ± 15° ; TC +11 ± 14° ; augmentation isolée de TM avec naviculaire en place = metatarsus adductus ; avec translation latérale du naviculaire = pied en Z",
+    "pieges": "Ces angles n'évaluent qu'indirectement la subluxation naviculaire.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.997-998, 1004-1005",
+    "tags": [
+      "PBVE",
+      "metatarsus adductus",
+      "pied en Z",
+      "échographie"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-distance-mmn",
+    "nom": "Distance malléole médiale – naviculaire (MMN)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE (subluxation médiale du naviculaire)",
+    "technique": "Coupe axiale médiale, en position de correction maximale (la plus reproductible) ± manœuvres dynamiques : distance entre malléole tibiale et os naviculaire.",
+    "normes": "Témoins : 8,5 ± 1,1 mm",
+    "pathologique": "PBVE : 4,6 ± 1,7 mm (naviculaire pouvant toucher la malléole) ; sous traitement : 4,1 ± 3,1 → 11 ± 4,3 mm",
+    "pieges": "Varie avec l'âge ; chevauchement avec les formes modérées ; ne renseigne pas sur le médio/avant-pied.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.997, 1001",
+    "tags": [
+      "PBVE",
+      "échographie",
+      "naviculaire"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-divergence-talocalcaneenne-echo",
+    "nom": "Divergence talocalcanéenne échographique (DTC) du nourrisson",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE (varus de l'arrière-pied)",
+    "technique": "Double coupe axiale médiale sur écran dédoublé : grand axe du talus puis translation de la sonde vers le bas et l'arrière (sans rotation) sur le calcanéus ; angle entre les tangentes aux noyaux d'ossification.",
+    "normes": "Témoins : 47 ± 5° (≈ 45°)",
+    "pathologique": "PBVE : 18 ± 10°, jusqu'à 0° (talus et calcanéus parallèles) ; amélioration d'environ 15–18° en fin de traitement",
+    "pieges": "ICC 0,84.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.998-999, 1001",
+    "tags": [
+      "PBVE",
+      "talocalcanéen",
+      "Kite",
+      "échographie"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-angle-mtc",
+    "nom": "Angle métaphyso-talocalcanéen (MTC) — équin du nourrisson",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE : quantification de l'équin, indication de ténotomie, suivi",
+    "technique": "Coupe sagittale par voie postérieure, décubitus ventral, flexion dorsale maximale : angle entre la tangente à la physe tibiale distale et la tangente aux noyaux d'ossification du talus et du calcanéus.",
+    "normes": "Témoins : 104 ± 10° (92–115°)",
+    "pathologique": "PBVE : 61 ± 14° (21–101°) ; sous Ponseti 54,5° → 81,6° à 3 mois (gain ≈ 22° avec ténotomie vs 10° sans) ; MTC ≤ 70° à 6, 9 ou 12 mois = risque de récidive tardive",
+    "pieges": "Indépendant de la croissance ; ICC 0,91.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.999-1003",
+    "tags": [
+      "PBVE",
+      "équin",
+      "Ponseti",
+      "ténotomie",
+      "échographie"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-distance-physe-calcaneus",
+    "nom": "Distance physe tibiale – noyau calcanéen (équin)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE : évaluation de l'équin",
+    "technique": "Coupe sagittale postérieure en dorsiflexion maximale : distance entre la physe tibiale distale et le noyau d'ossification du calcanéus.",
+    "normes": "Témoins : 20 mm (15–23 mm) à la naissance ; 27 mm à 4 mois ; 30 mm à 5 mois",
+    "pathologique": "PBVE : 10,5 mm (9,5–11,5 mm) ; 15 mm après plâtres ; 26,5 mm après libération postérieure",
+    "pieges": "Dépend de la croissance (préférer l'angle MTC).",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.999, 1002",
+    "tags": [
+      "PBVE",
+      "équin",
+      "échographie"
+    ]
+  },
+  {
+    "id": "cheville-pied-pbve-calcaneo-cuboidien",
+    "nom": "Angle calcanéométatarsal (CM) et décalage calcanéocuboïdien",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE : adduction du médio/avant-pied (colonne latérale)",
+    "technique": "Coupe axiale par voie latérale : angle CM entre la tangente à la face latérale du calcanéus et la diaphyse de M4 ; distance CC entre l'axe du calcanéus et le bord latéral du cuboïde ; angle CC calcanéus-cuboïde.",
+    "normes": "Témoins : CM −20 ± 10° ; distance CC 1,6 ± 1,1 mm ; angle CC < 12°",
+    "pathologique": "PBVE : CM −33 ± 11° ; distance CC 2,5 ± 1,3 mm ; angle CC 12–26°",
+    "pieges": "Coupe non indispensable au bilan initial.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.1001",
+    "tags": [
+      "PBVE",
+      "cuboïde",
+      "échographie"
+    ]
+  },
+  {
+    "id": "cheville-pied-score-dimeglio",
+    "nom": "Score de Dimeglio (sévérité clinique du PBVE)",
+    "region": "cheville-pied",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "PBVE : classification clinique de sévérité à la naissance",
+    "technique": "Cotation clinique /20 : équin, varus, adduction, supination cotés 0–4 chacun en position de réduction (seuils −20°, 0°, 45°, 90°) + 1 point chacun pour sillon postérieur, sillon plantaire, cavus, fibrose/atonie musculaire.",
+    "normes": "—",
+    "pathologique": "Groupe I (0–5) : bénin ; II (6–10) : modéré ; III (11–15) : sévère ; IV (16–20) : très sévère. Ténotomie d'Achille (Ponseti) si dorsiflexion < 15–20°",
+    "pieges": "Score clinique (pas d'imagerie) ; modalité 'Écho' indicative pour le contexte d'évaluation.",
+    "pediatrie": true,
+    "source": "Cotten ch.36 p.996",
+    "tags": [
+      "PBVE",
+      "Dimeglio",
+      "Ponseti",
+      "classification"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>La Boîte à Outils MSK — Mesures ostéo-articulaires</title>
+  <meta name="description" content="Toutes les mesures ostéo-articulaires (radio, TDM, IRM, écho, EOS) et prothèses, par articulation — d'après le Cotten.">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Boîte à Outils">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+  <div id="ptr" aria-hidden="true"><span>↻</span></div>
+  <header class="top">
+    <div class="brand">
+      <img src="assets/icon.svg" alt="" width="34" height="34">
+      <div>
+        <h1>La Boîte à Outils MSK</h1>
+        <p id="subtitle">Mesures ostéo-articulaires · d'après le Cotten</p>
+      </div>
+    </div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Rechercher : TA-GT, VCE, Cobb, Gruen, Méary…" autocomplete="off" enterkeyhint="search">
+    </div>
+    <nav class="tabs" id="tabs" role="tablist">
+      <button data-tab="tout" class="on">Tout</button>
+      <button data-tab="mesure">📏 Mesures</button>
+      <button data-tab="prothese">🦿 Prothèses</button>
+      <button data-tab="eos">🧍 EOS</button>
+      <button data-tab="fav">★ Favoris</button>
+    </nav>
+    <div class="chips" id="regions"></div>
+    <div class="chips small" id="mods"></div>
+  </header>
+
+  <main id="list"></main>
+  <p class="foot">Source principale : <em>Cotten — Imagerie musculosquelettique</em>. Les fiches marquées <span class="src ext">complément</span> ou <span class="src ext">hors Cotten</span> contiennent des valeurs de la littérature à vérifier. Outil d'aide, ne remplace pas le jugement clinique.</p>
+  <div id="toast" role="status"></div>
+
+  <script src="data/embedded_data.js?v=1"></script>
+  <script src="app.js?v=1"></script>
+</body>
+</html>

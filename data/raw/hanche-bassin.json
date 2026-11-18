@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "hanche-classification-ficat-arlet",
+    "nom": "Classification de Ficat et Arlet (ONTF)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Ostéonécrose systémique de la tête fémorale (ONTF) — stadification radiographique",
+    "technique": "Bassin de face + profil de hanche (Ducroquet/urétral) ; profil indispensable (impaction antérosupérieure parfois visible seulement de profil ou avec rayon ascendant de 20–30°).",
+    "normes": "Stade 0 : hanche asymptomatique, radiographies normales (ONTF controlatérale) ; stade I : hanche symptomatique, radiographies normales.",
+    "pathologique": "Stade II : anomalies de transparence (raréfaction, bande ostéocondensée arciforme cerclant la nécrose) SANS perte de sphéricité ; stade III : dissection sous-chondrale (« coquille d'œuf ») ± décroché/enfoncement de la tête ; stade IV : stade III + coxarthrose secondaire.",
+    "pieges": "Premiers signes radiographiques au minimum 3 mois après le facteur initiateur ; un stade II de face peut être un stade III de profil.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.454-455",
+    "tags": [
+      "ONTF",
+      "nécrose",
+      "Ficat",
+      "classification"
+    ]
+  },
+  {
+    "id": "hanche-classification-arco",
+    "nom": "Classification ARCO (ONTF)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "ONTF — stadification multimodale et quantification",
+    "technique": "Combine radiographies, TDM, scintigraphie et IRM. Quantification de l'étendue (IRM, pourcentage de surface de la tête atteinte), de la longueur de la dissection rapportée à la surface articulaire totale, et de la profondeur/pourcentage de l'effondrement (radio).",
+    "normes": "Stade 0 : tous examens négatifs. Stade 1 : IRM/scintigraphie positives, radio/TDM normales. Stade 2 : anomalies radio/TDM sans dissection.",
+    "pathologique": "Étendue (stades 1–2) : A < 15 % (minime), B 15–30 % (modérée), C > 30 % (importante). Stade 3 précoce : dissection sans collapsus (A < 15 %, B 15–30 %, C > 30 %). Stade 3 tardif : effondrement — profondeur < 2 mm / 2–4 mm / > 4 mm et pourcentage < 15 % / 15–30 % / > 30 %. Stade 4 : coxarthrose secondaire.",
+    "pieges": "Un stade 2 avec œdème médullaire est considéré comme un stade 3 par certains auteurs (risque évolutif accru).",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.459-461",
+    "tags": [
+      "ONTF",
+      "ARCO",
+      "nécrose"
+    ]
+  },
+  {
+    "id": "hanche-angle-combine-kerboul",
+    "nom": "Angle nécrotique combiné de Kerboul",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "ONTF — quantification pronostique de l'étendue (risque d'effondrement)",
+    "technique": "Radio (Kerboul 1974) : somme des arcs de surface articulaire nécrotique mesurés depuis le centre de la tête sur le cliché de face + profil. Adaptation IRM (Ha 2006) : coupes frontale et sagittale passant par le plus grand diamètre de la tête (25–35 mm), somme des deux arcs nécrotiques.",
+    "normes": "Radio (article princeps) : étendue faible si < 160°.",
+    "pathologique": "Radio : étendue importante si > 200°. IRM (Ha) : grade 1 < 200°, 2 = 200–249°, 3 = 250–299°, 4 ≥ 300° ; risque d'effondrement faible si ≤ 190°, élevé si ≥ 240°. Forage plus efficace si angle combiné < 200° (ou nécrose < 15 % de la tête).",
+    "pieges": "Coupe ne passant pas par le centre de la tête → sous-estimation.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.455, 457, 462",
+    "tags": [
+      "ONTF",
+      "Kerboul",
+      "angle nécrotique"
+    ]
+  },
+  {
+    "id": "hanche-index-koo-kim",
+    "nom": "Index de nécrose de Koo et Kim",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "ONTF — risque de collapsus",
+    "technique": "Angle maximal de l'arc nécrotique sur la coupe frontale (A) et sagittale (B) passant par le centre de la tête fémorale. Index = (A/180 × B/180) × 100. Variante modifiée : mêmes calculs sur les coupes où l'angle de nécrose est maximal.",
+    "normes": "< 30 % : risque de collapsus négligeable.",
+    "pathologique": "30–40 % : risque de collapsus ≈ 50 % ; > 40 % : ≈ 100 %.",
+    "pieges": "Les coupes centrales peuvent sous-estimer : utiliser l'index modifié.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.457-458",
+    "tags": [
+      "ONTF",
+      "index de nécrose"
+    ]
+  },
+  {
+    "id": "hanche-index-lafforgue",
+    "nom": "Index de nécrose de Lafforgue",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "ONTF — risque d'impaction",
+    "technique": "Coupe frontale passant par le centre de la tête : index = β/γ × 100, β = angle de nécrose intéressant la surface portante (depuis le centre de la tête), γ = angle de l'ensemble de la surface portante (délimitée par le toit de l'acétabulum).",
+    "normes": "≤ 45 % : risque d'impaction plus faible.",
+    "pathologique": "> 45 % : impaction fréquente de la nécrose.",
+    "pieges": "Ne tient pas compte des coupes sagittales (topographie antérosupérieure préférentielle).",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.458-459",
+    "tags": [
+      "ONTF",
+      "index de nécrose"
+    ]
+  },
+  {
+    "id": "hanche-profondeur-effondrement-ontf",
+    "nom": "Profondeur de l'effondrement céphalique (ONTF)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "ONTF au stade de collapsus — choix thérapeutique",
+    "technique": "Mesure de la dépression maximale de la surface articulaire par rapport au contour sphérique théorique de la tête (face et profil, ou TDM).",
+    "normes": "Pas d'effondrement (sphéricité conservée).",
+    "pathologique": "ARCO 3 tardif : < 2 mm / 2–4 mm / > 4 mm. Dépression < 2 mm : greffe osseuse envisageable ; dépression > 2–4 mm + signes de coxarthrose : arthroplastie (IRM si étendue incertaine ou ONTF controlatérale suspectée).",
+    "pieges": "Perte de sphéricité parfois visible seulement de profil ou avec rayon ascendant 20–30°.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.455, 461, 463",
+    "tags": [
+      "ONTF",
+      "collapsus"
+    ]
+  },
+  {
+    "id": "hanche-bande-fracture-sous-chondrale",
+    "nom": "Bande sous-chondrale hypo-intense (fracture sous-chondrale / nécrose mécanique)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Fracture sous-chondrale par insuffisance osseuse / nécrose mécanique de la tête fémorale",
+    "technique": "Coupes frontales et sagittales T1/T2 : mesure de l'épaisseur de la bande sous-chondrale hypo-intense (quelle que soit la pondération) bordée d'œdème, et de sa longueur.",
+    "normes": "Bande fine, < 4 mm.",
+    "pathologique": "Épaisseur > 4 mm en faveur d'une nécrose mécanique (Sp 92 %) ; risque d'effondrement d'autant plus important que la bande est épaisse (4 mm) et étendue (> 12,5 mm de longueur).",
+    "pieges": "Diagnostic différentiel principal : ONTF (liseré de démarcation), CDR.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.468",
+    "tags": [
+      "fracture sous-chondrale",
+      "nécrose mécanique",
+      "SIF"
+    ]
+  },
+  {
+    "id": "hanche-fracture-contrainte-col-extension",
+    "nom": "Extension en largeur d'une fracture de contrainte du col fémoral",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Radio"
+    ],
+    "contexte": "Fracture de fatigue/insuffisance du col fémoral — indication chirurgicale",
+    "technique": "Coupe frontale IRM (T1/T2 FS) : rapporter la longueur du trait à la largeur du col ; préciser le versant (supérolatéral = tension ; inféromédial = compression).",
+    "normes": "Fracture inféromédiale (compression) peu étendue : traitement conservateur possible (décharge ≥ 6 semaines).",
+    "pathologique": "Trait > 50 % de la largeur du col ou fracture supérolatérale (tension) : potentiellement instable → stabilisation chirurgicale.",
+    "pieges": "Radiographies peu sensibles (15–35 %), 30–70 % au contrôle.",
+    "pediatrie": false,
+    "source": "Cotten ch.18 p.465-466",
+    "tags": [
+      "fracture de contrainte",
+      "col fémoral"
+    ]
+  },
+  {
+    "id": "hanche-herring-pilier-lateral",
+    "nom": "Classification de Herring (pilier latéral) — Legg-Perthes-Calvé",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Legg-Perthes-Calvé, stade de fragmentation",
+    "technique": "Bassin de face : division de l'épiphyse en 3 piliers (latéral 15–30 %, central ≈ 50 %, médial 20–35 % de la largeur). Comparer la hauteur du pilier latéral à celle du côté sain.",
+    "normes": "Groupe A : pas de perte de hauteur du pilier latéral.",
+    "pathologique": "Groupe B : perte < 50 % ; groupe B/C : perte ≈ 50 % (cas équivoques) ; groupe C : perte > 50 % de hauteur du pilier latéral.",
+    "pieges": "Applicable seulement au stade de fragmentation ; difficile chez le très jeune enfant et en cas d'atteinte bilatérale.",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.476-477",
+    "tags": [
+      "Legg-Perthes",
+      "Herring",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-catterall-legg-perthes",
+    "nom": "Classification de Catterall et « tête à risque »",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Legg-Perthes-Calvé — étendue de la nécrose et pronostic",
+    "technique": "Bassin de face + profil : étendue de l'atteinte du noyau épiphysaire ; recherche des signes de « tête à risque ».",
+    "normes": "Groupe 1 : défect antérosupérieur sans séquestre ni déformation.",
+    "pathologique": "Groupe 2 : moitié antérieure, séquestres, sans perte de hauteur ; groupe 3 : quasi-totalité du noyau, large séquestre central, effondrement ; groupe 4 : totalité du noyau. Tête à risque : signe de Gage (V latéral), calcifications latérales, subluxation latérale du noyau > 4 mm, horizontalisation de la physe.",
+    "pieges": "Reproductibilité médiocre (meilleure en regroupant 1–2 et 3–4).",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.477, 480-481",
+    "tags": [
+      "Legg-Perthes",
+      "Catterall",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-salter-thompson",
+    "nom": "Classification de Salter-Thompson",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Legg-Perthes-Calvé — fracture sous-chondrale",
+    "technique": "Profil de hanche : étendue de la fracture sous-chondrale rapportée à la tête fémorale.",
+    "normes": "",
+    "pathologique": "A : < 50 % de la tête fémorale ; B : > 50 %.",
+    "pieges": "Fracture visible de façon transitoire (30 % des cas).",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.477",
+    "tags": [
+      "Legg-Perthes",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-distance-articulo-trochanterienne",
+    "nom": "Distance articulotrochantérienne",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Séquelles de Legg-Perthes-Calvé — surcroissance du grand trochanter",
+    "technique": "Bassin de face : distance entre deux perpendiculaires au grand axe du fémur, l'une tangente au sommet du grand trochanter, l'autre tangente à la surface articulaire proximale de l'épiphyse fémorale.",
+    "normes": "≥ 5 mm.",
+    "pathologique": "< 5 mm : grand trochanter « exubérant » (surcroissance).",
+    "pieges": "Rotation du membre.",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.476",
+    "tags": [
+      "Legg-Perthes",
+      "grand trochanter",
+      "séquelles"
+    ]
+  },
+  {
+    "id": "hanche-rapport-salles-de-gauzy",
+    "nom": "Rapport de Salles de Gauzy (couverture tête os + cartilage)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Legg-Perthes-Calvé — excentration latérale de la tête",
+    "technique": "Coupe frontale IRM : largeur de la tête fémorale (os + cartilage) couverte par l'acétabulum et le labrum / largeur totale de la tête × 100.",
+    "normes": "> 77 %.",
+    "pathologique": "≤ 77 % : excentration (subluxation latérale).",
+    "pieges": "Différencier un vrai élargissement de l'interligne inféromédial d'un pseudo-élargissement par hypertrophie cartilagineuse.",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.479",
+    "tags": [
+      "Legg-Perthes",
+      "excentration",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-index-subluxation-arthrographique",
+    "nom": "Index de subluxation (arthrographie)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-TDM",
+      "Radio"
+    ],
+    "contexte": "Legg-Perthes-Calvé — bilan préopératoire de recentrage (hinge abduction)",
+    "technique": "Arthrographie sous AG, position neutre puis abduction maximale : espace articulaire médial / plus grand diamètre acétabulaire × 100.",
+    "normes": "Moyenne ≈ 8,5 %.",
+    "pathologique": "Augmentation de la position neutre à l'abduction maximale et/ou contact fémoro-acétabulaire en abduction = hanche bilobée avec effet came en abduction (hinge abduction), situation la plus défavorable.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.480",
+    "tags": [
+      "Legg-Perthes",
+      "hinge abduction",
+      "arthrographie"
+    ]
+  },
+  {
+    "id": "hanche-ligne-de-klein",
+    "nom": "Ligne de Klein",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Épiphysiolyse fémorale supérieure",
+    "technique": "Bassin de face : tangente au bord supérieur du col fémoral ; elle doit couper un fragment de l'épiphyse. Comparer la largeur du segment épiphysaire coupé au côté opposé.",
+    "normes": "Coupe un segment d'épiphyse, symétrique (différence ≤ 2 mm).",
+    "pathologique": "Ne coupe plus l'épiphyse = glissement médial ; différence > 2 mm avec le côté opposé = glissement suspect.",
+    "pieges": "Signe tardif (glissement d'abord postérieur → profil indispensable) ; faussement normal en cas de glissement latéral.",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.486",
+    "tags": [
+      "épiphysiolyse",
+      "Klein",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-angle-southwick",
+    "nom": "Angle de Southwick",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Épiphysiolyse fémorale supérieure — importance de la bascule",
+    "technique": "Profil (Lauenstein/grenouille) bilatéral : angle entre l'axe du col fémoral et la perpendiculaire à la tangente aux extrémités antérieure et postérieure de l'épiphyse ; on retient la différence entre côté atteint et côté sain. TDM : plan axial oblique dans l'axe du col.",
+    "normes": "12° considéré comme la norme en cas d'atteinte bilatérale.",
+    "pathologique": "Stade 1 : bascule < 30° ; stade 2 : 30–50° ; stade 3 : > 50°.",
+    "pieges": "Rotation du membre ; atteinte bilatérale (utiliser 12° comme référence).",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.485-488",
+    "tags": [
+      "épiphysiolyse",
+      "Southwick",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-angle-inclinaison-posterieure",
+    "nom": "Angle d'inclinaison postérieure (posterior sloping angle)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Épiphysiolyse — risque d'atteinte controlatérale (hanche saine)",
+    "technique": "Incidence de Lauenstein : angle entre la perpendiculaire à l'axe du col fémoral et la tangente aux extrémités antérieure et postérieure de l'épiphyse (mesuré sur la hanche saine).",
+    "normes": "≤ 12–15°.",
+    "pathologique": "> 12–15° : risque accru d'atteinte bilatérale (discussion d'épiphysiodèse prophylactique).",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.488-489",
+    "tags": [
+      "épiphysiolyse",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-glissement-epiphysiolyse-pourcentage",
+    "nom": "Importance du glissement épiphysaire (%)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Épiphysiolyse fémorale supérieure",
+    "technique": "Profil : portion épiphysaire déplacée rapportée à la largeur métaphysaire.",
+    "normes": "",
+    "pathologique": "Glissement modéré 0–33 % ; moyen 33–50 % ; sévère > 50 %.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.488",
+    "tags": [
+      "épiphysiolyse",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-decroche-echographique-epiphysiolyse",
+    "nom": "Décroché échographique physaire (épiphysiolyse)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Épiphysiolyse fémorale récente",
+    "technique": "Voie antérieure, coupe oblique dans l'axe du col : mesure du retrait du bord antérieur de l'épiphyse par rapport à la métaphyse ; rechercher un épanchement associé (instabilité).",
+    "normes": "Pas de décroché.",
+    "pathologique": "Gravité modérée < 7 mm ; moyenne 7–11 mm ; sévère > 11 mm.",
+    "pieges": "En chronique, l'épanchement disparaît et l'on voit un remodelage métaphysaire.",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.487",
+    "tags": [
+      "épiphysiolyse",
+      "échographie",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-interligne-chondrolyse-enfant",
+    "nom": "Interligne coxofémoral — coxite laminaire (chondrolyse)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Chondrolyse compliquant une épiphysiolyse",
+    "technique": "Bassin de face : mesure de l'interligne coxofémoral (pincement global ou en zone de contrainte), comparaison au côté sain.",
+    "normes": "",
+    "pathologique": "Interligne ≤ 3 mm (en l'absence de cliché antérieur) doit faire évoquer une coxite laminaire ; destruction de > 50 % de l'épaisseur cartilagineuse.",
+    "pieges": "Raréfaction juxta-articulaire précède le pincement ; vérifier l'absence de saillie intra-articulaire du matériel (TDM).",
+    "pediatrie": true,
+    "source": "Cotten ch.18 p.489",
+    "tags": [
+      "épiphysiolyse",
+      "chondrolyse",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-distance-fond-cotyle-echo",
+    "nom": "Distance de fond de cotyle (FC) — échographie",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Dépistage de la luxation congénitale de hanche (LCH), méthode de Couture-Tréguier",
+    "technique": "4–6 semaines (âge corrigé), barrette ≥ 7 MHz, décubitus dorsal, hanche fléchie en adduction (position luxante) ; sonde latérale frontale orientée en bas et en arrière d'environ 20°. Critères : noyau pubien, bord latéral de l'aile iliaque, tête dans son plus grand diamètre, toit et limbus entiers. Mesure : bord médial de l'épiphyse fémorale → face latérale du noyau pubien.",
+    "normes": "< 6 mm et symétrique (Δ < 1,5 mm).",
+    "pathologique": "≥ 6 mm et/ou Δ > 1,5 mm = décentrage. LCH : FC > 6 mm (≈ 8,6 ± 1,7 mm), Δ > 1,6 mm, expansion du pulvinar, CO < 50 %. FC limite (5,9 ; 6,2 mm) : contrôle à 6 semaines. Cartilage pubien épais (4–5 mm) : FC 6–8 mm sans expansion du pulvinar = variante normale. BAC : FC asymétrique (Δ > 1,5 mm, ≈ 1,8 mm) avec couverture > 50 %.",
+    "pieges": "Prime sur la couverture osseuse et les critères morphologiques ; non influencée par le plan de coupe. VPP 68,5 % pour un seuil à 6,5 mm.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.496-499",
+    "tags": [
+      "LCH",
+      "dysplasie",
+      "Couture-Tréguier",
+      "FC"
+    ]
+  },
+  {
+    "id": "hanche-couverture-osseuse-echo",
+    "nom": "Pourcentage de couverture osseuse de la tête (CO) — échographie",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Dépistage LCH / dysplasie acétabulaire",
+    "technique": "Coupe frontale latérale passant par le plus grand diamètre de la tête : tangente à la ligne de base (bord latéral de l'aile iliaque) et cercle projeté sur la tête (diamètre D) ; d = partie du diamètre couverte par l'acétabulum. CO = d/D × 100.",
+    "normes": "> 50 % à 1 mois ; ≈ 75 % vers 2–3 mois.",
+    "pathologique": "30–50 % : douteux ; < 30 % : pathologique (LCH souvent ≤ 20 % ; dysplasie acétabulaire primitive ≈ 30 % avec FC normale).",
+    "pieges": "Forte variabilité inter/intra-observateur (dépend du plan de coupe) : ne jamais interpréter isolément ; la FC prévaut.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.497",
+    "tags": [
+      "LCH",
+      "couverture",
+      "échographie"
+    ]
+  },
+  {
+    "id": "hanche-angle-acetabulaire-enfant",
+    "nom": "Angle (indice) acétabulaire",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "LCH / dysplasie acétabulaire du nourrisson (à partir de 4 mois)",
+    "technique": "Bassin de face strict (sans rotation ni bascule) : angle entre la ligne des cartilages en Y (Hilgenreiner) et la ligne joignant les extrémités médiale et latérale du toit osseux de l'acétabulum.",
+    "normes": "≈ 35° à la naissance, diminue d'environ 2°/mois jusqu'à 6 mois.",
+    "pathologique": "Angle > 35° (ou ne diminuant pas) : dysplasie acétabulaire (cf. LCH).",
+    "pieges": "Mesure imprécise (talus non angulaire), influencée par la qualité du cliché ; la morphologie du toit a plus de valeur que l'angle.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.499-500",
+    "tags": [
+      "LCH",
+      "indice acétabulaire",
+      "Hilgenreiner"
+    ]
+  },
+  {
+    "id": "hanche-angle-acetabulaire-cartilagineux-irm",
+    "nom": "Angle acétabulaire cartilagineux (IRM)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "LCH — bilan préopératoire / couverture réelle os + cartilage",
+    "technique": "IRM frontale : angle entre la ligne des Y et la tangente au toit cartilagineux (limite latérale du cartilage/labrum).",
+    "normes": "6,8° (± 3,3°), diminue avec la croissance ; bien inférieur à l'angle acétabulaire osseux.",
+    "pathologique": "Augmenté en cas de dysplasie cartilagineuse.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.501",
+    "tags": [
+      "LCH",
+      "IRM",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-ligne-de-shenton",
+    "nom": "Ligne (cintre) de Shenton — cervico-obturateur",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Centrage de la tête : LCH, subluxation congénitale, dysplasie",
+    "technique": "Bassin de face : arc tracé le long du bord inférieur de la branche ilio-pubienne (rameau pubien) se continuant sur le versant inféromédial du col fémoral.",
+    "normes": "Continue, convexe vers le haut.",
+    "pathologique": "Rupture = ascension/excentration de la tête (LCH, subluxation congénitale). Absente au début dans la dysplasie subluxante de l'adulte.",
+    "pieges": "Rotation/abduction du membre peut rompre artificiellement l'arc.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.499-500, 507-508",
+    "tags": [
+      "LCH",
+      "Shenton",
+      "subluxation"
+    ]
+  },
+  {
+    "id": "hanche-ligne-de-putti",
+    "nom": "Ligne de Putti",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "LCH — centrage de la tête avant ossification du noyau",
+    "technique": "Bassin de face : tangente au bec métaphysaire fémoral, perpendiculaire à la ligne des cartilages en Y.",
+    "normes": "Passe par le milieu du toit de l'acétabulum.",
+    "pathologique": "Latéralisée par rapport au milieu du toit = excentration latérale.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.499",
+    "tags": [
+      "LCH",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-distance-ischion-metaphyse",
+    "nom": "Distance ischion – métaphyse fémorale proximale",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "LCH — latéralisation de la tête (noyaux non ossifiés)",
+    "technique": "Bassin de face : distance entre le bord le plus latéral de l'ischion et la partie la plus médiale de la métaphyse fémorale proximale.",
+    "normes": "< 4 mm.",
+    "pathologique": "≥ 4 mm ou asymétrie : latéralisation (LCH).",
+    "pieges": "Cliché parfaitement de face.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.499-500",
+    "tags": [
+      "LCH",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "hanche-construction-ombredanne-hilgenreiner",
+    "nom": "Construction d'Ombredanne / repères d'Hilgenreiner (et Perkins)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "LCH — position du noyau épiphysaire fémoral (≥ 4 mois)",
+    "technique": "Bassin de face : ligne horizontale des cartilages en Y (Hilgenreiner) + verticale abaissée depuis le talus (bord latéral du toit) = verticale d'Ombredanne (équivalent de la ligne de Perkins) → 4 quadrants.",
+    "normes": "Noyau épiphysaire sous la ligne des Y et en dedans de la verticale (quadrant inféromédial).",
+    "pathologique": "Noyau ascensionné et latéralisé hors du quadrant inféromédial = luxation (± hypoplasie/retard d'ossification du noyau, néoacétabulum).",
+    "pieges": "Asymétrie d'ossification physiologique possible.",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.499-500",
+    "tags": [
+      "LCH",
+      "Hilgenreiner",
+      "Perkins",
+      "Ombredanne"
+    ]
+  },
+  {
+    "id": "hanche-angle-abduction-platre",
+    "nom": "Angle d'abduction du plâtre (pelvi-pédieux) — contrôle IRM",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "LCH réduite sous plâtre",
+    "technique": "IRM postopératoire : angle entre l'axe du fémur et l'axe sagittal médian du sujet ; vérifier le centrage de la tête et les interpositions.",
+    "normes": "55–60°.",
+    "pathologique": "Abduction excessive : risque d'ostéochondrite (nécrose) de la tête fémorale ; perfusion (asymétrie de rehaussement) pour la dépister.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.19 p.501",
+    "tags": [
+      "LCH",
+      "plâtre",
+      "IRM"
+    ]
+  },
+  {
+    "id": "hanche-interligne-coxofemoral-face",
+    "nom": "Interligne coxofémoral supérieur (bassin de face)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Coxarthrose — pincement",
+    "technique": "Bassin de face (couché ou debout), membres en rotation médiale (trochanters dégagés) ; mesure de l'interligne supérieur en latéral et en médial, comparaison controlatérale.",
+    "normes": "≈ 4–5 mm ; plus large en latéral qu'en médial chez 85 % des sujets ; un peu plus large chez l'homme et en cas de dysplasie, plus mince en cas de coxa profunda.",
+    "pathologique": "Interligne iso-épais (latéral = médial) = pincement latéral débutant ; pincement supérolatéral (le plus fréquent), supérieur ou supéromédial (protrusion).",
+    "pieges": "Position : élargissement en adduction/flexion 30°, pincement en abduction ; interligne en « accent circonflexe » = variante.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.502, 504",
+    "tags": [
+      "coxarthrose",
+      "interligne",
+      "pincement"
+    ]
+  },
+  {
+    "id": "hanche-interligne-faux-profil",
+    "nom": "Interligne sur le faux profil de Lequesne",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Coxarthrose antérosupérieure débutante",
+    "technique": "Faux profil de Lequesne debout, bilatéral et comparatif : analyse de l'interligne postérieur, supérieur et antérosupérieur.",
+    "normes": "S'élargit progressivement de l'arrière vers l'avant (de 3 à 5 mm).",
+    "pathologique": "Interligne iso-épais = chondrolyse antérosupérieure débutante (sauf protrusion non arthrosique) ; détecte un pincement dans 3/4 des cas douteux ou absents de face ; pincement postéro-inférieur (protrusion, effet tenaille).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.503-505",
+    "tags": [
+      "coxarthrose",
+      "Lequesne",
+      "faux profil"
+    ]
+  },
+  {
+    "id": "hanche-vitesse-pincement-cdr",
+    "nom": "Vitesse de pincement / chondrométrie (coxarthrose destructrice rapide)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Suivi de coxarthrose — coxarthrose destructrice rapide (CDR)",
+    "technique": "Chondrométrie (loupe graduée au 1/10 mm, désormais informatique) de l'interligne à sa partie la plus pincée sur clichés successifs comparables.",
+    "normes": "Coxarthrose commune : ≈ 0,25 mm/an.",
+    "pathologique": "CDR : pincement ≥ 2 mm/an (ou ≥ 50 %/an) → chondrolyse complète en < 2 ans ; forme semi-rapide 1–2 mm/an ; ascension de la tête de 5 à 15 mm/an possible.",
+    "pieges": "Clichés de positionnement identique.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.505, 516",
+    "tags": [
+      "coxarthrose",
+      "CDR",
+      "chondrométrie"
+    ]
+  },
+  {
+    "id": "hanche-epaisseur-cartilage-arthroscanner",
+    "nom": "Épaisseur du cartilage coxofémoral (arthroscanner)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-TDM"
+    ],
+    "contexte": "Chondrolyse débutante",
+    "technique": "Reformations frontales et sagittales d'arthroscanner.",
+    "normes": "Acétabulum : 3 mm en latéral, 1 mm en médial ; tête fémorale : 0,7 mm (latéral) vs 3 mm (médial, maximum périfovéal) ; tête plus épaisse en avant et en haut ; pas de gradient antéropostérieur acétabulaire.",
+    "pathologique": "Amincissement en plage ou ulcérations focales.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.506",
+    "tags": [
+      "cartilage",
+      "arthroscanner"
+    ]
+  },
+  {
+    "id": "hanche-angle-vce-wiberg",
+    "nom": "Angle VCE (Wiberg) — couverture latérale",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Dysplasie de hanche / protrusion / conflit pince",
+    "technique": "Bassin de face (pas hanche de face) : angle entre la verticale passant par le centre C de la tête fémorale et la droite CE, E = extrémité latérale de la lame osseuse sous-chondrale du toit (sourcil).",
+    "normes": "22–34°.",
+    "pathologique": "< 22° : insuffisance de couverture latérale (dysplasie) ; > 34° : excessive ; > 40° : couverture excessive (protrusion, effet tenaille).",
+    "pieges": "E sur le sourcil sous-chondral, pas sur un ostéophyte latéral. Diminution de 1° de couverture ≈ +10,5 % de risque de coxarthrose.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.503, 507-509",
+    "tags": [
+      "coxométrie",
+      "VCE",
+      "Wiberg",
+      "dysplasie"
+    ]
+  },
+  {
+    "id": "hanche-angle-hte",
+    "nom": "Angle HTE (obliquité du toit, Tönnis)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dysplasie de hanche / protrusion",
+    "technique": "Bassin de face : angle entre l'horizontale H passant par T (extrémité médiale de la ligne dense sous-chondrale du toit, à la jonction avec la fosse acétabulaire) et la droite TE.",
+    "normes": "≤ 14°.",
+    "pathologique": "> 14° : toit trop oblique (dysplasie). Souvent négatif (0 à −10°) en cas de protrusion acétabulaire.",
+    "pieges": "Ostéophytose du fond acétabulaire abaissant artificiellement le point T.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.503, 505, 509",
+    "tags": [
+      "coxométrie",
+      "HTE",
+      "Tönnis",
+      "dysplasie"
+    ]
+  },
+  {
+    "id": "hanche-angle-cervico-diaphysaire",
+    "nom": "Angle cervicodiaphysaire CC'D",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Coxa valga / coxa vara",
+    "technique": "Bassin de face, membres inférieurs en rotation médiale d'environ 15° : angle entre l'axe du col (CC') et l'axe de la diaphyse (C'D).",
+    "normes": "120–142°.",
+    "pathologique": "> 142° : coxa valga (souvent associée à la dysplasie) ; < 120° : coxa vara.",
+    "pieges": "Mesure non valable si les cols ne sont pas dans le plan frontal (rotation latérale = valgus artificiel).",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.503, 508, 514",
+    "tags": [
+      "coxométrie",
+      "coxa valga",
+      "coxa vara"
+    ]
+  },
+  {
+    "id": "hanche-profondeur-acetabulum",
+    "nom": "Profondeur de l'acétabulum",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dysplasie de hanche",
+    "technique": "Bassin de face : flèche maximale entre le fond de l'acétabulum et la ligne EP (E = sourcil latéral, P = angle supérieur du pubis).",
+    "normes": "≥ 9 mm.",
+    "pathologique": "< 9 mm : acétabulum insuffisamment profond (dysplasie).",
+    "pieges": "Rarement utilisée hors études.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.504",
+    "tags": [
+      "coxométrie",
+      "dysplasie"
+    ]
+  },
+  {
+    "id": "hanche-caput-varum",
+    "nom": "Caput varum (centre de la tête / axe du col)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Séquelles d'épiphysiolyse, conflit came",
+    "technique": "Bassin de face : position du centre C de la tête par rapport à l'axe du col CC'.",
+    "normes": "C sur l'axe du col ou à moins de 2 mm.",
+    "pathologique": "C ≥ 2 mm sous l'axe du col = caput varum (glissement postéro-inférieur séquellaire, source d'effet came).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.504, 515",
+    "tags": [
+      "coxométrie",
+      "épiphysiolyse",
+      "came"
+    ]
+  },
+  {
+    "id": "hanche-angle-vca-lequesne",
+    "nom": "Angle VCA (Lequesne) — couverture antérieure",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dysplasie de hanche",
+    "technique": "Faux profil de Lequesne : angle entre la verticale passant par le centre C de la tête et la droite CA, A = extrémité antérieure de la lame osseuse sous-chondrale du toit.",
+    "normes": "≥ 20°.",
+    "pathologique": "< 20° : insuffisance de couverture antérieure (dysplasie).",
+    "pieges": "Rotation du bassin sur le faux profil (65° classiquement).",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.504, 508 + complément",
+    "tags": [
+      "coxométrie",
+      "VCA",
+      "Lequesne",
+      "dysplasie"
+    ]
+  },
+  {
+    "id": "hanche-angle-delta-fovea-alta",
+    "nom": "Angle delta (fovea alta)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dysplasie de hanche",
+    "technique": "Bassin de face : angle au centre de la tête fémorale entre la droite passant par le bord supérieur de la fovea et celle passant par T (bord médial de la lame sous-chondrale du toit).",
+    "normes": "> 10°.",
+    "pathologique": "< 10° (parfois négatif) : fovea alta, en faveur d'une dysplasie (indépendante d'une coxa valga).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.508",
+    "tags": [
+      "dysplasie",
+      "fovea"
+    ]
+  },
+  {
+    "id": "hanche-protrusion-acetabulaire",
+    "nom": "Protrusion acétabulaire / coxa profunda (ligne ilio-ischiatique)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Protrusion acétabulaire — conflit par effet tenaille global",
+    "technique": "Bassin de face : position de la fosse acétabulaire (et non de la tête) par rapport à la ligne ilio-ischiatique (de Köhler).",
+    "normes": "Fosse acétabulaire en regard ou légèrement en dehors de la ligne II (≈ 2 mm chez l'homme, 1 mm chez la femme).",
+    "pathologique": "Protrusion : fosse en dedans de la ligne II de > 3 mm (homme) ou > 6 mm (femme) ; débord moindre = coxa profunda (fréquente chez la femme, pathogénicité incertaine). Associée à VCE > 40°, HTE < 0°, coxarthrose postéro-inféromédiale.",
+    "pieges": "Utiliser la fosse et non la tête (pincement supéromédial fréquent) ; rotation du bassin.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.504, 509",
+    "tags": [
+      "protrusion",
+      "coxa profunda",
+      "tenaille"
+    ]
+  },
+  {
+    "id": "hanche-signe-du-croisement",
+    "nom": "Signe du croisement (cross-over) — rétroversion acétabulaire",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Conflit fémoro-acétabulaire par effet tenaille (pince)",
+    "technique": "Bassin de face strict (coccyx centré sur la symphyse) : suivre les murs antérieur et postérieur de l'acétabulum ; rechercher leur croisement (« 8 ») et mesurer la hauteur de mur concernée.",
+    "normes": "Mur postérieur latéral au mur antérieur sur toute la hauteur (antéversion 15–20° à l'équateur, 0–5° au toit).",
+    "pathologique": "Croisement = rétroversion acétabulaire (crâniale) ; extension en hauteur > 20 % plus prédictive (index de rétroversion).",
+    "pieges": "Fréquent en population générale ; faux positif si bassin en antéversion/bascule ou cliché en rotation.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.510-511",
+    "tags": [
+      "CFA",
+      "tenaille",
+      "rétroversion",
+      "cross-over"
+    ]
+  },
+  {
+    "id": "hanche-version-acetabulaire-tdm",
+    "nom": "Antéversion acétabulaire (TDM/IRM)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Conflit par effet tenaille, dysplasie, bilan préopératoire",
+    "technique": "Coupes axiales : angle entre la sagittale (perpendiculaire à la ligne bi-ischiatique/bi-acétabulaire) et la ligne joignant les rebords antérieur et postérieur de l'acétabulum, mesuré à l'équateur et à la partie crâniale (toit).",
+    "normes": "15–20° à l'équateur ; diminue vers le toit (0–5°).",
+    "pathologique": "Valeur négative à la partie crâniale = rétroversion acétabulaire (effet tenaille).",
+    "pieges": "Bascule pelvienne en décubitus.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.510-512 + complément",
+    "tags": [
+      "version acétabulaire",
+      "rétroversion",
+      "CFA"
+    ]
+  },
+  {
+    "id": "hanche-signe-paroi-posterieure",
+    "nom": "Signe de la paroi postérieure",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Conflit par effet tenaille / insuffisance du mur postérieur",
+    "technique": "Bassin de face : position du mur postérieur de l'acétabulum par rapport au centre C de la tête fémorale.",
+    "normes": "Mur postérieur passant par ou en dehors du centre de la tête.",
+    "pathologique": "Mur postérieur projeté en dedans du centre de la tête = mur postérieur insuffisamment couvrant.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.510-512",
+    "tags": [
+      "CFA",
+      "tenaille",
+      "rétroversion"
+    ]
+  },
+  {
+    "id": "hanche-signe-epine-ischiatique",
+    "nom": "Signe de l'épine ischiatique (sciatique)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Excès d'antéversion du bassin / rétroversion acétabulaire (CFA)",
+    "technique": "Bassin de face couché : position de l'épine ischiatique par rapport à la ligne iliopectinée (détroit supérieur).",
+    "normes": "Épine non visible en dedans de la ligne iliopectinée.",
+    "pathologique": "Épine projetée en dedans de la ligne iliopectinée = excès d'antéversion de l'hémibassin (+ diminution de hauteur des foramens obturés) ; à confirmer debout face/profil ou EOS (incidence et version pelviennes).",
+    "pieges": "Dépend de la bascule pelvienne en décubitus.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.510-511, 514",
+    "tags": [
+      "CFA",
+      "tenaille",
+      "bassin"
+    ]
+  },
+  {
+    "id": "hanche-angle-alpha-notzli",
+    "nom": "Angle α de Notzli",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM",
+      "Arthro-IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Conflit fémoro-acétabulaire par effet came",
+    "technique": "Profil de Dunn (flexion 90°, abduction 20°, rotation neutre, rayon vertical ; variante 45°) ou coupe axiale oblique dans l'axe du col (IRM/TDM, rayons radiaux à 1 h 30 vs 3 h) : sommet au centre de la tête ; angle entre l'axe du col et la droite passant par le point où le contour de la tête quitte le cercle céphalique (épaisseur > rayon normal).",
+    "normes": "< 50–55° (seuils variables).",
+    "pathologique": "> 50–55° : effet came ; seuil 60° en coupe : Se 76 %, Sp 74,5 %. +1° d'angle α ≈ +5–8 % de risque de coxarthrose.",
+    "pieges": "Coupe axiale pure (3 h) sous-estime le bump antérosupérieur : utiliser les coupes radiales 1 h 30.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.512-514",
+    "tags": [
+      "CFA",
+      "came",
+      "angle alpha",
+      "Dunn"
+    ]
+  },
+  {
+    "id": "hanche-offset-cervicocephalique",
+    "nom": "Offset cervicocéphalique antérieur (et ratio d'offset)",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Conflit fémoro-acétabulaire par effet came",
+    "technique": "Profil de Dunn (ou coupe axiale oblique) : différence entre le rayon antérieur maximal de la tête et celui de la partie la plus saillante du col (lignes parallèles à l'axe du col) ; ratio = offset / diamètre de la tête.",
+    "normes": "Débord antérieur de la tête ≥ 7 mm ; ratio ≥ 0,15.",
+    "pathologique": "Ratio < 0,15 ou débord < 7 mm : offset diminué (effet came).",
+    "pieges": "Le débord en mm ne tient pas compte de la taille du patient. Ostéochondroplastie limitée à ≤ 30 % du col.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.512-514, 517",
+    "tags": [
+      "CFA",
+      "came",
+      "offset"
+    ]
+  },
+  {
+    "id": "hanche-anteversion-femorale",
+    "nom": "Antéversion (torsion) fémorale",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM",
+      "EOS"
+    ],
+    "contexte": "Conflit fémoro-acétabulaire, dysplasie (bilan préopératoire)",
+    "technique": "Coupes axiales superposées : angle entre l'axe du col fémoral et la tangente aux bords postérieurs des condyles fémoraux.",
+    "normes": "12–13°.",
+    "pathologique": "Diminuée/négative = rétroversion fémorale (potentialise le conflit came/tenaille) ; augmentée = hyperantéversion (dysplasie).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.508, 514",
+    "tags": [
+      "antéversion",
+      "torsion fémorale",
+      "CFA"
+    ]
+  },
+  {
+    "id": "hanche-taille-labrum",
+    "nom": "Taille du labrum acétabulaire",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-IRM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Pathologie labrale",
+    "technique": "Coupes radiales/sagittales et frontales d'arthro-IRM ou arthroscanner.",
+    "normes": "6–12 mm, plus large dans ses tiers postérieur et supérieur ; triangulaire dans 60–69 % des cas (> 90 % chez le sujet jeune).",
+    "pathologique": "Aspect arrondi/aplati : remaniement dégénératif ; absence de labrum rare (3 %).",
+    "pieges": "Récessus sous-labral postéro-inférieur (22–25 %) et sillon labro-ligamentaire transverse (33 %) à ne pas prendre pour une désinsertion.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.518-520",
+    "tags": [
+      "labrum",
+      "arthro-IRM"
+    ]
+  },
+  {
+    "id": "hanche-espace-ischiofemoral",
+    "nom": "Espace ischiofémoral et espace du carré fémoral",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Conflit ischiofémoral",
+    "technique": "Coupe axiale IRM (en position neutre) : distance minimale entre le bord latéral de la tubérosité ischiatique et le bord médial du petit trochanter (espace ischiofémoral) ; épaisseur du muscle carré fémoral au plus étroit (espace du carré fémoral).",
+    "normes": "> 15 mm (espace ischiofémoral) ; > 10 mm (carré fémoral).",
+    "pathologique": "Espace ischiofémoral ≤ 15 mm ou carré fémoral ≤ 10 mm + œdème/involution graisseuse/déchirure du carré fémoral centrés sur sa portion la plus épaisse.",
+    "pieges": "Rétrécissement possible chez l'asymptomatique ou bilatéral (40 %) : positionnel (rotation médiale, adduction, extension).",
+    "pediatrie": false,
+    "source": "Cotten ch.20 p.582",
+    "tags": [
+      "conflit ischiofémoral",
+      "carré fémoral"
+    ]
+  },
+  {
+    "id": "hanche-enthesopathie-grand-trochanter",
+    "nom": "Enthésophyte du grand trochanter",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Tendinobursopathie trochantérienne (glutéale)",
+    "technique": "Bassin/hanche de face : mesure de l'enthésophyte des facettes trochantériennes.",
+    "normes": "",
+    "pathologique": "Enthésopathie > 2 mm fortement prédictive de tendinobursopathie trochantérienne.",
+    "pieges": "Radiographies surtout utiles pour éliminer un autre diagnostic (calcifications PCB).",
+    "pediatrie": false,
+    "source": "Cotten ch.20 p.564",
+    "tags": [
+      "tendons glutéaux",
+      "grand trochanter"
+    ]
+  },
+  {
+    "id": "hanche-cloison-droit-femoral",
+    "nom": "Cloison aponévrotique centrale du muscle droit fémoral",
+    "region": "hanche",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Désinsertion myoaponévrotique centrale du droit fémoral",
+    "technique": "Coupes axiales échographiques : cloison sagittale centrale (tendon indirect) dans les deux tiers proximaux du muscle.",
+    "normes": "Fine bande hyperéchogène curviligne, épaisseur moyenne 1,5 mm.",
+    "pathologique": "Désinsertion : décollement/hématome autour de la cloison ; atteinte > 50 % de la surface axiale ou lésion proximale = pronostic plus défavorable.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.20 p.545-546",
+    "tags": [
+      "droit fémoral",
+      "sport"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-deplacement-avulsion-apophysaire",
+    "nom": "Déplacement d'une avulsion apophysaire du bassin",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Écho",
+      "TDM"
+    ],
+    "contexte": "Avulsions apophysaires de l'adolescent (EIAS, EIAI, petit trochanter, tubérosité ischiatique)",
+    "technique": "Radiographie (± profil urétral / faux profil pour l'EIAI) ou TDM : distance entre le noyau apophysaire avulsé et son site d'insertion.",
+    "normes": "EIAI : déplacement habituel 2–10 mm en bas, en avant et en dehors.",
+    "pathologique": "Chirurgie si déplacement > 2 cm (EIAS/EIAI, petit trochanter) ; tubérosité ischiatique : > 20 mm (> 15 mm pour certains). Risque de pseudarthrose proportionnel au déplacement.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.20 p.543, 549, 552, 582",
+    "tags": [
+      "avulsion",
+      "apophyse",
+      "adolescent"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-enthesopathie-crete-iliaque",
+    "nom": "Épaisseur de l'insertion du fascia glutéal / tractus iliotibial sur la crête iliaque",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Enthésopathie de la crête iliaque (tractus iliotibial / fascia glutéal)",
+    "technique": "Coupe longitudinale échographique sur la partie antérieure de la crête iliaque (tubercule iliaque).",
+    "normes": "Épaississement hyperéchogène du fascia glutéal de 2–3 mm.",
+    "pathologique": "Épaississement hypoéchogène fusiforme de 5–6 mm sur 10–30 mm de hauteur ± irrégularités/enthésophytes de la crête.",
+    "pieges": "Ne pas méconnaître une avulsion apophysaire chez l'adolescent.",
+    "pediatrie": false,
+    "source": "Cotten ch.20 p.567-568",
+    "tags": [
+      "crête iliaque",
+      "tractus iliotibial"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-processus-vaginal-echo",
+    "nom": "Diamètre du processus vaginal (canal péritonéo-vaginal) — enfant",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Hernie inguinale indirecte de l'enfant",
+    "technique": "Échographie de l'orifice inguinal profond : mesure du diamètre du canal inguinal et surtout du processus vaginal.",
+    "normes": "≤ 4 mm.",
+    "pathologique": "> 4 mm fortement prédictif de hernie inguinale indirecte.",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.20 p.561",
+    "tags": [
+      "hernie inguinale",
+      "pédiatrie"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-symphyse-instabilite",
+    "nom": "Décalage et diastasis de la symphyse pubienne (clichés en appui monopodal)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Instabilité de la symphyse pubienne / pubalgie / ostéoarthropathie pubienne",
+    "technique": "Bassin de face puis clichés en appui monopodal alterné (Flamingo) : décalage vertical des bords supérieurs (et inférieurs) des berges ; largeur de la symphyse.",
+    "normes": "Bords supérieurs alignés dans > 80 % des cas, bords inférieurs dans > 90 % ; cartilage 1–2 mm chez l'adulte ; grand axe incliné d'environ 30° sur l'horizontale. Largeur normale ≤ 6 mm environ (complément).",
+    "pathologique": "Décalage des berges > 3 mm = instabilité dynamique ; diastasis > 7–10 mm = instabilité.",
+    "pieges": "Remaniements des berges fréquents chez l'asymptomatique.",
+    "pediatrie": false,
+    "source": "Cotten ch.22 p.620-621, 625 + complément",
+    "tags": [
+      "symphyse pubienne",
+      "pubalgie",
+      "instabilité"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-sulcus-paraglenoidal",
+    "nom": "Sulcus paraglénoïdal (préauriculaire)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Variante anatomique sacro-iliaque (diagnostic différentiel de sacro-iliite)",
+    "technique": "Bassin de face / TDM : gouttière du versant antéro-inférieur de la berge iliaque.",
+    "normes": "Largeur 2–5 mm, surtout chez la femme.",
+    "pathologique": "Variante normale, à ne pas confondre avec une érosion.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.22 p.613",
+    "tags": [
+      "sacro-iliaque",
+      "variante"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-oedeme-sacroiliite-irm",
+    "nom": "Critère IRM d'œdème osseux de sacro-iliite (ASAS)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Sacro-iliite inflammatoire (spondyloarthrite)",
+    "technique": "Coupes frontales obliques dans le plan S1–S3 (T2 FS/STIR) : œdème osseux sous-chondral péri-articulaire.",
+    "normes": "",
+    "pathologique": "Positif si visible sur ≥ 2 coupes adjacentes, ou ≥ 2 plages œdémateuses sur une seule coupe.",
+    "pieges": "Un œdème de la partie antérieure du tiers moyen (zone de contrainte mécanique), même sur 2–3 coupes, n'a pas de valeur pour la sacro-iliite.",
+    "pediatrie": false,
+    "source": "Cotten ch.22 p.618",
+    "tags": [
+      "sacro-iliite",
+      "spondyloarthrite",
+      "ASAS"
+    ]
+  },
+  {
+    "id": "bassin-sacro-iliaques-nerf-sciatique-pudendal",
+    "nom": "Calibre des nerfs sciatique et pudendal",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Écho"
+    ],
+    "contexte": "Neuropathies du plexus sacré (sciatique, pudendal)",
+    "technique": "IRM/écho : mesure du nerf sciatique à la grande incisure ischiatique ; nerf pudendal à l'épine sciatique (ligament sacro-épineux) et dans le canal d'Alcock (séquences optimisées).",
+    "normes": "Sciatique : 10–15 mm de largeur à son origine, 5 mm d'épaisseur. Pudendal : < 2 mm.",
+    "pathologique": "Épaississement et hypersignal T2 du nerf (comparaison controlatérale).",
+    "pieges": "Pudendal difficile à voir (petite taille).",
+    "pediatrie": false,
+    "source": "Cotten ch.21 p.599, 606",
+    "tags": [
+      "nerf sciatique",
+      "nerf pudendal",
+      "plexus sacré"
+    ]
+  }
+]

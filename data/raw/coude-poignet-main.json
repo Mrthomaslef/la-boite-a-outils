@@ -1,0 +1,979 @@
+[
+  {
+    "id": "coude-nerf-ulnaire-surface-section",
+    "nom": "Surface de section du nerf ulnaire au coude",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Neuropathie ulnaire au coude (gouttière rétro-épicondylienne / tunnel cubital)",
+    "technique": "Patient coude posé à plat en extension et légère rotation latérale (ou coude fléchi à 90°, paume à plat). Coupe axiale stricte perpendiculaire au nerf dans la gouttière rétro-épicondylienne, tracé du contour interne de l'épinèvre (ellipse ou tracé manuel) au niveau du calibre maximal ; comparaison au côté opposé.",
+    "normes": "< 7,5–8 mm² ; symétrique au côté opposé",
+    "pathologique": "> 7,5–8 mm² : tuméfaction pathologique. Signes associés : notch sign (aplati dans le tunnel, épaissi en amont), perte de l'organisation fasciculaire, hyperhémie Doppler, instabilité aux manœuvres de flexion-extension, dénervation (FUC, FPD 4e-5e, intrinsèques).",
+    "pieges": "Mesurer en extension (la flexion comprime physiologiquement le nerf). Diabète, acromégalie élargissent les nerfs. Instabilité du nerf fréquente chez l'asymptomatique (20–46 %). Chercher un double crush (radiculopathie C8, Guyon).",
+    "pediatrie": false,
+    "source": "Cotten ch.6 p.180",
+    "tags": [
+      "nerf ulnaire",
+      "tunnel cubital",
+      "neuropathie",
+      "surface de section"
+    ]
+  },
+  {
+    "id": "coude-epaisseur-capsule-anterieure",
+    "nom": "Épaisseur de la capsule articulaire du coude",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Écho"
+    ],
+    "contexte": "Raideur du coude (capsulite rétractile post-traumatique, arthrofibrose)",
+    "technique": "Coupe sagittale (IRM) ou longitudinale antérieure (écho) : mesure de la capsule antérieure, repérée en avant par le bourrelet graisseux antérieur (intracapsulaire extrasynovial) ; idem pour la capsule postérieure.",
+    "normes": "≤ 1–2 mm (IRM comme écho)",
+    "pathologique": "> 2 mm : épaississement capsulaire en faveur d'une raideur d'origine capsulaire ; chercher aussi un épaississement des ligaments collatéraux, des ossifications hétérotopiques, des corps étrangers obturant les fosses olécrânienne/coronoïdienne/radiale.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.9 p.200",
+    "tags": [
+      "raideur",
+      "capsule",
+      "arthrofibrose"
+    ]
+  },
+  {
+    "id": "coude-lcu-insertion-coronoidienne",
+    "nom": "Distance insertion distale du LCU – surface articulaire coronoïdienne",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Instabilité en valgus / lésion du faisceau antérieur du ligament collatéral ulnaire (lanceurs)",
+    "technique": "Coupe coronale oblique sur le faisceau antérieur du LCU : distance entre le bord de la surface articulaire du processus coronoïde et l'insertion distale du ligament sur le tubercule sublime.",
+    "normes": "Insertion distale physiologiquement séparée du cartilage jusqu'à 2–4 mm",
+    "pathologique": "Liquide/contraste s'insinuant à l'insertion coronoïdienne avec désinsertion = T-sign (rupture partielle profonde). Bâillement huméro-ulnaire médial sur clichés en valgus forcé = instabilité.",
+    "pieges": "Ne pas prendre le récessus physiologique de 2–4 mm pour un T-sign. Différence d'épaisseur droite/gauche possible (côté dominant). Faisceau antérieur stabilisateur principal ; faisceau postérieur stabilisateur seulement au-delà de 120° de flexion.",
+    "pediatrie": false,
+    "source": "Cotten ch.6 p.176–178",
+    "tags": [
+      "LCU",
+      "valgus",
+      "T-sign",
+      "lanceur"
+    ]
+  },
+  {
+    "id": "coude-biceps-retraction-lacertus",
+    "nom": "Rétraction du tendon distal du biceps brachial",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Rupture distale du tendon du biceps brachial – intégrité du lacertus fibrosus",
+    "technique": "Coupes longitudinales antérieures en supination maximale (ou position FABS en IRM : bras au-dessus de la tête, coude fléchi 90°, supination). Mesure de la distance entre la tubérosité radiale et le moignon tendineux rétracté.",
+    "normes": "Jonction myotendineuse ≈ 7 cm en amont du coude ; ruptures préférentielles 1–2 cm en amont de l'insertion (zone hypovascularisée)",
+    "pathologique": "Rétraction > 8 cm : atteinte du lacertus fibrosus constante. Lacertus intact : rétraction limitée, le moignon peut s'enrouler sur lui-même avec tissu cicatriciel mimant un tendon natif.",
+    "pieges": "Tissu cicatriciel pouvant simuler un tendon continu si lacertus intact (hook-test faussement négatif).",
+    "pediatrie": false,
+    "source": "Cotten ch.7 p.183–184",
+    "tags": [
+      "biceps",
+      "lacertus fibrosus",
+      "rupture"
+    ]
+  },
+  {
+    "id": "coude-triceps-avulsion-olecranienne",
+    "nom": "Fragment d'avulsion et rétraction du tendon du triceps brachial",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Rupture distale du tendon du triceps brachial",
+    "technique": "Profil du coude : recherche et mesure du fragment osseux avulsé (flake sign) ; écho postérieure coude fléchi 90° en dynamique : distance entre le sommet de l'olécrâne et le moignon rétracté.",
+    "normes": "—",
+    "pathologique": "Fragment osseux associé : taille moyenne 1,2 cm (0,4–1,9 cm) ; rétraction proximale d'au moins 2,4 cm. Rupture complète = réparation chirurgicale immédiate.",
+    "pieges": "Striations hyperintenses intratendineuses physiologiques (graisse) ; ne pas confondre bourse intratendineuse et rupture partielle.",
+    "pediatrie": false,
+    "source": "Cotten ch.8 p.193–194",
+    "tags": [
+      "triceps",
+      "avulsion",
+      "olécrâne"
+    ]
+  },
+  {
+    "id": "coude-pronation-douloureuse-distance-radio-humerale",
+    "nom": "Distance épiphyse radiale – épiphyse humérale (pronation douloureuse)",
+    "region": "coude",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Pronation douloureuse de l'enfant (subluxation du ligament annulaire)",
+    "technique": "Coupe longitudinale antérolatérale de l'interligne huméroradial, comparative au côté sain.",
+    "normes": "Symétrique au côté sain ; ligament annulaire de ≈ 1 cm de hauteur",
+    "pathologique": "Augmentation de la distance radio-capitellaire par rapport au côté sain + interposition du ligament annulaire (aspect en « J » hyperéchogène) dans l'interligne, sans hémarthrose.",
+    "pieges": "Toujours comparatif ; vérifier l'absence d'épanchement (fracture).",
+    "pediatrie": true,
+    "source": "Cotten ch.5 p.164–165",
+    "tags": [
+      "pronation douloureuse",
+      "ligament annulaire",
+      "enfant"
+    ]
+  },
+  {
+    "id": "coude-prothese-lisere-periprothetique",
+    "nom": "Liseré périprothétique (arthroplastie du coude / tête radiale)",
+    "region": "coude",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Suivi d'arthroplastie totale du coude ou de tête radiale",
+    "technique": "Clichés de face et de profil comparés aux précédents : mesure de l'épaisseur des liserés à l'interface os-ciment ou os-implant autour des tiges humérale/ulnaire et de la tige radiale ; clichés en stress varus/valgus pour l'usure du polyéthylène.",
+    "normes": "Liseré ≤ 2 mm toléré ; ostéopénie du capitulum fréquente après prothèse de tête radiale",
+    "pathologique": "Liseré évolutif ou > 2 mm, plages d'ostéolyse : descellement, affirmé par la migration d'un composant. Fractures périprothétiques ≈ 5 % (Mayo : type 1 condyle/olécrâne, type 2 tiges, type 3 à distance). Arthrose ≈ 20 % après tête radiale. Usure PE : déviation de face, amplitude varus/valgus augmentée.",
+    "pieges": "Épaississement cortical = stress shielding (adaptation), non pathologique.",
+    "pediatrie": false,
+    "source": "Cotten ch.9 p.203",
+    "tags": [
+      "prothèse",
+      "descellement",
+      "tête radiale"
+    ]
+  },
+  {
+    "id": "poignet-variance-ulnaire",
+    "nom": "Variance ulnaire (index radio-ulnaire distal)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Conflit ulnocarpien (variance +), maladie de Kienböck (variance −), choix chirurgical RUD",
+    "technique": "Face stricte en position neutre : sujet assis, coude fléchi 90° à hauteur de table, épaule abduite 90°, paume à plat, rayon vertical. Tracer la perpendiculaire à l'axe du radius passant par le bord médial (ulnaire) de la surface articulaire radiale distale, et la parallèle tangente à la surface articulaire distale de la tête ulnaire ; mesurer la distance (mm) entre les deux. Variante de profil pour tenir compte de la concavité de la fossette lunarienne.",
+    "normes": "Légèrement négative de 1 à 2 mm (parfois neutre ou légèrement positive)",
+    "pathologique": "Positive (ulna longue) : favorise le conflit ulnocarpien (ulnolunaire). Négative (ulna courte) : facteur discuté de maladie de Kienböck (raccourcissement radial réservé aux variances négatives).",
+    "pieges": "Varie avec la position : augmente en pronation et en préhension forcée, diminue en supination. Mesure IRM non validée.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.215",
+    "tags": [
+      "variance ulnaire",
+      "conflit ulnocarpien",
+      "Kienböck"
+    ]
+  },
+  {
+    "id": "poignet-inclinaison-radiale",
+    "nom": "Inclinaison radiale (pente frontale du radius)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Kienböck, cal vicieux du radius distal, instabilité radiocarpienne",
+    "technique": "Face stricte : angle entre la tangente à la surface articulaire distale du radius (de la pointe de la styloïde radiale au bord ulnaire de la fossette lunarienne) et la perpendiculaire (horizontale) à l'axe diaphysaire du radius.",
+    "normes": "≈ 23° en moyenne (25° selon la mesure de Kienböck)",
+    "pathologique": "Pente peu marquée : facteur anatomique discuté de maladie de Kienböck. Le carpe a tendance physiologique à glisser en direction ulnaire le long de cette pente.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.226–228 ; ch.11 p.260",
+    "tags": [
+      "radius distal",
+      "inclinaison radiale",
+      "Kienböck"
+    ]
+  },
+  {
+    "id": "poignet-pente-palmaire-radius",
+    "nom": "Pente palmaire (antéversion) de la glène radiale",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Cal vicieux de l'extrémité distale du radius, instabilité radiocarpienne / médiocarpienne",
+    "technique": "Profil strict : angle entre la ligne joignant les rebords dorsal et palmaire de la surface articulaire radiale et la perpendiculaire à l'axe diaphysaire du radius.",
+    "normes": "≈ 11° en moyenne (orientation palmaire)",
+    "pathologique": "Bascule dorsale (perte de l'antéversion) après fracture/cal vicieux : peut entraîner une DISI non dissociative (instabilité médiocarpienne dorsale).",
+    "pieges": "Profil imparfait = mesure faussée.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.260 + complément",
+    "tags": [
+      "radius distal",
+      "antéversion",
+      "cal vicieux"
+    ]
+  },
+  {
+    "id": "poignet-pente-fossette-lunarienne",
+    "nom": "Pente de la fossette lunarienne",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Kienböck (facteurs anatomiques)",
+    "technique": "Face : angle formé par la surface articulaire lunarienne du radius et l'horizontale (perpendiculaire à l'axe du radius).",
+    "normes": "10–12°",
+    "pathologique": "Pente peu marquée : facteur favorisant discuté de maladie de Kienböck.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.226–228",
+    "tags": [
+      "Kienböck",
+      "lunatum",
+      "radius"
+    ]
+  },
+  {
+    "id": "poignet-styloide-ulnaire-uspi",
+    "nom": "Longueur du processus styloïde ulnaire et index USPI",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Conflit styloïdo-triquétral",
+    "technique": "Face du poignet : C = longueur du processus styloïde ulnaire, B = variance ulnaire, A = diamètre transversal de la tête ulnaire. USPI = (C − B) / A.",
+    "normes": "Longueur 2–6 mm ; USPI = 0,21 ± 0,07",
+    "pathologique": "Processus styloïde excessivement long : longueur > 6 mm ou USPI > 0,21 ± 0,07. Signes de conflit : sclérose du processus styloïde et du versant ulnaire du triquétrum, géodes, arthrose lunotriquétrale/hamatolunaire.",
+    "pieges": "Ne pas confondre avec le conflit ulnocarpien (tête ulnaire). Os triangulaire (défaut de fusion) possible.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.218–219 + complément",
+    "tags": [
+      "styloïde ulnaire",
+      "conflit styloïdo-triquétral",
+      "USPI"
+    ]
+  },
+  {
+    "id": "poignet-facette-hamatale-lunatum",
+    "nom": "Facette hamatale du lunatum (lunatum de type II)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Conflit / arthrose hamato-lunaire",
+    "technique": "Face en inclinaison ulnaire (± scopie dynamique) : chercher l'interruption du 2e arc de Gilula et un pôle proximal de l'hamatum arrondi ; en coupes frontales, mesurer la largeur et la profondeur de la facette sur le bord médial du pôle distal du lunatum.",
+    "normes": "Présente chez 50–73 % des sujets ; largeur moyenne 4,5 mm (2–6 mm), plus large en dorsal ; profondeur 2–6 mm ; occupe 10–50 % du pôle distal du lunatum",
+    "pathologique": "Favorise significativement l'arthrose hamato-lunaire (chondrolyse et œdème du pôle proximal de l'hamatum).",
+    "pieges": "L'interruption isolée du 2e arc de Gilula n'est alors pas un signe d'instabilité.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.220–221",
+    "tags": [
+      "hamatum",
+      "lunatum",
+      "Gilula",
+      "conflit"
+    ]
+  },
+  {
+    "id": "poignet-pisotriquetral-parallelisme",
+    "nom": "Parallélisme des surfaces pisotriquétrales",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Instabilité / arthrose pisotriquétrale",
+    "technique": "Profil en semi-supination (30–40°) : apprécier le parallélisme et le décalage des surfaces articulaires pisiforme/triquétrum.",
+    "normes": "Surfaces parallèles dans 80 % des cas (perte de parallélisme < 5° dans 20 %) ; pas de décalage dans 99 % ; course du pisiforme 3–5 mm",
+    "pathologique": "Critères radiographiques d'instabilité non définis ; chercher arthrose pisotriquétrale, corps étrangers des récessus, subluxation du pisiforme.",
+    "pieges": "Données non retrouvées dans toutes les études.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.213–214",
+    "tags": [
+      "pisiforme",
+      "triquétrum"
+    ]
+  },
+  {
+    "id": "poignet-trapeze-angle-devers",
+    "nom": "Angle de dévers du trapèze (dysplasie trapézienne)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Rhizarthrose",
+    "technique": "Incidence de face de Kapandji : angle entre l'axe du 2e métacarpien et la surface articulaire distale du trapèze.",
+    "normes": "< 120°",
+    "pathologique": "≥ 120° : dysplasie du trapèze (facteur de rhizarthrose). Chercher aussi une arthrose STT associée (moitié des cas).",
+    "pieges": "Incidences de Kapandji indispensables (face : semi-pronation, extension 15°, rayon incliné 30° vers le bas centré sur la MCP ; profil : extension 20°, abduction 20°).",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.208",
+    "tags": [
+      "rhizarthrose",
+      "trapèze",
+      "pouce"
+    ]
+  },
+  {
+    "id": "poignet-rhizarthrose-dell",
+    "nom": "Classification radiographique de Dell (rhizarthrose)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Arthrose trapézo-métacarpienne",
+    "technique": "Incidences de Kapandji face et profil : évaluer sclérose, ostéophytes, interligne et subluxation de la base du 1er métacarpien (fraction de la surface articulaire découverte).",
+    "normes": "—",
+    "pathologique": "Stade 1 : sclérose sous-chondrale sans subluxation ni ostéophyte. Stade 2 : subluxation < 1/3 de la base du M1, petits ostéophytes, diminution de l'interligne. Stade 3 : subluxation > 1/3, pincement net, gros ostéophytes. Stade 4 : disparition de l'interligne, géodes.",
+    "pieges": "N'analyse pas l'arthrose péritrapézienne (STT) ; parallélisme anatomoclinique médiocre.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.208–209",
+    "tags": [
+      "rhizarthrose",
+      "classification",
+      "pouce"
+    ]
+  },
+  {
+    "id": "poignet-trapeze-hauteur-prothese",
+    "nom": "Hauteur et largeur du trapèze (choix trapézectomie vs prothèse TM)",
+    "region": "poignet-main",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Bilan préopératoire de rhizarthrose",
+    "technique": "Face de Kapandji : mesure de la hauteur du trapèze (double flèche, de la surface STT à la surface trapézo-métacarpienne) et de sa largeur.",
+    "normes": "Prothèse trapézo-métacarpienne possible si hauteur et largeur du trapèze > 8 mm (patient > 60 ans, non manuel, sans atteinte péritrapézienne)",
+    "pathologique": "Hauteur < 7 mm (trapèze aplati) ou arthrose péritrapézienne évoluée : implant trapézien impossible → trapézectomie.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.209–210",
+    "tags": [
+      "trapèze",
+      "prothèse trapézo-métacarpienne",
+      "rhizarthrose"
+    ]
+  },
+  {
+    "id": "poignet-angle-radioscaphoidien",
+    "nom": "Angle radio-scaphoïdien",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Maladie de Kienböck (stades IIIa/IIIb), flexion du scaphoïde",
+    "technique": "Profil strict : angle entre l'axe longitudinal du radius et l'axe du scaphoïde (tangente au bord palmaire du scaphoïde).",
+    "normes": "< 60°",
+    "pathologique": "> 60° : flexion fixée du scaphoïde → Kienböck stade IIIb (vs IIIa < 60°). Plus facile à mesurer que l'angle scapholunaire quand le lunatum est fragmenté.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.228–230",
+    "tags": [
+      "Kienböck",
+      "scaphoïde",
+      "Lichtman"
+    ]
+  },
+  {
+    "id": "poignet-kienbock-lichtman",
+    "nom": "Classification de Lichtman (maladie de Kienböck)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM",
+      "TDM"
+    ],
+    "contexte": "Ostéonécrose du lunatum",
+    "technique": "Face + profil strict ; mesurer l'angle radio-scaphoïdien, la hauteur du carpe (McMurtry), la variance ulnaire ; TDM pour fractures/fragmentation, IRM aux stades précoces.",
+    "normes": "—",
+    "pathologique": "I : radios normales (± petite fracture). II : densification du lunatum ± début d'aplatissement du versant radial. IIIa : aplatissement total sans flexion fixée du scaphoïde (angle radioscaphoïdien < 60°). IIIb : aplatissement + flexion fixée du scaphoïde (> 60°)/fracture frontale, migration proximale du capitatum, diminution de hauteur du carpe. IV : III + arthrose intracarpienne et/ou radiocarpienne.",
+    "pieges": "En IRM, l'atteinte excentrée touche le versant radial proximal, jamais le versant ulnaire (≠ impaction ulnolunaire). Signal T1 parfois normal au tout début.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.228–230",
+    "tags": [
+      "Kienböck",
+      "lunatum",
+      "classification",
+      "ostéonécrose"
+    ]
+  },
+  {
+    "id": "poignet-disque-tfcc-epaisseur",
+    "nom": "Épaisseur du disque articulaire du TFCC",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Lésion du complexe triangulaire (Palmer), conflit ulnocarpien",
+    "technique": "Coupe frontale du versant ulnaire du poignet : mesure de l'épaisseur du disque à sa partie centrale et périphérique (renforcée par les ligaments radio-ulnaires dorsal/palmaire).",
+    "normes": "Centre 1–2 mm ; périphérie 4–5 mm",
+    "pathologique": "Écho : disque lésé aminci (< 2,5 mm), amputé, fissuré, ± kyste synovial. Perforation centrale dégénérative fréquente et souvent asymptomatique.",
+    "pieges": "Disque très mince au centre : fausse image de perforation si résolution insuffisante. Arthrographie : opacifier la RUD puis la radiocarpienne (perforations unidirectionnelles). IRM peu sensible pour les lésions ulnaires (17–50 %).",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.234–240",
+    "tags": [
+      "TFCC",
+      "disque articulaire",
+      "Palmer"
+    ]
+  },
+  {
+    "id": "poignet-rud-distance-radio-ulnaire-profil",
+    "nom": "Distance radio-ulnaire / piso-scaphoïdienne sur profil (instabilité RUD)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Instabilité / (sub)luxation radio-ulnaire distale",
+    "technique": "Profil strict bilatéral (radius et ulna superposés, styloïde ulnaire au milieu de la tête, axes radius/M3 alignés, pisiforme entre la corticale antérieure du capitatum et celle du pôle distal du scaphoïde). S = distance entre corticale dorsale du radius et corticale dorsale de l'ulna ; P = distance piso-scaphoïdienne (extrémités palmaires du scaphoïde et du pisiforme sur la perpendiculaire au grand axe du radius).",
+    "normes": "Si ΔP droite/gauche ≤ 3 mm (positionnement identique) : ΔS ≤ 4 mm",
+    "pathologique": "ΔS ≥ 6 mm : (sub)luxation radio-ulnaire distale. ΔS 4–5 mm : douteux → scanner. Luxation aiguë de face : diastasis RUD (luxation dorsale) ou pincement (luxation palmaire).",
+    "pieges": "Réalisation et interprétation difficiles ; ne détecte pas l'instabilité dynamique (préférer le scanner).",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.242",
+    "tags": [
+      "RUD",
+      "instabilité",
+      "luxation"
+    ]
+  },
+  {
+    "id": "poignet-rud-scanner-methodes",
+    "nom": "Méthodes TDM de l'instabilité radio-ulnaire distale (tracé radio-ulnaire, modifié, congruence, épicentre)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Instabilité radio-ulnaire distale statique ou dynamique",
+    "technique": "TDM comparative en procubitus, bras au-dessus de la tête ; coupe axiale centrée sur la RUD en position neutre, pronation et supination maximales. 1) Tracé radio-ulnaire : droites par les bords médial/latéral des faces dorsale (RUD) et palmaire (RUP) du radius. 2) Modifié : rapport d (subluxation maximale de la tête ulnaire au-delà de la droite) / D (diamètre de l'incisure ulnaire). 3) Congruence : arcs de cercle sur l'incisure ulnaire et sur la tête ulnaire. 4) Épicentre : centre O à mi-distance entre centre de la tête ulnaire et centre du processus styloïde, perpendiculaire passant par O à la corde de l'incisure.",
+    "normes": "Tête ulnaire entre RUD et RUP ; d < D/4 ; arcs congruents ; perpendiculaire de l'épicentre dans la moitié centrale de l'incisure",
+    "pathologique": "Excès de translation dorsale en pronation ou palmaire en supination = instabilité. Recherche aussi d'une incisure ulnaire aplatie (axial), d'une translation dorsale de l'ulna (sagittal), d'un diastasis (frontal).",
+    "pieges": "Pas de consensus sur la méthode la plus fiable ; tracé radio-ulnaire et congruence : faux positifs (subluxation physiologique dorsale en pronation, palmaire en supination), y compris côté sain → toujours comparatif.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.242–243",
+    "tags": [
+      "RUD",
+      "scanner",
+      "instabilité",
+      "épicentre"
+    ]
+  },
+  {
+    "id": "poignet-arcs-gilula",
+    "nom": "Arcs carpiens de Gilula",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Instabilités du carpe, luxations péri-lunaires, facette hamatale",
+    "technique": "Face stricte en position neutre. 1er arc : surfaces proximales convexes du scaphoïde, lunatum, triquétrum. 2e arc : surfaces distales concaves des mêmes os. 3e arc : surfaces proximales convexes du capitatum et de l'hamatum.",
+    "normes": "Trois arcs continus et harmonieux",
+    "pathologique": "Interruption entre scaphoïde et lunatum : dissociation scapholunaire ; entre lunatum et triquétrum (ascension du triquétrum) : dissociation lunotriquétrale.",
+    "pieges": "Interruption isolée du 2e arc possible avec une facette hamato-lunaire (lunatum type II) sans instabilité. Inclinaison radiale/ulnaire modifie les arcs.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.247–250",
+    "tags": [
+      "Gilula",
+      "carpe",
+      "instabilité"
+    ]
+  },
+  {
+    "id": "poignet-diastasis-scapholunaire",
+    "nom": "Interligne (diastasis) scapholunaire",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Écho"
+    ],
+    "contexte": "Dissociation / instabilité scapholunaire, SLAC wrist",
+    "technique": "Face postéro-antérieure stricte en position neutre (± clichés dynamiques : poing serré, inclinaisons, incidence de l'écrivain). Mesure au tiers moyen de l'interligne scapholunaire. Écho : coupe axiale sur le tubercule de Lister puis translation distale sur le faisceau dorsal du ligament SL.",
+    "normes": "Radio : ≤ 2 mm. Écho : largeur moyenne 3,3–4,2 mm en neutre (forme de « V » tronqué), peu modifiée en dynamique",
+    "pathologique": "Radio ≥ 3 mm : diastasis scapholunaire (avec interruption des arcs 1/2 de Gilula, signe de l'anneau = flexion du scaphoïde). Évolution : SLAC wrist (stade 1 stylo-scaphoïdien, 2 radio-scaphoïdien, 3 + lunocapital).",
+    "pieges": "≥ 3 mm physiologique possible en cas d'hyperlaxité ligamentaire ou de synostose lunotriquétrale → cliché comparatif.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248–252 ; ch.10 p.212",
+    "tags": [
+      "scapholunaire",
+      "diastasis",
+      "SLAC",
+      "Terry Thomas"
+    ]
+  },
+  {
+    "id": "poignet-diastasis-lunotriquetral",
+    "nom": "Interligne (diastasis) lunotriquétral",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dissociation / instabilité lunotriquétrale (VISI)",
+    "technique": "Face stricte en position neutre : mesure de l'interligne lunotriquétral ; vérifier la continuité des arcs de Gilula.",
+    "normes": "≤ 2 mm",
+    "pathologique": "≥ 3 mm : diastasis lunotriquétral ; interruption des 1er/2e arcs par ascension du triquétrum ; profil : VISI.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248 ; p.257",
+    "tags": [
+      "lunotriquétral",
+      "diastasis",
+      "VISI"
+    ]
+  },
+  {
+    "id": "poignet-angle-radiolunaire",
+    "nom": "Angle radio-lunaire",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Instabilités carpiennes (DISI / VISI)",
+    "technique": "Profil strict en position neutre (pisiforme projeté au tiers de l'espace entre corticale palmaire du pôle distal du scaphoïde et corticale palmaire du pôle proximal du capitatum). Angle entre l'axe longitudinal du radius et l'axe du lunatum (perpendiculaire à la ligne joignant ses cornes antérieure et postérieure).",
+    "normes": "0 ± 15° (–15 à +15°)",
+    "pathologique": "DISI (instabilité scapholunaire) : > 15° (bascule dorsale). VISI (instabilité lunotriquétrale) : > 5° en bascule palmaire. Augmenté aussi dans la VISI non dissociative médiocarpienne.",
+    "pieges": "Quelques degrés de flexion/extension du poignet faussent la mesure : critères de profil strict impératifs. Valeurs anormales possibles sans instabilité clinique.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248–258",
+    "tags": [
+      "DISI",
+      "VISI",
+      "lunatum",
+      "carpe"
+    ]
+  },
+  {
+    "id": "poignet-angle-scapholunaire",
+    "nom": "Angle scapho-lunaire",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Instabilités carpiennes (DISI / VISI)",
+    "technique": "Profil strict en position neutre : angle entre l'axe du lunatum (perpendiculaire à la ligne des cornes) et l'axe du scaphoïde, tracé de préférence comme la tangente au bord palmaire du scaphoïde.",
+    "normes": "45 ± 15° (30–60°)",
+    "pathologique": "> 70° : DISI (instabilité scapholunaire). < 30° : VISI (instabilité lunotriquétrale). Normal dans la VISI non dissociative (≠ instabilité lunotriquétrale).",
+    "pieges": "Profil imparfait ; difficile en cas de lunatum fragmenté (Kienböck : préférer l'angle radio-scaphoïdien).",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248–262",
+    "tags": [
+      "DISI",
+      "VISI",
+      "scapholunaire",
+      "carpe"
+    ]
+  },
+  {
+    "id": "poignet-angle-lunocapital",
+    "nom": "Angle luno-capital",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Instabilités carpiennes (DISI / VISI, médiocarpienne)",
+    "technique": "Profil strict en position neutre : angle entre l'axe du lunatum (perpendiculaire à la ligne des cornes) et l'axe longitudinal du capitatum ; vérifier l'alignement radius-lunatum-capitatum-M3.",
+    "normes": "0 ± 15° (–15 à +15°)",
+    "pathologique": "> 15° : DISI ou VISI (perte de l'alignement radius-lunatum-capitatum-M3, bascule en baïonnette du carpe dans le SLAC wrist).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248–258",
+    "tags": [
+      "DISI",
+      "VISI",
+      "capitatum",
+      "carpe"
+    ]
+  },
+  {
+    "id": "poignet-hauteur-carpe-mcmurtry",
+    "nom": "Hauteur du carpe – indice de McMurtry",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Collapsus carpien (SLAC/SNAC wrist, Kienböck, polyarthrite)",
+    "technique": "Face stricte : somme des hauteurs du lunatum et du capitatum (hauteur carpienne le long de l'axe du 3e métacarpien) rapportée à la longueur du 3e métacarpien.",
+    "normes": "0,54 ± 0,03",
+    "pathologique": "Diminué : collapsus carpien (SLAC wrist stade 3, Kienböck IIIb, arthrose lunocapitale).",
+    "pieges": "Rayon de 3e métacarpien raccourci ou mal visible → fausses valeurs.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.248 ; ch.10 p.228",
+    "tags": [
+      "hauteur du carpe",
+      "McMurtry",
+      "collapsus"
+    ]
+  },
+  {
+    "id": "poignet-derive-lunocapitale",
+    "nom": "Dérive luno-capitale",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "SLAC wrist – choix de l'arthrodèse carpienne",
+    "technique": "Face : angle entre l'axe du 3e métacarpien et la droite joignant le centre de la base du 3e métacarpien au centre du lunatum (traduit le déplacement médial du lunatum par rapport au capitatum).",
+    "normes": "Pas de valeur seuil donnée",
+    "pathologique": "Son importance oriente le type d'arthrodèse carpienne (4 os, etc.).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.252",
+    "tags": [
+      "SLAC",
+      "lunatum",
+      "arthrodèse"
+    ]
+  },
+  {
+    "id": "poignet-translation-ulnaire-carpe",
+    "nom": "Translation (glissement) ulnaire du carpe – méthodes de Gilula et de Chamay",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Instabilité radiocarpienne (traumatique ou polyarthrite rhumatoïde)",
+    "technique": "Face stricte. Gilula : largeur du lunatum non recouverte par le radius (A) / largeur totale du lunatum (B). Chamay : distance entre le centre du capitatum et une parallèle à l'axe du radius passant par le processus styloïde radial (C).",
+    "normes": "Lunatum recouvert à ≥ 50 % par le radius",
+    "pathologique": "Couverture du lunatum < 50 % : glissement ulnaire. Type I : diastasis radio-scaphoïdien > 2 mm, pas de dissociation SL. Type II : pas de diastasis radio-scaphoïdien mais dissociation SL. Chamay : plus la distance est grande, plus le glissement est important (suivi PR).",
+    "pieges": "Surtout utiles en suivi évolutif.",
+    "pediatrie": false,
+    "source": "Cotten ch.11 p.260–261",
+    "tags": [
+      "translation ulnaire",
+      "polyarthrite",
+      "instabilité radiocarpienne"
+    ]
+  },
+  {
+    "id": "poignet-dequervain-retinaculum",
+    "nom": "Épaisseur du rétinaculum des extenseurs du 1er compartiment",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Ténosynovite de De Quervain",
+    "technique": "Coupe axiale sur le processus styloïde radial, sur le 1er compartiment dorsal (long abducteur et court extenseur du pouce) ; mesure du rétinaculum hypoéchogène, comparaison au côté opposé ; chercher un septum intercompartimental.",
+    "normes": "≈ 0,4 mm",
+    "pathologique": "≈ 2 mm : épaississement pathologique hypoéchogène, parfois empreinte sur les tendons ; tendons hétérogènes/épaissis, hyperhémie, mobilité diminuée.",
+    "pieges": "Variantes : LAP multifasciculé, septum fibreux (échec d'infiltration). Post-op : subluxation palmaire des tendons si libération excessive.",
+    "pediatrie": false,
+    "source": "Cotten ch.12 p.266–268",
+    "tags": [
+      "De Quervain",
+      "rétinaculum",
+      "1er compartiment"
+    ]
+  },
+  {
+    "id": "poignet-gaine-flechisseurs-anneau",
+    "nom": "Anneau hypoéchogène péritendineux des fléchisseurs",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Ténosynovite des fléchisseurs des doigts",
+    "technique": "Coupes axiales des tendons fléchisseurs en amont des poulies A1 et A2.",
+    "normes": "Fin anneau hypoéchogène < 0,1 mm possible, physiologique",
+    "pathologique": "Épanchement / épaississement synovial au-delà : ténosynovite.",
+    "pieges": "À la paume, les lombricaux hypoéchogènes peuvent mimer un épanchement. Gaine digitale propre des 3 doigts médians : de l'IPD à 15 mm en amont de la tête métacarpienne.",
+    "pediatrie": false,
+    "source": "Cotten ch.14 p.322–324",
+    "tags": [
+      "fléchisseurs",
+      "ténosynovite",
+      "gaine"
+    ]
+  },
+  {
+    "id": "poignet-nerf-median-sst",
+    "nom": "Surface de section transverse (SST) du nerf médian",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Syndrome du canal carpien",
+    "technique": "Coupe axiale perpendiculaire au nerf, juste en amont / à la partie proximale du canal carpien (niveau pisiforme / tubercule du scaphoïde, là où le nerf est le plus épais) ; tracé du contour interne de l'épinèvre.",
+    "normes": "< 8 mm² : normal",
+    "pathologique": "> 11–12 mm² : pathologique (seuils de la littérature 9–15 mm², meilleure performance 11–12). 8–12 mm² : zone grise. Nerf bifide/division haute : seuil 11–12 mm² mais préférer le ΔSST (> 4 mm²).",
+    "pieges": "Variations interindividuelles → préférer le ΔSST. Nerf médian bifide (16 %), trifide (2,5 %), artère médiane persistante.",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.291",
+    "tags": [
+      "canal carpien",
+      "nerf médian",
+      "surface de section"
+    ]
+  },
+  {
+    "id": "poignet-nerf-median-delta-sst",
+    "nom": "Différence de surface de section du nerf médian (ΔSST)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Syndrome du canal carpien",
+    "technique": "SST au canal carpien (ou juste en amont, calibre maximal) moins SST sur une coupe proximale au niveau du muscle carré pronateur.",
+    "normes": "≤ 2 mm²",
+    "pathologique": "ΔSST > 2 mm² : excellente sensibilité et spécificité pour le syndrome du canal carpien. Nerf bifide : seuil 4 mm². Exemple : 15 mm² au canal vs 6 mm² au carré pronateur = ΔSST 9 mm².",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.291",
+    "tags": [
+      "canal carpien",
+      "nerf médian",
+      "ΔSST"
+    ]
+  },
+  {
+    "id": "poignet-nerf-median-ratio-irm",
+    "nom": "Ratio de SST du nerf médian pisiforme / interligne radiocarpien",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Syndrome du canal carpien",
+    "technique": "Coupes axiales : rapport de la surface de section du nerf médian au niveau du pisiforme sur celle au niveau de l'interligne radiocarpien.",
+    "normes": "—",
+    "pathologique": "1,6 à 3,5 : en faveur d'un syndrome du canal carpien. Autres signes IRM : hypersignal T2 intraneural, aplatissement distal, bombement du rétinaculum.",
+    "pieges": "Hypertrophie du nerf moins fiable en IRM qu'en écho.",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.293",
+    "tags": [
+      "canal carpien",
+      "nerf médian",
+      "IRM"
+    ]
+  },
+  {
+    "id": "poignet-index-aplatissement-median",
+    "nom": "Index d'aplatissement du nerf médian",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Syndrome du canal carpien",
+    "technique": "Coupe axiale à la partie proximale ou distale du canal carpien : rapport diamètre transversal / diamètre sagittal (antéropostérieur) du nerf.",
+    "normes": "≤ 3",
+    "pathologique": "> 3 : pathologique (peu utilisé en pratique).",
+    "pieges": "Nerf physiologiquement plus aplati à la partie distale du canal.",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.291–293",
+    "tags": [
+      "canal carpien",
+      "nerf médian",
+      "aplatissement"
+    ]
+  },
+  {
+    "id": "poignet-bombement-retinaculum-flechisseurs",
+    "nom": "Bombement palmaire du rétinaculum des fléchisseurs",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Syndrome du canal carpien",
+    "technique": "Coupe axiale à la partie distale du canal carpien : distance entre le point le plus superficiel du rétinaculum des fléchisseurs et la tangente reliant le sommet du tubercule du trapèze au sommet de l'hamulus de l'hamatum.",
+    "normes": "< 2–4 mm selon les auteurs",
+    "pathologique": "> 2–4 mm : bombement (signe indirect, peu spécifique).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.291–292",
+    "tags": [
+      "canal carpien",
+      "rétinaculum"
+    ]
+  },
+  {
+    "id": "poignet-canal-carpien-postop-ligne-hamulus-trapeze",
+    "nom": "Ligne hamulus–trapèze après libération du canal carpien",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Contrôle après libération du canal carpien (récidive, libération insuffisante)",
+    "technique": "Coupe axiale distale : tracer la ligne reliant l'hamulus de l'hamatum au tubercule du trapèze ; repérer la position du nerf médian et du tendon fléchisseur le plus superficiel par rapport à cette ligne, ± manœuvres dynamiques.",
+    "normes": "Après libération : nerf médian et fléchisseur le plus superficiel translatés en superficie (palmaire) de la ligne",
+    "pathologique": "Nerf/tendons restant en profondeur de la ligne + solution de continuité du rétinaculum trop petite : libération insuffisante. Mobilité nerveuse nulle : adhérences/fibrose.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.294",
+    "tags": [
+      "canal carpien",
+      "post-opératoire",
+      "nerf médian"
+    ]
+  },
+  {
+    "id": "poignet-nerf-ulnaire-guyon",
+    "nom": "Surface de section du nerf ulnaire au canal de Guyon",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Syndrome du canal de Guyon",
+    "technique": "Coupe axiale à la partie proximale du canal de Guyon (niveau du pisiforme), puis suivi de la division terminale jusqu'à l'hamulus.",
+    "normes": "≈ 5 mm² ; canal ≈ 4 cm de long",
+    "pathologique": "Augmentation de calibre / cause compressive : kyste (articulation pisotriquétrale), muscle accessoire (abducteur accessoire du 5e doigt, épaisseur moyenne 1,7 mm [0,5–3,7] au pisiforme), anévrisme/thrombose de l'artère ulnaire (marteau hypothénarien).",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.13 p.297–301",
+    "tags": [
+      "Guyon",
+      "nerf ulnaire"
+    ]
+  },
+  {
+    "id": "poignet-poulies-distance-tendon-os",
+    "nom": "Distance tendons fléchisseurs – corticale phalangienne (rupture de poulie)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Rupture des poulies digitales (grimpeur)",
+    "technique": "Coupe longitudinale palmaire du doigt, au repos puis en flexion active contrariée (l'échographiste retient la pulpe) : mesure de la distance entre la face profonde des tendons fléchisseurs et la corticale palmaire de P1 (A2) ou P2 (A4).",
+    "normes": "< 1 mm de la corticale palmaire de P1",
+    "pathologique": "Arbre décisionnel : < 2 mm = entorse (grade I) ; > 2 mm = rupture. En flexion contrariée : 4,6 ± 0,6 mm = rupture A2 ; 3,1 ± 0,5 mm = rupture A4 ; 6,1 ± 0,5 mm = rupture A3 + A4. Rupture partielle A2 : 1–3 mm.",
+    "pieges": "Poulie tuméfiée hypoéchogène, épanchement de gaine en phase aiguë. Longueurs normales : A1 10 mm, A2 20 mm, A3 3 mm (90 %), A4 12 mm.",
+    "pediatrie": false,
+    "source": "Cotten ch.14 p.326–330",
+    "tags": [
+      "poulies",
+      "grimpeur",
+      "fléchisseurs",
+      "bowstring"
+    ]
+  },
+  {
+    "id": "poignet-poulies-gradation",
+    "nom": "Gradation des lésions des poulies digitales",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Rupture des poulies digitales",
+    "technique": "Classer selon les poulies rompues et l'écart tendon-os en flexion contrariée.",
+    "normes": "—",
+    "pathologique": "Grade I : entorse (écart < 2 mm). Grade II : rupture complète A4 ou partielle A2/A3. Grade III : rupture complète A2 ou A3. Grade IV : ruptures multiples (A2+A3 ou A2+A3+A4) ou rupture A2/A3 avec atteinte des lombricaux ou d'un ligament collatéral. Grades I–III : traitement conservateur ; IV : reconstruction.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.14 p.328–330",
+    "tags": [
+      "poulies",
+      "classification",
+      "grimpeur"
+    ]
+  },
+  {
+    "id": "poignet-mallet-finger-fragment",
+    "nom": "Taille du fragment d'avulsion dans le doigt en maillet",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Écho"
+    ],
+    "contexte": "Doigt en maillet (rupture du tendon conjoint terminal)",
+    "technique": "Profil strict du doigt : estimer la proportion de la surface articulaire de la base de P3 emportée par le fragment dorsal, et rechercher une subluxation palmaire de P3.",
+    "normes": "—",
+    "pathologique": "Chirurgie si avulsion > 20–30 % de la surface articulaire, fragment non réductible, subluxation palmaire de P3 non réductible ou ouverture cutanée ; sinon attelle en hyperextension 6–8 semaines.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.14 p.319–320",
+    "tags": [
+      "maillet",
+      "avulsion",
+      "extenseurs"
+    ]
+  },
+  {
+    "id": "poignet-dupuytren-recidive",
+    "nom": "Contracture et récidive de la maladie de Dupuytren",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Maladie de Dupuytren opérée",
+    "technique": "Mesure clinico-goniométrique du flessum des articulations MCP/IPP ; écho pour les nodules et cordes.",
+    "normes": "—",
+    "pathologique": "Récidive : contracture > 20° à un an.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.14 p.334",
+    "tags": [
+      "Dupuytren",
+      "récidive"
+    ]
+  },
+  {
+    "id": "poignet-madelung-angle-carpien",
+    "nom": "Angle carpien (déformation de Madelung)",
+    "region": "poignet-main",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Déformation de Madelung congénitale",
+    "technique": "Face du poignet : angle formé par la tangente aux bords proximaux du scaphoïde et du lunatum et la tangente aux bords proximaux du triquétrum et du lunatum (sommet au lunatum).",
+    "normes": "≈ 130° (complément)",
+    "pathologique": "Diminué : carpe triangulaire centré sur le lunatum, surface articulaire radiale pentue en bas et en dedans, élargissement de l'interligne radio-ulnaire distal, pont d'épiphysiodèse du versant ulnaire de la physe radiale (ligament de Vickers).",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.34 p.982 + complément",
+    "tags": [
+      "Madelung",
+      "enfant",
+      "carpe"
+    ]
+  }
+]

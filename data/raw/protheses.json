@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "prothese-hanche-inclinaison-cupule",
+    "nom": "Inclinaison latérale de la cupule (PTH)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Suivi de PTH, luxation, usure précoce",
+    "technique": "Bassin de face en charge : angle entre le plan d'ouverture équatorial de la cupule et la ligne joignant les U radiographiques (ou les points déclives des tubérosités ischiatiques).",
+    "normes": "40–45° (radio) ; 40–50° (TDM, plan frontal / ligne bi-ischiatique)",
+    "pathologique": "< 30° : abduction limitée ; > 50° : risque de luxation et surtout d'usure prématurée (edge loading). Variation > 5° entre deux clichés = migration angulaire (descellement).",
+    "pieges": "Ne pas décrire de bascule sur une hémiarthroplastie bipolaire (module proximal non fixé, surface externe lisse et sphérique). Clichés comparables uniquement si critères de Massin respectés.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.530",
+    "tags": [
+      "PTH",
+      "cupule",
+      "inclinaison",
+      "luxation",
+      "usure"
+    ]
+  },
+  {
+    "id": "prothese-hanche-anteversion-cupule-tdm",
+    "nom": "Antéversion de la cupule acétabulaire (TDM, coupe fonctionnelle)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "PTH luxante, conflit psoas-cupule, bilan de malposition",
+    "technique": "Mesurer la version pelvienne sur un profil de bassin debout ; reporter sur le topogramme la ligne centre des têtes – milieu de S1 et son angle complémentaire ; coupe perpendiculaire à cette ligne (coupe fonctionnelle) ; angle entre l'axe de la cupule et la perpendiculaire à la ligne bi-ischiatique.",
+    "normes": "15 ± 10°",
+    "pathologique": "Excès d'antéversion : luxation antérieure. Rétroversion / antéversion insuffisante : conflit cupule-psoas, luxation postérieure.",
+    "pieges": "Le décubitus diminue la rétroversion pelvienne et augmente l'antéversion acétabulaire : la coupe fonctionnelle améliore de 30 % la détection des malpositions. Radiographie non fiable pour l'antéversion (suspicion seulement : absence d'ellipse de face, débord antérieur de profil).",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.535",
+    "tags": [
+      "PTH",
+      "cupule",
+      "antéversion",
+      "luxation",
+      "version pelvienne"
+    ]
+  },
+  {
+    "id": "prothese-hanche-zone-lewinnek",
+    "nom": "Zone de sécurité de Lewinnek (cupule)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "EOS"
+    ],
+    "contexte": "Positionnement de cupule, risque de luxation",
+    "technique": "Report de l'inclinaison radiographique et de l'antéversion de la cupule dans la « safe zone » décrite par Lewinnek (1978).",
+    "normes": "Inclinaison 40 ± 10° ; antéversion 15 ± 10°",
+    "pathologique": "Cupule hors zone : risque de luxation multiplié (≈ ×4 dans la série princeps).",
+    "pieges": "Zone « statique » : une cupule dans la zone peut luxer et inversement ; la zone fonctionnelle dépend de la mobilité rachis-bassin (raideur lombaire, dos plat, arthrodèse) → intérêt de l'analyse debout/assis (EOS).",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTH",
+      "cupule",
+      "Lewinnek",
+      "safe zone",
+      "luxation"
+    ]
+  },
+  {
+    "id": "prothese-hanche-deplacement-cupule",
+    "nom": "Migration de la cupule (déplacement du centre)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Descellement acétabulaire",
+    "technique": "Distance entre le centre de la cupule et deux droites orthogonales passant par les U radiographiques (horizontale et verticale), comparée sur clichés successifs.",
+    "normes": "Stabilité dans le temps",
+    "pathologique": "Variation > 5 mm = descellement ; bascule > 5° = migration angulaire.",
+    "pieges": "Critères de Massin de comparabilité : variation < 5 mm de la distance ischions–U et < 5 mm de la distance sacro-iliaques–symphyse ; sinon clichés non comparables.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.530",
+    "tags": [
+      "PTH",
+      "cupule",
+      "migration",
+      "descellement",
+      "Massin"
+    ]
+  },
+  {
+    "id": "prothese-hanche-deLee-charnley",
+    "nom": "Zones de DeLee et Charnley (cupule)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Localisation des liserés/ostéolyses acétabulaires",
+    "technique": "Bassin/hanche de face : acétabulum divisé en 3 zones (I supéro-latérale, II médiale/supérieure centrale, III inféro-médiale) par des lignes passant par le centre de la cupule.",
+    "normes": "Absence de liseré évolutif",
+    "pathologique": "Liseré dans les 3 zones, évolutif ou > 2 mm : descellement probable ; liseré étendu autour d'une cupule non cimentée = défaut d'ostéo-intégration.",
+    "pieges": "Superpositions osseuses pelviennes : TDM supérieur pour les ostéolyses acétabulaires.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528",
+    "tags": [
+      "PTH",
+      "cupule",
+      "DeLee",
+      "Charnley",
+      "liseré"
+    ]
+  },
+  {
+    "id": "prothese-hanche-gruen",
+    "nom": "Zones de Gruen (tige fémorale)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Localisation des liserés, ostéolyses et signes d'ostéo-intégration",
+    "technique": "Face : 7 zones numérotées 1 à 7 (1 grand trochanter, 4 extrémité de tige, 7 calcar) ; profil : zones 8 à 14 ; numérotation dans le sens inverse des aiguilles d'une montre.",
+    "normes": "Spotwelds en zones 2 et 6 = bonne réhabitation ; liseré fin zones 1 et 7 toléré (non cimenté)",
+    "pathologique": "Ostéolyse granulomateuse typiquement zones 1 et 7 ; liseré ciment-prothèse > 1 zone ou évolutif = alerte ; tout liseré hors zones 1 et 7 d'une tige non cimentée est pathologique.",
+    "pieges": "Clichés reproductibles, rotation neutre (faux valgus en rotation latérale).",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528",
+    "tags": [
+      "PTH",
+      "tige",
+      "Gruen",
+      "liseré",
+      "ostéolyse"
+    ]
+  },
+  {
+    "id": "prothese-hanche-enfoncement-tige",
+    "nom": "Enfoncement (subsidence) du pivot fémoral",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Descellement fémoral",
+    "technique": "Distance verticale entre l'épaulement prothétique et le sommet du grand trochanter (précision 4–5 mm), comparée sur clichés successifs. Éviter le centre de la bille (> 7 mm d'imprécision) et le petit trochanter.",
+    "normes": "Stabilité ; recalage ≤ quelques mm les 3 premiers mois (non cimenté)",
+    "pathologique": "≥ 5 mm = descellement certain. Non cimenté : migration au-delà de 3 mois ou > 10 mm = non-fixation. Cimenté : toujours pathologique sauf 1–2 mm tardif (> 2–5 ans) non évolutif.",
+    "pieges": "Exception : technique d'Exeter (greffe impactée + tige cimentée) : enfoncement > 5 mm habituel sans descellement.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528–529",
+    "tags": [
+      "PTH",
+      "tige",
+      "enfoncement",
+      "subsidence",
+      "descellement"
+    ]
+  },
+  {
+    "id": "prothese-hanche-axe-tige",
+    "nom": "Axe et migration angulaire de la tige",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Positionnement / descellement de tige",
+    "technique": "Face : angle entre l'axe du pivot et celui de la diaphyse fémorale (précision 5°).",
+    "normes": "Neutre ou discret valgus",
+    "pathologique": "Varus de tige = mauvais pronostic (fractures périprothétiques, appositions latérales distales péjoratives). Bascule > 5° ou déplacement du centre > 5 mm = migration.",
+    "pieges": "Faux valgus si rotation latérale du membre.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528",
+    "tags": [
+      "PTH",
+      "tige",
+      "varus",
+      "migration"
+    ]
+  },
+  {
+    "id": "prothese-hanche-offset-femoral",
+    "nom": "Offset fémoral (translation latérale de l'axe fémoral)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "EOS"
+    ],
+    "contexte": "Biomécanique de la PTH, boiterie, luxation, usure",
+    "technique": "Distance horizontale entre l'axe diaphysaire fémoral et le centre de la tête (prothétique).",
+    "normes": "41 ± 6 mm",
+    "pathologique": "Offset diminué : détente des glutéaux (boiterie, luxation, médialisation) ; augmenté : contraintes, douleurs trochantériennes. Offset et centre incorrects = usure précoce.",
+    "pieges": "Sous-estimé en radiographie (rotation médiale insuffisante, pas un vrai cliché de col) ; mesure fiable en TDM ou EOS 3D.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.529",
+    "tags": [
+      "PTH",
+      "offset",
+      "glutéaux",
+      "luxation"
+    ]
+  },
+  {
+    "id": "prothese-hanche-centre-rotation",
+    "nom": "Centre de rotation de la hanche prothétique",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Restitution de l'anatomie après PTH",
+    "technique": "Horizontal : distance centre de tête – ligne ilio-pubienne (comparer au côté opposé). Vertical : distance centre de tête – ligne bi-ischiatique.",
+    "normes": "Symétrique au côté controlatéral",
+    "pathologique": "Centre ascensionné/latéralisé ou médialisé : modification du bras de levier glutéal, boiterie, luxation, usure précoce.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.529",
+    "tags": [
+      "PTH",
+      "centre de rotation",
+      "cupule"
+    ]
+  },
+  {
+    "id": "prothese-hanche-inegalite-longueur-pth",
+    "nom": "Inégalité de longueur après PTH",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Allongement / raccourcissement post-PTH",
+    "technique": "Bassin de face en charge : différence des distances verticales entre la ligne horizontale passant par les U radiologiques et celle passant par le centre de chaque petit trochanter.",
+    "normes": "< 10 mm",
+    "pathologique": "Asymétrie > 1 cm : retentissement sur l'iliopsoas et les glutéaux ; raccourcissement → détente musculaire et luxation.",
+    "pieges": "Différencier l'allongement vrai d'un pseudo-allongement (contracture glutéale, adduction controlatérale, scoliose). EOS particulièrement adapté.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528",
+    "tags": [
+      "PTH",
+      "inégalité de longueur",
+      "EOS"
+    ]
+  },
+  {
+    "id": "prothese-hanche-anteversion-tige-tdm",
+    "nom": "Antéversion de la pièce fémorale (TDM)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "PTH luxante, malposition",
+    "technique": "Addition de 3 coupes : axe du col prothétique passant par le centre de la tête, rapporté au plan bicondylien postérieur.",
+    "normes": "10–20°",
+    "pathologique": "Excès : luxation antérieure ; défaut ou rétroversion : luxation postérieure. Antéversion combinée (cupule + tige) à interpréter ensemble.",
+    "pieges": "Coupes condyliennes indispensables ; jambe immobile entre les acquisitions.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.535–536",
+    "tags": [
+      "PTH",
+      "tige",
+      "antéversion",
+      "luxation",
+      "TDM"
+    ]
+  },
+  {
+    "id": "prothese-hanche-debord-anterieur-cupule",
+    "nom": "Débord antérieur de la cupule (conflit iliopsoas)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM",
+      "Écho"
+    ],
+    "contexte": "Douleur inguinale à la flexion active, syndrome du muscle iliopsoas",
+    "technique": "Coupe axiale/sagittale : distance du rebord antérieur de la cupule au-delà du rebord osseux acétabulaire antérieur.",
+    "normes": "< 8 mm",
+    "pathologique": "> 8 mm : risque élevé de conflit avec le tendon iliopsoas ; bursite associée dans 30–50 % ; autres causes : vis saillante, cimentophyte, col trop long.",
+    "pieges": "L'échographie montre le débord, la bursite iliopectinée et la tendinopathie ; geste infiltratif guidé possible après ponction.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.535–536",
+    "tags": [
+      "PTH",
+      "conflit psoas",
+      "cupule",
+      "bursite"
+    ]
+  },
+  {
+    "id": "prothese-hanche-liseres-cimentee",
+    "nom": "Liserés périprothétiques – PTH cimentée",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Surveillance d'une prothèse cimentée",
+    "technique": "Analyse comparative des interfaces os-ciment et ciment-prothèse par zone (Gruen/DeLee-Charnley), clichés reproductibles tous les 1–3 ans.",
+    "normes": "Liseré < 2 mm, stable, régulier : surveillance",
+    "pathologique": "Liseré > 2 mm ET évolutif = descellement certain. Liseré os-ciment précoce : surveillance rapprochée (6–12 mois). Ciment-prothèse > 1 zone, fracture du fourreau, bascule > 5° ou enfoncement > 5 mm = descellement.",
+    "pieges": "Digitations du ciment (grand trochanter) et bulles dans le ciment : non pathologiques.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.530–531",
+    "tags": [
+      "PTH",
+      "liseré",
+      "ciment",
+      "descellement"
+    ]
+  },
+  {
+    "id": "prothese-hanche-osteointegration-non-cimentee",
+    "nom": "Ostéo-intégration d'une tige/cupule non cimentée",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Surveillance d'une prothèse non cimentée",
+    "technique": "Recherche de spotwelds (zones 2 et 6), condensation spongieuse, stabilité de l'interface après 2 ans ; piédestal (zone 4), condensations linéaires, appositions corticales.",
+    "normes": "Spotwelds, interface stable > 2 ans, appositions circonférentielles",
+    "pathologique": "Non-ostéo-intégration : prothèse douloureuse dans les 2 ans, liseré > 2 mm progressif, migration, résorption de l'os spongieux adjacent. Liseré hors zones 1 et 7 toujours pathologique.",
+    "pieges": "Piédestal et condensation linéaire non pathologiques isolément ; stress shielding (perte osseuse proximale, visible si > 30 %, stabilisé à 2 ans) ≠ ostéolyse.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.531–532",
+    "tags": [
+      "PTH",
+      "non cimentée",
+      "spotwelds",
+      "stress shielding"
+    ]
+  },
+  {
+    "id": "prothese-hanche-usure-pe",
+    "nom": "Usure du polyéthylène (excentration de la tête)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Couple métal/PE ou céramique/PE, descellement granulomateux",
+    "technique": "Face (et profil) : distance entre le centre de la tête prothétique et le centre de la cupule (seuil de détection 1 mm).",
+    "normes": "Usure attendue ≈ 0,1 mm/an (métal/PE)",
+    "pathologique": "Excentration progressive = signe précurseur de descellement et d'ostéolyse ; ostéolyse rapidement évolutive toujours pathologique.",
+    "pieges": "Mesure gênée par têtes céramique, cupules PE cimentées/non hémisphériques, petite tête. Usure des couples dur-dur non mesurable : rechercher ostéolyse, encoche du col prothétique, fracture de rebord.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.533",
+    "tags": [
+      "PTH",
+      "polyéthylène",
+      "usure",
+      "excentration"
+    ]
+  },
+  {
+    "id": "prothese-hanche-osteolyse",
+    "nom": "Ostéolyse périprothétique (granulome)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Réaction aux débris d'usure",
+    "technique": "Lacune bien limitée, souvent expansive/plurilobée, zones 1 et 7 et autour de la cupule/trous de vis ; TDM pour topographie et volume.",
+    "normes": "Absente",
+    "pathologique": "Toujours pathologique. PE : tolérable si lente et tardive (5–15 ans) ; rapidement évolutive = pathologique. Couple dur-dur : toujours pathologique (faillite des pièces, ions Co/Cr).",
+    "pieges": "Sous-estimée en radiographie, notamment au bassin.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.532",
+    "tags": [
+      "PTH",
+      "ostéolyse",
+      "granulome",
+      "débris"
+    ]
+  },
+  {
+    "id": "prothese-hanche-brooker",
+    "nom": "Ossifications hétérotopiques – classification de Brooker",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Raideur après PTH",
+    "technique": "Bassin de face : stade 1 îlots osseux dans les tissus mous ; 2 ossifications fémorales et pelviennes séparées ≥ 1 cm ; 3 séparées < 1 cm ; 4 ankylose.",
+    "normes": "Fréquentes (15–50 %), rarement symptomatiques (1–5 %)",
+    "pathologique": "Stades 3–4 : limitation fonctionnelle ; résection seulement après maturation (6–18 mois, absence d'hyperfixation scintigraphique).",
+    "pieges": "Visibles dès J15, progression jusqu'à M3, maturation jusqu'à 2 ans. En IRM, ossifications immatures pseudotumorales : corréler à la radio/TDM.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.534",
+    "tags": [
+      "PTH",
+      "Brooker",
+      "ossifications hétérotopiques"
+    ]
+  },
+  {
+    "id": "prothese-hanche-double-mobilite",
+    "nom": "Cupule à double mobilité",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Prévention de la luxation ; complication propre : luxation intraprothétique",
+    "technique": "Grosse tête en PE mobile dans la cupule métallique ; petite tête métallique dans l'insert. Vérifier le centrage de la tête métallique dans la cupule.",
+    "normes": "Tête centrée dans la cupule ; luxation < 1 %",
+    "pathologique": "Luxation intraprothétique : tête métallique excentrée au contact direct de la cupule (insert PE expulsé, radiotransparent, parfois visible dans les tissus mous) ; urgence chirurgicale (usure métal-métal).",
+    "pieges": "L'insert PE est radiotransparent : savoir chercher l'excentration de la tête.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTH",
+      "double mobilité",
+      "luxation intraprothétique"
+    ]
+  },
+  {
+    "id": "prothese-hanche-resurfacage",
+    "nom": "Arthroplastie de resurfaçage – contrôle",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Couple métal/métal sans tige diaphysaire, sujet jeune",
+    "technique": "Bassin de face : angle tige centreuse – axe anatomique du col ; profil de Dunn : tige centreuse dans l'axe du col ; recherche d'encoche à la jonction tête métallique–col.",
+    "normes": "Valgus de 5–10° de la pièce fémorale ; cupule : inclinaison 30–45°, antéversion 5–25°",
+    "pathologique": "Encoche supérieure/supéro-latérale : risque de fracture du col et de descellement ; liseré autour de la tige centreuse avec perte de parallélisme ou bascule = mobilisation ; ostéolyse cervicale = premier signe d'échec.",
+    "pieges": "Usure non mesurable (dur-dur) ; 3 zones autour de la tige centreuse (médial → latéral). Rechercher pseudotumeur (métallose).",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.534–535",
+    "tags": [
+      "resurfaçage",
+      "métal-métal",
+      "encoche",
+      "col fémoral"
+    ]
+  },
+  {
+    "id": "prothese-hanche-pseudotumeur",
+    "nom": "Pseudotumeur / ALVAL / métallose (couple métal)",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Écho",
+      "IRM",
+      "TDM"
+    ],
+    "contexte": "Couple métal/métal, têtes > 36 mm, cols modulaires",
+    "technique": "Échographie : masse liquide ou solide péri-articulaire, épaisseur capsulaire. IRM (MAVRIC/SEMAC) : synovite, débris en hyposignal, ostéolyses, typage de la masse.",
+    "normes": "Absence de masse ; capsule fine",
+    "pathologique": "Écho : épaississement capsulaire > 7–9 mm surtout évolutif. IRM : synovite épaisse > 7 mm ; pseudotumeur type 1 kystique paroi < 3 mm, type 2 kystique paroi > 3 mm, type 3 à prédominance solide.",
+    "pieges": "ALVAL = diagnostic histologique. Corréler aux ions Co/Cr sériques. Contenu dense en TDM possible.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.525, 537, 539",
+    "tags": [
+      "métallose",
+      "pseudotumeur",
+      "ALVAL",
+      "métal-métal"
+    ]
+  },
+  {
+    "id": "prothese-hanche-infection",
+    "nom": "Arguments radiologiques d'infection de PTH",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Descellement septique vs aseptique",
+    "technique": "Rechercher l'association de signes de descellement et d'ostéite sur clichés comparatifs ; ponction articulaire au moindre doute.",
+    "normes": "Aucun signe spécifique ; une PTH infectée peut être radiologiquement normale",
+    "pathologique": "Évocateurs (association ++) : liseré précoce et évolutif, atteinte bipolaire (fémur + acétabulum), ostéolyse endostée focale/en bulles de savon mal limitée, appositions périostées plurilamellaires, ostéolyse autour des fils/vis, perforations corticales. IRM : absence d'épanchement → VPN proche de 100 %.",
+    "pieges": "Scintigraphie Tc : très sensible, peu spécifique, VPN 96–100 % ; leucocytes marqués plus spécifiques.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.528, 533–534, 539",
+    "tags": [
+      "PTH",
+      "infection",
+      "descellement septique",
+      "ponction"
+    ]
+  },
+  {
+    "id": "prothese-hanche-tdm-protocole",
+    "nom": "TDM de prothèse – réduction des artefacts",
+    "region": "hanche",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Prothèse douloureuse inexpliquée, mesures d'orientation, bilan pré-reprise",
+    "technique": "Imagerie spectrale/double énergie (monoénergétique haute keV) et algorithmes MAR ; reconstructions multiplanaires ; coupes sur les condyles pour l'antéversion.",
+    "normes": "Examen de référence de la prothèse douloureuse inexpliquée",
+    "pathologique": "Mesures : antéversion cupule 15 ± 10°, inclinaison 40–50°, antéversion fémorale 10–20°, offset 41 ± 6 mm, débord antérieur < 8 mm.",
+    "pieges": "MAR lisse les interfaces : interpréter liserés avec prudence ; possibles faux artefacts créés par l'algorithme.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.535",
+    "tags": [
+      "TDM",
+      "MAR",
+      "double énergie",
+      "artefacts métalliques"
+    ]
+  },
+  {
+    "id": "prothese-irm-protocole-metal",
+    "nom": "IRM de prothèse – séquences anti-artefacts (MAVRIC/SEMAC)",
+    "region": "membre-entier",
+    "categorie": "prothese",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Sepsis, pseudotumeur, tendons, ostéolyse, récidive tumorale",
+    "technique": "Préférer 1,5 T (bas champ), codage de fréquence dans l'axe de la prothèse, TSE à TE court/intermédiaire, long train d'échos, large bande passante, matrice élevée, Dixon (pas de saturation spectrale), séquences MARS/VAT/SEMAC/MAVRIC.",
+    "normes": "Interface os-prothèse nette sans signal liquidien",
+    "pathologique": "Membrane fibreuse < 2 mm entourée d'un liseré en hyposignal = fixation limitée ; > 2 mm irrégulière = ostéolyse ; circonférentielle/évolutive = perte de fixation. Synovite plurilamellaire (genou) : très évocatrice d'infection.",
+    "pieges": "Éviter l'écho de gradient et la saturation de graisse spectrale ; artefacts maximaux près des composants CoCr.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.537 ; ch.27 p.791–792",
+    "tags": [
+      "IRM",
+      "MAVRIC",
+      "SEMAC",
+      "MARS",
+      "artefacts"
+    ]
+  },
+  {
+    "id": "prothese-genou-hka",
+    "nom": "Axe mécanique HKA après PTG (goniométrie)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Bilan de référence la 1re année, PTG douloureuse/instable",
+    "technique": "Goniométrie en charge (pangonogramme ou EOS) : angle entre l'axe mécanique fémoral (centre tête fémorale – centre du genou) et l'axe mécanique tibial (centre genou – milieu de la pince).",
+    "normes": "HKA 180 ± 3° (3° varus à 3° valgus) ; angle anatomique fémur-tibia 4–10° de valgus ; angle axes anatomique/mécanique fémoral 4–8°",
+    "pathologique": "Désaxation > 3° : surcharge compartimentale, usure du PE, descellement (tibial en varus), fracture d'implant tibial.",
+    "pieges": "Rotation du membre et flessum faussent la mesure ; EOS limite l'erreur de projection.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.782",
+    "tags": [
+      "PTG",
+      "HKA",
+      "goniométrie",
+      "axe mécanique"
+    ]
+  },
+  {
+    "id": "prothese-genou-angles-alpha-beta",
+    "nom": "Angles frontaux α (fémoral) et β (tibial) de la PTG",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Positionnement frontal des implants",
+    "technique": "Face en charge : α = angle interne entre la ligne bicondylienne prothétique et l'axe anatomique (ou mécanique) du fémur ; β = angle interne entre la tangente à l'embase tibiale et l'axe mécanique tibial.",
+    "normes": "α : 96° (94–98°) / axe anatomique ou 91° (90–92°) / axe mécanique ; β : 90–92° ; interligne horizontal",
+    "pathologique": "β < 90° = implant tibial en varus (descellement, fracture d'implant) ; tangentes non perpendiculaires aux axes mécaniques = malposition.",
+    "pieges": "Plateau prothétique doit couvrir ≥ 85 % du plateau tibial ; débord médial → irritation LCM / bursite de la patte d'oie.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.782–783",
+    "tags": [
+      "PTG",
+      "angle alpha",
+      "angle beta",
+      "Knee Society"
+    ]
+  },
+  {
+    "id": "prothese-genou-angles-gamma-delta",
+    "nom": "Angles sagittaux γ (fémoral) et δ (tibial) – Knee Society",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Positionnement sagittal des implants (système de Ewald / Knee Society)",
+    "technique": "Profil strict : γ = flexion du composant fémoral par rapport à l'axe anatomique fémoral ; δ = angle entre l'embase tibiale et l'axe anatomique tibial (pente).",
+    "normes": "γ ≈ 0–3° de flexion ; δ ≈ 83–90° (pente postérieure 0–7°)",
+    "pathologique": "Composant fémoral en extension → encoche corticale antérieure ; en flexion excessive → conflit fémoropatellaire. δ > 90° = pente antérieure (instabilité en flexion).",
+    "pieges": "Valeurs cibles variables selon le dessin prothétique (postérostabilisé ou conservation du LCP).",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTG",
+      "angle gamma",
+      "angle delta",
+      "Knee Society",
+      "Ewald"
+    ]
+  },
+  {
+    "id": "prothese-genou-pente-tibiale",
+    "nom": "Pente tibiale postérieure prothétique",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "PTG, instabilité en flexion",
+    "technique": "Profil strict : angle entre la perpendiculaire à l'axe anatomique tibial et la tangente à l'embase tibiale.",
+    "normes": "0–7° de pente postérieure",
+    "pathologique": "Pente antérieure : anormale (recul du tibia, instabilité) ; pente excessive : instabilité antéropostérieure, surcharge du PE postérieur.",
+    "pieges": "Profil non strict = fausse pente.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.783–784",
+    "tags": [
+      "PTG",
+      "pente tibiale",
+      "profil"
+    ]
+  },
+  {
+    "id": "prothese-genou-encoche-femorale",
+    "nom": "Encoche (notch) corticale fémorale antérieure",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Risque de fracture supracondylienne",
+    "technique": "Profil strict : rechercher une encoche à la jonction corticale fémorale antérieure – bord antérieur de l'implant ; ligne de coupe fémorale inférieure perpendiculaire à l'axe anatomique fémoral.",
+    "normes": "Absence d'encoche",
+    "pathologique": "Encoche antérieure : facteur de risque de fracture périprothétique supracondylienne.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.782–783",
+    "tags": [
+      "PTG",
+      "notch",
+      "encoche",
+      "fracture supracondylienne"
+    ]
+  },
+  {
+    "id": "prothese-genou-hauteur-patellaire-ptg",
+    "nom": "Hauteur patellaire après PTG (Blackburne-Peel)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Douleur antérieure, conflit, rupture de l'appareil extenseur",
+    "technique": "Profil : distance verticale entre le point inférieur de la surface articulaire patellaire et la tangente au plateau tibial / longueur de la surface articulaire patellaire.",
+    "normes": "0,8 ± 0,2",
+    "pathologique": "< 0,8 : patella baja (impaction sur l'implant fémoral, tendinopathie patellaire) ; > 1 : patella alta. Migration progressive haute = lésion du tendon patellaire ; basse = lésion du tendon quadricipital.",
+    "pieges": "Ligne articulaire prothétique modifiée : préférer Blackburne-Peel (référence tibiale) aux index utilisant la TTA. Épaisseur patella + PE ≤ patella native ; patella osseuse résiduelle < 11 mm = risque de fracture.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.779, 783, 786",
+    "tags": [
+      "PTG",
+      "patella baja",
+      "Blackburne-Peel",
+      "appareil extenseur"
+    ]
+  },
+  {
+    "id": "prothese-genou-rotation-femorale-berger",
+    "nom": "Rotation du composant fémoral au TDM (méthode de Berger)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité patellaire, douleur, laxité en flexion",
+    "technique": "Coupe axiale par les épicondyles : angle entre la ligne bi-épicondylienne chirurgicale (tubercule épicondylien latéral – sulcus épicondylien médial) et la ligne bicondylienne postérieure prothétique.",
+    "normes": "Rotation latérale 3° (0–5°) / ligne chirurgicale ; ≈ 6° / ligne anatomique (épicondyles)",
+    "pathologique": "Rotation médiale (même 1–4°) : instabilité patellaire (translation/bascule latérale). Additionner rotations fémorale + tibiale (rotation combinée).",
+    "pieges": "Artefacts métalliques : MAR/double énergie ; l'IRM visualiserait mieux la ligne bi-épicondylienne.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.786–787",
+    "tags": [
+      "PTG",
+      "Berger",
+      "rotation fémorale",
+      "TDM",
+      "instabilité patellaire"
+    ]
+  },
+  {
+    "id": "prothese-genou-rotation-tibiale-berger",
+    "nom": "Rotation du composant tibial au TDM (méthode de Berger)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Douleur inexpliquée, instabilité patellaire",
+    "technique": "Superposition de 2 coupes (TTA et plateau prothétique/PE) : angle entre la droite TTA – centre de la pièce tibiale et la perpendiculaire au bord postérieur du plateau prothétique passant par son centre.",
+    "normes": "≈ 18° de rotation médiale (référence normale)",
+    "pathologique": "Rotation médiale excessive de l'embase (angle nettement > 18°) : instabilité/douleur patellaire. Rotation combinée fémur + tibia : 1–4° interne → bascule latérale, 3–8° → subluxation, 7–17° → luxation patellaire (Berger).",
+    "pieges": "Coupes séquentielles bilatérales hanches–genoux–chevilles, patella au zénith.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.787",
+    "tags": [
+      "PTG",
+      "Berger",
+      "rotation tibiale",
+      "TDM"
+    ]
+  },
+  {
+    "id": "prothese-genou-liseres-knee-society",
+    "nom": "Liserés et zones de la Knee Society (Ewald)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Descellement fémoral/tibial/patellaire de PTG",
+    "technique": "Face et profil strict (rayon tangent) : épaisseur des liserés par zone (fémur profil, tibia face et profil, patella) ; somme des épaisseurs par composant (score d'Ewald).",
+    "normes": "Liseré fin < 1 mm, stable, apparu < 6 mois (cimenté) ou < 2 ans (non cimenté)",
+    "pathologique": "Descellement suspecté si liseré > 2 mm, tardif, évolutif ou ostéolyse focale > 2 mm. Score Ewald par composant : ≤ 4 mm non significatif ; 5–9 mm surveillance rapprochée ; ≥ 10 mm échec possible/imminent.",
+    "pieges": "Rayon non tangent masque le liseré (fluoroscopie-guidée utile) ; clarté sous embase avec tige longue = stress shielding.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.784–785",
+    "tags": [
+      "PTG",
+      "liseré",
+      "Ewald",
+      "Knee Society",
+      "descellement"
+    ]
+  },
+  {
+    "id": "prothese-genou-usure-pe",
+    "nom": "Usure / dislocation de l'insert PE (PTG)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Instabilité, ostéolyse, métallose",
+    "technique": "Diminution de hauteur de l'interligne prothétique sur clichés successifs en charge, même agrandissement ; asymétrie d'interligne ; perte des rapports PE/embase.",
+    "normes": "Interligne prothétique symétrique et stable",
+    "pathologique": "Pincement asymétrique = usure ; débris métalliques intra-articulaires = métallose (contact métal-métal) ; perte de rapports = dislocation du PE. IRM MAVRIC : hypersignal linéaire PE/embase.",
+    "pieges": "TDM non en charge : détection plus tardive. Écho : PE = interface hyperéchogène avec cône d'ombre (métal = artefacts de répétition).",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.784, 787, 790, 792",
+    "tags": [
+      "PTG",
+      "polyéthylène",
+      "usure",
+      "métallose"
+    ]
+  },
+  {
+    "id": "prothese-genou-descellement-septique",
+    "nom": "Descellement septique vs aseptique (PTG)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "IRM",
+      "Écho"
+    ],
+    "contexte": "PTG douloureuse",
+    "technique": "Analyse comparative des liserés, ostéolyses, réactions périostées ; ponction articulaire (sans antibiotique depuis ≥ 4 semaines).",
+    "normes": "Ponction : < 2 500 leucocytes/mL",
+    "pathologique": "Septique : ostéolyse épaisse rapidement progressive, appositions périostées, bulles gazeuses ; ponction > 2 500 leucocytes/mL dont > 60 % PNN ; VS > 30 mm/h, CRP > 20 mg/L. Granulomateux : usure PE + ostéolyse volumineuse. IRM : synovite plurilamellaire évocatrice d'infection.",
+    "pieges": "Différenciation radiographique très difficile ; scintigraphie Tc peu spécifique.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.780, 786, 792",
+    "tags": [
+      "PTG",
+      "infection",
+      "descellement",
+      "ponction"
+    ]
+  },
+  {
+    "id": "prothese-genou-arthrofibrose-echo",
+    "nom": "Arthrofibrose après PTG (échographie)",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Raideur (flexion < 100° à 6 mois)",
+    "technique": "Mesure de l'épaisseur synoviale (récessus sous-quadricipital, partie distale du fémur) ; Doppler synovial et de la graisse de Hoffa.",
+    "normes": "Synoviale fine",
+    "pathologique": "Épaississement synovial ≥ 3 mm : Se 84 %, Sp 82 % pour l'arthrofibrose ; hyperhémie Doppler. IRM : synoviale épaissie hypo-intense en DP.",
+    "pieges": "Toujours éliminer une infection à bas bruit devant une raideur.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.781, 790",
+    "tags": [
+      "PTG",
+      "arthrofibrose",
+      "raideur",
+      "échographie"
+    ]
+  },
+  {
+    "id": "prothese-genou-puc",
+    "nom": "Prothèse unicompartimentale (PUC) – contrôle",
+    "region": "genou",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "EOS",
+      "IRM"
+    ],
+    "contexte": "Arthrose fémorotibiale médiale isolée",
+    "technique": "Goniométrie en charge, face/profil : alignement, débord et couverture de l'embase, liserés, compartiments non prothésés.",
+    "normes": "Discrète hypocorrection (varus résiduel 1–4°) pour une PUC médiale",
+    "pathologique": "Hypercorrection en valgus : arthrose fémorotibiale latérale ; liserés > 2 mm évolutifs = descellement ; luxation du PE (plateau mobile).",
+    "pieges": "Liseré physiologique fin, non évolutif, fréquent sous l'embase tibiale. IRM : codage de fréquence antéropostérieur.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PUC",
+      "unicompartimentale",
+      "hypocorrection",
+      "genou"
+    ]
+  },
+  {
+    "id": "prothese-epaule-pte-anatomique-lazarus",
+    "nom": "Liserés glénoïdiens de PTE anatomique (Lazarus)",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Descellement de l'implant glénoïdien (complication principale des PTE anatomiques)",
+    "technique": "Face (Grashey) et profil axillaire, ou TDM : liserés autour de la quille/plots de l'implant en PE cimenté.",
+    "normes": "Grade 0 : aucun liseré",
+    "pathologique": "Lazarus : 1 liseré incomplet autour de 1–2 plots ; 2 complet autour d'un plot ; 3 complet autour de ≥ 2 plots ; 4 complet autour de tous les plots ; 5 descellement franc (déplacement). Grades ≥ 3 ou évolutifs = descellement probable.",
+    "pieges": "Rayon doit être tangent à la glène ; TDM plus sensible.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTE anatomique",
+      "glène",
+      "Lazarus",
+      "liseré"
+    ]
+  },
+  {
+    "id": "prothese-epaule-pte-anatomique-migration",
+    "nom": "Migration céphalique et liserés huméraux (PTE anatomique)",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Insuffisance secondaire de coiffe, descellement huméral",
+    "technique": "Face : décentrage supérieur de la tête prothétique (distance acromio-humérale), décentrage postérieur en axial ; liserés de tige humérale selon 8 zones (Sanchez-Sotelo).",
+    "normes": "Tête centrée sur la glène ; DAH > 7 mm",
+    "pathologique": "Migration supérieure (DAH < 7 mm) = insuffisance de coiffe → descellement glénoïdien en « cheval à bascule » (rocking horse, Franklin). Tige « à risque » si liseré ≥ 2 mm dans ≥ 3 zones ; enfoncement ou bascule = descellement.",
+    "pieges": "Comparer à des clichés de même rotation.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTE anatomique",
+      "migration",
+      "coiffe",
+      "rocking horse",
+      "Franklin"
+    ]
+  },
+  {
+    "id": "prothese-epaule-pti-sirveaux",
+    "nom": "Encoche scapulaire (notching) de PTE inversée – Sirveaux/Nérot",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Suivi de prothèse totale inversée",
+    "technique": "Face stricte dans le plan de la scapula : érosion du pilier inférieur de la glène par l'implant huméral en adduction.",
+    "normes": "Grade 0 : absence d'encoche",
+    "pathologique": "Grade 1 : limitée au pilier ; 2 : au contact de la vis inférieure ; 3 : dépasse la vis inférieure ; 4 : atteint le dessous de la métaglène (proche de la quille centrale). Grades 3–4 : risque de descellement glénoïdien.",
+    "pieges": "Évolutive surtout les 1res années ; favorisée par une glénosphère haute/médialisée, inclinaison supérieure.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTE inversée",
+      "notching",
+      "encoche",
+      "Sirveaux",
+      "Nérot"
+    ]
+  },
+  {
+    "id": "prothese-epaule-pti-lsa-dsa",
+    "nom": "Latéralisation et abaissement (angles LSA/DSA de Boileau) – PTE inversée",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Évaluation biomécanique post-PTI (rotations, élévation)",
+    "technique": "Face stricte : LSA = angle entre la ligne bord supérieur de la glène – bord latéral de l'acromion et la ligne bord latéral de l'acromion – bord latéral du tubercule majeur ; DSA = angle entre la ligne bord supérieur glène – bord latéral acromion et la ligne bord latéral acromion – sommet de la tête/glénosphère.",
+    "normes": "LSA 75–95° ; DSA 40–65° (zones associées aux meilleurs résultats)",
+    "pathologique": "LSA < 75° : médialisation (perte de rotations, notching) ; DSA > 65° : abaissement excessif (contrainte deltoïdienne, fracture de contrainte acromiale).",
+    "pieges": "Rotation de la scapula fausse les angles ; cliché strict indispensable.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTE inversée",
+      "latéralisation",
+      "abaissement",
+      "LSA",
+      "DSA"
+    ]
+  },
+  {
+    "id": "prothese-epaule-pti-fracture-acromion",
+    "nom": "Fracture de contrainte de l'acromion / épine (PTE inversée) – Levy",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Douleur acromiale brutale ou progressive, perte d'élévation après PTI",
+    "technique": "Face, profil de Lamy (Y), TDM au moindre doute (fractures souvent non déplacées).",
+    "normes": "Absence de trait",
+    "pathologique": "Levy : type I = acromion antérolatéral (une partie de l'origine du deltoïde moyen) ; II = toute l'origine du deltoïde moyen et partie du postérieur (en dehors de l'AC) ; III = toute l'origine moyenne et postérieure (épine de la scapula).",
+    "pieges": "Os acromial préexistant à ne pas confondre ; fractures parfois visibles uniquement en TDM.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTE inversée",
+      "acromion",
+      "fracture de contrainte",
+      "Levy"
+    ]
+  },
+  {
+    "id": "prothese-epaule-choix-implant",
+    "nom": "Bilan préprothétique d'épaule (choix anatomique vs inversée)",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Omarthrose centrée ou excentrée",
+    "technique": "TDM/arthroscanner : stock osseux glénoïdien, rétroversion glénoïdienne (classification de Walch), subluxation postérieure, état et dégénérescence graisseuse de la coiffe, muscle petit rond, deltoïde.",
+    "normes": "Profondeur intraspongieuse glénoïdienne ≥ 15 mm pour une quille de PTE anatomique",
+    "pathologique": "Omarthrose centrée, coiffe continue, stock suffisant, > 50 ans : PTE anatomique. Excentrée, rupture massive, néoarticulation sous-acromiale : PTE inversée. Petit rond atteint : moins bons résultats de la PTI.",
+    "pieges": "Ne pas intégrer les ostéophytes glénoïdiens dans la mesure de rétroversion.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.130, 132",
+    "tags": [
+      "épaule",
+      "PTE",
+      "Walch",
+      "stock glénoïdien",
+      "coiffe"
+    ]
+  },
+  {
+    "id": "prothese-coude-arthroplastie",
+    "nom": "Arthroplastie du coude – contrôle radiographique",
+    "region": "coude",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Prothèse totale de coude, prothèse de tête radiale, resurfaçage du capitulum",
+    "technique": "Face et profil : centrage des tiges dans le fût diaphysaire, position des pièces humérale/ulnaire par rapport aux corticales ; prothèse radiale : continuité des surfaces, décentrage, inclinaison, translation.",
+    "normes": "Liseré ≤ 2 mm toléré ; ostéopénie du capitulum fréquente (tête radiale)",
+    "pathologique": "Liserés évolutifs/ostéolyse = descellement (affirmé par migration). Surdimensionnement de la tête radiale : asymétrie médiale/latérale de l'interligne huméro-ulnaire. Fractures périprothétiques (5 %) : classification Mayo type 1 condyle/olécrâne, 2 tiges, 3 au-delà des pièces.",
+    "pieges": "Usure du PE : déviation frontale ou laxité accrue sur clichés en stress. Arthrose huméro-radiale tardive (20 %) après tête radiale.",
+    "pediatrie": false,
+    "source": "Cotten ch.9 p.202–203",
+    "tags": [
+      "coude",
+      "prothèse de tête radiale",
+      "surdimensionnement",
+      "Mayo"
+    ]
+  },
+  {
+    "id": "prothese-main-prothese-tmc",
+    "nom": "Prothèse trapézo-métacarpienne – critères",
+    "region": "poignet-main",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Rhizarthrose, choix prothèse vs trapézectomie",
+    "technique": "Mesure de la hauteur et de la largeur du trapèze (radio/TDM) ; suivi : luxation, fracture du trapèze, descellement de la cupule trapézienne.",
+    "normes": "Trapèze hauteur et largeur > 8 mm ; patient > 60 ans, non manuel, sans atteinte péritrapézienne",
+    "pathologique": "Hauteur trapézienne < 7 mm : incompatible avec l'implant trapézien. Liseré évolutif autour de la cupule = descellement.",
+    "pieges": "Double mobilité disponible pour limiter la luxation.",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.210",
+    "tags": [
+      "rhizarthrose",
+      "trapèze",
+      "prothèse TMC"
+    ]
+  },
+  {
+    "id": "prothese-poignet-prothese-totale",
+    "nom": "Prothèse totale de poignet – suivi",
+    "region": "poignet-main",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Arthrose radiocarpienne / PR",
+    "technique": "Face et profil : centrage, liserés autour de la pièce radiale et des vis/tige carpo-métacarpienne, enfoncement de la pièce carpienne.",
+    "normes": "Absence de liseré évolutif",
+    "pathologique": "Descellement plus fréquent au versant carpien/métacarpien que radial (anciens modèles) ; liseré évolutif, migration distale/proximale = descellement.",
+    "pieges": "Prothèses Silastic abandonnées (synovite granulomateuse aux silicones : géodes multiples).",
+    "pediatrie": false,
+    "source": "Cotten ch.10 p.212",
+    "tags": [
+      "poignet",
+      "prothèse totale",
+      "silicone"
+    ]
+  },
+  {
+    "id": "prothese-cheville-pt-alignement",
+    "nom": "Prothèse totale de cheville – alignement et suivi",
+    "region": "cheville-pied",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Arthrose tibiotalienne, PTC douloureuse",
+    "technique": "Face en charge : angle entre l'axe anatomique tibial et l'embase tibiale ; profil en charge : pente de l'embase et position antéropostérieure du talus ; TDM : kystes/ostéolyses périprothétiques et conflits gouttières.",
+    "normes": "Embase tibiale ≈ 90 ± 5° / axe tibial (face) ; talus centré sous l'implant",
+    "pathologique": "Déformation frontale résiduelle > 10° : instabilité/usure asymétrique du PE. Enfoncement du talus, liseré évolutif, ostéolyse expansive (kystes) = descellement. Conflit gouttière médiale/latérale (ossifications).",
+    "pieges": "Ostéolyses fréquentes et souvent sous-estimées en radio : TDM (MAR) pour quantifier.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "cheville",
+      "PTC",
+      "alignement",
+      "kystes périprothétiques"
+    ]
+  },
+  {
+    "id": "prothese-echographie-protheses",
+    "nom": "Échographie autour des prothèses",
+    "region": "membre-entier",
+    "categorie": "prothese",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Prothèse douloureuse (hanche, genou), pseudotumeur, conflit",
+    "technique": "Recherche épanchement/synovite, collection ponctionnable, pseudotumeur, fracture occulte (rupture de la ligne corticale), conflit tendineux (iliopsoas), débord prothétique, tendinopathies.",
+    "normes": "Absence d'épanchement significatif",
+    "pathologique": "Hanche : épaississement capsulaire > 7–9 mm évolutif = pseudotumeur ; genou : synoviale ≥ 3 mm = arthrofibrose. Guidage de ponction/infiltration.",
+    "pieges": "Dépend du morphotype ; métal = artefacts de répétition, PE = cône d'ombre.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.537 ; ch.27 p.790–791",
+    "tags": [
+      "échographie",
+      "pseudotumeur",
+      "ponction",
+      "conflit"
+    ]
+  }
+]

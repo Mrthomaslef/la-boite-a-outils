@@ -1,0 +1,836 @@
+[
+  {
+    "id": "epaule-espace-subacromial",
+    "nom": "Hauteur de l'espace subacromial (distance acromio-humérale)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Rupture large de la coiffe (partie supérieure), excentration supérieure, omarthrose excentrée",
+    "technique": "Cliché de face en rotation neutre (ou incidences de Railhac / Leclercq) : distance verticale entre la corticale inférieure de l'acromion et le sommet de la tête humérale.",
+    "normes": "7–15 mm (moyenne 10,5 mm) en rotation neutre ; ≥ 7 mm dans l'omarthrose centrée",
+    "pathologique": "≤ 6 mm : large rupture de la partie supérieure de la coiffe (au moins supra- et infra-épineux) ; < 6 mm : critère de non-réparabilité pour la plupart des auteurs ; < 6 mm + pincement GH = omarthrose excentrée",
+    "pieges": "Signe de valeur uniquement positive (inconstant même en cas de large rupture). Clichés en rotation non fiables. Après acromioplastie, l'espace est artificiellement augmenté : comparer au cliché postopératoire précoce (cintre glénohuméral). Faussement diminué si rétroversion glénoïdale excessive ou subluxation postérieure.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.24 ; ch.1 p.50 ; ch.4 p.128",
+    "tags": [
+      "coiffe",
+      "ascension",
+      "radiographie",
+      "réparabilité"
+    ]
+  },
+  {
+    "id": "epaule-angle-critique",
+    "nom": "Angle critique de l'épaule (critical shoulder angle, CSA)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Facteur de risque constitutionnel : rupture de coiffe vs omarthrose centrée",
+    "technique": "Radiographie de face stricte (ou reconstruction TDM) : angle entre la ligne du plan glénoïdal (berges supérieure et inférieure de la glène) et la ligne joignant le rebord inférieur de la glène au point le plus latéral de l'acromion.",
+    "normes": "≈ 33° (témoins) ; 30–35°",
+    "pathologique": "> 35° : facteur de risque de rupture de coiffe (38° en moyenne en cas de rupture) et d'omarthrose excentrée ; < 30° : favoriserait l'omarthrose centrée",
+    "pieges": "Influencé par l'incidence radiographique (rotation, inclinaison) et par l'usure glénoïdale. Indépendant de la position de la tête humérale.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.26 ; ch.4 p.129 ; ch.4 p.131",
+    "tags": [
+      "acromion",
+      "coiffe",
+      "omarthrose",
+      "CSA"
+    ]
+  },
+  {
+    "id": "epaule-index-acromial",
+    "nom": "Index acromial (Nyffeler)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Extension latérale de l'acromion, risque de rupture de la coiffe",
+    "technique": "Radiographie de face : rapport GA/GH, GA = distance entre le plan glénoïdal (ligne joignant les berges sup. et inf. de la glène) et le bord latéral de l'acromion ; GH = distance entre ce même plan et le point le plus latéral du tubercule majeur (lignes parallèles au plan glénoïdal).",
+    "normes": "≈ 0,64 (témoins)",
+    "pathologique": "≈ 0,73 en cas de rupture de coiffe : extension latérale acromiale importante",
+    "pieges": "Mesure influencée par la morphologie et la position de la tête humérale (contrairement au CSA).",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.26 + complément (technique de tracé)",
+    "tags": [
+      "acromion",
+      "coiffe"
+    ]
+  },
+  {
+    "id": "epaule-morphologie-acromiale-bigliani",
+    "nom": "Morphologie acromiale de Bigliani (types I–III)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Conflit subacromial",
+    "technique": "Profil de coiffe (Lamy/Neer) ou coupe IRM sagittale oblique : forme de la face inférieure de l'acromion.",
+    "normes": "Type I : plat",
+    "pathologique": "Type II : courbe ; type III : crochu",
+    "pieges": "Pertinence remise en cause : faible reproductibilité, dépendance au positionnement ; la mesure de concavité (Park) n'est pas non plus justifiée. Préférer CSA / index acromial sur la face.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.26",
+    "tags": [
+      "acromion",
+      "conflit",
+      "classification"
+    ]
+  },
+  {
+    "id": "epaule-epine-acromiale",
+    "nom": "Épine acromiale (ossification de l'enthèse du ligament coraco-acromial)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Signe prédictif de rupture de coiffe",
+    "technique": "Cliché de face / profil de coiffe : mesurer la longueur de l'ossification à l'enthèse acromiale du ligament coraco-acromial.",
+    "normes": "Absente",
+    "pathologique": "Fortement prédictive de rupture, surtout si grande taille (7,4 mm en moyenne dans une série de ruptures transfixiantes)",
+    "pieges": "Lien causal non établi. Ne pas confondre avec l'acétabulisation (remodelage inférieur creusé de l'acromion des ruptures larges).",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.24",
+    "tags": [
+      "acromion",
+      "coiffe"
+    ]
+  },
+  {
+    "id": "epaule-taille-rupture-coiffe",
+    "nom": "Taille d'une rupture transfixiante de la coiffe",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-IRM",
+      "Arthro-TDM",
+      "Écho"
+    ],
+    "contexte": "Bilan préopératoire d'une rupture de la coiffe",
+    "technique": "Mesure en cm dans le plan frontal oblique (axe du supra-épineux) et dans le plan sagittal oblique perpendiculaire ; compter les tendons atteints (extension antéropostérieure).",
+    "normes": "—",
+    "pathologique": "Petite < 1 cm ; moyenne 1–4 cm ; massive > 4 cm. Évolutivité : 1–2 cm augmentent rapidement ; 2–4 cm lentement ; < 1 cm ou > 4 cm généralement stables",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.22 ; ch.1 p.15",
+    "tags": [
+      "coiffe",
+      "rupture"
+    ]
+  },
+  {
+    "id": "epaule-retraction-patte",
+    "nom": "Rétraction tendineuse (Patte, stades 1–3)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Rupture transfixiante de la coiffe : réparabilité",
+    "technique": "Coupe frontale oblique : position du moignon tendineux rétracté par rapport à trois repères — tubercule majeur, sommet de la tête humérale, interligne glénohuméral.",
+    "normes": "Stade 1 : moignon proche de l'enthèse (tubercule majeur)",
+    "pathologique": "Stade 2 : moignon en regard du sommet de la tête humérale ; stade 3 : moignon à hauteur de la glène (interligne) ou en dedans — réparabilité compromise",
+    "pieges": "Évaluer aussi la qualité des berges (fines ou clivées = suture difficile).",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.22 + complément (dénomination des stades de Patte)",
+    "tags": [
+      "coiffe",
+      "rétraction",
+      "réparabilité"
+    ]
+  },
+  {
+    "id": "epaule-signe-tangente",
+    "nom": "Signe de la tangente (Zanetti)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Amyotrophie du supra-épineux, réparabilité",
+    "technique": "Coupe sagittale oblique la plus latérale où l'épine et le processus coracoïde sont reliés au corps de la scapula (coupe en Y) : tracer la tangente du bord supérieur de l'épine scapulaire au bord supérieur du processus coracoïde.",
+    "normes": "Négatif : bord supérieur du corps musculaire au-dessus de la tangente",
+    "pathologique": "Positif : muscle ne dépassant plus la tangente = dégénérescence musculaire sévère, critère classique de non-réparabilité",
+    "pieges": "Intègre amyotrophie ET rétraction musculaire ; l'amyotrophie pure s'apprécie mieux plus médialement dans la fosse supra-épineuse.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.22–23 + complément (éponyme Zanetti)",
+    "tags": [
+      "coiffe",
+      "amyotrophie",
+      "réparabilité",
+      "supra-épineux"
+    ]
+  },
+  {
+    "id": "epaule-ratio-occupation-thomazeau",
+    "nom": "Rapport d'occupation de la fosse supra-épineuse (Thomazeau)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "TDM"
+    ],
+    "contexte": "Quantification de l'amyotrophie du supra-épineux",
+    "technique": "Coupe sagittale oblique en Y : rapport surface du corps musculaire / surface de la fosse supra-épineuse, la limite supérieure de la fosse étant le bord inférieur de la clavicule.",
+    "normes": "> 0,60 : normal ou atrophie minime",
+    "pathologique": "0,40–0,60 : atrophie modérée ; < 0,40 : atrophie sévère",
+    "pieges": "Mesure plus complexe, peu utilisée en routine.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.23 + complément (seuils de Thomazeau)",
+    "tags": [
+      "coiffe",
+      "amyotrophie",
+      "supra-épineux"
+    ]
+  },
+  {
+    "id": "epaule-goutallier-fuchs",
+    "nom": "Involution graisseuse musculaire (Goutallier-Bernageau / Fuchs)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Qualité musculaire de la coiffe, réparabilité",
+    "technique": "TDM : coupes axiales en fenêtre parties molles (Goutallier/Bernageau). IRM : T1 sagittale oblique (Fuchs). Grader chaque muscle (supra-, infra-épineux, subscapulaire, petit rond).",
+    "normes": "Stade 0 : pas de graisse ; stade 1 : quelques travées graisseuses (Fuchs 1 = normal)",
+    "pathologique": "Stade 2 : moins de graisse que de muscle (modéré, Fuchs 2) ; stade 3 : autant de graisse que de muscle ; stade 4 : plus de graisse que de muscle (stades 3–4 = Fuchs 3, sévère). Stade ≥ 3 : critère classique de non-réparabilité",
+    "pieges": "Classification de Fuchs plus reproductible. Muscle altéré avant réparation : récidive fréquente et aggravation de l'involution.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.23",
+    "tags": [
+      "coiffe",
+      "dégénérescence graisseuse",
+      "réparabilité"
+    ]
+  },
+  {
+    "id": "epaule-lafosse-subscapulaire",
+    "nom": "Classification de Lafosse des ruptures du subscapulaire",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-IRM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Rupture du tendon du subscapulaire",
+    "technique": "Coupes axiales et sagittales : extension verticale de la rupture (tiers du tendon), état du corps musculaire (Bernageau) et centrage de la tête.",
+    "normes": "—",
+    "pathologique": "I : partielle du tiers supérieur ; II : complète du tiers supérieur ; III : complète des 2/3 supérieurs ; IV : complète du tendon, involution graisseuse stades 0–2, tête centrée ; V : complète + involution stades 3–4 + excentration de la tête",
+    "pieges": "Les fibres superficielles insérées sur la berge latérale du sillon peuvent rester continues et masquer la rupture.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.22",
+    "tags": [
+      "coiffe",
+      "subscapulaire",
+      "classification"
+    ]
+  },
+  {
+    "id": "epaule-position-lcb-sillon",
+    "nom": "Position du tendon du chef long du biceps dans le sillon inter-tuberculaire",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-TDM",
+      "Écho"
+    ],
+    "contexte": "Subluxation / luxation médiale du chef long du biceps, lésion de poulie",
+    "technique": "Coupe axiale à hauteur du bord supérieur du tendon du subscapulaire, en rotation neutre : distance entre le centre du tendon et le fond du sillon inter-tuberculaire.",
+    "normes": "Décalage médial normal jusqu'à 7,5 mm (partie haute du sillon, rotation neutre)",
+    "pathologique": "Décalage médial supérieur : évoque une subluxation médiale",
+    "pieges": "Décalage physiologique maximal en haut du sillon et en rotation neutre.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.9 ; ch.1 p.44",
+    "tags": [
+      "biceps",
+      "poulie"
+    ]
+  },
+  {
+    "id": "epaule-epaisseur-lcb",
+    "nom": "Épaisseur du tendon du chef long du biceps",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Tendinopathie du chef long du biceps",
+    "technique": "Partie latérale du trajet intra-articulaire horizontal, juste avant sa réflexion dans le sillon ; mesure de l'épaisseur en coupe transversale.",
+    "normes": "≤ 2,5 mm",
+    "pathologique": "> 2,5 mm : épaississement évocateur de tendinopathie ; aspect trop « plat » étalé transversalement également rapporté",
+    "pieges": "Palpation douloureuse sous sonde non suffisante en l'absence d'anomalie morphologique.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.33",
+    "tags": [
+      "biceps",
+      "tendinopathie"
+    ]
+  },
+  {
+    "id": "epaule-epaisseur-bourse-sad",
+    "nom": "Épaisseur de la bourse sub-acromiodeltoïdienne",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Bursite sub-acromiodeltoïdienne",
+    "technique": "Écho : mesurer l'épaisseur incluant les deux feuillets et l'éventuel épanchement. IRM : épaisseur de l'hypersignal/épanchement bursal.",
+    "normes": "Écho : ≤ 2 mm (seuil historique) ; IRM : hypersignal/épanchement ≤ 2 mm, plutôt postérieur, possible chez l'asymptomatique (sportifs, travailleurs manuels)",
+    "pathologique": "> 2 mm initialement considéré pathologique, mais > 3 mm retrouvé chez des sportifs asymptomatiques : privilégier épaississement franc, asymétrie nette, hypervascularisation Doppler et corrélation clinique",
+    "pieges": "Seuil non consensuel ; caractéristiques échographiques non prédictives de l'efficacité d'un test anesthésique.",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.30 ; ch.1 p.37",
+    "tags": [
+      "bursite",
+      "conflit"
+    ]
+  },
+  {
+    "id": "epaule-espace-coracohumeral",
+    "nom": "Espace (distance) coraco-huméral",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "TDM",
+      "Écho"
+    ],
+    "contexte": "Conflit subcoracoïdien",
+    "technique": "Coupe axiale : distance la plus courte entre la pointe du processus coracoïde et la tête humérale (tubercule mineur).",
+    "normes": "Seuils variables selon la littérature",
+    "pathologique": "Diminué : < 6 mm en rotation médiale ou < 11 mm en rotation neutre selon les auteurs ; favorise le conflit subcoracoïdien (déformation du subscapulaire, bursite subcoracoïdienne)",
+    "pieges": "Valeurs dépendantes de la rotation. Excentration antérieure de la tête : facteur favorisant (ouverture postérieure de l'interligne).",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.38",
+    "tags": [
+      "conflit",
+      "subscapulaire",
+      "coracoïde"
+    ]
+  },
+  {
+    "id": "epaule-sugaya-postop",
+    "nom": "Classification de Sugaya (coiffe réparée)",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Suivi postopératoire d'une réparation de coiffe",
+    "technique": "IRM T2 coronales et sagittales obliques : épaisseur, signal et continuité du tendon réparé ; compter le nombre de coupes consécutives montrant la discontinuité.",
+    "normes": "Stade 1 : tendon continu d'épaisseur normale, hyposignal T2 global ; stade 2 : épaisseur normale, signal T2 partiellement augmenté",
+    "pathologique": "Stade 3 : épaisseur diminuée sans discontinuité ; stade 4 : discontinuité mineure (≤ 1–2 coupes consécutives) ; stade 5 : discontinuité majeure (> 2 coupes consécutives)",
+    "pieges": "Corrélation fonctionnelle non étudiée ; coiffe non continue après réparation ≈ 25 % (France 2005) sans mauvais résultat obligatoire. Vérifier aussi le centrage (hauteur subacromiale vs cliché postopératoire précoce).",
+    "pediatrie": false,
+    "source": "Cotten ch.1 p.51 ; ch.1 p.50",
+    "tags": [
+      "coiffe",
+      "postopératoire",
+      "réparation"
+    ]
+  },
+  {
+    "id": "epaule-perte-osseuse-glenoidienne",
+    "nom": "Perte osseuse glénoïdale antérieure (méthode du cercle / best-fit circle)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité antérieure, lésion de Bankart osseuse : choix arthroscopie vs butée",
+    "technique": "Vue sagittale en face de la glène (reconstruction 3D, soustraction de la tête) : cercle ajusté sur les 2/3 inférieurs de la glène (centre ≈ tubercule d'Assaki). Perte (%) = largeur du défect antérieur (d) / diamètre du cercle (D) × 100 (ou rapport de surfaces).",
+    "normes": "Glène inférieure assimilable à un cercle complet ; diamètre ≈ 25–27 mm",
+    "pathologique": "< 15–20 % de la largeur : traitement arthroscopique possible ; 25–30 % : greffe / reconstruction osseuse (butée) à envisager",
+    "pieges": "Absence de consensus sur la méthode (pourcentage, index glénoïdal, rapport de surface ou de longueur, longueur du défect). Rebord émoussé « en pan coupé » = perte osseuse même sans fragment.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.68–69",
+    "tags": [
+      "instabilité",
+      "Bankart",
+      "glène",
+      "cercle"
+    ]
+  },
+  {
+    "id": "epaule-glenoid-track",
+    "nom": "Glenoid track et Hill-Sachs interval (on-track / off-track)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité antérieure : caractère engageant d'une encoche de Hill-Sachs",
+    "technique": "1) Coupe sagittale en face de la glène : diamètre D du cercle des 2/3 inférieurs. 2) Largeur de la perte osseuse antérieure d. 3) GT = 0,83 × D − d. 4) HSI = distance entre le bord médial de l'insertion de la coiffe sur la tête et le bord médial de l'encoche (coupe axiale/3D postérieure).",
+    "normes": "Exemple : D = 25,6 mm → GT = 21,2 mm",
+    "pathologique": "HSI < GT : on-track (non engageante) ; HSI > GT : off-track (engageante, risque de récidive). Ex. D = 27,1, d = 9 → GT = 13,4 mm, HSI 20,6 = off-track",
+    "pieges": "Évaluer conjointement les pertes osseuses humérale et glénoïdale (la perte glénoïdale réduit le GT).",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.69–70",
+    "tags": [
+      "instabilité",
+      "Hill-Sachs",
+      "glenoid track",
+      "engagement"
+    ]
+  },
+  {
+    "id": "epaule-hill-sachs-taille",
+    "nom": "Encoche de Hill-Sachs : taille, orientation et localisation",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "IRM",
+      "Radio"
+    ],
+    "contexte": "Instabilité antérieure",
+    "technique": "Recherche au-dessus du processus coracoïde, sur les 2 premiers cm de tête humérale (avant la formation du sillon inter-tuberculaire) ; mesurer largeur, profondeur et % de surface articulaire ; apprécier l'orientation en ABER/rotation latérale.",
+    "normes": "Tête humérale ronde sur les 2 premiers cm (méplat physiologique plus bas = jonction tête–tubercule majeur)",
+    "pathologique": "Encoche ≥ 25 % de la surface de la tête : stabilité glénohumérale diminuée ; axe parallèle à la glène en ABER ou localisation médiale au glenoid track : engagement favorisé",
+    "pieges": "Diagnostic différentiel : remaniements du conflit postérosupérieur. Impaction minime parfois invisible au scanner (contusion visible en IRM).",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.68",
+    "tags": [
+      "instabilité",
+      "Hill-Sachs"
+    ]
+  },
+  {
+    "id": "epaule-mclaughlin-angle-gamma",
+    "nom": "Encoche de Mc Laughlin (Hill-Sachs inversée) : angle gamma et taille",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "Radio"
+    ],
+    "contexte": "Luxation / instabilité postérieure",
+    "technique": "Coupe axiale TDM : tracer un cercle incluant la surface articulaire de la tête et l'encoche ; angle gamma = angle (centré sur le cercle) entre le bord médial de l'encoche et la berge médiale de la gouttière bicipitale. Taille = % de la surface articulaire de la tête.",
+    "normes": "Petite : < 25 % de la surface articulaire",
+    "pathologique": "Angle gamma > 90° : risque de récidive. Moyenne 25–50 % (comblement : greffon, subscapulaire, LGHM) ; grande > 50 % (arthroplastie). ≥ 30 % : prédispose à une instabilité postérieure chronique",
+    "pieges": "Pas de consensus sur la méthode d'évaluation. Radiographie : profil axillaire, face en rotation médiale (double contour, pseudo-interligne).",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.81–82 ; ch.2 p.85",
+    "tags": [
+      "instabilité postérieure",
+      "McLaughlin"
+    ]
+  },
+  {
+    "id": "epaule-version-glenoidienne",
+    "nom": "Version (rétroversion) glénoïdale",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité postérieure, omarthrose (bilan préprothétique), dysplasie glénoïdale",
+    "technique": "Coupe axiale passant par le centre de la glène (idéalement repérée en 3D, perpendiculaire au plan de la scapula, passant par la jonction bord médial–épine) : angle entre le grand axe de la glène AB (bords antérieur et postérieur) et la perpendiculaire à l'axe de la scapula XX' (milieu C de AB → bord médial de l'écaille). Méthode de Friedman.",
+    "normes": "Rétroversion physiologique 0–8°",
+    "pathologique": "> 10° : excès de rétroversion (facteur de risque d'instabilité postérieure, arthrogène) ; ≥ 15° : Walch B3 ; ≥ 25° : dysplasie glénoïdale (Walch C) ; antéversion : Walch D",
+    "pieges": "Exclure les ostéophytes glénoïdaux. Dépend du niveau et de l'orientation de la coupe : préférer les reconstructions 3D.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.82–83 ; ch.4 p.129–130 + complément (éponyme Friedman)",
+    "tags": [
+      "glène",
+      "version",
+      "instabilité postérieure",
+      "omarthrose"
+    ]
+  },
+  {
+    "id": "epaule-hypoplasie-glenoidienne",
+    "nom": "Hypoplasie / dysplasie du rebord glénoïdal postéro-inférieur",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM",
+      "Radio"
+    ],
+    "contexte": "Subluxation postérieure récidivante",
+    "technique": "Coupe axiale la plus caudale : morphologie du rebord postéro-inférieur (pointu, en « J », en « Delta ») ; mesurer l'extension en hauteur de l'hypoplasie.",
+    "normes": "Rebord postéro-inférieur pointu",
+    "pathologique": "Rebord arrondi (« J ») ou en pan coupé (« Delta ») = hypoplasie ; extension en hauteur ≥ 12 mm : facteur prédictif de subluxation postérieure récidivante (Se 87 %)",
+    "pieges": "Hypertrophie labrale et cartilagineuse postérieure associée. Radio : hypoplasie du col, glène aplatie, pseudo-élargissement inférieur de l'interligne.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.82–84",
+    "tags": [
+      "glène",
+      "dysplasie",
+      "instabilité postérieure"
+    ]
+  },
+  {
+    "id": "epaule-lesion-labrale-posterieure",
+    "nom": "Extension en hauteur d'une lésion labrale postérieure",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-TDM",
+      "Arthro-IRM"
+    ],
+    "contexte": "Instabilité postérieure",
+    "technique": "Coupes axiales successives / sagittales : mesurer l'étendue craniocaudale de la lésion du labrum postérieur.",
+    "normes": "—",
+    "pathologique": "> 15 mm : habituellement associée à une instabilité postérieure (facteur prédictif le plus important)",
+    "pieges": "Petite fente postéro-inférieure à contours réguliers entre 7 et 8 h : possible variante (prudence).",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.80 ; ch.2 p.84",
+    "tags": [
+      "labrum",
+      "instabilité postérieure"
+    ]
+  },
+  {
+    "id": "epaule-insertion-capsulaire-anterieure",
+    "nom": "Type d'insertion de la capsule antérieure",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-TDM",
+      "Arthro-IRM"
+    ],
+    "contexte": "Instabilité antérieure (bilan arthrographique)",
+    "technique": "Coupe axiale : distance entre l'insertion glénoïdale de la capsule antérieure et la base du labrum antérieur.",
+    "normes": "Type I : sur le sommet / versant capsulaire du labrum ; type II : sur la glène < 1 cm de la base du labrum",
+    "pathologique": "Type III : sur le col de la scapula > 1 cm de la base du labrum",
+    "pieges": "Distension articulaire de l'arthrographie modifiant l'aspect ; à ne pas confondre avec un décollement capsulopériosté.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.53",
+    "tags": [
+      "capsule",
+      "instabilité"
+    ]
+  },
+  {
+    "id": "epaule-recessus-sous-labral",
+    "nom": "Profondeur du récessus sous-labral (complexe bicipitolabral)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Arthro-IRM",
+      "Arthro-TDM",
+      "IRM"
+    ],
+    "contexte": "Variante vs SLAP lésion de type 2",
+    "technique": "Coupe frontale oblique : profondeur de l'opacification entre labrum supérieur et rebord glénoïdal ; vérifier l'orientation (curviligne en haut et en dedans) et la largeur.",
+    "normes": "Type I : pas de récessus ; type II : récessus peu profond 2–5 mm ; largeur ≤ 2 mm, bords lisses",
+    "pathologique": "Type III : récessus profond > 5 mm (principal diagnostic différentiel de SLAP 2). En faveur d'une SLAP : épaisseur lésionnelle > 2 mm, extension latérale au sein du labrum, kyste labral, fond globuleux, élargissement antéro-postérieur de la séparation",
+    "pieges": "Récessus : contours strictement parallèles en coupe axiale.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.88 ; ch.2 p.92",
+    "tags": [
+      "labrum",
+      "SLAP",
+      "variante"
+    ]
+  },
+  {
+    "id": "epaule-labrum-echo",
+    "nom": "Lésion labrale en échographie",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Instabilité glénohumérale",
+    "technique": "Sonde postérieure / antérieure, manœuvres dynamiques en rotation : base du labrum.",
+    "normes": "Labrum triangulaire ou arrondi, hyperéchogène, homogène, immobile",
+    "pathologique": "Zone hypoéchogène > 2 mm d'épaisseur à la base du labrum, bulles d'azote, labrum mobile, petit/irrégulier ou absent",
+    "pieges": "Intérêt de l'étude controlatérale.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.67",
+    "tags": [
+      "labrum",
+      "échographie"
+    ]
+  },
+  {
+    "id": "epaule-butee-position",
+    "nom": "Position d'une butée osseuse antérieure",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Suivi postopératoire de butée (Latarjet)",
+    "technique": "Coupe axiale : position latérale de la butée par rapport à la tangente à la surface glénoïdale ; coupe sagittale oblique : hauteur par rapport au plan équatorial de la glène.",
+    "normes": "Affleurant la tangente glénoïdale ; ≈ 30 % au-dessus et 70 % en dessous de l'équateur glénoïdal",
+    "pathologique": "Débord latéral : lésions cartilagineuses ; position trop médiale : récidive d'instabilité ; rechercher lyse, fracture, pseudarthrose, déplacement du matériel",
+    "pieges": "Comparaison aux clichés antérieurs pour la résorption.",
+    "pediatrie": false,
+    "source": "Cotten ch.2 p.77",
+    "tags": [
+      "instabilité",
+      "butée",
+      "postopératoire"
+    ]
+  },
+  {
+    "id": "epaule-pincement-glenohumeral",
+    "nom": "Interligne glénohuméral (pincement)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Omarthrose",
+    "technique": "Cliché de face (pincement majoré en rotation latérale) : épaisseur de l'interligne glénohuméral.",
+    "normes": "Interligne conservé",
+    "pathologique": "< 2 mm : pincement significatif (focal ou global)",
+    "pieges": "Interligne paraissant normal ou élargi en cas d'épanchement.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.128",
+    "tags": [
+      "omarthrose",
+      "radiographie"
+    ]
+  },
+  {
+    "id": "epaule-subluxation-posterieure-tete",
+    "nom": "Taux de subluxation postérieure de la tête humérale (Walch)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Omarthrose à coiffe continente, instabilité postérieure",
+    "technique": "Coupe axiale en rotation neutre (positionnement 3D conseillé) : droite AB joignant bords antérieur et postérieur de la glène, perpendiculaire passant par le centre C ; sur une parallèle à AB passant par le tiers médial de la tête : a = segment de tête en arrière de la perpendiculaire, b = diamètre de la tête ; T = a/b.",
+    "normes": "45–55 %",
+    "pathologique": "> 55 % : subluxation postérieure (Walch B) ; ≥ 70 % : critère B3",
+    "pieges": "En cas d'usure postérieure, B = partie la plus postérieure de la glène.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.130–131",
+    "tags": [
+      "omarthrose",
+      "subluxation",
+      "Walch"
+    ]
+  },
+  {
+    "id": "epaule-classification-walch",
+    "nom": "Classification de Walch modifiée de la glène (omarthrose)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Arthro-TDM"
+    ],
+    "contexte": "Omarthrose primitive : planification prothétique",
+    "technique": "Coupes axiales / reconstructions 3D : centrage de la tête, érosion glénoïdale, rétroversion, subluxation.",
+    "normes": "Type A1 : tête centrée, usure centrale limitée",
+    "pathologique": "A2 : protrusion centrale (glène en cupule) ; B1 : subluxation postérieure sans érosion ; B2 : érosion postérieure, glène biconcave ; B3 : glène monoconcave avec subluxation ≥ 70 % et/ou rétroversion ≥ 15° ; C : dysplasique, rétroversion ≥ 25° sans érosion majeure ; D : glène antéversée ou subluxation antérieure",
+    "pieges": "Reconstructions 3D plus fiables (plus d'érosions postéro-inférieures que les coupes axiales).",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.130–131",
+    "tags": [
+      "omarthrose",
+      "glène",
+      "Walch",
+      "prothèse"
+    ]
+  },
+  {
+    "id": "epaule-profondeur-intraspongieuse-glene",
+    "nom": "Profondeur intraspongieuse glénoïdale (capital osseux)",
+    "region": "epaule",
+    "categorie": "prothese",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Bilan préopératoire de prothèse totale anatomique",
+    "technique": "Coupe axiale / reconstruction centrée sur la glène : profondeur d'os spongieux disponible depuis la surface glénoïdale vers la scapula, dans l'axe de la future quille.",
+    "normes": "≥ 15 mm",
+    "pathologique": "< 15 mm : insuffisant pour contenir la quille de l'implant glénoïdal anatomique",
+    "pieges": "Tenir compte de l'usure postérieure et de l'inclinaison de la glène ; logiciels de planification 3D.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.129–130",
+    "tags": [
+      "omarthrose",
+      "prothèse",
+      "glène"
+    ]
+  },
+  {
+    "id": "epaule-interligne-acromioclaviculaire",
+    "nom": "Largeur de l'interligne acromio-claviculaire",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "Écho"
+    ],
+    "contexte": "Arthrose acromio-claviculaire",
+    "technique": "Cliché de face centré sur l'AC, rayon ascendant de 10–15° ; mesure de la largeur de l'interligne.",
+    "normes": "1 à 3,4 mm en moyenne selon les auteurs (plus large chez l'homme, varie avec le côté dominant)",
+    "pathologique": "Pincement focal ou global + ostéocondensation, géodes, ostéophytes marginaux : arthrose",
+    "pieges": "Pincement inconstant (articulation non portante, cliché au repos). Arthrose AC très fréquente et souvent asymptomatique ; étude écho bilatérale et comparative.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.140",
+    "tags": [
+      "acromio-claviculaire",
+      "arthrose"
+    ]
+  },
+  {
+    "id": "epaule-articulation-coracoclaviculaire",
+    "nom": "Articulation coraco-claviculaire (processus conoïde)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Variante anatomique douloureuse",
+    "technique": "Cliché de face : longueur du processus conoïde de la clavicule en regard du processus coracoïde.",
+    "normes": "Absente le plus souvent (0,04–3 % en radiologie)",
+    "pathologique": "Définie par une longueur du processus conoïde ≥ 3 mm avec bord inférieur net",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.142",
+    "tags": [
+      "clavicule",
+      "coracoïde",
+      "variante"
+    ]
+  },
+  {
+    "id": "epaule-lch-capsulite-echo",
+    "nom": "Épaisseur du ligament coraco-huméral en échographie",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho"
+    ],
+    "contexte": "Capsulite rétractile",
+    "technique": "Coupe dans l'intervalle des rotateurs, au voisinage du bord latéral du processus coracoïde : épaisseur du LCH médial.",
+    "normes": "1,34 ± 0,32 mm (témoins)",
+    "pathologique": "3 ± 0,85 mm en cas de capsulite (exemple 4,2 mm) ; + tissu fibrovasculaire hypoéchogène hyperhémique autour du chef long du biceps",
+    "pieges": "Piège : insertion aberrante du petit pectoral passant en avant du coracoïde (10–15 %) mimant un LCH épaissi. Seule la partie périphérique du LCH est accessible.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.136",
+    "tags": [
+      "capsulite",
+      "ligament coraco-huméral"
+    ]
+  },
+  {
+    "id": "epaule-capsulite-irm",
+    "nom": "Épaisseurs IRM dans la capsulite rétractile (LCH, capsule de l'intervalle, LGHI)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "Arthro-IRM"
+    ],
+    "contexte": "Capsulite rétractile",
+    "technique": "Coupes sagittales obliques : épaisseur maximale du LCH et de la capsule de l'intervalle des rotateurs ; coupe frontale oblique : épaisseur du LGHI (récessus axillaire). Rechercher l'oblitération du triangle graisseux subcoracoïdien (T1 sagittale).",
+    "normes": "LCH et LGHI fins",
+    "pathologique": "LCH ≥ 4 mm (Sp 89–95 %) ; capsule de l'intervalle ≥ 7 mm en arthro-IRM (Sp 86 %) ; LGHI > 4 mm (Sp 95 %) ; hypersignal T2 du LGHI (Sp 88,2 %)",
+    "pieges": "Épaisseur du LGHI controversée en l'absence de distension articulaire. Examen parfois faussement négatif si atteinte limitée à l'intervalle.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.137",
+    "tags": [
+      "capsulite",
+      "ligament coraco-huméral",
+      "LGHI"
+    ]
+  },
+  {
+    "id": "epaule-bascule-scapulaire-fibrose-deltoide",
+    "nom": "Angle de bascule antérieure de la scapula (fibrose du deltoïde)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Fibrose rétractile du muscle deltoïde (post-injections)",
+    "technique": "Coupe transversale : angle entre l'axe du corps de la scapula et l'horizontale.",
+    "normes": "30–44°",
+    "pathologique": "Augmenté : bascule antérieure de la scapula (corrélée à la taille des cordes fibreuses ou à une rupture de coiffe associée selon les auteurs)",
+    "pieges": "Radio : scapula latéralisée et basculée en avant, acromion trop oblique vers le bas, enthésophyte de traction.",
+    "pediatrie": false,
+    "source": "Cotten ch.4 p.149",
+    "tags": [
+      "deltoïde",
+      "scapula",
+      "fibrose"
+    ]
+  },
+  {
+    "id": "epaule-varices-spinoglenoidiennes",
+    "nom": "Calibre de la veine suprascapulaire (échancrure spinoglénoïdale)",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Compression du nerf suprascapulaire",
+    "technique": "IRM : structures tubulées en hypersignal T2 dans l'échancrure spinoglénoïdale, rehaussement homogène ; mesurer le calibre.",
+    "normes": "Veines normales 1–4 mm",
+    "pathologique": "Varices : 6–10 mm",
+    "pieges": "Responsabilité des varices dans la compression nerveuse discutée.",
+    "pediatrie": false,
+    "source": "Cotten ch.3 p.119",
+    "tags": [
+      "nerf suprascapulaire",
+      "échancrure spinoglénoïdale"
+    ]
+  },
+  {
+    "id": "epaule-sprengel-rigault",
+    "nom": "Surélévation congénitale de la scapula (Sprengel) : classification de Rigault-Pouliquen",
+    "region": "epaule",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Maladie de Sprengel",
+    "technique": "Radiographie de face : position de l'angle supéro-médial de la scapula par rapport aux processus transverses rachidiens ; TDM/IRM pour l'os omovertébral.",
+    "normes": "Grade I : entre les processus transverses de T2 et T4 (surélévation discrète, os omovertébral généralement absent)",
+    "pathologique": "Grade II : entre C5 et T2 (habituelle) ; grade III : au-dessus du processus transverse de C5 (grave). Clinique (Cavendish) : III = surélévation 2–5 cm, IV > 5 cm",
+    "pieges": "Os omovertébral (25–50 %) osseux, fibreux ou cartilagineux : IRM pour les formes non ossifiées et recherche de diastématomyélie.",
+    "pediatrie": true,
+    "source": "Cotten ch.34 p.973",
+    "tags": [
+      "Sprengel",
+      "scapula",
+      "dysostose"
+    ]
+  }
+]

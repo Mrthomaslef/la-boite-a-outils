@@ -1,0 +1,596 @@
+[
+  {
+    "id": "eos-avantages-limites",
+    "nom": "EOS – avantages et limites",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Choix de l'examen : scoliose, équilibre sagittal, goniométrie, inégalité de longueur, PTH/PTG",
+    "technique": "Balayage vertical simultané face + profil en position debout (≈ 15–20 s chez l'adulte), sans distorsion verticale, à l'échelle 1/1 ; modélisation 3D du rachis et des membres inférieurs.",
+    "normes": "Faible irradiation ; acquisition orthogonale simultanée ; analyse associée rachis–bassin–membres inférieurs",
+    "pathologique": "Indication préférentielle pour les télérachis (scoliose de l'enfant : suivi itératif) et les goniométries pré/postopératoires.",
+    "pieges": "Exige une immobilité : limite chez l'enfant de moins de 6 ans. Image de face affichée inversée droite-gauche (vue postérieure) : vérifier le marquage latéral. Positionnement (bras, flexion hanches/genoux) influence les paramètres.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.435–437",
+    "tags": [
+      "EOS",
+      "dose",
+      "3D",
+      "debout"
+    ]
+  },
+  {
+    "id": "eos-dose",
+    "nom": "Dose délivrée en EOS",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Radioprotection, suivi pédiatrique itératif",
+    "technique": "Détecteurs à gaz (chambres multifils), collimation fine en éventail, balayage.",
+    "normes": "Dose réduite d'un facteur ≈ 6 à 10 vs radiographie numérisée conventionnelle (2D) ; mode « micro-dose » encore plus faible pour le suivi",
+    "pathologique": "Avantage majeur pour la scoliose idiopathique (exposition cumulée mammaire/thyroïdienne).",
+    "pieges": "La modélisation 3D nécessite une qualité d'image suffisante (mode micro-dose parfois insuffisant pour la 3D).",
+    "pediatrie": true,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "EOS",
+      "dose",
+      "radioprotection",
+      "micro-dose"
+    ]
+  },
+  {
+    "id": "eos-incidence-pelvienne",
+    "nom": "Incidence pelvienne (PI)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Équilibre sagittal, spondylolisthésis, planification d'arthrodèse",
+    "technique": "Profil debout : angle entre la droite joignant le centre des têtes fémorales (milieu de l'axe bicoxo-fémoral) au milieu du plateau de S1 et la perpendiculaire au plateau de S1 en son milieu.",
+    "normes": "55 ± 11° (moyenne ≈ 51–55°)",
+    "pathologique": "Paramètre morphologique, constant après la croissance et indépendant de la position. Élevée : forte lordose nécessaire, spondylolisthésis par lyse ; faible : faible capacité de rétroversion compensatrice ; diminuée dans la dystrophie rachidienne de croissance.",
+    "pieges": "Têtes fémorales non superposées : prendre le milieu de l'axe bicoxo-fémoral ; plateau de S1 dysplasique (dôme) difficile à tracer.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438 ; ch.16 p.401",
+    "tags": [
+      "incidence pelvienne",
+      "PI",
+      "équilibre sagittal",
+      "bassin"
+    ]
+  },
+  {
+    "id": "eos-version-pelvienne",
+    "nom": "Version pelvienne (PT)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Compensation d'un déséquilibre sagittal, planification PTH",
+    "technique": "Profil debout : angle entre la droite centre des têtes fémorales – milieu du plateau de S1 et la verticale passant par le centre des têtes.",
+    "normes": "13 ± 6° (< 20–25° chez l'adulte âgé)",
+    "pathologique": "Augmentée = bassin rétroversé (mécanisme compensateur de la perte de lordose) ; diminuée = antéversé (sur-couverture antérieure des têtes). PT > 20–25° : compensation pelvienne active (déformation rachidienne adulte, SRS-Schwab).",
+    "pieges": "Paramètre positionnel : varie avec la posture (flexion de genoux, décubitus). Impacte l'antéversion fonctionnelle de la cupule.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438",
+    "tags": [
+      "version pelvienne",
+      "PT",
+      "rétroversion",
+      "bassin"
+    ]
+  },
+  {
+    "id": "eos-pente-sacree",
+    "nom": "Pente sacrée (SS)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Équilibre sagittal, détermination de la lordose",
+    "technique": "Profil debout : angle entre l'horizontale et le plateau supérieur de S1.",
+    "normes": "41 ± 8° (35–45°)",
+    "pathologique": "SS < 35° : types 1–2 de Roussouly (dos plat) ; > 45° : type 4 (hyperlordose, arthrose zygapophysaire, spondylolisthésis). Diminue en rétroversion pelvienne.",
+    "pieges": "Angle complémentaire de la PT : toujours vérifier PI = PT + SS.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.439",
+    "tags": [
+      "pente sacrée",
+      "SS",
+      "lordose",
+      "Roussouly"
+    ]
+  },
+  {
+    "id": "eos-relation-pi-pt-ss",
+    "nom": "Relation PI = PT + SS",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Contrôle de cohérence des mesures pelviennes",
+    "technique": "Somme géométrique : incidence pelvienne = version pelvienne + pente sacrée.",
+    "normes": "Égalité à ± 1–2° (erreur de tracé)",
+    "pathologique": "Un écart signe une erreur de repère (centre des têtes, plateau de S1). PI fixe → toute augmentation de PT se fait aux dépens de SS.",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438–439",
+    "tags": [
+      "PI",
+      "PT",
+      "SS",
+      "bassin"
+    ]
+  },
+  {
+    "id": "eos-roussouly",
+    "nom": "Types d'alignement sagittal de Roussouly",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Classification de la forme du dos selon la pente sacrée",
+    "technique": "Profil EOS debout : pente sacrée, forme et apex de la lordose, cyphose thoracique.",
+    "normes": "Type 3 : colonne harmonieuse, SS 35–45°",
+    "pathologique": "Type 1 (SS < 35°, cyphose longue, lordose courte) ; type 2 (SS < 35°, dos plat : coxarthrose postérieure, discopathies) ; type 4 (SS > 45°, hyperlordose : arthrose zygapophysaire, spondylolisthésis).",
+    "pieges": "Classification descriptive du sujet asymptomatique, à interpréter avec la PI.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438",
+    "tags": [
+      "Roussouly",
+      "lordose",
+      "dos plat",
+      "équilibre sagittal"
+    ]
+  },
+  {
+    "id": "eos-lordose-lombaire",
+    "nom": "Lordose lombaire (LL)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Équilibre sagittal, dos plat, planification chirurgicale",
+    "technique": "Profil debout : angle entre la tangente au plateau supérieur de L1 et celle du plateau inférieur de L5 (ou supérieur de S1).",
+    "normes": "L1-L5 : 43 ± 11° ; L1-S1 : 60 ± 10°",
+    "pathologique": "À interpréter selon la PI : lordose proportionnelle à l'incidence pelvienne (cf. PI-LL).",
+    "pieges": "Préciser toujours les vertèbres limites utilisées (L1-L5 vs L1-S1).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438",
+    "tags": [
+      "lordose lombaire",
+      "LL",
+      "sagittal"
+    ]
+  },
+  {
+    "id": "eos-pi-ll",
+    "nom": "PI-LL mismatch",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Déformation rachidienne de l'adulte, objectif de correction chirurgicale",
+    "technique": "Différence entre incidence pelvienne et lordose lombaire L1-S1.",
+    "normes": "PI − LL < 10° (objectif chirurgical classique : LL ≈ PI ± 9°)",
+    "pathologique": "SRS-Schwab : 0 si < 10° ; + si 10–20° ; ++ si > 20° (corrélé au handicap, ODI).",
+    "pieges": "Les cibles « âge-ajustées » sont plus permissives chez le sujet âgé ; adapter aux formules récentes (GAP score).",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PI-LL",
+      "Schwab",
+      "déformation adulte",
+      "lordose"
+    ]
+  },
+  {
+    "id": "eos-cyphose-thoracique",
+    "nom": "Cyphose thoracique (TK)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Hypercyphose, dystrophie rachidienne de croissance, scoliose",
+    "technique": "Profil debout : angle entre la tangente au plateau supérieur de T4 (ou T1) et celle du plateau inférieur de T12.",
+    "normes": "T4-T12 : 41 ± 10° ; T1-T12 : 41 ± 10° (20–40° selon les séries)",
+    "pathologique": "Accentuée : dystrophie rachidienne de croissance (apex T7-T8, cunéiformisations) ; diminuée (hypocyphose/lordose thoracique) : scoliose idiopathique.",
+    "pieges": "T1-T4 souvent masqués par les épaules : préférer T4-T12 ; bras en position « clavicules » sur EOS.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438 ; ch.16 p.417",
+    "tags": [
+      "cyphose thoracique",
+      "TK",
+      "Scheuermann"
+    ]
+  },
+  {
+    "id": "eos-gite-t9",
+    "nom": "Gîte sagittale de T9",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Équilibre global (centre de gravité du tronc)",
+    "technique": "Profil debout : angle entre la droite centre des têtes fémorales – centre du corps de T9 et la verticale passant par le centre des têtes.",
+    "normes": "10 ± 3° (≈ 11°)",
+    "pathologique": "Diminue en renversement antérieur du tronc, augmente en renversement postérieur.",
+    "pieges": "Axe bicoxo-fémoral si têtes non superposées.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.437 ; ch.16 p.402",
+    "tags": [
+      "gîte T9",
+      "équilibre global",
+      "sagittal"
+    ]
+  },
+  {
+    "id": "eos-equilibre-global-cae",
+    "nom": "Équilibre sagittal global (verticale du CAE / C7 plumb line)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Renversement antérieur ou postérieur du tronc",
+    "technique": "Profil debout : verticale abaissée du méat acoustique externe rapportée au centre des têtes fémorales ; ou verticale du centre de C7 rapportée au plateau de S1.",
+    "normes": "Verticale du CAE sur le centre des têtes fémorales ou < 7 mm en arrière ; C7PL sur la moitié postérieure du plateau de S1",
+    "pathologique": "En avant : renversement antérieur (physiologique modéré chez le sujet âgé) ; nettement en arrière : renversement postérieur.",
+    "pieges": "Compensations (rétroversion, flexion des genoux, extension des chevilles) masquent le déséquilibre : analyser le sujet entier.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.437",
+    "tags": [
+      "équilibre sagittal",
+      "C7 plumb line",
+      "CAE"
+    ]
+  },
+  {
+    "id": "eos-sva",
+    "nom": "SVA (Sagittal Vertical Axis)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Déformation rachidienne de l'adulte, indication/objectif chirurgical",
+    "technique": "Profil debout : distance horizontale entre la verticale passant par le centre du corps de C7 et le coin postéro-supérieur de S1.",
+    "normes": "< 4 cm (positif si C7PL en avant de S1)",
+    "pathologique": "SRS-Schwab : 0 si < 4 cm ; + si 4–9,5 cm ; ++ si > 9,5 cm. SVA > 5 cm corrélé au handicap.",
+    "pieges": "Valeur en mm dépendante du calibrage (EOS : 1/1) ; bras tendus vers l'avant majorent le SVA.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "SVA",
+      "Schwab",
+      "déformation adulte",
+      "sagittal"
+    ]
+  },
+  {
+    "id": "eos-tpa",
+    "nom": "Angle T1-pelvien (TPA)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Déformation rachidienne de l'adulte",
+    "technique": "Profil debout : angle entre la droite centre des têtes fémorales – centre de T1 et la droite centre des têtes fémorales – milieu du plateau de S1.",
+    "normes": "≈ 10–14° chez l'adulte (objectif chirurgical < 14°)",
+    "pathologique": "TPA ≈ 14° correspond à un SVA ≈ 4,6 cm / ODI 20 ; ≥ 20° associé à un handicap sévère (ODI ≥ 40).",
+    "pieges": "Indépendant des compensations posturales (rétroversion, flexion des genoux), contrairement au SVA ; T1 masqué par les épaules.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "TPA",
+      "T1 pelvic angle",
+      "déformation adulte"
+    ]
+  },
+  {
+    "id": "eos-c7-frontal",
+    "nom": "Équilibre frontal – C7 plumb line",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Scoliose, déséquilibre frontal",
+    "technique": "Face debout : verticale abaissée du processus épineux de C7, rapportée à la ligne des processus épineux sacrés / symphyse pubienne.",
+    "normes": "Décalage ≤ 2 cm",
+    "pathologique": "> 2 cm : rachis déséquilibré à droite/gauche (préciser la distance en mm).",
+    "pieges": "Image de face EOS inversée droite-gauche.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.436–437",
+    "tags": [
+      "équilibre frontal",
+      "C7 plumb line",
+      "scoliose"
+    ]
+  },
+  {
+    "id": "eos-cobb-3d",
+    "nom": "Angle de Cobb (2D/3D EOS)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Scoliose : diagnostic, suivi, indication thérapeutique",
+    "technique": "Face debout : angle entre la tangente au plateau supérieur de la vertèbre limite supérieure et la tangente au plateau inférieur de la vertèbre limite inférieure (vertèbres les plus inclinées, les moins tournées) ; EOS : Cobb mesuré aussi en 3D et dans le plan de déformation maximale.",
+    "normes": "< 10° : pas de scoliose structurale",
+    "pathologique": "10–20° : surveillance /6 mois (4 mois en puberté) ; 20–45° : corset ; > 45° : chirurgie. Variabilité intra-observateur 5–10°.",
+    "pieges": "Reflète la déformation corporéale antérieure, pas l'arc postérieur ; garder les mêmes vertèbres limites au suivi.",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.435, 442",
+    "tags": [
+      "Cobb",
+      "scoliose",
+      "3D",
+      "EOS"
+    ]
+  },
+  {
+    "id": "eos-rotation-apicale",
+    "nom": "Rotation vertébrale axiale apicale (EOS 3D)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Scoliose : sévérité, évolutivité, préopératoire",
+    "technique": "Modélisation 3D EOS : rotation axiale de chaque vertèbre (vertèbre apicale = la plus tournée, la moins inclinée) ; en 2D : grades de Nash et Moe ou de Cobb (4 grades).",
+    "normes": "0° (pas de rotation)",
+    "pathologique": "Rotation apicale élevée = courbure structurale ; Nash-Moe peu sensible (≥ 15° nécessaires pour changer de grade). Angle de Mehta (RVAD) > 20° chez le nourrisson = évolutivité dans 80 %.",
+    "pieges": "Repères 2D déformés au-delà de 30°, illisibles au-delà de 45° ; la 3D EOS est plus précise.",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.435–436",
+    "tags": [
+      "rotation axiale",
+      "Nash et Moe",
+      "vertèbre apicale",
+      "scoliose"
+    ]
+  },
+  {
+    "id": "eos-risser",
+    "nom": "Test de Risser (maturité osseuse)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Scoliose de l'adolescent : potentiel évolutif",
+    "technique": "Bassin de face (inclus dans l'EOS) : ossification des apophyses des crêtes iliaques, d'avant en arrière, en 6 stades (0 à 5).",
+    "normes": "Stade 5 = fusion complète (fin de croissance)",
+    "pathologique": "Risser bas = potentiel d'aggravation élevé.",
+    "pieges": "Indice de fin de croissance, pas un âge osseux (utiliser Greulich-Pyle ou Sauvegrain en début de puberté avec Risser 0).",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.439",
+    "tags": [
+      "Risser",
+      "maturité osseuse",
+      "scoliose"
+    ]
+  },
+  {
+    "id": "eos-obliquite-pelvienne",
+    "nom": "Obliquité pelvienne et inégalité de longueur",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Attitude scoliotique, boiterie, lombalgie",
+    "technique": "Face debout : droite tangente aux toits acétabulaires (ou crêtes iliaques, pied des sacro-iliaques) ; mesure de la dénivellation en mm.",
+    "normes": "< 10 mm (physiologique)",
+    "pathologique": "> 10 mm pathologique ; 10–20 mm : talonnette ; > 20 mm : correction indispensable (cliché de réductibilité avec cale), talonnette ou chirurgie.",
+    "pieges": "Se méfier d'une flexion de genou ou de hanche (faux raccourcissement) ; vérifier l'extension complète sur le profil.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438–439, 442",
+    "tags": [
+      "obliquité pelvienne",
+      "inégalité de longueur",
+      "talonnette"
+    ]
+  },
+  {
+    "id": "eos-longueurs-membres",
+    "nom": "Longueurs fémorale, tibiale et du membre (EOS 3D)",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Inégalité de longueur, planification d'épiphysiodèse/allongement, PTH",
+    "technique": "Modélisation 3D : longueur fémorale (centre de la tête – centre de l'échancrure/condyles), tibiale (centre des épines – centre du pilon), longueur fonctionnelle (centre tête – centre de la pince) ; indépendante de la rotation et du flessum en 3D.",
+    "normes": "Différence droite-gauche < 10 mm",
+    "pathologique": "Inégalité > 10 mm : significative ; préciser l'origine fémorale ou tibiale.",
+    "pieges": "Mesures 2D faussées par le flessum et la rotation ; 3D plus fiables. Un flexum unilatéral raccourcit la longueur fonctionnelle (pas anatomique).",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "longueur",
+      "inégalité",
+      "fémur",
+      "tibia",
+      "3D"
+    ]
+  },
+  {
+    "id": "eos-hka",
+    "nom": "Angle HKA (axe mécanique du membre inférieur)",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Genu varum/valgum, gonarthrose, planification d'ostéotomie ou PTG",
+    "technique": "Face debout bipodale : angle entre l'axe mécanique fémoral (centre de la tête – centre du genou entre les épines) et l'axe mécanique tibial (centre du genou – milieu de la pince/talus).",
+    "normes": "≈ 180° ; genu valgum physiologique 2° (homme), 3° (femme) dans la convention de Cotten ; après PTG : 180 ± 3°",
+    "pathologique": "Varus : arthrose fémorotibiale médiale (souvent d'origine tibiale) ; valgus : latérale. Corriger l'angle global du valgum physiologique (angle de déviation corrigé).",
+    "pieges": "Patella de face indispensable (rotation) ; flessum et hyperextension faussent ; EOS 3D corrige la rotation.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.750, 782",
+    "tags": [
+      "HKA",
+      "axe mécanique",
+      "goniométrie",
+      "varus",
+      "valgus"
+    ]
+  },
+  {
+    "id": "eos-hks",
+    "nom": "Angle HKS (axe anatomique / mécanique du fémur)",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Planification de la coupe fémorale distale (PTG, ostéotomie)",
+    "technique": "Face debout : angle entre l'axe anatomique diaphysaire du fémur et son axe mécanique.",
+    "normes": "4–8° (valgus)",
+    "pathologique": "Valeurs extrêmes (fémur arqué, coxa vara/valga) : adapter l'angle de coupe du guide intramédullaire.",
+    "pieges": "Axe anatomique tracé sur le tiers moyen diaphysaire ; dépend de la rotation.",
+    "pediatrie": false,
+    "source": "Cotten ch.27 p.782",
+    "tags": [
+      "HKS",
+      "axe anatomique",
+      "fémur",
+      "PTG"
+    ]
+  },
+  {
+    "id": "eos-mldfa-mpta",
+    "nom": "mLDFA et MPTA (angles articulaires – Paley)",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "Localiser l'origine d'une déformation (fémorale vs tibiale), planification d'ostéotomie",
+    "technique": "Face debout : mLDFA = angle latéral entre l'axe mécanique fémoral et la tangente aux condyles ; MPTA = angle médial entre l'axe mécanique tibial et la tangente aux plateaux ; JLCA = angle de convergence des interlignes.",
+    "normes": "mLDFA 87° (85–90°) ; MPTA 87° (85–90°) ; JLCA 0–2°",
+    "pathologique": "mLDFA > 90° : varus d'origine fémorale ; < 85° : valgus fémoral. MPTA < 85° : varus tibial ; > 90° : valgus tibial. JLCA > 2° : laxité/usure ligamentaire ou cartilagineuse.",
+    "pieges": "Mesures en charge ; JLCA majoré par la laxité.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "mLDFA",
+      "MPTA",
+      "JLCA",
+      "Paley",
+      "déformation"
+    ]
+  },
+  {
+    "id": "eos-torsion-femorale",
+    "nom": "Torsion (antéversion) fémorale",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité patellaire, conflit fémoro-acétabulaire, troubles de la marche de l'enfant",
+    "technique": "EOS 3D : angle entre l'axe du col (centre tête – centre du col) et la ligne bicondylienne postérieure ; TDM : superposition coupes col/condyles.",
+    "normes": "≈ 12–13° (TDM) ; EOS 3D ≈ 10–20° chez l'adulte (plus élevée chez l'enfant)",
+    "pathologique": "Excès d'antéversion (> 20–25°) : instabilité patellaire, démarche en rotation interne ; rétroversion : potentialise le conflit fémoro-acétabulaire.",
+    "pieges": "Valeurs non interchangeables entre méthodes (TDM Murphy/Lee, EOS 3D) ; préciser la méthode.",
+    "pediatrie": false,
+    "source": "Cotten ch.19 p.514",
+    "tags": [
+      "torsion fémorale",
+      "antéversion",
+      "3D"
+    ]
+  },
+  {
+    "id": "eos-torsion-tibiale",
+    "nom": "Torsion tibiale (externe)",
+    "region": "membre-entier",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité patellaire, troubles rotationnels, pied « en dedans/en dehors »",
+    "technique": "EOS 3D : angle entre la ligne bicondylienne tibiale postérieure et l'axe bimalléolaire ; TDM : superposition coupe proximale (plateaux) et distale (malléoles).",
+    "normes": "≈ 30–35° de rotation externe chez l'adulte (variable selon la méthode)",
+    "pathologique": "Torsion externe excessive (> 40–45°) : instabilité patellaire, syndrome fémoropatellaire ; torsion interne / faible : marche en rotation interne de l'enfant.",
+    "pieges": "Valeurs dépendantes des repères ; comparer au côté opposé.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "torsion tibiale",
+      "rotation",
+      "3D"
+    ]
+  },
+  {
+    "id": "eos-pth-anteversion-fonctionnelle",
+    "nom": "Orientation de la PTH en EOS (antéversion fonctionnelle, offset)",
+    "region": "bassin-sacro-iliaques",
+    "categorie": "eos",
+    "modalites": [
+      "EOS",
+      "Radio"
+    ],
+    "contexte": "PTH luxante, conflit, pathologie rachis-hanche (arthrodèse lombaire, dos raide)",
+    "technique": "EOS debout (± assis) avec modélisation 3D : inclinaison et antéversion de la cupule dans le plan pelvien antérieur et dans le plan fonctionnel, antéversion de tige, offset, longueurs.",
+    "normes": "Antéversion fonctionnelle de cupule dans la zone 15 ± 10° (debout) ; offset 41 ± 6 mm",
+    "pathologique": "Chaque degré de rétroversion pelvienne augmente l'antéversion fonctionnelle de la cupule (≈ 0,7–0,8°/°). Rachis raide (faible variation de PT debout-assis < 10°) : risque accru de luxation postérieure assise.",
+    "pieges": "Mesures dépendantes de la position (debout vs assis) ; pas d'artefact métallique ; la 3D nécessite une bonne visibilité des repères pelviens.",
+    "pediatrie": false,
+    "source": "Référence complémentaire (hors Cotten)",
+    "tags": [
+      "PTH",
+      "EOS",
+      "hip-spine",
+      "antéversion fonctionnelle",
+      "version pelvienne"
+    ]
+  }
+]

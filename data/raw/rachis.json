@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "rachis-cervical-diametre-ap-canal",
+    "nom": "Diamètre antéropostérieur du canal cervical",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM",
+      "TDM"
+    ],
+    "contexte": "Canal cervical étroit constitutionnel, myélopathie cervicarthrosique",
+    "technique": "Profil strict du rachis cervical (ou coupe sagittale) : distance entre la face postérieure du corps vertébral (mi-hauteur) et la ligne spinolamaire, aux niveaux C3 à C7.",
+    "normes": "≥ 13 mm",
+    "pathologique": "< 13 mm : canal cervical étroit (valeur prédictive positive de myélopathie faible du fait des variations interindividuelles)",
+    "pieges": "Agrandissement radiographique ; mesure peu corrélée à la clinique ; sténose souvent majorée par la flexion/extension et pluriétagée (C3–C7).",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.344-345",
+    "tags": [
+      "canal étroit",
+      "myélopathie",
+      "NCB"
+    ]
+  },
+  {
+    "id": "rachis-cervical-ratio-torg-pavlov",
+    "nom": "Ratio de Torg-Pavlov (canal / corps vertébral)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Canal cervical étroit constitutionnel",
+    "technique": "Profil strict : rapport diamètre sagittal du canal (face postérieure du corps → ligne spinolamaire) / diamètre sagittal du corps vertébral à mi-hauteur, de C3 à C6.",
+    "normes": "≥ 0,82 (≈ 1 chez le sujet normal)",
+    "pathologique": "< 0,82 : canal cervical étroit (seuil classique de Torg < 0,80)",
+    "pieges": "Indépendant de l'agrandissement mais faussé par une platyspondylie acquise (élargissement AP des corps, 15 % des canaux étroits) ; faible VPP de myélopathie.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.344-345 + complément",
+    "tags": [
+      "Torg",
+      "Pavlov",
+      "canal étroit"
+    ]
+  },
+  {
+    "id": "rachis-cervical-espace-securite",
+    "nom": "Espace de sécurité (ligne spinolamaire / massifs articulaires)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Dépistage radiographique du canal cervical étroit",
+    "technique": "Profil strict : repérer la ligne spinolamaire et le bord postérieur des massifs articulaires ; l'espace de sécurité est la distance qui les sépare. Rechercher aussi l'impossibilité de « loger » visuellement un corps vertébral dans le canal.",
+    "normes": "Ligne spinolamaire nettement en arrière du bord postérieur des massifs articulaires",
+    "pathologique": "Espace réduit ou disparu (ligne spinolamaire projetée sur les massifs) : hypoplasie/transversalisation des lames (80 % des canaux étroits). Projection des processus articulaires supérieurs sur les corps : pédicules courts/transversaux (5 %).",
+    "pieges": "Faussement réduit sur un profil imparfait ou en cas d'arthrose zygapophysaire se projetant sur les lames.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.345",
+    "tags": [
+      "canal étroit",
+      "profil"
+    ]
+  },
+  {
+    "id": "rachis-cervical-instabilite-flexion-extension",
+    "nom": "Instabilité cervicale dégénérative en flexion-extension",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Myélopathie / discopathie cervicale, bilan préchirurgical",
+    "technique": "Clichés dynamiques de profil en flexion et extension : mesurer la translation horizontale d'un corps vertébral sur le sous-jacent (mm) et la variation angulaire intersegmentaire (°).",
+    "normes": "Translation ≤ 3,5 mm ; rotation ≤ 11°",
+    "pathologique": "Translation > 3,5 mm et/ou rotation > 11° : instabilité (antélisthésis / subluxation rotatoire en flexion, rétrolisthésis en extension)",
+    "pieges": "Fréquente à l'étage sus-jacent à un pincement sévère ; effet « coupe-cigares » sur la moelle.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.345",
+    "tags": [
+      "instabilité",
+      "dynamique",
+      "listhésis"
+    ]
+  },
+  {
+    "id": "rachis-cervical-surface-moelle",
+    "nom": "Surface et ratio de compression de la moelle cervicale",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Myélopathie cervicarthrosique",
+    "technique": "Coupes axiales T2 au niveau du rétrécissement maximal : surface de la section médullaire (mm²) et rapport diamètre sagittal / diamètre transverse de la moelle ; rapport de compression médullaire maximale sur les coupes sagittales T2.",
+    "normes": "Surface médullaire 80–90 mm²",
+    "pathologique": "Surface diminuée, aplatissement (rapport sagittal/transverse abaissé) : compression ; atrophie médullaire = mauvais pronostic. Péjoratif : hypersignal T2 pluriétagé, limité à la substance grise, très hyperintense, avec hyposignal T1.",
+    "pieges": "Compression médullaire possible chez l'asymptomatique ; majoration dynamique en flexion-extension non systématiquement explorée.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.345",
+    "tags": [
+      "myélopathie",
+      "moelle",
+      "compression"
+    ]
+  },
+  {
+    "id": "rachis-cervical-ollp-stenose",
+    "nom": "Taux de sténose canalaire par ossification du LLP",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Ossification du ligament longitudinal postérieur (OLLP)",
+    "technique": "Coupe axiale TDM au niveau de l'épaisseur maximale de l'ossification : rapport épaisseur de l'ossification / diamètre sagittal du canal osseux (%). Préciser type (continu, segmentaire, mixte, local), latéralisation, signe de la double couche.",
+    "normes": "—",
+    "pathologique": "> 60 % de sténose : voie antérieure préférée. Ossification en double couche sur plus de la moitié du corps vertébral : adhérence/ossification durale (risque de fuite de LCS).",
+    "pieges": "IRM moins performante que le TDM pour l'ossification ; types continu et mixte plus souvent associés à une myélopathie.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.352-353",
+    "tags": [
+      "OLLP",
+      "sténose",
+      "chirurgie"
+    ]
+  },
+  {
+    "id": "rachis-cervical-hirayama",
+    "nom": "Critères IRM de la maladie de Hirayama",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Amyotrophie juvénile distale du membre supérieur (homme jeune 11–25 ans)",
+    "technique": "IRM en position neutre puis en flexion. Neutre : décollement du sac dural postérieur des lames (coupe axiale T2), atrophie médullaire C4–C7 asymétrique, perte de lordose (projection des corps C3–C6 sur la ligne reliant les coins postéro-inférieurs de C2 et C7). Flexion : déplacement antérieur de la paroi dure-mérienne postérieure.",
+    "normes": "Sac dural adhérent aux lames ; lordose conservée",
+    "pathologique": "Décollement visible sur ≥ 1/3 de la longueur de la lame en axial T2 (Se 93,5 %, Sp 98 %) ; en flexion, élargissement de l'espace épidural postérieur avec engorgement veineux.",
+    "pieges": "Radiographies et TDM normales ; la séquence en flexion est indispensable au diagnostic.",
+    "pediatrie": false,
+    "source": "Cotten ch.15 p.348-349",
+    "tags": [
+      "Hirayama",
+      "flexion",
+      "atrophie"
+    ]
+  },
+  {
+    "id": "rachis-cervical-pente-c7",
+    "nom": "Pente de C7 (C7 slope)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal cervical, scoliose, déformations",
+    "technique": "Profil en charge : angle entre la tangente au plateau inférieur de C7 et l'horizontale.",
+    "normes": "≈ 20° (valeur moyenne)",
+    "pathologique": "≥ 20° : équilibration par lordose cervicale ; < 20° : rectitude voire cyphose cervicale d'équilibration",
+    "pieges": "Plateau de C7 souvent masqué par les épaules sur radiographie (EOS préférable).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.446",
+    "tags": [
+      "équilibre sagittal",
+      "C7"
+    ]
+  },
+  {
+    "id": "rachis-cervical-angle-spinocranien",
+    "nom": "Angle spinocrânien (SCA)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal cervico-céphalique",
+    "technique": "Profil en charge : angle entre la tangente au plateau inférieur de C7 et la droite joignant le milieu du plateau inférieur de C7 au milieu de la selle turcique.",
+    "normes": "83 ± 9°",
+    "pathologique": "Écart à la moyenne : malposition du crâne / déséquilibre sagittal ; dépend surtout de la pente de C7",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.446",
+    "tags": [
+      "équilibre sagittal",
+      "crâne",
+      "SCA"
+    ]
+  },
+  {
+    "id": "rachis-cervical-ligne-chamberlain",
+    "nom": "Ligne de Chamberlain",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Impression (invagination) basilaire",
+    "technique": "Profil du crâne / coupe sagittale médiane : ligne joignant le bord postérieur du palais osseux à l'opisthion (bord postérieur du foramen magnum) ; mesurer la hauteur du sommet de l'odontoïde par rapport à cette ligne.",
+    "normes": "Sommet de l'odontoïde < 5 mm au-dessus de la ligne ; arc antérieur de C1 sous la ligne",
+    "pathologique": "Sommet de l'odontoïde > 5 mm au-dessus : impression basilaire. Anormale aussi dans le « clivus court » (hypoplasie du basi-occipital).",
+    "pieges": "Opisthion parfois difficile à repérer en radiographie (TDM/IRM plus fiables) ; rechercher Chiari I, syringomyélie, occipitalisation de l'atlas.",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.954-955",
+    "tags": [
+      "charnière crânio-cervicale",
+      "impression basilaire"
+    ]
+  },
+  {
+    "id": "rachis-cervical-ligne-mcgregor",
+    "nom": "Ligne de McGregor",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Impression basilaire",
+    "technique": "Profil du crâne : ligne joignant le bord postérieur du palais osseux au point le plus déclive de l'écaille occipitale ; mesurer la hauteur du sommet de l'odontoïde.",
+    "normes": "Sommet de l'odontoïde < 7 mm au-dessus de la ligne ; arc antérieur de C1 sous la ligne",
+    "pathologique": "> 7 mm au-dessus : impression basilaire",
+    "pieges": "Alternative à Chamberlain quand l'opisthion n'est pas visible en radiographie.",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.954-955",
+    "tags": [
+      "charnière crânio-cervicale",
+      "impression basilaire"
+    ]
+  },
+  {
+    "id": "rachis-cervical-ligne-wackenheim",
+    "nom": "Ligne de Wackenheim (ligne basilaire)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Impression basilaire, instabilité occipito-cervicale",
+    "technique": "Coupe sagittale médiane / profil : prolonger vers le bas la face dorsale du clivus.",
+    "normes": "Ligne tangente au tiers postérieur du sommet de l'odontoïde (ou passant en arrière)",
+    "pathologique": "Ligne coupant l'odontoïde : impression basilaire / dislocation occipito-cervicale",
+    "pieges": "Sert aussi de branche à l'angle clivus–rachis cervical.",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.954-955",
+    "tags": [
+      "charnière crânio-cervicale",
+      "clivus"
+    ]
+  },
+  {
+    "id": "rachis-cervical-angle-basal",
+    "nom": "Angle basal (platybasie)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Platybasie, malformations de la charnière",
+    "technique": "Coupe sagittale médiane : angle entre la ligne nasion – tubercule de la selle et la ligne tubercule de la selle – basion (bord antérieur du foramen magnum).",
+    "normes": "134–135° en moyenne (extrêmes 121–149°)",
+    "pathologique": "> 150° : platybasie (angle basal obtus)",
+    "pieges": "Le tableau 32.2 du livre présente les valeurs décalées d'une ligne ; valeurs rétablies selon le texte (platybasie = angle basal > 150°). Platybasie ≠ impression basilaire (souvent associées).",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.954-955",
+    "tags": [
+      "platybasie",
+      "charnière crânio-cervicale"
+    ]
+  },
+  {
+    "id": "rachis-cervical-angle-clivus-canal",
+    "nom": "Angle clivus – rachis cervical",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Clivus court (hypoplasie du basi-occipital), impression basilaire",
+    "technique": "Coupe sagittale médiane : angle entre la ligne de Wackenheim et la tangente à la face postérieure de l'odontoïde et du corps de l'axis.",
+    "normes": "150° en flexion à 180° en extension",
+    "pathologique": "< 150° : angle diminué, risque de compression médullaire antérieure",
+    "pieges": "Valeurs du tableau 32.2 décalées d'une ligne dans le livre ; seuil < 150° confirmé par le texte. Varie avec la position (flexion/extension).",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.954-955",
+    "tags": [
+      "clivus",
+      "compression médullaire"
+    ]
+  },
+  {
+    "id": "rachis-cervical-angle-atlanto-occipital",
+    "nom": "Angle atlanto-occipital",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "Radio"
+    ],
+    "contexte": "Hypoplasie des condyles occipitaux",
+    "technique": "Coupe frontale médiane (ou cliché bouche ouverte) : angle formé au centre de l'odontoïde par les tangentes aux deux interlignes atlanto-occipitaux.",
+    "normes": "124–127° en moyenne",
+    "pathologique": "Anormal (obtus selon le tableau) en cas d'hypoplasie des condyles occipitaux, avec mobilité anormale pouvant comprimer l'artère vertébrale",
+    "pieges": "Seul repère de la charnière mesuré en coupe frontale ; le texte p.956 parle d'angle « diminué » alors que le tableau indique un angle obtus — se fier à l'écart à la normale. Valeurs décalées dans le tableau 32.2.",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.955-956",
+    "tags": [
+      "condyles",
+      "charnière crânio-cervicale"
+    ]
+  },
+  {
+    "id": "rachis-cervical-diastasis-c1-c2",
+    "nom": "Distance atlanto-odontoïdienne (diastasis C1-C2)",
+    "region": "rachis-cervical",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Instabilité atlanto-axoïdienne (idiopathique par laxité du ligament transverse, os odontoideum, trisomie 21, rhumatismes)",
+    "technique": "Clichés dynamiques de profil (flexion-extension) : distance entre la face postérieure de l'arc antérieur de C1 et la face antérieure de l'odontoïde. IRM pour le retentissement médullaire.",
+    "normes": "< 5 mm chez l'enfant (≤ 3 mm chez l'adulte)",
+    "pathologique": "≥ 5 mm : instabilité atlanto-axoïdienne (valeur limite variable selon les auteurs)",
+    "pieges": "Diastasis mal corrélé aux symptômes et au risque neurologique. Os odontoideum : ossicule arrondi corticalisé séparé de l'axis par 2 à 6 mm, souvent instable ; ossiculum terminale persistant (après 12 ans) : pas d'instabilité.",
+    "pediatrie": true,
+    "source": "Cotten ch.32 p.958 + complément",
+    "tags": [
+      "atlanto-axoïdien",
+      "instabilité",
+      "os odontoideum"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-hauteur-disque-l5s1",
+    "nom": "Hauteur discale postérieure L5-S1",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Discopathie dégénérative lombaire",
+    "technique": "Profil lombaire : hauteur postérieure de l'espace L5-S1. Aux autres étages, l'espace est ouvert en avant et sa hauteur augmente de L1-L2 à L4-L5.",
+    "normes": "Hauteur croissante de L1-L2 à L4-L5 ; L5-S1 variable",
+    "pathologique": "Hauteur postérieure L5-S1 < 3 mm : pincement",
+    "pieges": "Anomalie transitionnelle : espace L5-S1 réduit, plateaux parallèles sans remaniement dégénératif (ne pas confondre avec un pincement). Pas de corrélation hauteur discale / lombalgie.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.359",
+    "tags": [
+      "discopathie",
+      "pincement"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-densites-tdm-disque",
+    "nom": "Densités TDM du disque et des lésions épidurales",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Hernie discale, fibrose postopératoire, hématome épidural",
+    "technique": "Mesure de densité par ROI sur coupes axiales en fenêtre tissulaire.",
+    "normes": "Disque normal ≈ 80 UH (50–90 UH)",
+    "pathologique": "Hernie (y compris intradurale) ≈ 80 UH ; fibrose péridurale 50–70 UH (intermédiaire sac dural/disque) ; hématome épidural 70–80 UH ; disque dégénératif : hypodensité centrale",
+    "pieges": "Recouvrements de densité ; l'IRM avec gadolinium reste l'examen de référence pour fibrose vs récidive.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.360, 373, 380, 383",
+    "tags": [
+      "hernie",
+      "fibrose",
+      "UH"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-modic",
+    "nom": "Classification de Modic (plateaux vertébraux)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Discopathie dégénérative, lombalgie chronique",
+    "technique": "Coupes sagittales T1 et T2 : signal de la moelle sous-chondrale en regard d'un disque dégénératif, en bande ou en mottes.",
+    "normes": "Pas d'anomalie de signal sous-chondrale",
+    "pathologique": "Modic 1 : hypoT1/hyperT2 (tissu de granulation, inflammatoire, ≈ 4 %) ; Modic 2 : hyperT1/hyperT2 (graisse) ; Modic 3 : hypoT1/hypoT2 (fibrose/ostéocondensation). Formes mixtes (1-2) possibles.",
+    "pieges": "Modic 1 : diagnostic différentiel avec une spondylodiscite ; fréquent après discectomie (2 mois–2 ans).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.361",
+    "tags": [
+      "Modic",
+      "plateaux",
+      "lombalgie"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-pfirrmann",
+    "nom": "Classification de Pfirrmann (dégénérescence discale)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Dégénérescence discale",
+    "technique": "Coupe sagittale T2 : analyse du signal et de la structure du disque, distinction noyau/anneau, hauteur discale.",
+    "normes": "Grade I : disque homogène hyperintense, hauteur normale",
+    "pathologique": "Grade II : inhomogène, bandes horizontales ; III : gris, distinction noyau/anneau floue ; IV : hypo-intense, distinction perdue, hauteur normale ou modérément diminuée ; V : noir, espace discal effondré",
+    "pieges": "Sans intérêt en routine clinique, faiblement corrélée à l'histologie (réservée à la recherche).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.360-361 + complément",
+    "tags": [
+      "Pfirrmann",
+      "disque"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-migration-herniaire",
+    "nom": "Migration herniaire et critères d'exclusion",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Hernie discale lombaire",
+    "technique": "Reformations sagittales : mesurer la migration du fragment par rapport au plan discal ; coupe axiale : diamètre sagittal herniaire rapporté au diamètre sagittal du canal.",
+    "normes": "—",
+    "pathologique": "Migration crâniale > 6 mm ou caudale > 12 mm et diamètre sagittal herniaire > 1/2 du diamètre sagittal canalaire : évocateurs d'exclusion. Disparition du liseré graisseux hernie/pédicule ou ligament jaune : extraligamentaire (Se 100 %, Sp 93 %).",
+    "pieges": "Contraste fréquent entre volumineux fragment et disque peu pincé (disque peu dégénéré).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.367",
+    "tags": [
+      "hernie",
+      "exclusion",
+      "migration"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-fleche-lordose",
+    "nom": "Flèche lombaire (hyperlordose)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Arthrose zygapophysaire, hyperlordose",
+    "technique": "Profil lombaire debout : flèche maximale entre la face postérieure des corps vertébraux lombaires et la ligne joignant le coin postérosupérieur de L1 au coin postéro-inférieur de L5.",
+    "normes": "≤ 2 cm",
+    "pathologique": "> 2 cm : hyperlordose",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.384",
+    "tags": [
+      "lordose",
+      "arthrose zygapophysaire"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-renversement-posterieur",
+    "nom": "Renversement postérieur du tronc (profil lombaire)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Arthrose zygapophysaire, déséquilibre sagittal",
+    "technique": "Profil lombaire debout : distance horizontale entre le coin postérosupérieur de S1 et la verticale passant par le coin postérosupérieur de L1.",
+    "normes": "≤ 2 cm",
+    "pathologique": "> 2 cm : renversement postérieur du tronc",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.384",
+    "tags": [
+      "équilibre sagittal",
+      "arthrose zygapophysaire"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-lipomatose-epidurale",
+    "nom": "Épaisseur de la lipomatose épidurale",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Lipomatose épidurale (corticothérapie, obésité)",
+    "technique": "Coupes axiales/sagittales : épaisseur de la graisse épidurale postérieure refoulant le sac dural.",
+    "normes": "Thoracique : ≤ 6 mm",
+    "pathologique": "Thoracique : > 6 mm avec refoulement antérieur du sac dural ; lombaire : sac dural comprimé, polygonal/stellaire ou trifolié en « Y »",
+    "pieges": "Plus souvent symptomatique à l'étage thoracique.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.388",
+    "tags": [
+      "lipomatose",
+      "sac dural"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-diametre-sagittal-canal-osseux",
+    "nom": "Diamètre sagittal du canal lombaire osseux (TDM)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Canal lombaire étroit constitutionnel",
+    "technique": "Coupe corporéo-pédiculo-lamaire passant par la moitié inférieure des pédicules (L4) : distance face postérieure du corps → face antérieure de la jonction des lames.",
+    "normes": "> 12 mm",
+    "pathologique": "10–12 mm : sténose relative ; < 10 mm : sténose absolue",
+    "pieges": "Utilité discutable : l'étroitesse constitutionnelle est rarement pathogène seule. En radio, meilleur indice = rapport largeur du corps / largeur des pédicules (profil), variable selon l'étage.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.393",
+    "tags": [
+      "canal étroit",
+      "constitutionnel"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-diametre-interarticulaire",
+    "nom": "Diamètre transversal interarticulaire",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Canal lombaire étroit",
+    "technique": "Coupe axiale passant par le disque : distance transversale entre les bords médiaux des massifs articulaires.",
+    "normes": "> 15 mm",
+    "pathologique": "≤ 15 mm : sténose",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.393",
+    "tags": [
+      "canal étroit"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-surface-canal-osseux",
+    "nom": "Surface du canal lombaire osseux",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Canal lombaire étroit",
+    "technique": "Coupe axiale corporéo-pédiculo-lamaire : surface du canal osseux délimitée au curseur.",
+    "normes": "≥ 145 mm²",
+    "pathologique": "< 145 mm² : sténose",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.393",
+    "tags": [
+      "canal étroit",
+      "surface"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-diametre-canal-irm-par-etage",
+    "nom": "Diamètre sagittal canalaire IRM par étage (étroitesse constitutionnelle)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Étroitesse constitutionnelle susceptible de se décompenser en sténose acquise",
+    "technique": "Coupe sagittale médiane : diamètre antéropostérieur du canal à chaque niveau vertébral.",
+    "normes": "L1 ≥ 20 mm ; L2 ≥ 19 mm ; L3 ≥ 19 mm ; L4 ≥ 17 mm ; L5 ≥ 16 mm ; S1 ≥ 16 mm",
+    "pathologique": "Valeurs inférieures (L1 < 20, L2 < 19, L3 < 19, L4 < 17, L5 < 16, S1 < 16 mm) : canal constitutionnellement étroit",
+    "pieges": "Mesures IRM moins précises qu'en TDM (hyposignal des corticales et ligaments).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.394",
+    "tags": [
+      "canal étroit",
+      "IRM"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-sac-dural",
+    "nom": "Diamètre et surface du sac dural (sténose acquise)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Canal lombaire rétréci acquis (claudication neurogène)",
+    "technique": "Coupe axiale au niveau discal le plus sténosant : diamètre AP du sac dural et surface de section du sac dural.",
+    "normes": "Diamètre AP ≥ 10 mm ; surface ≥ 75–80 mm²",
+    "pathologique": "Diamètre AP < 10 mm (voire < 7 mm, GETROA) ; surface < 75–80 mm² : sténose",
+    "pieges": "Aucun consensus sur ces seuils (le consensus européen ne retient que des critères morphologiques) ; examen en décubitus sous-estime la sténose (dynamique, maximale en hyperlordose debout).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.395",
+    "tags": [
+      "sténose",
+      "sac dural",
+      "claudication"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-grade-stenose-irm",
+    "nom": "Grade morphologique de sténose centrale (LCS / racines)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM",
+      "TDM"
+    ],
+    "contexte": "Canal lombaire rétréci",
+    "technique": "Coupe axiale T2 au niveau le plus sténosant : analyser le LCS entre les racines de la queue de cheval et la graisse épidurale postérieure (approche proche de la classification de Schizas).",
+    "normes": "LCS abondant, racines individualisées",
+    "pathologique": "Minime : LCS bien visible, distribution non harmonieuse ; modérée : LCS encore présent, aspect granité, racines difficiles à individualiser ; sévère : plus de LCS, racines non individualisables (signal gris), graisse épidurale postérieure visible ; extrême : plus de graisse épidurale postérieure",
+    "pieges": "Proche de Schizas (A à D) ; évaluation en décubitus.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.396",
+    "tags": [
+      "sténose",
+      "Schizas",
+      "grade"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-recessus-lateral",
+    "nom": "Diamètre antéropostérieur du récessus latéral",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Sténose du récessus latéral (L4, surtout L5 et S1)",
+    "technique": "Coupe axiale au bord supérieur du pédicule : distance entre la face postérieure du corps vertébral et le processus articulaire supérieur sous-jacent.",
+    "normes": "≥ 2 mm (classiquement > 3–5 mm)",
+    "pathologique": "< 2 mm : récessus latéral étroit constitutionnel (fréquent chez les sujets africains), « intolérant » à toute saillie discale/arthrosique",
+    "pieges": "Zone de conflit maximale à la partie haute du récessus.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.396-397",
+    "tags": [
+      "récessus latéral",
+      "sténose"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-meyerding",
+    "nom": "Stades de Meyerding (spondylolisthésis)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Spondylolisthésis (lyse isthmique ou dégénératif)",
+    "technique": "Profil debout : diviser le plateau supérieur de la vertèbre sous-jacente en 4 quarts ; repérer la projection du coin postéro-inférieur de la vertèbre olisthésique.",
+    "normes": "Absence de glissement (stade 0)",
+    "pathologique": "Stade 1 : quart postérieur ; 2 : 2e quart ; 3 : 3e quart ; 4 : quart le plus antérieur ; 5 : spondyloptose (plus de contact). Stade ≥ 3 avant la fin de croissance : contre-indique le sport à risque / évolutivité. Stades 0–2 : traitement conservateur.",
+    "pieges": "Clichés en charge indispensables (le décubitus réduit le glissement). Brièveté dysplasique du plateau inférieur de L5 : faux antélisthésis (vérifier l'alignement des coins antérieurs).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.400, 404",
+    "tags": [
+      "spondylolisthésis",
+      "Meyerding",
+      "lyse isthmique"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-taillard",
+    "nom": "Pourcentage de glissement de Taillard",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Spondylolisthésis",
+    "technique": "Profil debout : a = distance entre les coins postérieurs des deux vertèbres (zone découverte du plateau supérieur de S1), b = longueur du plateau de la vertèbre sous-jacente ; % = a/b × 100.",
+    "normes": "< 20 %",
+    "pathologique": "≥ 20 % : glissement significatif",
+    "pieges": "Résorption du coin antérosupérieur de S1 (dôme sacré) fausse b.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.400",
+    "tags": [
+      "spondylolisthésis",
+      "Taillard"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-boxall",
+    "nom": "Pourcentage de glissement de Boxall",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Spondylolisthésis",
+    "technique": "Profil debout : a = zone découverte du plateau supérieur de S1 ; b = diamètre antéropostérieur (plateau inférieur) de la vertèbre olisthésique ; % = a/b × 100.",
+    "normes": "—",
+    "pathologique": "Interprétation identique à Taillard (≥ 20 % significatif)",
+    "pieges": "Moins sensible à la résorption osseuse du coin antérieur de S1 que Taillard.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.400",
+    "tags": [
+      "spondylolisthésis",
+      "Boxall"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-indice-dysplasie-l5",
+    "nom": "Indice de dysplasie de L5 (Taillard)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Spondylolisthésis par lyse isthmique — pronostic",
+    "technique": "Profil : rapport hauteur postérieure / hauteur antérieure du corps de L5.",
+    "normes": "≈ 1 (corps rectangulaire)",
+    "pathologique": "< 1 : L5 trapézoïdale (mur antérieur plus haut que le postérieur) = facteur pronostique péjoratif d'évolutivité",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.401",
+    "tags": [
+      "spondylolisthésis",
+      "dysplasie",
+      "L5"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-indice-s1",
+    "nom": "Indice de dysplasie de S1",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Spondylolisthésis par lyse isthmique — pronostic",
+    "technique": "Profil : rapport des longueurs sagittales du plateau supérieur et du plateau inférieur de S1.",
+    "normes": "≥ 1,35",
+    "pathologique": "< 1,35 : dysplasie antérieure sévère de S1 (résorption du plateau / dôme sacré)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.401",
+    "tags": [
+      "spondylolisthésis",
+      "S1",
+      "dysplasie"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-dome-sacre",
+    "nom": "Dôme sacré (Wiltse / Vialle)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Spondylolisthésis — dysplasie de S1",
+    "technique": "Profil : Wiltse = rapport hauteur du dôme / longueur sacrée ; Vialle = analyse visuelle de la convexité du plateau supérieur de S1.",
+    "normes": "Vialle type 0 : pas de convexité",
+    "pathologique": "Vialle 1 : convexité modérée et centrale ; Vialle 2 : convexité antérieure marquée (dysplasie sévère, péjoratif)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.401",
+    "tags": [
+      "dôme sacré",
+      "spondylolisthésis"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-angle-lombosacre-dubousset",
+    "nom": "Angle lombosacré de Dubousset (cyphose L5-S1)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Spondylolisthésis — pronostic",
+    "technique": "Profil debout : angle entre la tangente au plateau supérieur de L5 et la tangente au mur postérieur de S1.",
+    "normes": "≥ 90°",
+    "pathologique": "< 90° : cyphose lombosacrée (péjoratif) ; diminue (s'aggrave) debout, augmente en décubitus et en hyperextension",
+    "pieges": "Autres angles : Boxall (plateau inférieur de la vertèbre olisthésique / plateau supérieur sous-jacent), Wiltse (bord antérieur de la vertèbre olisthésique / bord postérieur de la sous-jacente). Éperons osseux réactionnels associés à une cyphose moins sévère.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.401",
+    "tags": [
+      "spondylolisthésis",
+      "cyphose lombosacrée",
+      "Dubousset"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-encastrement-l5",
+    "nom": "Encastrement de L5 (ligne bicrête)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "IRM"
+    ],
+    "contexte": "Spondylolisthésis L5 ; numérotation vertébrale / anomalie transitionnelle",
+    "technique": "Cliché de face (ou IRM coronale) : ligne joignant le sommet des deux crêtes iliaques ; noter le niveau croisé.",
+    "normes": "Ligne croisant le disque L4-L5 ou le tiers supérieur de L5",
+    "pathologique": "Ligne plus basse : faible encastrement (insuffisance du ligament iliolombaire, favorise le glissement). En IRM coronale : > 1 vertèbre ¼ sous la tangente = lombalisation de S1 ; moins = sacralisation de L5",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.401 ; ch.32 p.959",
+    "tags": [
+      "L5",
+      "crêtes iliaques",
+      "transitionnelle"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-angle-pediculofacettaire",
+    "nom": "Angle pédiculofacettaire de L5",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Allongement isthmique (lyse passée inaperçue / remodelage)",
+    "technique": "Profil : angle formé par l'axe du pédicule et le processus articulaire inférieur de L5.",
+    "normes": "≤ 120°",
+    "pathologique": "> 120° : allongement de l'isthme",
+    "pieges": "Peut aussi s'ouvrir dans le spondylolisthésis dégénératif.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.400, 405",
+    "tags": [
+      "isthme",
+      "lyse"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-distance-interlyse",
+    "nom": "Distance interlyse",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM"
+    ],
+    "contexte": "Spondylolisthésis par lyse isthmique — retentissement sur le canal",
+    "technique": "Coupe axiale : diamètre frontal du canal entre les deux foyers de lyse.",
+    "normes": "≥ 10 mm",
+    "pathologique": "< 10 mm : rétrécissement frontal (enclavement des processus articulaires inférieurs sus-jacents, nodule de Gill)",
+    "pieges": "Le canal est élargi en AP dans la lyse (contrairement au listhésis dégénératif).",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.402",
+    "tags": [
+      "lyse isthmique",
+      "canal"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-instabilite-dynamique",
+    "nom": "Instabilité lombaire sur clichés dynamiques",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Instabilité vertébrale lombaire (L4-L5 > L3-L4)",
+    "technique": "Profils en flexion et extension : mesurer la translation antéropostérieure d'une vertèbre sur la sous-jacente.",
+    "normes": "< 4 mm",
+    "pathologique": "≥ 4 mm : instabilité sagittale. Signes indirects : enthésophyte de traction horizontal à 2–3 mm du coin vertébral, vide discal, émoussement de l'angle antérosupérieur",
+    "pieges": "Mobilité ≥ 4 mm chez ≥ 20 % des asymptomatiques ; techniques peu reproductibles.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.408",
+    "tags": [
+      "instabilité",
+      "dynamique"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-listhesis-degeneratif",
+    "nom": "Glissement dégénératif (antélisthésis / rétrolisthésis)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Spondylolisthésis dégénératif (L4-L5) et rétrolisthésis (L1-L2, L2-L3)",
+    "technique": "Profil debout : mesurer le décalage des murs postérieurs (mm) ; perte d'alignement des processus épineux au même étage.",
+    "normes": "—",
+    "pathologique": "Antélisthésis dégénératif habituellement modéré (1–2 mm, < 1 cm) ; rétrolisthésis en moyenne 3 mm",
+    "pieges": "Réduit en décubitus (TDM/IRM) : comparer aux clichés debout. Glissement > 1 cm évoque une lyse.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.405-406",
+    "tags": [
+      "spondylolisthésis dégénératif",
+      "rétrolisthésis"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-dish-resnick",
+    "nom": "Critères de Resnick (hyperostose vertébrale / DISH)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM"
+    ],
+    "contexte": "Hyperostose squelettique idiopathique diffuse (maladie de Forestier)",
+    "technique": "Profil thoracique : ossification du ligament longitudinal antérieur (côté droit à l'étage thoracique), continue ou interrompue en regard des disques ; compter les corps vertébraux contigus pontés.",
+    "normes": "—",
+    "pathologique": "Ossification sur ≥ 4 corps vertébraux contigus, hauteur discale conservée ; épaisseur de 1 à 20 mm",
+    "pieges": "Ne permet pas le diagnostic des formes débutantes ; discarthrose associée possible chez le sujet âgé.",
+    "pediatrie": false,
+    "source": "Cotten ch.16 p.409",
+    "tags": [
+      "DISH",
+      "Forestier",
+      "hyperostose"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-scheuermann",
+    "nom": "Critères de dystrophie rachidienne de croissance (Scheuermann)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Maladie de Scheuermann (adolescent)",
+    "technique": "Profil thoracique en charge : cunéiformation de chaque vertèbre = angle entre les tangentes à ses deux plateaux ; cyphose thoracique T4-T12 (Cobb sagittal).",
+    "normes": "Cunéiformation < 5° ; cyphose thoracique 20–40°",
+    "pathologique": "Cunéiformation antérieure ≥ 5° sur ≥ 3 vertèbres contiguës (élément clé), plateaux feuilletés, hernies intraspongieuses, augmentation du diamètre AP, cyphose > 40° (sommet T7-T8). Traitement : < 50–60° surveillance/kiné ; > 50–60° corset ; chirurgie si sévère.",
+    "pieges": "Aspect feuilleté fréquent chez l'adolescent asymptomatique. Réductibilité évaluée en décubitus sur billot. Incidence pelvienne diminuée ; axe C7 souvent en arrière du promontoire.",
+    "pediatrie": true,
+    "source": "Cotten ch.16 p.416-418",
+    "tags": [
+      "Scheuermann",
+      "cyphose",
+      "cunéiformation"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-infiltration-paravertebrale-fracture",
+    "nom": "Infiltration paravertébrale d'une fracture vertébrale",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Fracture vertébrale : bénigne (ostéoporotique) vs maligne vs infectieuse",
+    "technique": "Coupes axiales : épaisseur et symétrie de l'infiltration des tissus mous paravertébraux au niveau fracturé.",
+    "normes": "Petite infiltration circonférentielle < 5 mm (hématome) : fracture bénigne récente",
+    "pathologique": "Importante infiltration circonférentielle : infection ; infiltration asymétrique marquée / focale : tumeur",
+    "pieges": "À intégrer aux autres critères (vide intrasomatique, fente liquidienne, recul d'un coin vs bombement du mur postérieur, arc postérieur).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.423-424",
+    "tags": [
+      "tassement",
+      "fracture vertébrale",
+      "bénin-malin"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-sir-opposition-phase",
+    "nom": "Rapport de signal en opposition de phase (SIR)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "IRM"
+    ],
+    "contexte": "Fracture / lésion vertébrale : bénigne vs remplacement médullaire tumoral",
+    "technique": "Séquence T1 écho de gradient (ou Dixon) en phase et en opposition de phase : ROI dans la vertèbre ; SIR = signal opposition de phase / signal en phase.",
+    "normes": "SIR < 0,8 (chute de signal > 20 %) : pas de remplacement médullaire (fracture bénigne)",
+    "pathologique": "SIR > 0,8 (chute < 20 %) : remplacement médullaire (métastase, myélome)",
+    "pieges": "ADC plus élevé dans les fractures ostéoporotiques aiguës mais chevauchement important.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.424, 428",
+    "tags": [
+      "Dixon",
+      "opposition de phase",
+      "métastase"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-angle-mobilite-coccyx",
+    "nom": "Angle de mobilité du coccyx (clichés dynamiques)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Coccygodynie",
+    "technique": "Profils du coccyx debout puis assis (position douloureuse) : angle de déplacement du coccyx entre les deux positions.",
+    "normes": "Flexion 0–25° ; extension ≤ 15°",
+    "pathologique": "Hypermobilité : > 30° en flexion (25 % des cas) ; luxation/subluxation postérieure significative > 20° (20 %) ; luxation antérieure (5 %) ; spicule (15 %)",
+    "pieges": "Subluxation postérieure se réduisant spontanément debout : clichés assis indispensables.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.432",
+    "tags": [
+      "coccyx",
+      "coccygodynie",
+      "dynamique"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-angle-cobb",
+    "nom": "Angle de Cobb (scoliose)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Scoliose idiopathique, congénitale, dégénérative",
+    "technique": "Face en charge : identifier les vertèbres limites (les moins tournées, les plus penchées) ; angle dans la concavité entre la tangente au plateau supérieur de la vertèbre limite supérieure et la tangente au plateau inférieur de la vertèbre limite inférieure.",
+    "normes": "≤ 10° (attitude/asymétrie)",
+    "pathologique": "> 10° : scoliose. Évolutive si majoration ≥ 5° entre deux bilans à 4–6 mois. Facteurs d'évolution : Cobb en charge > 30°, en décubitus > 17°, gibbosité en décubitus > 11 mm. Conduite (idiopathique) : 10–20° surveillance /6 mois (/4 mois en puberté) ; 20–45° corset ; > 45° chirurgie. Après maturité : 30–50° évoluent de 10–15° sur la vie, 50–75° ≈ 1°/an",
+    "pieges": "Variabilité intra-observateur 5–10° (inter plus importante) ; reflète la déformation antérieure (corporéale) seulement. Courbures < 15° du jeune enfant peuvent régresser.",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.433-435, 441-442",
+    "tags": [
+      "scoliose",
+      "Cobb",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-rotation-nash-moe",
+    "nom": "Rotation vertébrale (Nash-Moe / Cobb)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Scoliose — déformation axiale",
+    "technique": "Face : Nash-Moe = déplacement du pédicule convexe vers le côté concave (corps divisé en segments) ; méthode de Cobb = déplacement du processus épineux par rapport au pédicule et au bord vertébral côté concave. Gradé de 0 à 4.",
+    "normes": "Grade 0 : pédicules symétriques",
+    "pathologique": "Grades 1 à 4 croissants (pédicule convexe migrant vers la ligne médiane puis au-delà) ; au-delà de 30° repères déformés, épineuse non identifiable > 45°, pédicule convexe disparaît vers 60°",
+    "pieges": "Nash-Moe peu sensible (≥ 15° de différence nécessaires pour changer de grade). EOS 3D donne la rotation en degrés.",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.435-436",
+    "tags": [
+      "rotation",
+      "Nash-Moe",
+      "scoliose"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-angle-mehta",
+    "nom": "Angle de Mehta (RVAD) et angle costovertébral",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio"
+    ],
+    "contexte": "Scoliose idiopathique infantile : forme résolutive vs évolutive",
+    "technique": "Face : à la vertèbre sommet, angle costovertébral = angle entre la droite passant par le milieu de la tête et du col costal et la perpendiculaire au plateau inférieur ; Mehta = angle concave (α) − angle convexe (β).",
+    "normes": "Différence < 20°",
+    "pathologique": "> 20° : scoliose évolutive dans 80 % des cas ; < 20° : contrôle tous les 3 mois. Angle costovertébral convexe < 68° (Kristmundsdottir) : scoliose progressive",
+    "pieges": "Diminution de la différence au suivi = régression.",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.434-437",
+    "tags": [
+      "Mehta",
+      "scoliose infantile"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-c7-plumb-line-frontale",
+    "nom": "Équilibre frontal (C7 plumb line)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Scoliose, déséquilibre frontal",
+    "technique": "Face en charge : verticale abaissée du processus épineux de C7 ; mesurer sa distance au milieu des épineuses sacrées / symphyse pubienne.",
+    "normes": "Décalage ≤ 2 cm",
+    "pathologique": "> 2 cm : rachis déséquilibré dans le plan frontal (préciser le côté et la valeur en mm)",
+    "pieges": "Image EOS de face inversée droite-gauche.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.436-437",
+    "tags": [
+      "équilibre frontal",
+      "C7",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-equilibre-sagittal-global",
+    "nom": "Équilibre sagittal global (verticale du CAE / C7 plumb line)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Déséquilibre sagittal, scoliose, Scheuermann, dégénératif",
+    "technique": "Profil en charge : verticale abaissée du méat acoustique externe, comparée au centre des têtes fémorales (centre de l'axe bicoxofémoral si non superposées) ; ou verticale abaissée du milieu du corps de C7 comparée au plateau de S1.",
+    "normes": "Verticale du CAE sur le centre des têtes fémorales ou discrètement en arrière (< 7 mm) ; C7 plumb line dans la moitié postérieure du plateau de S1 (± 2 cm du promontoire)",
+    "pathologique": "En arrière : renversement postérieur du tronc ; en avant : renversement antérieur (physiologique chez le sujet âgé, camptocormie dans la scoliose dégénérative)",
+    "pieges": "Flexion de hanche/genou compensatrice à rechercher.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.437 ; ch.16 p.417",
+    "tags": [
+      "équilibre sagittal",
+      "SVA",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-gite-sagittale-t9",
+    "nom": "Gîte sagittale de T9",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal (T9 = centre de gravité du tronc)",
+    "technique": "Profil en charge : angle entre la droite joignant le centre du corps de T9 au centre des têtes fémorales et la verticale passant par le centre des têtes fémorales.",
+    "normes": "10 ± 3° (≈ 11°)",
+    "pathologique": "Augmentée : renversement postérieur ; diminuée : renversement antérieur du tronc",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.437 ; ch.16 p.402",
+    "tags": [
+      "gîte sagittale",
+      "T9",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-lordose-lombaire",
+    "nom": "Lordose lombaire (L1-L5 / L1-S1)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal, spondylolisthésis, dos plat",
+    "technique": "Profil en charge : angle entre la tangente au plateau supérieur de L1 et la tangente au plateau inférieur de L5 (ou au plateau supérieur de S1).",
+    "normes": "L1-L5 : 43 ± 11° ; L1-S1 : 60 ± 10°",
+    "pathologique": "Hyperlordose si incidence pelvienne élevée / lyse isthmique ; perte de lordose : dos plat, scoliose dégénérative, compensée par rétroversion pelvienne",
+    "pieges": "Lordose proportionnelle à l'incidence pelvienne (à interpréter en fonction de celle-ci).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438 ; ch.16 p.402",
+    "tags": [
+      "lordose",
+      "équilibre sagittal",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-cyphose-thoracique",
+    "nom": "Cyphose thoracique (T4-T12 / T1-T12)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal, Scheuermann, scoliose",
+    "technique": "Profil en charge : angle entre la tangente au plateau supérieur de T4 (ou T1) et la tangente au plateau inférieur de T12.",
+    "normes": "T4-T12 : 41 ± 10° ; T1-T12 : 41 ± 10° (normes très variables : 20–40°)",
+    "pathologique": "> 40° : hypercyphose (Scheuermann) ; hypocyphose dans la scoliose idiopathique (lordose des vertèbres apicales)",
+    "pieges": "Plateau de T1/T4 mal visible en radiographie (superposition des épaules).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438 ; ch.16 p.416-417",
+    "tags": [
+      "cyphose",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-incidence-pelvienne",
+    "nom": "Incidence pelvienne",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal, spondylolisthésis, Scheuermann",
+    "technique": "Profil en charge : angle entre la droite joignant le centre des têtes fémorales (milieu de l'axe bicoxofémoral) au milieu du plateau supérieur de S1 et la perpendiculaire au plateau de S1 en son milieu. IP = VP + PS.",
+    "normes": "55 ± 11° (51,4° en moyenne selon ch.16)",
+    "pathologique": "Élevée : bassin large, forte lordose, lyse isthmique (souvent augmentée) ; faible : bassin étroit, faible lordose, capacité de rétroversion limitée (diminuée dans le Scheuermann)",
+    "pieges": "Paramètre morphologique constant après la croissance, indépendant de la position.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438 ; ch.16 p.401-402",
+    "tags": [
+      "incidence pelvienne",
+      "équilibre sagittal",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-version-pelvienne",
+    "nom": "Version pelvienne (pelvic tilt)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal, compensation d'une perte de lordose",
+    "technique": "Profil en charge : angle entre la droite joignant le centre des têtes fémorales au milieu du plateau de S1 et la verticale passant par le centre des têtes fémorales.",
+    "normes": "13 ± 6°",
+    "pathologique": "Augmentée : rétroversion (compensation d'un déséquilibre antérieur ; découverture antérieure des têtes) ; diminuée : antéversion",
+    "pieges": "Lorsque la rétroversion est épuisée : flexion des genoux / extension des chevilles.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438-439 ; ch.16 p.402",
+    "tags": [
+      "version pelvienne",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-pente-sacree",
+    "nom": "Pente sacrée",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Équilibre sagittal ; détermine la lordose lombaire",
+    "technique": "Profil en charge : angle entre l'horizontale et la tangente au plateau supérieur de S1.",
+    "normes": "35–45° (41 ± 8°)",
+    "pathologique": "Augmentée : antéversion, hyperlordose ou cassure lombosacrée (L5-S1 pincé en arrière) ; diminuée : rétroversion",
+    "pieges": "Angle complémentaire de la version pelvienne (PS + VP = IP).",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.439 ; ch.16 p.402",
+    "tags": [
+      "pente sacrée",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-roussouly",
+    "nom": "Classification de Roussouly (types d'alignement sagittal)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "eos",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Typologie de l'alignement sagittal en fonction de l'incidence pelvienne",
+    "technique": "Profil en charge : mesurer la pente sacrée et analyser la forme des courbures.",
+    "normes": "Type 3 : colonne harmonieuse, IP modérée, PS 35–45°",
+    "pathologique": "Type 1 : cyphose thoracique longue, lordose courte, PS < 35° ; type 2 : dos plat, PS < 35° (coxarthrose postérieure, discopathies) ; type 4 : hyperlordose, IP importante, PS > 45° (arthrose zygapophysaire, spondylolisthésis)",
+    "pieges": "",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438",
+    "tags": [
+      "Roussouly",
+      "alignement sagittal",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-obliquite-pelvienne",
+    "nom": "Obliquité pelvienne / inégalité de longueur des membres inférieurs",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Attitude scoliotique, déséquilibre frontal du bassin",
+    "technique": "Face en charge : droite tangente aux toits acétabulaires (ou pied des sacro-iliaques, sommet des crêtes) ; mesurer la dénivellation en mm.",
+    "normes": "< 10 mm (physiologique)",
+    "pathologique": "> 10 mm : pathologique ; 10–20 mm : talonnette ; > 20 mm : correction indispensable sur les clichés de réductibilité, talonnette ou chirurgie",
+    "pieges": "Se méfier d'un flexum de genou ou de hanche.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.438-439, 442",
+    "tags": [
+      "bassin",
+      "inégalité de longueur",
+      "EOS"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-risser",
+    "nom": "Test de Risser",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS"
+    ],
+    "contexte": "Maturité osseuse de fin de croissance (scoliose)",
+    "technique": "Face du bassin : ossification de l'apophyse des crêtes iliaques, progressant d'avant en arrière ; 6 stades.",
+    "normes": "Stade 0 : pas d'ossification ; 1–4 : extension progressive ; 5 : fusion complète",
+    "pathologique": "Risser 0–1 : fort potentiel évolutif ; fin de la période pubertaire au point R (Risser 4) ; croissance rachidienne achevée à Risser 5",
+    "pieges": "Indice de maturité de fin de croissance, pas un âge osseux (Greulich-Pyle, Sauvegrain-Nahum en début de puberté quand Risser = 0).",
+    "pediatrie": true,
+    "source": "Cotten ch.17 p.433-434, 439",
+    "tags": [
+      "Risser",
+      "maturité osseuse",
+      "scoliose"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-scoliose-degenerative",
+    "nom": "Seuils de la scoliose dégénérative de l'adulte",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "EOS",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Scoliose dégénérative primitive (de novo) ou secondaire",
+    "technique": "EOS face/profil en charge : angle de Cobb, dislocation rotatoire (ouverte/fermée), perte de lordose et équilibre sagittal.",
+    "normes": "—",
+    "pathologique": "Cobb < 30° : surveillance clinique et radiographique ; > 45° ou échec du traitement conservateur : chirurgie possible. Apex habituellement L2-L3 à L4-L5",
+    "pieges": "Dislocation caractéristique ; sténose centrale/latérale plus sévère dans la forme primitive.",
+    "pediatrie": false,
+    "source": "Cotten ch.17 p.444-445",
+    "tags": [
+      "scoliose dégénérative",
+      "adulte",
+      "Cobb"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-castellvi",
+    "nom": "Classification de Castellvi (anomalie transitionnelle lombosacrée)",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Sacralisation de L5 / lombalisation de S1, syndrome de Bertolotti",
+    "technique": "Face (cliché à rayon ascendant) ou coupes coronales : hauteur craniocaudale du processus transverse de la vertèbre transitionnelle et rapports avec l'aileron sacré. Compléter par O'Driscoll (disque S1-S2 en IRM sagittale T2).",
+    "normes": "Processus transverse < 19 mm, sans contact sacré",
+    "pathologique": "Type I : processus transverse ≥ 19 mm (a unilatéral, b bilatéral) ; type II : pseudarthrose avec le sacrum ; type III : fusion osseuse ; type IV : II d'un côté + III de l'autre. O'Driscoll : I absence de disque S1-S2, II disque résiduel, III disque normal, IV III + S1 quadrangulaire (anomalie transitionnelle)",
+    "pieges": "Ligament iliolombaire fiable pour identifier L5 seulement en type I ; numérotation à confirmer en comptant depuis C2.",
+    "pediatrie": false,
+    "source": "Cotten ch.32 p.959-960",
+    "tags": [
+      "Castellvi",
+      "transitionnelle",
+      "Bertolotti"
+    ]
+  },
+  {
+    "id": "rachis-thoracolombaire-fossette-sacro-coccygienne",
+    "nom": "Fossette sacrococcygienne atypique",
+    "region": "rachis-thoracolombaire",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "IRM"
+    ],
+    "contexte": "Dysraphisme spinal fermé (nouveau-né, nourrisson)",
+    "technique": "Examen clinique puis échographie médullaire : diamètre de la fossette et distance à la marge anale.",
+    "normes": "Fossette ≤ 5 mm, ≤ 25 mm de l'anus, isolée (typique, sans exploration)",
+    "pathologique": "Diamètre > 5 mm, distance anus–fossette > 25 mm ou lésions cutanées associées : fossette atypique → exploration (moelle attachée)",
+    "pieges": "",
+    "pediatrie": true,
+    "source": "Cotten ch.32 p.954",
+    "tags": [
+      "dysraphisme",
+      "nouveau-né",
+      "fossette"
+    ]
+  },
+  {
+    "id": "paroi-thoracique-indice-haller",
+    "nom": "Index de Haller (pectus index)",
+    "region": "paroi-thoracique",
+    "categorie": "mesure",
+    "modalites": [
+      "Radio",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Pectus excavatum — quantification et indication chirurgicale",
+    "technique": "Coupe axiale au niveau de la dépression maximale : plus grande largeur interne du thorax (a) / plus petite distance entre la face postérieure du sternum et la face antérieure du rachis (b) = a/b. En radiographie : largeur sur la face, profondeur sur le profil, au même niveau vertébral.",
+    "normes": "< 2,56 (adulte) ; enfant : limite supérieure 2,7 quels que soient âge et sexe",
+    "pathologique": "> 3 (3,1–3,25 selon les auteurs) : pectus excavatum sévère, chirurgie potentiellement indiquée ; < 1,98 : pectus carinatum",
+    "pieges": "Diminue en inspiration : 17 % des patients < 3,25 en inspiration dépassent 3,25 en expiration/apnée. Plus élevé chez la fille. Mesures sur la même coupe en TDM/IRM.",
+    "pediatrie": true,
+    "source": "Cotten ch.33 p.965-966",
+    "tags": [
+      "Haller",
+      "pectus excavatum",
+      "pectus carinatum"
+    ]
+  },
+  {
+    "id": "paroi-thoracique-index-correction",
+    "nom": "Index de correction et index d'asymétrie (pectus)",
+    "region": "paroi-thoracique",
+    "categorie": "mesure",
+    "modalites": [
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Pectus excavatum — quantification complémentaire",
+    "technique": "Même coupe que Haller. Correction = (c − b)/b × 100, b = plus petite distance sternum–rachis, c = plus grande distance entre face antérieure du rachis et bord le plus antérieur de la cage. Asymétrie = D/G × 100 (diamètres AP maximaux des champs pulmonaires droit et gauche, perpendiculaires au diamètre transverse). Bascule sternale.",
+    "normes": "Index de correction faible ; asymétrie ≈ 100 %",
+    "pathologique": "Index de correction ≥ 28 % : pectus sévère (seuil chirurgical usuel) ; écart à 100 % : asymétrie thoracique",
+    "pieges": "Moins utilisés en pratique courante que l'index de Haller.",
+    "pediatrie": true,
+    "source": "Cotten ch.33 p.965-966 + complément",
+    "tags": [
+      "pectus excavatum",
+      "index de correction",
+      "asymétrie"
+    ]
+  },
+  {
+    "id": "paroi-thoracique-asymetrie-cartilage-costal",
+    "nom": "Asymétrie des cartilages costaux",
+    "region": "paroi-thoracique",
+    "categorie": "mesure",
+    "modalites": [
+      "Écho",
+      "TDM",
+      "IRM"
+    ],
+    "contexte": "Tuméfaction pariétale antérieure de l'enfant (cartilage proéminent, nodule parachondral)",
+    "technique": "Échographie comparative : diamètre antéropostérieur du cartilage costal suspect vs controlatéral.",
+    "normes": "Différence ≤ 3 mm",
+    "pathologique": "Diamètre AP > 3 mm de plus que le controlatéral : cartilage costal asymétrique (variante, parfois associée à une bascule sternale)",
+    "pieges": "Évite une imagerie en coupes inutile devant une « masse » pariétale.",
+    "pediatrie": true,
+    "source": "Cotten ch.33 p.963",
+    "tags": [
+      "cartilage costal",
+      "enfant",
+      "variante"
+    ]
+  }
+]
