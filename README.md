@@ -14,3 +14,8 @@ Les fiches marquées *complément* / *hors Cotten* contiennent des valeurs de la
 1. Modifier/ajouter des fiches dans `data/raw/*.json` (schéma : `data/SCHEMA.md`).
 2. `python3 scripts/build_data.py` → régénère `data/measures.json` et `data/embedded_data.js`.
 3. Incrémenter `?v=` dans `index.html` et `CACHE` dans `sw.js`, puis commit + push.
+
+## Illustrations
+- **Figures du Cotten** : `scripts/extract_cotten_figures.py` (PDF du Drive → `~/.cache/cotten-figs`), `scripts/split_panels.py` (découpe des panneaux a/b/c), association mesure → figure dans `data/figmatch/*.json`, copie avec `scripts/copy_figures.py`.
+- **Images web** (`data/web/`) : Wikimedia Commons, auteur et licence affichés sous l'image.
+- **Schémas SVG** (`data/svg/`) : affichés en dernier, ou seuls quand aucune figure n'existe.

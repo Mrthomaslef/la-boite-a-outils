@@ -11,8 +11,8 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="assets/icon-192.png">
-  <link rel="stylesheet" href="svg.css?v=3">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="svg.css?v=5">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <div id="ptr" aria-hidden="true"><span>↻</span></div>
@@ -31,9 +31,13 @@
     <div class="sheet-bg" data-close></div>
     <article class="sheet-card" id="sheet-card"></article>
   </div>
+  <div id="lb" class="lb" hidden>
+    <div id="lb-wrap" class="lb-wrap" data-lb><img id="lb-img" alt=""></div>
+    <div class="lb-bar"><span id="lb-cap"></span><button data-lb class="lb-x" aria-label="Fermer">✕</button></div>
+  </div>
   <div id="toast" role="status"></div>
 
-  <script src="data/embedded_data.js?v=3"></script>
-  <script src="app.js?v=3"></script>
+  <script src="data/embedded_data.js?v=5"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>

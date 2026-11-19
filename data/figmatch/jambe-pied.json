@@ -1,0 +1,665 @@
+{
+ "jambe-pression-intramusculaire-loge": {
+  "cotten": [],
+  "web": null
+ },
+ "jambe-fredericson-kijowski": {
+  "cotten": [
+   {
+    "fig": "28.9",
+    "ch": 28,
+    "panel": null,
+    "pourquoi": "Grades successifs : œdème périosté, médullaire, fracture (T2 axial)"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-tendon-calcaneen-epaisseur": {
+  "cotten": [
+   {
+    "fig": "29.3",
+    "ch": 29,
+    "panel": "c",
+    "pourquoi": "Ovalisation et épaississement du tendon en coupe axiale"
+   },
+   {
+    "fig": "29.2",
+    "ch": 29,
+    "panel": "a",
+    "pourquoi": "Tendon calcanéen normal en coupe axiale DP"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-rupture-achille-niveau": {
+  "cotten": [
+   {
+    "fig": "29.13",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Ruptures complètes à distance variable de l'angle calcanéen"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-chauveaux-liet": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-ttp-gaine": {
+  "cotten": [
+   {
+    "fig": "29.15",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Ténosynovite du TTP avec épanchement péritendineux"
+   },
+   {
+    "fig": "29.16",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Épaississement TTP vs LFO, ténosynovite en T2"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-ttp-insertion": {
+  "cotten": [
+   {
+    "fig": "29.21",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Enthésopathie du TTP à l'insertion naviculaire"
+   },
+   {
+    "fig": "29.23",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Insertion du TTP sur os naviculaire accessoire"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-os-naviculaire-accessoire": {
+  "cotten": [
+   {
+    "fig": "29.22",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Os naviculaires accessoires de type II et III"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-spring-ligament": {
+  "cotten": [
+   {
+    "fig": "29.26",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Faisceaux du spring ligament en IRM axiale et coronale"
+   },
+   {
+    "fig": "29.25",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Schéma des trois faisceaux du spring ligament"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-trochlee-fibulaire": {
+  "cotten": [
+   {
+    "fig": "29.35",
+    "ch": 29,
+    "panel": "b",
+    "pourquoi": "Trochlée fibulaire saillante en scanner"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-court-fibulaire-jonction-basse": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-gaine-fibulaires-liquide": {
+  "cotten": [
+   {
+    "fig": "29.30",
+    "ch": 29,
+    "panel": "a",
+    "pourquoi": "Épanchement de la gaine des fibulaires en échographie"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-sobel-fissure-court-fibulaire": {
+  "cotten": [
+   {
+    "fig": "29.31",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Fissure longitudinale du court fibulaire en échographie"
+   },
+   {
+    "fig": "29.33",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Fissure étendue : deux hémi-tendons, rupture quasi complète"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-os-peroneum-diastasis": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/cheville-pied-os-peroneum-diastasis.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Proximalisiertes_Os_peroneum_-_Roe_-_001_-_Annotation.png",
+   "auteur": "Hellerhoff",
+   "licence": "CC BY-SA 3.0",
+   "legende": "Os peroneum ascensionné (cerclé) sur rupture du long fibulaire, face, oblique et profil"
+  }
+ },
+ "cheville-pied-tibial-anterieur-epaisseur": {
+  "cotten": [
+   {
+    "fig": "29.46",
+    "ch": 29,
+    "panel": "c",
+    "pourquoi": "Tendinopathie TTA : coupes axiales comparatives en échographie"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-ligaments-collateraux-lateraux-dimensions": {
+  "cotten": [
+   {
+    "fig": "29.50",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "LTFA, LCF et LTFP en IRM T2"
+   },
+   {
+    "fig": "29.49",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Schéma du ligament collatéral latéral"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-tibiotalien-varus": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-tiroir-anterieur": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-syndesmose-espace-clair": {
+  "cotten": [
+   {
+    "fig": "29.74",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Espace clair tibiofibulaire (double flèche blanche) face/mortaise"
+   },
+   {
+    "fig": "29.75",
+    "ch": 29,
+    "panel": "a",
+    "pourquoi": "Diastasis : élargissement de l'espace clair"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-syndesmose-chevauchement": {
+  "cotten": [
+   {
+    "fig": "29.74",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Chevauchement tibiofibulaire (double flèche noire)"
+   },
+   {
+    "fig": "29.76",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Diastasis avec absence de chevauchement tibiofibulaire"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-espace-clair-medial": {
+  "cotten": [
+   {
+    "fig": "29.74",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Espace clair médial ≤ interligne talocrural"
+   },
+   {
+    "fig": "29.75",
+    "ch": 29,
+    "panel": "a",
+    "pourquoi": "Diastasis talocrural médial (double flèche blanche)"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-aponevrose-plantaire-epaisseur": {
+  "cotten": [
+   {
+    "fig": "29.84",
+    "ch": 29,
+    "panel": "a",
+    "pourquoi": "Épaississement de l'aponévrose plantaire à l'enthèse"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-veines-tunnel-tarsien": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-nevrome-morton": {
+  "cotten": [
+   {
+    "fig": "29.101",
+    "ch": 29,
+    "panel": null,
+    "pourquoi": "Névrome de Morton en coupes transversale et longitudinales"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-djian-annonier": {
+  "cotten": [
+   {
+    "fig": "30.1",
+    "ch": 30,
+    "panel": "a",
+    "pourquoi": "Angle de Djian-Annonier (1) sur profil en charge"
+   },
+   {
+    "fig": "30.7",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pied plat : Djian-Annonier > 130°"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-meary-tomeno": {
+  "cotten": [
+   {
+    "fig": "30.1",
+    "ch": 30,
+    "panel": "a",
+    "pourquoi": "Ligne de Méary-Tomeno (2) sur profil en charge"
+   },
+   {
+    "fig": "30.15",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pied creux : angle de Méary-Tomeno à sommet supérieur"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pente-calcaneenne": {
+  "cotten": [
+   {
+    "fig": "30.1",
+    "ch": 30,
+    "panel": "b",
+    "pourquoi": "Pente du calcanéus (4) sur profil en charge"
+   },
+   {
+    "fig": "30.15",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pied creux : pente calcanéenne augmentée (PC)"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-divergence-talocalcaneenne-profil": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-angle-attaque-metatarsiens": {
+  "cotten": [
+   {
+    "fig": "30.1",
+    "ch": 30,
+    "panel": "b",
+    "pourquoi": "Angle d'attaque du 1er métatarsien (3)"
+   },
+   {
+    "fig": "30.15",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pied creux : angle d'attaque des métatarsiens augmenté"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-talocrural": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-angle-ouverture-avant-pied": {
+  "cotten": [
+   {
+    "fig": "30.2",
+    "ch": 30,
+    "panel": "a",
+    "pourquoi": "Angle d'ouverture de l'avant-pied M1-M5"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-meschan": {
+  "cotten": [
+   {
+    "fig": "30.2",
+    "ch": 30,
+    "panel": "d",
+    "pourquoi": "Angle de Meschan sur dorsoplantaire en charge"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-m1-m2": {
+  "cotten": [
+   {
+    "fig": "30.2",
+    "ch": 30,
+    "panel": "b",
+    "pourquoi": "Varus du 1er métatarsien (angle M1-M2)"
+   },
+   {
+    "fig": "30.18",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Hallux valgus : M1M2 mesuré à 20°"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-m1-p1": {
+  "cotten": [
+   {
+    "fig": "30.2",
+    "ch": 30,
+    "panel": "e",
+    "pourquoi": "Angle métatarsophalangien du 1er rayon"
+   },
+   {
+    "fig": "30.18",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Hallux valgus : M1P1 mesuré à 40°"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-m5-p1": {
+  "cotten": [
+   {
+    "fig": "30.2",
+    "ch": 30,
+    "panel": "c",
+    "pourquoi": "Angle métatarsophalangien du 5e rayon"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-dmaa": {
+  "cotten": [
+   {
+    "fig": "30.18",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "DMAA légèrement augmenté (12°) sur hallux valgus"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-sesamoides-position": {
+  "cotten": [
+   {
+    "fig": "30.18",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Sésamoïdes latéraux projetés dans le 1er espace"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-formule-orteils": {
+  "cotten": [
+   {
+    "fig": "30.3",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pieds égyptien, carré et grec"
+   },
+   {
+    "fig": "30.18",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Pied égyptien par P1 long sur hallux valgus"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-bifocale-divergence-talocalcaneenne": {
+  "cotten": [
+   {
+    "fig": "30.4",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Divergence talocalcanéenne (1) en incidence bifocale"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-abduction-avant-pied": {
+  "cotten": [
+   {
+    "fig": "30.4",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Abduction de l'avant-pied (2) en incidence bifocale"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-declinaison-talienne": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-valgus-arriere-pied-meary": {
+  "cotten": [
+   {
+    "fig": "30.5",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Méthode de Méary : axe tibial et zone d'appui"
+   },
+   {
+    "fig": "30.8",
+    "ch": 30,
+    "panel": null,
+    "pourquoi": "Valgus calcanéen selon Méary avec deux marqueurs"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-angle-m4-m5-m2-m5": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-rostre-calcaneen": {
+  "cotten": [
+   {
+    "fig": "30.11",
+    "ch": 30,
+    "panel": "a",
+    "pourquoi": "Rostre au contact du naviculaire : synchondrose calcanéonaviculaire"
+   }
+  ],
+  "web": null
+ },
+ "membre-entier-aitken-pffd": {
+  "cotten": [
+   {
+    "fig": "35.1",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "Schéma de la classification d'Aitken"
+   },
+   {
+    "fig": "35.2",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "PFFD sévère type D"
+   }
+  ],
+  "web": null
+ },
+ "membre-entier-femur-court-congenital": {
+  "cotten": [
+   {
+    "fig": "35.4",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "Raccourcissement fémoral droit, inégalité de longueur"
+   }
+  ],
+  "web": null
+ },
+ "jambe-clement-hemimelie-tibiale": {
+  "cotten": [
+   {
+    "fig": "35.6",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "Schéma de la classification de Clément"
+   },
+   {
+    "fig": "35.7",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "Hémimélie tibiale type IIb"
+   }
+  ],
+  "web": null
+ },
+ "jambe-achterman-kalamchi": {
+  "cotten": [
+   {
+    "fig": "35.10",
+    "ch": 35,
+    "panel": null,
+    "pourquoi": "Schéma de la classification d'Achterman et Kalamchi"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-angle-talonaviculaire": {
+  "cotten": [
+   {
+    "fig": "36.5",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "Tracé de l'angle TN et valeurs normales/PBVE"
+   },
+   {
+    "fig": "36.6",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "Angles TN mesurés à +28° et +58°"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-angles-talometatarsal-talocuneen": {
+  "cotten": [
+   {
+    "fig": "36.5",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "Tableau des valeurs TM et TC témoins/PBVE"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-distance-mmn": {
+  "cotten": [
+   {
+    "fig": "36.4",
+    "ch": 36,
+    "panel": "b",
+    "pourquoi": "Naviculaire au contact de la malléole tibiale"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-divergence-talocalcaneenne-echo": {
+  "cotten": [
+   {
+    "fig": "36.7",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "Mesure de la DTC sur écran dédoublé (≈45°)"
+   },
+   {
+    "fig": "36.8",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "DTC diminuée (21°) puis nulle dans le PBVE"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-angle-mtc": {
+  "cotten": [
+   {
+    "fig": "36.10",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "Tracé de l'angle MTC normal (110°)"
+   },
+   {
+    "fig": "36.11",
+    "ch": 36,
+    "panel": null,
+    "pourquoi": "MTC mesurés à 67, 48, 37 et 31°"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-pbve-distance-physe-calcaneus": {
+  "cotten": [],
+  "web": null
+ },
+ "cheville-pied-pbve-calcaneo-cuboidien": {
+  "cotten": [
+   {
+    "fig": "36.12",
+    "ch": 36,
+    "panel": "b",
+    "pourquoi": "Mesure de l'angle calcanéométatarsal (CM = 41°)"
+   }
+  ],
+  "web": null
+ },
+ "cheville-pied-score-dimeglio": {
+  "cotten": [],
+  "web": null
+ }
+}

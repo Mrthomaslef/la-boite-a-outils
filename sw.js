@@ -1,6 +1,6 @@
 // Network-first pour toujours voir la dernière version, cache en secours hors-ligne.
-const CACHE = "bao-msk-v3";
-const ASSETS = ["./", "index.html", "svg.css?v=3", "styles.css?v=3", "app.js?v=3", "data/embedded_data.js?v=3", "manifest.webmanifest", "assets/icon.svg"];
+const CACHE = "bao-msk-v5";
+const ASSETS = ["./", "index.html", "svg.css?v=5", "styles.css?v=5", "app.js?v=5", "data/embedded_data.js?v=5", "manifest.webmanifest", "assets/icon.svg"];
 self.addEventListener("install", (e) => { self.skipWaiting(); e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS))); });
 self.addEventListener("activate", (e) => e.waitUntil(
   caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim())));

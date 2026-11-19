@@ -1,0 +1,578 @@
+{
+ "prothese-hanche-inclinaison-cupule": {
+  "cotten": [
+   {
+    "fig": "19.49",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Angle plan d'ouverture cupule / ligne des U"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-anteversion-cupule-tdm": {
+  "cotten": [
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Antéversion cupule sur coupe fonctionnelle corrigée"
+   },
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Antéversion cupule sur coupe anatomique habituelle"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-zone-lewinnek": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/prothese-hanche-zone-lewinnek.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Range_of_acetabular_inclination.png",
+   "auteur": "Mikael Häggström",
+   "licence": "CC0",
+   "legende": "Inclinaison cupulaire à 30° et 50° : bornes de la zone de sécurité de Lewinnek (40 ± 10°)."
+  }
+ },
+ "prothese-hanche-deplacement-cupule": {
+  "cotten": [
+   {
+    "fig": "19.49",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Distances centre cupule aux droites passant par les U"
+   },
+   {
+    "fig": "19.50",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Critères de comparabilité des clichés selon Massin"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-deLee-charnley": {
+  "cotten": [
+   {
+    "fig": "19.46",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Zones acétabulaires 1-2-3 de DeLee-Charnley tracées"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-gruen": {
+  "cotten": [
+   {
+    "fig": "19.46",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Zones de Gruen 1-7 face et 8-14 profil"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-enfoncement-tige": {
+  "cotten": [
+   {
+    "fig": "19.48",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Distance épaulement prothétique – sommet du grand trochanter"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-axe-tige": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-hanche-offset-femoral": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/prothese-hanche-offset-femoral.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Femoral_offset_in_hemiarthroplasty.jpg",
+   "auteur": "Carl Jones, Nikolai Briffa, Joshua Jacob, Richard Hargrove",
+   "licence": "CC BY 4.0",
+   "legende": "Offset fémoral : distance centre de tête – axe diaphysaire, côté opéré vs controlatéral."
+  }
+ },
+ "prothese-hanche-centre-rotation": {
+  "cotten": [
+   {
+    "fig": "19.49",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Position du centre cupulaire repérée par rapport aux U"
+   }
+  ],
+  "web": {
+   "file": "data/web/prothese-hanche-centre-rotation.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Center_of_rotation_of_hip_prosthesis.jpg",
+   "auteur": "Mikael Häggström (source : Nevit Dilmen)",
+   "licence": "CC0",
+   "legende": "Centre de rotation horizontal (U radiologique) et vertical (ligne bi-ischiatique), comparatif bilatéral."
+  }
+ },
+ "prothese-hanche-inegalite-longueur-pth": {
+  "cotten": [
+   {
+    "fig": "19.47",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Distances ligne des U – petits trochanters, bilatérales"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-anteversion-tige-tdm": {
+  "cotten": [
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "d",
+    "pourquoi": "Mesure TDM de l'antéversion de la pièce fémorale"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-debord-anterieur-cupule": {
+  "cotten": [
+   {
+    "fig": "19.62",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Débord antérieur de cupule mesuré à 14,1 mm"
+   },
+   {
+    "fig": "19.67",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Bursite iliopectinée sur conflit cupule-iliopsoas"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-liseres-cimentee": {
+  "cotten": [
+   {
+    "fig": "19.51",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Liserés à l'interface os-ciment, évolutifs"
+   },
+   {
+    "fig": "19.52",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Piédestal en regard de l'extrémité de la tige"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-osteointegration-non-cimentee": {
+  "cotten": [
+   {
+    "fig": "19.53",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Liseré étendu autour d'une cupule non cimentée"
+   },
+   {
+    "fig": "19.52",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Piédestal endosté distal de tige"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-usure-pe": {
+  "cotten": [
+   {
+    "fig": "19.56",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Excentration de la tête par usure du polyéthylène"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-osteolyse": {
+  "cotten": [
+   {
+    "fig": "19.55",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Ostéolyse granulomateuse expansive zones 1 et 7"
+   },
+   {
+    "fig": "19.54",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Ostéolyse fémorale proximale et périacétabulaire"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-brooker": {
+  "cotten": [
+   {
+    "fig": "19.64",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Ossification périprothétique stade 4 (ankylose)"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-double-mobilite": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-hanche-resurfacage": {
+  "cotten": [
+   {
+    "fig": "19.45",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Aspect radiographique d'une arthroplastie de resurfaçage"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-pseudotumeur": {
+  "cotten": [
+   {
+    "fig": "19.65",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Pseudotumeur liquidienne à paroi épaisse, couple métal-métal"
+   },
+   {
+    "fig": "19.66",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Pseudotumeur et collet en échographie et scanner"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-infection": {
+  "cotten": [
+   {
+    "fig": "19.58",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Ostéolyse en bulles, apposition périostée, liseré cupule"
+   },
+   {
+    "fig": "19.59",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Ostéolyse plurifocale endostée et appositions périostées"
+   }
+  ],
+  "web": null
+ },
+ "prothese-hanche-tdm-protocole": {
+  "cotten": [
+   {
+    "fig": "27.69",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "TDM de PTG exploitable malgré le métal"
+   }
+  ],
+  "web": null
+ },
+ "prothese-irm-protocole-metal": {
+  "cotten": [
+   {
+    "fig": "19.68",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "IRM péri-prothétique de hanche : métallose et bursite"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-hka": {
+  "cotten": [
+   {
+    "fig": "27.55",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Axe mécanique HKA sur goniométrie en charge"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-angles-alpha-beta": {
+  "cotten": [
+   {
+    "fig": "27.56",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Angles α fémoral et β tibial de la PTG"
+   },
+   {
+    "fig": "27.58",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Angle β anormal mesuré à 87°"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-angles-gamma-delta": {
+  "cotten": [
+   {
+    "fig": "27.57",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Coupe fémorale et pente tibiale sur profil"
+   }
+  ],
+  "web": {
+   "file": "data/web/prothese-genou-angles-gamma-delta.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Radiograph_with_knee_angles.jpg",
+   "auteur": "Inui H, Taketomi S, Nakamura K et al.",
+   "licence": "CC BY 2.0",
+   "legende": "HKA, angles frontaux (FFC, FTC) et sagittaux fémoral (LFC = γ) et tibial (LTC = δ)."
+  }
+ },
+ "prothese-genou-pente-tibiale": {
+  "cotten": [
+   {
+    "fig": "27.57",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Pente tibiale : perpendiculaire axe tibial / embase"
+   },
+   {
+    "fig": "27.58",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Pente tibiale antérieure anormale de 2°"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-encoche-femorale": {
+  "cotten": [
+   {
+    "fig": "27.57",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Recherche d'encoche corticale fémorale antérieure (notch)"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-hauteur-patellaire-ptg": {
+  "cotten": [
+   {
+    "fig": "27.59",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Index de Blackburne-Peel normal à 1,02"
+   },
+   {
+    "fig": "27.66",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Patella baja, Blackburne-Peel à 0,6"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-rotation-femorale-berger": {
+  "cotten": [
+   {
+    "fig": "27.70",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Rotation externe 3° : biépicondylienne / bicondylienne postérieure"
+   },
+   {
+    "fig": "27.71",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Rotation latérale anormale de l'implant fémoral"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-rotation-tibiale-berger": {
+  "cotten": [
+   {
+    "fig": "27.70",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Rotation interne 22° de l'embase par rapport à TTA"
+   },
+   {
+    "fig": "27.71",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Rotation anormale de l'implant tibial à 41°"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-liseres-knee-society": {
+  "cotten": [
+   {
+    "fig": "27.63",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Liserés > 2 mm autour des implants fémoral et tibial"
+   }
+  ],
+  "web": {
+   "file": "data/web/prothese-genou-liseres-knee-society.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Knee_prosthesis_zones_by_Knee_Society_2015,_AP_view.jpg",
+   "auteur": "Mikael Häggström",
+   "licence": "CC0",
+   "legende": "Zones Knee Society 2015 de l'embase tibiale de face (1, 2, 3M/L, 4M/L, 5)."
+  }
+ },
+ "prothese-genou-usure-pe": {
+  "cotten": [
+   {
+    "fig": "27.60",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Pincement fémorotibial médial par usure de l'insert"
+   },
+   {
+    "fig": "27.71",
+    "ch": 27,
+    "panel": "c",
+    "pourquoi": "Dislocation de l'insert PE sur l'embase en TDM"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-descellement-septique": {
+  "cotten": [
+   {
+    "fig": "27.64",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Liseré circonférentiel, bascule tige, appositions périostées"
+   },
+   {
+    "fig": "27.63",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Descellement aseptique : liseré > 2 mm et migration"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-arthrofibrose-echo": {
+  "cotten": [
+   {
+    "fig": "27.72",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Épaississement synovial > 3 mm en échographie"
+   }
+  ],
+  "web": null
+ },
+ "prothese-genou-puc": {
+  "cotten": [
+   {
+    "fig": "27.52",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Prothèse unicompartimentale fémorotibiale médiale"
+   }
+  ],
+  "web": null
+ },
+ "prothese-epaule-pte-anatomique-lazarus": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-epaule-pte-anatomique-migration": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-epaule-pti-sirveaux": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-epaule-pti-lsa-dsa": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-epaule-pti-fracture-acromion": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-epaule-choix-implant": {
+  "cotten": [
+   {
+    "fig": "4.9",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Classification de Walch de la glène arthrosique"
+   },
+   {
+    "fig": "4.7",
+    "ch": 4,
+    "panel": "a",
+    "pourquoi": "Mesure de la rétroversion glénoïdale"
+   }
+  ],
+  "web": null
+ },
+ "prothese-coude-arthroplastie": {
+  "cotten": [
+   {
+    "fig": "9.4",
+    "ch": 9,
+    "panel": null,
+    "pourquoi": "Prothèse totale de coude avec fracture ulnaire"
+   }
+  ],
+  "web": null
+ },
+ "prothese-main-prothese-tmc": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-poignet-prothese-totale": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-cheville-pt-alignement": {
+  "cotten": [],
+  "web": null
+ },
+ "prothese-echographie-protheses": {
+  "cotten": [
+   {
+    "fig": "27.72",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Complications de PTG en échographie"
+   },
+   {
+    "fig": "19.66",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Pseudotumeur de PTH en échographie"
+   }
+  ],
+  "web": null
+ }
+}

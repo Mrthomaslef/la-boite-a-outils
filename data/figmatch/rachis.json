@@ -1,0 +1,660 @@
+{
+ "rachis-cervical-diametre-ap-canal": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-ratio-torg-pavlov": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-espace-securite": {
+  "cotten": [
+   {
+    "fig": "15.11",
+    "ch": 15,
+    "panel": "a",
+    "pourquoi": "Canal cervical étroit : espace de sécurité effacé"
+   }
+  ],
+  "web": null
+ },
+ "rachis-cervical-instabilite-flexion-extension": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-surface-moelle": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-ollp-stenose": {
+  "cotten": [
+   {
+    "fig": "15.21",
+    "ch": 15,
+    "panel": null,
+    "pourquoi": "Exemple TDM d'ossification du LLP"
+   }
+  ],
+  "web": null
+ },
+ "rachis-cervical-hirayama": {
+  "cotten": [
+   {
+    "fig": "15.15",
+    "ch": 15,
+    "panel": null,
+    "pourquoi": "Critères IRM neutre et flexion de Hirayama"
+   }
+  ],
+  "web": null
+ },
+ "rachis-cervical-pente-c7": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-angle-spinocranien": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-ligne-chamberlain": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-ligne-mcgregor": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-ligne-wackenheim": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-angle-basal": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-angle-clivus-canal": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-angle-atlanto-occipital": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-cervical-diastasis-c1-c2": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-hauteur-disque-l5s1": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-densites-tdm-disque": {
+  "cotten": [
+   {
+    "fig": "16.20",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Hernie de densité tissulaire versus sac dural"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-modic": {
+  "cotten": [
+   {
+    "fig": "16.10",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Modic 1 et 2 en T1/T2"
+   },
+   {
+    "fig": "16.11",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Forme mixte Modic 1-2"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-pfirrmann": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-migration-herniaire": {
+  "cotten": [
+   {
+    "fig": "16.25",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Migrations caudale et crâniale de hernies exclues"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-fleche-lordose": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-renversement-posterieur": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "c",
+    "pourquoi": "C7 plumb line en arrière de S1"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-lipomatose-epidurale": {
+  "cotten": [
+   {
+    "fig": "16.52",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Lipomatose épidurale comprimant le sac dural"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-diametre-sagittal-canal-osseux": {
+  "cotten": [
+   {
+    "fig": "16.58",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Canal lombaire étroit constitutionnel en TDM"
+   },
+   {
+    "fig": "16.57",
+    "ch": 16,
+    "panel": "b",
+    "pourquoi": "Pédicules courts sur le profil"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-diametre-interarticulaire": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-surface-canal-osseux": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-diametre-canal-irm-par-etage": {
+  "cotten": [
+   {
+    "fig": "16.59",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Canal étroit étagé en IRM sagittale"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-sac-dural": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-grade-stenose-irm": {
+  "cotten": [
+   {
+    "fig": "16.60",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Quatre grades de sténose centrale en T2 axial"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-recessus-lateral": {
+  "cotten": [
+   {
+    "fig": "16.61",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Récessus latéral étroit avec racine L4"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-meyerding": {
+  "cotten": [
+   {
+    "fig": "16.65",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma des stades de Meyerding"
+   },
+   {
+    "fig": "16.67",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Exemple de stade 2 de Meyerding"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-taillard": {
+  "cotten": [
+   {
+    "fig": "16.65",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma du pourcentage de Taillard (a/b)"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-boxall": {
+  "cotten": [
+   {
+    "fig": "16.65",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma du pourcentage de Boxall (a/b)"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-indice-dysplasie-l5": {
+  "cotten": [
+   {
+    "fig": "16.66",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma indice de dysplasie de L5"
+   },
+   {
+    "fig": "16.67",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "L5 trapézoïdale sur listhésis"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-indice-s1": {
+  "cotten": [
+   {
+    "fig": "16.66",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma indice de dysplasie de S1"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-dome-sacre": {
+  "cotten": [
+   {
+    "fig": "16.66",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schémas Wiltse et Vialle du dôme sacré"
+   },
+   {
+    "fig": "16.67",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Dôme sacré dysplasique sur listhésis"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-angle-lombosacre-dubousset": {
+  "cotten": [
+   {
+    "fig": "16.66",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma de l'angle lombosacré"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-encastrement-l5": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-angle-pediculofacettaire": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-distance-interlyse": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-instabilite-dynamique": {
+  "cotten": [],
+  "web": null
+ },
+ "rachis-thoracolombaire-listhesis-degeneratif": {
+  "cotten": [
+   {
+    "fig": "16.74",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Antélisthésis dégénératif de L4"
+   },
+   {
+    "fig": "16.78",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Rétrolisthésis dégénératif L2 et L3"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-dish-resnick": {
+  "cotten": [
+   {
+    "fig": "16.80",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Coulée ossifiante thoracique droite typique"
+   },
+   {
+    "fig": "16.83",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Hyperostose thoracique prédominant à droite"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-scheuermann": {
+  "cotten": [
+   {
+    "fig": "16.90",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Plateaux irréguliers, cunéisation, hernies intraspongieuses"
+   },
+   {
+    "fig": "16.93",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Forme lombaire de dystrophie de croissance"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-infiltration-paravertebrale-fracture": {
+  "cotten": [
+   {
+    "fig": "17.10",
+    "ch": 17,
+    "panel": "c",
+    "pourquoi": "Infiltration paravertébrale asymétrique d'une métastase"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-sir-opposition-phase": {
+  "cotten": [
+   {
+    "fig": "17.16",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "SIR mesuré en phase/opposition de phase"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-angle-mobilite-coccyx": {
+  "cotten": [
+   {
+    "fig": "17.20",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Subluxation postérieure avec angle mesuré"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-angle-cobb": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "a",
+    "pourquoi": "Angles de Cobb tracés sur EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-rotation-nash-moe": {
+  "cotten": [
+   {
+    "fig": "17.23",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Schémas des rotations Cobb et Nash-Moe"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-angle-mehta": {
+  "cotten": [
+   {
+    "fig": "17.25",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Schéma de mesure de l'angle de Mehta"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-c7-plumb-line-frontale": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "a",
+    "pourquoi": "C7 plumb line frontale déséquilibrée"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-equilibre-sagittal-global": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Verticale du CAE en arrière des têtes"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-gite-sagittale-t9": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma de la gîte sagittale de T9"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-lordose-lombaire": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Lordoses L1-L5 et L1-S1 mesurées EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-cyphose-thoracique": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Cyphoses T1-T12 et T4-T12 mesurées EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-incidence-pelvienne": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma de l'incidence pelvienne"
+   },
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Incidence pelvienne mesurée sur EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-version-pelvienne": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma de la version pelvienne"
+   },
+   {
+    "fig": "17.34",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Rétroversion compensatrice avec l'âge"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-pente-sacree": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Pente sacrée mesurée sur EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-roussouly": {
+  "cotten": [
+   {
+    "fig": "17.26",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Schéma des quatre types de Roussouly"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-obliquite-pelvienne": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Obliquité pelvienne mesurée sur EOS"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-risser": {
+  "cotten": [
+   {
+    "fig": "17.27",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Schéma des stades de Risser"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-scoliose-degenerative": {
+  "cotten": [
+   {
+    "fig": "16.79",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Dislocation rotatoire ouverte/fermée de face"
+   },
+   {
+    "fig": "17.33",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Scoliose dégénérative TDM et IRM"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-castellvi": {
+  "cotten": [
+   {
+    "fig": "32.36",
+    "ch": 32,
+    "panel": null,
+    "pourquoi": "Schéma de la classification de Castellvi"
+   },
+   {
+    "fig": "32.35",
+    "ch": 32,
+    "panel": null,
+    "pourquoi": "Néoarticulation transverse-sacrum, rayon ascendant"
+   }
+  ],
+  "web": null
+ },
+ "rachis-thoracolombaire-fossette-sacro-coccygienne": {
+  "cotten": [],
+  "web": null
+ },
+ "paroi-thoracique-indice-haller": {
+  "cotten": [
+   {
+    "fig": "33.9",
+    "ch": 33,
+    "panel": "a",
+    "pourquoi": "Mesure de l'index de Haller a/b"
+   }
+  ],
+  "web": null
+ },
+ "paroi-thoracique-index-correction": {
+  "cotten": [
+   {
+    "fig": "33.9",
+    "ch": 33,
+    "panel": "b",
+    "pourquoi": "Mesure index de correction"
+   },
+   {
+    "fig": "33.9",
+    "ch": 33,
+    "panel": "c",
+    "pourquoi": "Mesure index d'asymétrie"
+   }
+  ],
+  "web": null
+ },
+ "paroi-thoracique-asymetrie-cartilage-costal": {
+  "cotten": [
+   {
+    "fig": "33.4",
+    "ch": 33,
+    "panel": null,
+    "pourquoi": "Échographie comparative d'un cartilage costal saillant"
+   }
+  ],
+  "web": null
+ }
+}

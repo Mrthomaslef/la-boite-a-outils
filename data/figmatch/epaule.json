@@ -1,0 +1,528 @@
+{
+ "epaule-espace-subacromial": {
+  "cotten": [
+   {
+    "fig": "1.27",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Espace subacromial ≤ 6 mm : large rupture de coiffe"
+   },
+   {
+    "fig": "1.98",
+    "ch": 1,
+    "panel": "b",
+    "pourquoi": "Ascension de la tête humérale au suivi"
+   }
+  ],
+  "web": null
+ },
+ "epaule-angle-critique": {
+  "cotten": [
+   {
+    "fig": "1.32",
+    "ch": 1,
+    "panel": "a",
+    "pourquoi": "Tracé de l'angle critique de l'épaule"
+   },
+   {
+    "fig": "4.1",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Exemple : angle critique mesuré à 27°"
+   }
+  ],
+  "web": null
+ },
+ "epaule-index-acromial": {
+  "cotten": [
+   {
+    "fig": "1.32",
+    "ch": 1,
+    "panel": "b",
+    "pourquoi": "Tracé de l'index acromial (A, G, T)"
+   }
+  ],
+  "web": null
+ },
+ "epaule-morphologie-acromiale-bigliani": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/epaule-morphologie-acromiale-bigliani.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Supraspinatus_outlet_view_X-ray_of_type_III_acromion.jpg",
+   "auteur": "Yung Han, Janet Lee, Sung Park, Eugene Suh (via Mikael Häggström)",
+   "licence": "CC BY 4.0",
+   "legende": "Profil de coiffe (outlet view) : acromion de type III (crochu) de Bigliani"
+  }
+ },
+ "epaule-epine-acromiale": {
+  "cotten": [
+   {
+    "fig": "1.28",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Ossification de l'enthèse acromiale du ligament coraco-acromial"
+   }
+  ],
+  "web": null
+ },
+ "epaule-taille-rupture-coiffe": {
+  "cotten": [
+   {
+    "fig": "1.17",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Schéma d'extension des ruptures de la coiffe supérieure"
+   },
+   {
+    "fig": "1.69",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Rupture transfixiante visible dans les trois plans"
+   }
+  ],
+  "web": null
+ },
+ "epaule-retraction-patte": {
+  "cotten": [
+   {
+    "fig": "1.20",
+    "ch": 1,
+    "panel": "b",
+    "pourquoi": "Rupture rétractée du supra-épineux en coupe frontale"
+   }
+  ],
+  "web": null
+ },
+ "epaule-signe-tangente": {
+  "cotten": [
+   {
+    "fig": "1.25",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Signe de la tangente positif"
+   },
+   {
+    "fig": "1.2",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Coupe en Y et tangente coracoïde–épine normale"
+   }
+  ],
+  "web": null
+ },
+ "epaule-ratio-occupation-thomazeau": {
+  "cotten": [
+   {
+    "fig": "1.2",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Coupe en Y de référence, fosse supra-épineuse"
+   },
+   {
+    "fig": "1.25",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Amyotrophie évoluée du supra-épineux en coupe en Y"
+   }
+  ],
+  "web": null
+ },
+ "epaule-goutallier-fuchs": {
+  "cotten": [
+   {
+    "fig": "1.26",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Stades de Fuchs 1, 2, 3 annotés"
+   },
+   {
+    "fig": "1.22",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Involution graisseuse supra- et infra-épineux"
+   }
+  ],
+  "web": null
+ },
+ "epaule-lafosse-subscapulaire": {
+  "cotten": [
+   {
+    "fig": "1.21",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Schéma de progression des ruptures du subscapulaire"
+   }
+  ],
+  "web": null
+ },
+ "epaule-position-lcb-sillon": {
+  "cotten": [
+   {
+    "fig": "1.24",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Schéma de déstabilisation du chef long du biceps"
+   },
+   {
+    "fig": "1.57",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Luxation du LCB en avant du tubercule mineur"
+   }
+  ],
+  "web": null
+ },
+ "epaule-epaisseur-lcb": {
+  "cotten": [
+   {
+    "fig": "1.52",
+    "ch": 1,
+    "panel": "a",
+    "pourquoi": "Tendon du LCB épaissi à l'entrée du sillon"
+   },
+   {
+    "fig": "1.82",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "LCB épaissi avant le sillon, coupe sagittale"
+   }
+  ],
+  "web": null
+ },
+ "epaule-epaisseur-bourse-sad": {
+  "cotten": [
+   {
+    "fig": "1.38",
+    "ch": 1,
+    "panel": null,
+    "pourquoi": "Bursite sub-acromiodeltoïdienne épaissie en échographie"
+   },
+   {
+    "fig": "1.59",
+    "ch": 1,
+    "panel": "a",
+    "pourquoi": "Bourse épaissie sous le ligament coraco-acromial"
+   }
+  ],
+  "web": null
+ },
+ "epaule-espace-coracohumeral": {
+  "cotten": [
+   {
+    "fig": "1.67",
+    "ch": 1,
+    "panel": "a",
+    "pourquoi": "Conflit subcoracoïdien : subscapulaire au contact du coracoïde"
+   }
+  ],
+  "web": null
+ },
+ "epaule-sugaya-postop": {
+  "cotten": [],
+  "web": null
+ },
+ "epaule-perte-osseuse-glenoidienne": {
+  "cotten": [
+   {
+    "fig": "2.29",
+    "ch": 2,
+    "panel": "a",
+    "pourquoi": "Cercle ajusté sur les 2/3 inférieurs de la glène"
+   },
+   {
+    "fig": "2.31",
+    "ch": 2,
+    "panel": "b",
+    "pourquoi": "Mesure de d et D sur glène lésée"
+   }
+  ],
+  "web": null
+ },
+ "epaule-glenoid-track": {
+  "cotten": [
+   {
+    "fig": "2.31",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Calcul GT et HSI : encoche off track"
+   },
+   {
+    "fig": "2.29",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Calcul GT et HSI : encoche on track"
+   }
+  ],
+  "web": null
+ },
+ "epaule-hill-sachs-taille": {
+  "cotten": [
+   {
+    "fig": "2.26",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Encoche de Hill-Sachs en TDM axiale et 3D"
+   },
+   {
+    "fig": "2.27",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Large encoche, orientation parallèle à la glène"
+   }
+  ],
+  "web": null
+ },
+ "epaule-mclaughlin-angle-gamma": {
+  "cotten": [
+   {
+    "fig": "2.50",
+    "ch": 2,
+    "panel": "b",
+    "pourquoi": "Tracé de l'angle gamma"
+   },
+   {
+    "fig": "2.49",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Encoche de Mc Laughlin en radiographie"
+   }
+  ],
+  "web": null
+ },
+ "epaule-version-glenoidienne": {
+  "cotten": [
+   {
+    "fig": "4.7",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Mesure de la rétroversion glénoïdale (AB, XX')"
+   },
+   {
+    "fig": "4.9",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Classification de Walch : rétroversion selon le type"
+   }
+  ],
+  "web": null
+ },
+ "epaule-hypoplasie-glenoidienne": {
+  "cotten": [
+   {
+    "fig": "2.52",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Schéma rebord pointu, en J, en Delta"
+   },
+   {
+    "fig": "2.54",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Dysplasie glénoïdale en radiographie et arthroscanner"
+   }
+  ],
+  "web": null
+ },
+ "epaule-lesion-labrale-posterieure": {
+  "cotten": [
+   {
+    "fig": "2.47",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Schéma des lésions labrales postérieures"
+   },
+   {
+    "fig": "2.55",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Désinsertion du labrum postérieur en arthroscanner"
+   }
+  ],
+  "web": null
+ },
+ "epaule-insertion-capsulaire-anterieure": {
+  "cotten": [
+   {
+    "fig": "2.1",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Schéma des types I, II, III d'insertion capsulaire"
+   }
+  ],
+  "web": null
+ },
+ "epaule-recessus-sous-labral": {
+  "cotten": [
+   {
+    "fig": "2.61",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "Récessus sous-labral régulier, incurvé en dedans"
+   },
+   {
+    "fig": "2.65",
+    "ch": 2,
+    "panel": null,
+    "pourquoi": "SLAP 2, diagnostic différentiel du récessus"
+   }
+  ],
+  "web": null
+ },
+ "epaule-labrum-echo": {
+  "cotten": [],
+  "web": null
+ },
+ "epaule-butee-position": {
+  "cotten": [
+   {
+    "fig": "2.43",
+    "ch": 2,
+    "panel": "a",
+    "pourquoi": "Butée en position médiale sur radiographie"
+   },
+   {
+    "fig": "2.42",
+    "ch": 2,
+    "panel": "b",
+    "pourquoi": "Butée coracoïdienne consolidée en coupe sagittale"
+   }
+  ],
+  "web": null
+ },
+ "epaule-pincement-glenohumeral": {
+  "cotten": [
+   {
+    "fig": "4.1",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Pincement glénohuméral complet, omarthrose centrée"
+   },
+   {
+    "fig": "4.3",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Omarthrose centrée sévère avec pincement"
+   }
+  ],
+  "web": null
+ },
+ "epaule-subluxation-posterieure-tete": {
+  "cotten": [
+   {
+    "fig": "4.8",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Tracé du taux de subluxation a/b"
+   },
+   {
+    "fig": "4.5",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Subluxation postérieure de la tête, omarthrose"
+   }
+  ],
+  "web": null
+ },
+ "epaule-classification-walch": {
+  "cotten": [
+   {
+    "fig": "4.9",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Schéma de la classification de Walch"
+   },
+   {
+    "fig": "4.10",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Érosion glénoïdale postérieure en 3D"
+   }
+  ],
+  "web": null
+ },
+ "epaule-profondeur-intraspongieuse-glene": {
+  "cotten": [],
+  "web": null
+ },
+ "epaule-interligne-acromioclaviculaire": {
+  "cotten": [
+   {
+    "fig": "4.26",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Cliché AC de face, rayon ascendant 10–15°"
+   }
+  ],
+  "web": null
+ },
+ "epaule-articulation-coracoclaviculaire": {
+  "cotten": [],
+  "web": null
+ },
+ "epaule-lch-capsulite-echo": {
+  "cotten": [
+   {
+    "fig": "4.20",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "LCH épaissi mesuré à 4,2 mm"
+   },
+   {
+    "fig": "4.19",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Infiltration hypoéchogène de l'intervalle des rotateurs"
+   }
+  ],
+  "web": null
+ },
+ "epaule-capsulite-irm": {
+  "cotten": [
+   {
+    "fig": "4.21",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Épaississement du LCH en sagittal T1"
+   },
+   {
+    "fig": "4.24",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Épaississement du LGHI en frontal"
+   }
+  ],
+  "web": null
+ },
+ "epaule-bascule-scapulaire-fibrose-deltoide": {
+  "cotten": [
+   {
+    "fig": "4.41",
+    "ch": 4,
+    "panel": null,
+    "pourquoi": "Contracture deltoïdienne avec décollement scapulaire"
+   }
+  ],
+  "web": null
+ },
+ "epaule-varices-spinoglenoidiennes": {
+  "cotten": [],
+  "web": null
+ },
+ "epaule-sprengel-rigault": {
+  "cotten": [
+   {
+    "fig": "34.2",
+    "ch": 34,
+    "panel": null,
+    "pourquoi": "Surélévation congénitale de la scapula gauche"
+   },
+   {
+    "fig": "34.4",
+    "ch": 34,
+    "panel": null,
+    "pourquoi": "Os omovertébral en reconstruction 3D"
+   }
+  ],
+  "web": null
+ }
+}

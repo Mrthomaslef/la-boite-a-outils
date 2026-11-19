@@ -1,0 +1,699 @@
+{
+ "hanche-classification-ficat-arlet": {
+  "cotten": [
+   {
+    "fig": "18.1",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Stade II de face, stade III révélé de profil"
+   },
+   {
+    "fig": "18.4",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Stade IV de Ficat : effondrement, pincement, ostéophytes"
+   }
+  ],
+  "web": null
+ },
+ "hanche-classification-arco": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-angle-combine-kerboul": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-index-koo-kim": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-index-lafforgue": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-profondeur-effondrement-ontf": {
+  "cotten": [
+   {
+    "fig": "18.4",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Effondrement marqué de la surface articulaire céphalique"
+   }
+  ],
+  "web": null
+ },
+ "hanche-bande-fracture-sous-chondrale": {
+  "cotten": [
+   {
+    "fig": "18.20",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Bande sous-chondrale hypo-intense T2 non rehaussée (nécrose mécanique)"
+   },
+   {
+    "fig": "18.14",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Fractures sous-chondrales par insuffisance : trait et œdème"
+   }
+  ],
+  "web": null
+ },
+ "hanche-fracture-contrainte-col-extension": {
+  "cotten": [
+   {
+    "fig": "18.17",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Fracture de fatigue étendue fragilisant le col"
+   },
+   {
+    "fig": "18.15",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Fracture de fatigue du bord inférieur du col"
+   }
+  ],
+  "web": null
+ },
+ "hanche-herring-pilier-lateral": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/hanche-herring-pilier-lateral.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Herring_lateral_pillar_classification.jpg",
+   "auteur": "Ruiz Santiago F, Santiago Chinchilla A, Ansari A et al.",
+   "licence": "CC BY 4.0",
+   "legende": "Classification de Herring : hauteur du pilier latéral, groupes A, B, B/C et C"
+  }
+ },
+ "hanche-catterall-legg-perthes": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-salter-thompson": {
+  "cotten": [
+   {
+    "fig": "18.26",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Dissection sous-chondrale (signe de Salter) bien vue de profil"
+   }
+  ],
+  "web": null
+ },
+ "hanche-distance-articulo-trochanterienne": {
+  "cotten": [
+   {
+    "fig": "18.29",
+    "ch": 18,
+    "panel": "c",
+    "pourquoi": "Surcroissance du grand trochanter après Legg-Perthes-Calvé"
+   }
+  ],
+  "web": null
+ },
+ "hanche-rapport-salles-de-gauzy": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-index-subluxation-arthrographique": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-ligne-de-klein": {
+  "cotten": [
+   {
+    "fig": "18.34",
+    "ch": 18,
+    "panel": "a",
+    "pourquoi": "Ligne de Klein ne coupant quasiment plus l'épiphyse"
+   },
+   {
+    "fig": "18.33",
+    "ch": 18,
+    "panel": "a",
+    "pourquoi": "Ligne de Klein normale malgré épiphysiolyse débutante"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-southwick": {
+  "cotten": [
+   {
+    "fig": "18.37",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Mesure de la bascule : angle de Southwick"
+   },
+   {
+    "fig": "18.38",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Bascule estimée entre 30 et 50° (Southwick)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-inclinaison-posterieure": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-glissement-epiphysiolyse-pourcentage": {
+  "cotten": [
+   {
+    "fig": "18.36",
+    "ch": 18,
+    "panel": "a",
+    "pourquoi": "Glissement inférieur au tiers de la métaphyse"
+   },
+   {
+    "fig": "18.38",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Glissement moyen de l'épiphyse"
+   }
+  ],
+  "web": null
+ },
+ "hanche-decroche-echographique-epiphysiolyse": {
+  "cotten": [
+   {
+    "fig": "18.39",
+    "ch": 18,
+    "panel": null,
+    "pourquoi": "Retrait du bord antérieur épiphysaire en échographie"
+   }
+  ],
+  "web": null
+ },
+ "hanche-interligne-chondrolyse-enfant": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-distance-fond-cotyle-echo": {
+  "cotten": [
+   {
+    "fig": "19.3",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Mesure de la distance FC, hanche normale"
+   },
+   {
+    "fig": "19.4",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "FC pathologique à 12 mm (luxation)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-couverture-osseuse-echo": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/hanche-couverture-osseuse-echo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Femoral_head_coverage_on_neonatal_hip_ultrasonography.jpg",
+   "auteur": "Ruiz Santiago F, Santiago Chinchilla A, Ansari A et al.",
+   "licence": "CC BY 4.0",
+   "legende": "Couverture osseuse échographique de la tête fémorale : d/D × 100"
+  }
+ },
+ "hanche-angle-acetabulaire-enfant": {
+  "cotten": [
+   {
+    "fig": "19.8",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Tracé de l'angle acétabulaire (AA)"
+   },
+   {
+    "fig": "19.9",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Angle acétabulaire > 35° dans une luxation"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-acetabulaire-cartilagineux-irm": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-ligne-de-shenton": {
+  "cotten": [
+   {
+    "fig": "19.8",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Tracé normal des lignes de Shenton et Putti"
+   },
+   {
+    "fig": "19.21",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Rupture du cintre cervico-obturateur (subluxation)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-ligne-de-putti": {
+  "cotten": [
+   {
+    "fig": "19.8",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Tracé des lignes de Shenton et de Putti"
+   }
+  ],
+  "web": null
+ },
+ "hanche-distance-ischion-metaphyse": {
+  "cotten": [
+   {
+    "fig": "19.8",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Distance ischion – métaphyse fémorale proximale"
+   },
+   {
+    "fig": "19.9",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Distance ischion-métaphyse augmentée (luxation)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-construction-ombredanne-hilgenreiner": {
+  "cotten": [
+   {
+    "fig": "19.8",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Construction d'Ombredanne normale"
+   },
+   {
+    "fig": "19.9",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Noyau hors du cadran inféromédial d'Ombredanne"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-abduction-platre": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-interligne-coxofemoral-face": {
+  "cotten": [
+   {
+    "fig": "19.10",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Interligne supérieur normal, iso-épais, en accent circonflexe"
+   },
+   {
+    "fig": "19.13",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Pincement supérolatéral et médial de face"
+   }
+  ],
+  "web": null
+ },
+ "hanche-interligne-faux-profil": {
+  "cotten": [
+   {
+    "fig": "19.11",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Interligne normal et iso-épais sur faux profil"
+   },
+   {
+    "fig": "19.14",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Pincement antérosupérieur et postéro-inférieur (faux profil)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-vitesse-pincement-cdr": {
+  "cotten": [
+   {
+    "fig": "19.37",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Coxarthrose destructrice rapide : évolution en 7 mois"
+   }
+  ],
+  "web": null
+ },
+ "hanche-epaisseur-cartilage-arthroscanner": {
+  "cotten": [
+   {
+    "fig": "19.18",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Chondrolyse acétabulaire focale en arthroscanner"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-vce-wiberg": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Schéma coxométrique : angle VCE"
+   },
+   {
+    "fig": "19.22",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Insuffisance de couverture latérale (dysplasie)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-hte": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Schéma coxométrique : angle HTE"
+   },
+   {
+    "fig": "19.17",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Placement correct du point T"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-cervico-diaphysaire": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Schéma coxométrique : angle CC'D"
+   }
+  ],
+  "web": null
+ },
+ "hanche-profondeur-acetabulum": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Schéma de la profondeur de l'acétabulum"
+   }
+  ],
+  "web": null
+ },
+ "hanche-caput-varum": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Schéma du caput varum : centre / axe du col"
+   },
+   {
+    "fig": "19.35",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Caput varum séquellaire d'épiphysiolyse"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-vca-lequesne": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "e",
+    "pourquoi": "Schéma de l'angle VCA sur faux profil"
+   },
+   {
+    "fig": "19.22",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Insuffisance de couverture antérieure (faux profil)"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-delta-fovea-alta": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-protrusion-acetabulaire": {
+  "cotten": [
+   {
+    "fig": "19.12",
+    "ch": 19,
+    "panel": "d",
+    "pourquoi": "Schéma lignes acétabulaire et ilio-ischiatique"
+   },
+   {
+    "fig": "19.24",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Fosse acétabulaire > 3 mm en dedans de l'ilio-ischiatique"
+   }
+  ],
+  "web": null
+ },
+ "hanche-signe-du-croisement": {
+  "cotten": [
+   {
+    "fig": "19.27",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Croisement des murs antérieur et postérieur en « 8 »"
+   },
+   {
+    "fig": "19.26",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Projection normale des parois, sans croisement"
+   }
+  ],
+  "web": null
+ },
+ "hanche-version-acetabulaire-tdm": {
+  "cotten": [
+   {
+    "fig": "19.26",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Mesure TDM de l'antéversion acétabulaire équatoriale"
+   },
+   {
+    "fig": "19.27",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Rétroversion de l'acétabulum en scanner"
+   }
+  ],
+  "web": null
+ },
+ "hanche-signe-paroi-posterieure": {
+  "cotten": [
+   {
+    "fig": "19.28",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Paroi postérieure en dedans du centre de la tête"
+   }
+  ],
+  "web": null
+ },
+ "hanche-signe-epine-ischiatique": {
+  "cotten": [
+   {
+    "fig": "19.29",
+    "ch": 19,
+    "panel": null,
+    "pourquoi": "Épine ischiatique en dedans de la ligne iliopectinée"
+   }
+  ],
+  "web": null
+ },
+ "hanche-angle-alpha-notzli": {
+  "cotten": [
+   {
+    "fig": "19.32",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Angle α de Notzli mesuré à 80°"
+   },
+   {
+    "fig": "19.33",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Angle α de Notzli à 69°"
+   }
+  ],
+  "web": null
+ },
+ "hanche-offset-cervicocephalique": {
+  "cotten": [
+   {
+    "fig": "19.33",
+    "ch": 19,
+    "panel": "b",
+    "pourquoi": "Offset cervicocéphalique diminué versus hanche normale"
+   }
+  ],
+  "web": null
+ },
+ "hanche-anteversion-femorale": {
+  "cotten": [
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "d",
+    "pourquoi": "Mesure TDM de l'antéversion fémorale"
+   }
+  ],
+  "web": null
+ },
+ "hanche-taille-labrum": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-espace-ischiofemoral": {
+  "cotten": [
+   {
+    "fig": "20.72",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Espace ischiofémoral diminué, carré fémoral anormal"
+   },
+   {
+    "fig": "20.71",
+    "ch": 20,
+    "panel": "a",
+    "pourquoi": "Remaniements ischion / petit trochanter en contact"
+   }
+  ],
+  "web": null
+ },
+ "hanche-enthesopathie-grand-trochanter": {
+  "cotten": [],
+  "web": null
+ },
+ "hanche-cloison-droit-femoral": {
+  "cotten": [
+   {
+    "fig": "20.12",
+    "ch": 20,
+    "panel": "a",
+    "pourquoi": "Cloison sagittale centrale normale en échographie"
+   },
+   {
+    "fig": "20.15",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Épaississement séquellaire de la cloison centrale"
+   }
+  ],
+  "web": null
+ },
+ "bassin-sacro-iliaques-deplacement-avulsion-apophysaire": {
+  "cotten": [
+   {
+    "fig": "20.58",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Avulsion déplacée de l'apophyse ischiatique"
+   },
+   {
+    "fig": "20.18",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Avulsion de l'épine iliaque antérosupérieure"
+   }
+  ],
+  "web": null
+ },
+ "bassin-sacro-iliaques-enthesopathie-crete-iliaque": {
+  "cotten": [
+   {
+    "fig": "20.49",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Enthésopathie du tractus iliotibial sur crête iliaque (écho)"
+   },
+   {
+    "fig": "20.50",
+    "ch": 20,
+    "panel": null,
+    "pourquoi": "Enthésopathie proximale du tractus iliotibial en IRM"
+   }
+  ],
+  "web": null
+ },
+ "bassin-sacro-iliaques-processus-vaginal-echo": {
+  "cotten": [],
+  "web": null
+ },
+ "bassin-sacro-iliaques-symphyse-instabilite": {
+  "cotten": [],
+  "web": null
+ },
+ "bassin-sacro-iliaques-sulcus-paraglenoidal": {
+  "cotten": [
+   {
+    "fig": "22.9",
+    "ch": 22,
+    "panel": null,
+    "pourquoi": "Sulcus paraglénoïdal"
+   }
+  ],
+  "web": null
+ },
+ "bassin-sacro-iliaques-oedeme-sacroiliite-irm": {
+  "cotten": [
+   {
+    "fig": "22.20",
+    "ch": 22,
+    "panel": null,
+    "pourquoi": "Œdème osseux sous-chondral sacro-iliaque bilatéral T1/T2"
+   },
+   {
+    "fig": "22.21",
+    "ch": 22,
+    "panel": null,
+    "pourquoi": "Œdème sous-chondral et conversion graisseuse"
+   }
+  ],
+  "web": null
+ },
+ "bassin-sacro-iliaques-nerf-sciatique-pudendal": {
+  "cotten": [
+   {
+    "fig": "21.22",
+    "ch": 21,
+    "panel": null,
+    "pourquoi": "Nerf sciatique normal en coupes axiales T1"
+   },
+   {
+    "fig": "21.32",
+    "ch": 21,
+    "panel": null,
+    "pourquoi": "Nerf pudendal normal : épine sciatique et canal d'Alcock"
+   }
+  ],
+  "web": null
+ }
+}

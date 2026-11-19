@@ -38,6 +38,9 @@
   const inRegion = (r) => DATA.filter((m) => m.categorie === "mesure" && m.region === r);
   const inCat = (c) => DATA.filter((m) => m.categorie === c);
   const cover = (key, list) => {
+    const prefP = (COVER[key] || []).map((id) => BY_ID[id]).find((m) => m && m.images.length);
+    const withP = prefP || list.find((m) => m.images.some((i) => i.type === "cotten"));
+    if (withP) return `<img class="ph" loading="lazy" src="${withP.images[0].src}" alt="">`;
     const pref = (COVER[key] || []).map((id) => BY_ID[id]).find((m) => m && m.svg);
     const EMO = { "rachis-thoracolombaire": "🦴", "bassin-sacro-iliaques": "🦋", "jambe": "🦵", "membre-entier": "📐", "paroi-thoracique": "🫁", "prothese": "🦿" };
     return (pref || list.find((m) => m.svg) || {}).svg || `<span class="emo">${EMO[key] || "📏"}</span>`;
@@ -67,7 +70,7 @@
   // ——— rendu
   function mcard(m) {
     return `<button class="mc" data-open="${m.id}">
-      <div class="fig">${m.svg || `<span class="nofig">📏<small>schéma à venir</small></span>`}</div>
+      <div class="fig${m.images.length ? " has-ph" : ""}">${m.images.length ? `<img class="ph" loading="lazy" src="${m.images[0].src}" alt="">${m.images[0].type === "cotten" ? `<span class="tagc">Cotten</span>` : ""}` : m.svg || `<span class="nofig">📏<small>illustration à venir</small></span>`}</div>
       <div class="txt"><span class="nm">${esc(m.nom_court)}</span>
       ${m.court.normal ? `<span class="nv">${esc(m.court.normal)}</span>` : ""}
       <span class="mods">${esc(mods(m))}${m.pediatrie ? " · 👶" : ""}</span></div></button>`;
@@ -130,6 +133,18 @@
       ? `<div class="empty">Aucun favori.<br>Ouvrez une mesure et touchez ☆.</div>` : gallery(shown, sections);
   }
 
+  // ——— carrousel d'illustrations : figures Cotten → image web → schéma
+  function media(m) {
+    const slides = m.images.map((im, k) => `<figure class="slide">
+        <button class="ph-btn" data-zoom="${m.id}|${k}"><img src="${im.src}" alt="" loading="lazy"></button>
+        <figcaption><b>${esc(im.credit)}</b>${im.caption ? ` — ${esc(short(im.caption, 150))}` : ""}
+        ${im.page ? ` <a href="${esc(im.page)}" target="_blank" rel="noopener">source</a>` : ""}</figcaption></figure>`);
+    if (m.svg) slides.push(`<figure class="slide"><div class="fig s-fig">${m.svg}</div><figcaption><b>Schéma</b> — tracé de la mesure</figcaption></figure>`);
+    if (!slides.length) return "";
+    const dots = slides.length > 1 ? `<div class="dots">${slides.map((_, k) => `<i class="${k ? "" : "on"}"></i>`).join("")}</div>` : "";
+    return `<div class="car">${slides.join("")}</div>${dots}`;
+  }
+
   // ——— fiche
   function openSheet(id) {
     const m = BY_ID[id];
@@ -143,7 +158,7 @@
       <div class="s-head"><div style="flex:1;min-width:0"><h3>${esc(m.nom_court)}</h3>
         ${m.nom_court !== m.nom ? `<div class="sub">${esc(m.nom)}</div>` : ""}</div>
         <button class="star ${favs.has(id) ? "on" : ""}" data-fav="${id}" aria-label="Favori">${favs.has(id) ? "★" : "☆"}</button></div>
-      ${m.svg ? `<div class="s-fig fig">${m.svg}</div>` : ""}
+      ${media(m)}
       <div class="badges">${m.modalites.map((x) => `<span class="b">${x}</span>`).join("")}${m.pediatrie ? `<span class="b ped">Enfant</span>` : ""}${ext ? `<span class="b ext">${m.hors_cotten ? "Hors Cotten" : "Complément"}</span>` : ""}</div>
       <div class="kv">
         ${row("", "📐", "Tracé", c.trace || short(m.technique, 160))}
@@ -160,6 +175,11 @@
     const sh = $("#sheet");
     if (sh.hidden) { sh.hidden = false; document.body.style.overflow = "hidden"; }
     $("#sheet-card").scrollTop = 0;
+    const car = $("#sheet-card .car");
+    if (car) car.addEventListener("scroll", () => {
+      const k = Math.round(car.scrollLeft / car.clientWidth);
+      $("#sheet-card").querySelectorAll(".dots i").forEach((d, j) => d.classList.toggle("on", j === k));
+    }, { passive: true });
   }
   function closeSheet(silent) {
     const sh = $("#sheet"); if (sh.hidden) return;
@@ -177,8 +197,11 @@
 
   // ——— événements
   document.addEventListener("click", (e) => {
-    const t = e.target.closest("[data-open],[data-fav],[data-copy],[data-close],[data-sec]");
+    const t = e.target.closest("[data-open],[data-fav],[data-copy],[data-close],[data-sec],[data-zoom],[data-lb]");
     if (!t) return;
+    if (t.dataset.zoom) { const [id, k] = t.dataset.zoom.split("|"); const im = BY_ID[id].images[+k];
+      $("#lb-img").src = im.src; $("#lb-cap").textContent = im.credit; $("#lb").hidden = false; $("#lb-wrap").classList.remove("z"); return; }
+    if (t.dataset.lb !== undefined) { if (t.id === "lb-wrap") { t.classList.toggle("z"); return; } $("#lb").hidden = true; return; }
     if (t.dataset.open !== undefined) { if (t.dataset.open) openId(t.dataset.open); return; }
     if (t.dataset.fav) {
       const id = t.dataset.fav; favs.has(id) ? favs.delete(id) : favs.add(id);
@@ -204,12 +227,12 @@
   $("#q").addEventListener("input", (e) => { clearTimeout(qt); qt = setTimeout(() => { st.q = e.target.value.trim(); render(); window.scrollTo(0, 0); }, 120); });
   document.addEventListener("keydown", (e) => {
     if ($("#sheet").hidden) return;
-    if (e.key === "Escape") closeSheet();
+    if (e.key === "Escape") { if (!$("#lb").hidden) { $("#lb").hidden = true; return; } closeSheet(); }
     if (e.key === "ArrowRight" || e.key === "ArrowLeft") $(`.s-nav button:${e.key === "ArrowRight" ? "last" : "first"}-child`)?.click();
   });
   // balayage gauche/droite dans la fiche
   (() => { let x0 = null, y0 = 0; const c = $("#sheet-card");
-    c.addEventListener("touchstart", (e) => { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
+    c.addEventListener("touchstart", (e) => { if (e.target.closest(".car")) { x0 = null; return; } x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
     c.addEventListener("touchend", (e) => { if (x0 === null) return; const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0; x0 = null;
       if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) $(`.s-nav button:${dx < 0 ? "last" : "first"}-child`)?.click(); }); })();
   window.addEventListener("hashchange", route);
@@ -218,10 +241,10 @@
   (() => {
     const p = $("#ptr"); let y0 = null, dy = 0;
     const start = (y) => { if (window.scrollY <= 0 && $("#sheet").hidden) { y0 = y; dy = 0; } };
-    const move = (y) => { if (y0 === null) return; dy = Math.max(0, Math.min(110, y - y0)); p.style.transform = `translate(-50%, ${dy - 50}px) rotate(${dy * 3}deg)`; };
+    const move = (y) => { if (y0 === null) return; dy = Math.max(0, Math.min(110, y - y0)); p.style.transform = `translate(-50%, ${dy - 50}px) rotate(${dy * 3}deg)`; p.classList.toggle("vis", dy > 8); };
     const end = () => { if (y0 === null) return; y0 = null;
       if (dy > 80) { p.classList.add("spin"); navigator.vibrate?.(15); setTimeout(() => location.reload(), 350); }
-      else p.style.transform = "translate(-50%, -50px)"; };
+      else { p.style.transform = "translate(-50%, -50px)"; p.classList.remove("vis"); } };
     addEventListener("touchstart", (e) => start(e.touches[0].clientY), { passive: true });
     addEventListener("touchmove", (e) => move(e.touches[0].clientY), { passive: true });
     addEventListener("touchend", end);

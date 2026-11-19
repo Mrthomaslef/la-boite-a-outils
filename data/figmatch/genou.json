@@ -1,0 +1,686 @@
+{
+ "genou-ta-gt": {
+  "cotten": [
+   {
+    "fig": "23.11",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Mesure TA-GT pathologique tracée (25 mm)"
+   }
+  ],
+  "web": null
+ },
+ "genou-caton-deschamps": {
+  "cotten": [
+   {
+    "fig": "23.9",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Tracé a/b de l'indice de Caton-Deschamps"
+   },
+   {
+    "fig": "23.9",
+    "ch": 23,
+    "panel": "d",
+    "pourquoi": "Patella alta, Caton-Deschamps > 1,2"
+   }
+  ],
+  "web": null
+ },
+ "genou-insall-salvati": {
+  "cotten": [
+   {
+    "fig": "23.9",
+    "ch": 23,
+    "panel": "c",
+    "pourquoi": "Tracé a/b de l'indice d'Insall-Salvati"
+   }
+  ],
+  "web": null
+ },
+ "genou-blackburne-peel": {
+  "cotten": [
+   {
+    "fig": "23.9",
+    "ch": 23,
+    "panel": "b",
+    "pourquoi": "Tracé a/b de l'indice de Blackburne-Peel"
+   },
+   {
+    "fig": "27.66",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Patella baja sur PTG, Blackburne-Peel 0,6"
+   }
+  ],
+  "web": null
+ },
+ "genou-indice-patello-trochleaire": {
+  "cotten": [
+   {
+    "fig": "23.10",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Indice patello-trochléaire, patella alta modérée et sévère"
+   }
+  ],
+  "web": null
+ },
+ "genou-hauteur-patellaire-contraction": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-bascule-patellaire-tdm": {
+  "cotten": [
+   {
+    "fig": "23.5",
+    "ch": 23,
+    "panel": "c",
+    "pourquoi": "Angle grand axe patellaire / plan bicondylien"
+   }
+  ],
+  "web": null
+ },
+ "genou-bascule-patellaire-profil": {
+  "cotten": [
+   {
+    "fig": "23.12",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Tangences facette latérale/crête : bascule normale à sévère"
+   }
+  ],
+  "web": null
+ },
+ "genou-translation-laterale-patella": {
+  "cotten": [
+   {
+    "fig": "23.15",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Exemple de translation latérale de la patella"
+   }
+  ],
+  "web": null
+ },
+ "genou-profondeur-trochleaire-radio": {
+  "cotten": [
+   {
+    "fig": "23.1",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Profil strict normal : ligne de fond de trochlée"
+   }
+  ],
+  "web": null
+ },
+ "genou-profondeur-trochleaire-tdm": {
+  "cotten": [
+   {
+    "fig": "23.8",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Schéma de mesure de la profondeur trochléaire"
+   }
+  ],
+  "web": null
+ },
+ "genou-signe-croisement": {
+  "cotten": [
+   {
+    "fig": "23.2",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Signe du croisement en radiographie de profil"
+   },
+   {
+    "fig": "23.6",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Schéma Dejour : croisement commun à tous types"
+   }
+  ],
+  "web": null
+ },
+ "genou-eperon-sus-trochleen": {
+  "cotten": [
+   {
+    "fig": "23.3",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Éperon sus-trochléen et mesure de la saillie"
+   },
+   {
+    "fig": "23.5",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Éperon associé au croisement et double contour"
+   }
+  ],
+  "web": null
+ },
+ "genou-saillie-trochleenne": {
+  "cotten": [
+   {
+    "fig": "23.3",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Mesure de la saillie trochléenne sur le profil"
+   }
+  ],
+  "web": null
+ },
+ "genou-double-contour": {
+  "cotten": [
+   {
+    "fig": "23.4",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Double contour pathologique sous le croisement"
+   },
+   {
+    "fig": "23.2",
+    "ch": 23,
+    "panel": "a",
+    "pourquoi": "Double contour non pathologique, comparatif"
+   }
+  ],
+  "web": null
+ },
+ "genou-classification-dejour": {
+  "cotten": [
+   {
+    "fig": "23.6",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Schéma de la classification de Dejour A–D"
+   }
+  ],
+  "web": null
+ },
+ "genou-pente-laterale-trochlee": {
+  "cotten": [
+   {
+    "fig": "23.7",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Pente latérale négative mesurée en coupe axiale"
+   }
+  ],
+  "web": null
+ },
+ "genou-angle-trochleen": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-asymetrie-facettes-trochleennes": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-morphologie-patella-wiberg": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-patella-bipartita": {
+  "cotten": [
+   {
+    "fig": "23.21",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Patella bipartita types I et II"
+   }
+  ],
+  "web": null
+ },
+ "genou-epaisseur-tendon-patellaire": {
+  "cotten": [
+   {
+    "fig": "23.27",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Épaississement enthèse proximale du tendon patellaire (écho)"
+   },
+   {
+    "fig": "23.28",
+    "ch": 23,
+    "panel": null,
+    "pourquoi": "Épaississement proximal du tendon patellaire en IRM"
+   }
+  ],
+  "web": null
+ },
+ "genou-conflit-hoffa-superolateral": {
+  "cotten": [
+   {
+    "fig": "23.37",
+    "ch": 23,
+    "panel": "c",
+    "pourquoi": "Proximité tendon patellaire / facette trochléenne latérale"
+   }
+  ],
+  "web": null
+ },
+ "genou-dimensions-meniscales": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-grades-signal-meniscal": {
+  "cotten": [
+   {
+    "fig": "24.8",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Schéma des grades 1 à 3 d'hypersignal méniscal"
+   },
+   {
+    "fig": "24.36",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Exemple d'hypersignal intraméniscal grade 2"
+   }
+  ],
+  "web": null
+ },
+ "genou-extrusion-meniscale": {
+  "cotten": [
+   {
+    "fig": "24.27",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Subluxation du tiers moyen du ménisque médial"
+   },
+   {
+    "fig": "24.19",
+    "ch": 24,
+    "panel": "b",
+    "pourquoi": "Subluxation méniscale sur fissure radiaire"
+   }
+  ],
+  "web": null
+ },
+ "genou-menisque-discoide": {
+  "cotten": [
+   {
+    "fig": "24.42",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Ménisque discoïde latéral frontal et sagittal"
+   }
+  ],
+  "web": null
+ },
+ "genou-megacorne": {
+  "cotten": [
+   {
+    "fig": "24.33",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Mégacorne et double corne antérieure du ménisque latéral"
+   }
+  ],
+  "web": null
+ },
+ "genou-anse-de-seau-residu": {
+  "cotten": [
+   {
+    "fig": "24.29",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Anse de seau luxée, ménisque résiduel de signal normal"
+   },
+   {
+    "fig": "24.30",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Anse de seau, ménisque résiduel de signal anormal"
+   }
+  ],
+  "web": null
+ },
+ "genou-stabilite-lesion-meniscale": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-ligament-menisco-femoral-pseudofissure": {
+  "cotten": [
+   {
+    "fig": "24.39",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Pseudo-fissure liée au ligament de Wrisberg"
+   },
+   {
+    "fig": "24.13",
+    "ch": 24,
+    "panel": null,
+    "pourquoi": "Vraie fissure prolongeant l'insertion du ligament de Humphrey"
+   }
+  ],
+  "web": null
+ },
+ "genou-encoche-condylienne": {
+  "cotten": [
+   {
+    "fig": "25.5",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Encoche profonde > 1,5 mm vs méplat physiologique"
+   },
+   {
+    "fig": "25.13",
+    "ch": 25,
+    "panel": "a",
+    "pourquoi": "Encoche condylienne latérale avec contusions"
+   }
+  ],
+  "web": null
+ },
+ "genou-tiroir-anterieur-irm": {
+  "cotten": [
+   {
+    "fig": "25.15",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Tiroir tibial antérieur spontané de 13 mm"
+   }
+  ],
+  "web": null
+ },
+ "genou-decouverture-corne-posterieure-ml": {
+  "cotten": [
+   {
+    "fig": "25.15",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Découverture de la corne postérieure de 4 mm"
+   }
+  ],
+  "web": null
+ },
+ "genou-angle-femorotibial-rotatoire": {
+  "cotten": [
+   {
+    "fig": "25.16",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Angle fémorotibial axial de 12°"
+   }
+  ],
+  "web": null
+ },
+ "genou-ligne-45-lca": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-angle-lca-blumensaat": {
+  "cotten": [
+   {
+    "fig": "25.8",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Horizontalisation de la partie distale du LCA"
+   }
+  ],
+  "web": null
+ },
+ "genou-largeur-fosse-intercondylaire": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-pente-tibiale-posterieure": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-tunnel-femoral-lca": {
+  "cotten": [
+   {
+    "fig": "25.26",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Positionnement normal du tunnel fémoral face et profil"
+   }
+  ],
+  "web": null
+ },
+ "genou-tunnel-tibial-lca": {
+  "cotten": [
+   {
+    "fig": "25.26",
+    "ch": 25,
+    "panel": "b",
+    "pourquoi": "Tunnel tibial parallèle à Blumensaat, 2e quart"
+   },
+   {
+    "fig": "25.27",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Tunnel tibial trop postérieur, transplant verticalisé"
+   }
+  ],
+  "web": null
+ },
+ "genou-diametre-tunnels-lca": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-cyclope": {
+  "cotten": [
+   {
+    "fig": "25.32",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "Lésion de cyclope en avant de la plastie"
+   }
+  ],
+  "web": null
+ },
+ "genou-tiroir-posterieur-radio": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-diametre-lcp": {
+  "cotten": [
+   {
+    "fig": "25.37",
+    "ch": 25,
+    "panel": "a",
+    "pourquoi": "LCP rompu épaissi en hypersignal"
+   },
+   {
+    "fig": "25.35",
+    "ch": 25,
+    "panel": null,
+    "pourquoi": "LCP normal en coupe sagittale"
+   }
+  ],
+  "web": null
+ },
+ "genou-tiroir-posterieur-irm": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-baillement-varus-lcl": {
+  "cotten": [
+   {
+    "fig": "26.30",
+    "ch": 26,
+    "panel": "b",
+    "pourquoi": "Bâillement fémorotibial latéral en varus forcé"
+   }
+  ],
+  "web": null
+ },
+ "genou-translation-posterieure-papl": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-alignement-tibiofibulaire-proximal": {
+  "cotten": [
+   {
+    "fig": "26.48",
+    "ch": 26,
+    "panel": null,
+    "pourquoi": "Axes de la tête fibulaire face et profil"
+   },
+   {
+    "fig": "26.49",
+    "ch": 26,
+    "panel": null,
+    "pourquoi": "Luxation tibiofibulaire : axe à distance de l'épicondyle"
+   }
+  ],
+  "web": null
+ },
+ "genou-epaisseur-tractus-iliotibial": {
+  "cotten": [
+   {
+    "fig": "26.44",
+    "ch": 26,
+    "panel": null,
+    "pourquoi": "Épaississement hypoéchogène de l'enthèse du tractus iliotibial"
+   }
+  ],
+  "web": null
+ },
+ "genou-interligne-femorotibial": {
+  "cotten": [
+   {
+    "fig": "27.3",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Pincement fémorotibial médial, en charge et schuss"
+   }
+  ],
+  "web": null
+ },
+ "genou-kellgren-lawrence": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-goniometrie-deviation-angulaire": {
+  "cotten": [
+   {
+    "fig": "27.7",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Angle de déviation angulaire mesuré sur genu varum"
+   },
+   {
+    "fig": "27.55",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Angle entre axes mécaniques fémoral et tibial"
+   }
+  ],
+  "web": null
+ },
+ "genou-grades-cartilage-irm": {
+  "cotten": [
+   {
+    "fig": "27.11",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Lésion cartilagineuse fémorale de grade 2"
+   },
+   {
+    "fig": "27.12",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Lésions de grade 4 fémorale et tibiale"
+   }
+  ],
+  "web": null
+ },
+ "genou-epaisseur-synoviale-echo": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-osteonecrose-taille": {
+  "cotten": [
+   {
+    "fig": "27.31",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Ostéonécrose mécanique très étendue avec impaction"
+   },
+   {
+    "fig": "27.29",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Ostéonécrose mécanique du condyle médial, étendue visible"
+   }
+  ],
+  "web": null
+ },
+ "genou-koshino-aglietti": {
+  "cotten": [],
+  "web": null
+ },
+ "genou-ocd-instabilite": {
+  "cotten": [
+   {
+    "fig": "27.43",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "OCD stable vs instable : signes IRM annotés"
+   }
+  ],
+  "web": null
+ },
+ "genou-ocd-vs-variante-ossification": {
+  "cotten": [
+   {
+    "fig": "27.44",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Variantes d'ossification condylienne en radio et IRM"
+   },
+   {
+    "fig": "27.43",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "OCD stable de petite taille, comparatif"
+   }
+  ],
+  "web": null
+ },
+ "genou-angle-metaphysodiaphysaire-tibial": {
+  "cotten": [
+   {
+    "fig": "27.46",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Angle métaphysodiaphysaire tibial de 14° (> 11°)"
+   },
+   {
+    "fig": "27.45",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Schéma de l'angle métaphysodiaphysaire tibial"
+   }
+  ],
+  "web": null
+ },
+ "genou-ratio-mda-femoral-tibial": {
+  "cotten": [
+   {
+    "fig": "27.45",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Schéma des angles métaphysodiaphysaires tibial et fémoral"
+   }
+  ],
+  "web": null
+ },
+ "genou-langenskiold": {
+  "cotten": [
+   {
+    "fig": "27.49",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Schéma des stades I–VI de Langenskiöld"
+   }
+  ],
+  "web": null
+ }
+}

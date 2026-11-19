@@ -1,0 +1,301 @@
+{
+ "eos-avantages-limites": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Acquisition EOS face/profil avec paramètres 3D"
+   },
+   {
+    "fig": "17.29",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Modélisation 3D EOS du rachis scoliotique"
+   }
+  ],
+  "web": null
+ },
+ "eos-dose": {
+  "cotten": [],
+  "web": null
+ },
+ "eos-incidence-pelvienne": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Schéma de l'incidence pelvienne et de la version pelvienne"
+   },
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Incidence pelvienne mesurée à 54° en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-version-pelvienne": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Version pelvienne : verticale / ligne têtes fémorales-S1"
+   },
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Version pelvienne mesurée à 13° en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-pente-sacree": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Pente sacrée mesurée à 41° en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-relation-pi-pt-ss": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "PI 54° = PT 13° + SS 41°"
+   },
+   {
+    "fig": "17.34",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "PI fixe ; compensation par rétroversion pelvienne"
+   }
+  ],
+  "web": null
+ },
+ "eos-roussouly": {
+  "cotten": [
+   {
+    "fig": "17.26",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Schéma des 4 types d'alignement sagittal"
+   }
+  ],
+  "web": null
+ },
+ "eos-lordose-lombaire": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Lordose L1-L5 et L1-S1 mesurée en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-pi-ll": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "a",
+    "pourquoi": "PI et lordose lombaire mesurées sur le même profil"
+   }
+  ],
+  "web": null
+ },
+ "eos-cyphose-thoracique": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Cyphose T1-T12 et T4-T12 mesurée en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-gite-t9": {
+  "cotten": [
+   {
+    "fig": "16.68",
+    "ch": 16,
+    "panel": null,
+    "pourquoi": "Gîte sagittale de T9 sur schéma spinopelvien"
+   }
+  ],
+  "web": null
+ },
+ "eos-equilibre-global-cae": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "b",
+    "pourquoi": "Verticale du CAE en arrière des têtes fémorales"
+   }
+  ],
+  "web": null
+ },
+ "eos-sva": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "c",
+    "pourquoi": "C7 plumb line en arrière du plateau de S1"
+   }
+  ],
+  "web": null
+ },
+ "eos-tpa": {
+  "cotten": [],
+  "web": null
+ },
+ "eos-c7-frontal": {
+  "cotten": [
+   {
+    "fig": "17.24",
+    "ch": 17,
+    "panel": "a",
+    "pourquoi": "C7 plumb line déportée > 2 cm de face"
+   }
+  ],
+  "web": null
+ },
+ "eos-cobb-3d": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "a",
+    "pourquoi": "Angles de Cobb mesurés en EOS"
+   },
+   {
+    "fig": "17.23",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Rotation vertébrale selon Cobb et Nash-Moe"
+   }
+  ],
+  "web": null
+ },
+ "eos-rotation-apicale": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "c",
+    "pourquoi": "Rotation axiale vertébrale par niveau, apex T12"
+   },
+   {
+    "fig": "17.23",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Méthodes de Cobb et de Nash-Moe"
+   }
+  ],
+  "web": null
+ },
+ "eos-risser": {
+  "cotten": [
+   {
+    "fig": "17.27",
+    "ch": 17,
+    "panel": null,
+    "pourquoi": "Stades d'ossification de Risser"
+   }
+  ],
+  "web": null
+ },
+ "eos-obliquite-pelvienne": {
+  "cotten": [
+   {
+    "fig": "17.22",
+    "ch": 17,
+    "panel": "d",
+    "pourquoi": "Obliquité pelvienne (1 mm) en EOS"
+   }
+  ],
+  "web": null
+ },
+ "eos-longueurs-membres": {
+  "cotten": [],
+  "web": null
+ },
+ "eos-hka": {
+  "cotten": [
+   {
+    "fig": "27.55",
+    "ch": 27,
+    "panel": "a",
+    "pourquoi": "Angle HKA entre axes mécaniques fémoral et tibial"
+   },
+   {
+    "fig": "27.7",
+    "ch": 27,
+    "panel": null,
+    "pourquoi": "Genu varum mesuré sur goniométrie"
+   }
+  ],
+  "web": null
+ },
+ "eos-hks": {
+  "cotten": [
+   {
+    "fig": "27.55",
+    "ch": 27,
+    "panel": "b",
+    "pourquoi": "Axe anatomique fémoral vs axe mécanique (HKS)"
+   }
+  ],
+  "web": null
+ },
+ "eos-mldfa-mpta": {
+  "cotten": [],
+  "web": null
+ },
+ "eos-torsion-femorale": {
+  "cotten": [
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "d",
+    "pourquoi": "Mesure TDM de l'antéversion fémorale"
+   }
+  ],
+  "web": null
+ },
+ "eos-torsion-tibiale": {
+  "cotten": [],
+  "web": null
+ },
+ "eos-pth-anteversion-fonctionnelle": {
+  "cotten": [
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "a",
+    "pourquoi": "Version pelvienne debout pour corriger l'antéversion cupule"
+   },
+   {
+    "fig": "19.61",
+    "ch": 19,
+    "panel": "c",
+    "pourquoi": "Antéversion fonctionnelle (corrigée) de la cupule"
+   }
+  ],
+  "web": null
+ }
+}

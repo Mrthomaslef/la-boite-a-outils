@@ -1,0 +1,484 @@
+{
+ "coude-nerf-ulnaire-surface-section": {
+  "cotten": [],
+  "web": null
+ },
+ "coude-epaisseur-capsule-anterieure": {
+  "cotten": [],
+  "web": null
+ },
+ "coude-lcu-insertion-coronoidienne": {
+  "cotten": [],
+  "web": null
+ },
+ "coude-biceps-retraction-lacertus": {
+  "cotten": [
+   {
+    "fig": "7.5",
+    "ch": 7,
+    "panel": "d",
+    "pourquoi": "Rupture biceps distal avec rétraction importante (vs lacertus conservé a-c)"
+   }
+  ],
+  "web": null
+ },
+ "coude-triceps-avulsion-olecranienne": {
+  "cotten": [
+   {
+    "fig": "8.3",
+    "ch": 8,
+    "panel": null,
+    "pourquoi": "Avulsion osseuse olécrânienne et rétraction du triceps"
+   }
+  ],
+  "web": null
+ },
+ "coude-pronation-douloureuse-distance-radio-humerale": {
+  "cotten": [
+   {
+    "fig": "5.14",
+    "ch": 5,
+    "panel": null,
+    "pourquoi": "Écho : ligament annulaire luxé dans l'interligne huméroradial"
+   }
+  ],
+  "web": null
+ },
+ "coude-prothese-lisere-periprothetique": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-variance-ulnaire": {
+  "cotten": [
+   {
+    "fig": "10.12",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Mesure de la variance ulnaire : schéma et radiographies"
+   },
+   {
+    "fig": "10.14",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Variance ulnaire positive avec conflit ulnocarpien"
+   }
+  ],
+  "web": null
+ },
+ "poignet-inclinaison-radiale": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/poignet-inclinaison-radiale.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Radial_inclination_of_distal_radius_fracture.svg",
+   "auteur": "Mikael Häggström, d'après Lucien Monfils",
+   "licence": "CC BY-SA 3.0",
+   "legende": "Radiographie de face : inclinaison radiale (rouge) entre surface articulaire et perpendiculaire à l'axe radial"
+  }
+ },
+ "poignet-pente-palmaire-radius": {
+  "cotten": [],
+  "web": {
+   "file": "data/web/poignet-pente-palmaire-radius.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Dorsal_tilt_of_distal_radius_fracture.svg",
+   "auteur": "Mikael Häggström, d'après Lucien Monfils",
+   "licence": "CC BY-SA 3.0",
+   "legende": "Profil : bascule dorsale (rouge) de la glène radiale après fracture, perpendiculaire à l'axe radial"
+  }
+ },
+ "poignet-pente-fossette-lunarienne": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-styloide-ulnaire-uspi": {
+  "cotten": [
+   {
+    "fig": "10.19",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Mesure de l'index du processus styloïde ulnaire (A, B, C)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-facette-hamatale-lunatum": {
+  "cotten": [
+   {
+    "fig": "10.24",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "2e arc normal vs interrompu par facette hamatale"
+   },
+   {
+    "fig": "10.23",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Facette hamato-lunaire concave"
+   }
+  ],
+  "web": null
+ },
+ "poignet-pisotriquetral-parallelisme": {
+  "cotten": [
+   {
+    "fig": "10.9",
+    "ch": 10,
+    "panel": "b",
+    "pourquoi": "Arthrose pisotriquétrale sur profil semi-supiné"
+   }
+  ],
+  "web": null
+ },
+ "poignet-trapeze-angle-devers": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-rhizarthrose-dell": {
+  "cotten": [
+   {
+    "fig": "10.1",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Stades de rhizarthrose : pincement, ostéophyte, subluxation M1"
+   }
+  ],
+  "web": null
+ },
+ "poignet-trapeze-hauteur-prothese": {
+  "cotten": [
+   {
+    "fig": "10.1",
+    "ch": 10,
+    "panel": "a",
+    "pourquoi": "Kapandji face : hauteur du trapèze en double flèche"
+   }
+  ],
+  "web": null
+ },
+ "poignet-angle-radioscaphoidien": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-kienbock-lichtman": {
+  "cotten": [
+   {
+    "fig": "10.34",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Kienböck radiographique stades II, IIIa, IIIb"
+   },
+   {
+    "fig": "10.37",
+    "ch": 10,
+    "panel": null,
+    "pourquoi": "Kienböck stade IV en IRM"
+   }
+  ],
+  "web": null
+ },
+ "poignet-disque-tfcc-epaisseur": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-rud-distance-radio-ulnaire-profil": {
+  "cotten": [
+   {
+    "fig": "11.12",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Schéma distances piso-scaphoïdienne et radio-ulnaire sur profil"
+   }
+  ],
+  "web": null
+ },
+ "poignet-rud-scanner-methodes": {
+  "cotten": [
+   {
+    "fig": "11.13",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Méthodes TDM de l'instabilité radio-ulnaire distale"
+   }
+  ],
+  "web": null
+ },
+ "poignet-arcs-gilula": {
+  "cotten": [
+   {
+    "fig": "11.16",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Trois arcs de Gilula continus et harmonieux"
+   },
+   {
+    "fig": "10.24",
+    "ch": 10,
+    "panel": "b",
+    "pourquoi": "2e arc interrompu (facette hamatale)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-diastasis-scapholunaire": {
+  "cotten": [
+   {
+    "fig": "11.22",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Diastasis scapholunaire avec signe de l'anneau"
+   },
+   {
+    "fig": "11.24",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "SLAC 3 avec large diastasis scapholunaire"
+   }
+  ],
+  "web": null
+ },
+ "poignet-diastasis-lunotriquetral": {
+  "cotten": [
+   {
+    "fig": "11.33",
+    "ch": 11,
+    "panel": "a",
+    "pourquoi": "Rupture LT : arc de Gilula interrompu, VISI"
+   }
+  ],
+  "web": null
+ },
+ "poignet-angle-radiolunaire": {
+  "cotten": [
+   {
+    "fig": "11.18",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Mesure de l'angle radiolunaire (axes radius et lunatum)"
+   },
+   {
+    "fig": "11.26",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Bascule dorsale du lunatum (DISI)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-angle-scapholunaire": {
+  "cotten": [
+   {
+    "fig": "11.19",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Mesure de l'angle scapholunaire (axes lunatum et scaphoïde)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-angle-lunocapital": {
+  "cotten": [
+   {
+    "fig": "11.20",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Mesure de l'angle lunocapital (axes lunatum et capitatum)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-hauteur-carpe-mcmurtry": {
+  "cotten": [
+   {
+    "fig": "11.17",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Hauteur du carpe par l'indice de McMurtry"
+   }
+  ],
+  "web": null
+ },
+ "poignet-derive-lunocapitale": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-translation-ulnaire-carpe": {
+  "cotten": [
+   {
+    "fig": "11.36",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Schéma des méthodes de Gilula et de Chamay"
+   },
+   {
+    "fig": "11.35",
+    "ch": 11,
+    "panel": null,
+    "pourquoi": "Glissement ulnaire du carpe dans une PR"
+   }
+  ],
+  "web": null
+ },
+ "poignet-dequervain-retinaculum": {
+  "cotten": [
+   {
+    "fig": "12.4",
+    "ch": 12,
+    "panel": "a",
+    "pourquoi": "Épaississement hypoéchogène du rétinaculum du 1er compartiment"
+   }
+  ],
+  "web": null
+ },
+ "poignet-gaine-flechisseurs-anneau": {
+  "cotten": [
+   {
+    "fig": "12.29",
+    "ch": 12,
+    "panel": null,
+    "pourquoi": "Anneaux hypoéchogènes péritendineux des fléchisseurs en écho"
+   }
+  ],
+  "web": null
+ },
+ "poignet-nerf-median-sst": {
+  "cotten": [
+   {
+    "fig": "13.4",
+    "ch": 13,
+    "panel": "a",
+    "pourquoi": "SST du nerf médian en amont du canal : 15 mm²"
+   }
+  ],
+  "web": null
+ },
+ "poignet-nerf-median-delta-sst": {
+  "cotten": [
+   {
+    "fig": "13.4",
+    "ch": 13,
+    "panel": null,
+    "pourquoi": "SST 15 mm² vs 6 mm² au carré pronateur : ΔSST 9"
+   }
+  ],
+  "web": null
+ },
+ "poignet-nerf-median-ratio-irm": {
+  "cotten": [
+   {
+    "fig": "13.8",
+    "ch": 13,
+    "panel": null,
+    "pourquoi": "Nerf médian proximal normal vs hypertrophié au pisiforme"
+   }
+  ],
+  "web": null
+ },
+ "poignet-index-aplatissement-median": {
+  "cotten": [
+   {
+    "fig": "13.8",
+    "ch": 13,
+    "panel": "c",
+    "pourquoi": "Aplatissement du nerf médian dans le canal carpien"
+   },
+   {
+    "fig": "13.4",
+    "ch": 13,
+    "panel": "c",
+    "pourquoi": "Coupe sagittale : épaississement puis aplatissement du médian"
+   }
+  ],
+  "web": null
+ },
+ "poignet-bombement-retinaculum-flechisseurs": {
+  "cotten": [
+   {
+    "fig": "13.8",
+    "ch": 13,
+    "panel": "c",
+    "pourquoi": "Bombement palmaire du rétinaculum des fléchisseurs (flèches)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-canal-carpien-postop-ligne-hamulus-trapeze": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-nerf-ulnaire-guyon": {
+  "cotten": [
+   {
+    "fig": "13.18",
+    "ch": 13,
+    "panel": "a",
+    "pourquoi": "Nerf ulnaire au canal de Guyon proximal (pisiforme)"
+   }
+  ],
+  "web": null
+ },
+ "poignet-poulies-distance-tendon-os": {
+  "cotten": [
+   {
+    "fig": "14.22",
+    "ch": 14,
+    "panel": null,
+    "pourquoi": "Rupture A2 : écart tendon-P1 majoré en flexion contrariée"
+   },
+   {
+    "fig": "14.21",
+    "ch": 14,
+    "panel": null,
+    "pourquoi": "Algorithme et valeurs seuils d'écart tendon-os"
+   }
+  ],
+  "web": null
+ },
+ "poignet-poulies-gradation": {
+  "cotten": [
+   {
+    "fig": "14.21",
+    "ch": 14,
+    "panel": null,
+    "pourquoi": "Algorithme diagnostique et thérapeutique des ruptures de poulies"
+   },
+   {
+    "fig": "14.20",
+    "ch": 14,
+    "panel": null,
+    "pourquoi": "Schéma du déplacement tendineux selon poulies rompues"
+   }
+  ],
+  "web": null
+ },
+ "poignet-mallet-finger-fragment": {
+  "cotten": [
+   {
+    "fig": "14.8",
+    "ch": 14,
+    "panel": "a",
+    "pourquoi": "Doigt en maillet avec avulsion osseuse de P3"
+   }
+  ],
+  "web": null
+ },
+ "poignet-dupuytren-recidive": {
+  "cotten": [],
+  "web": null
+ },
+ "poignet-madelung-angle-carpien": {
+  "cotten": [
+   {
+    "fig": "34.24",
+    "ch": 34,
+    "panel": null,
+    "pourquoi": "Déformation de Madelung congénitale en radiographie"
+   },
+   {
+    "fig": "34.25",
+    "ch": 34,
+    "panel": null,
+    "pourquoi": "Déformation de Madelung, radiographie"
+   }
+  ],
+  "web": null
+ }
+}
