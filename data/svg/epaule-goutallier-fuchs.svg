@@ -1,0 +1,28 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stades 0-4 : proportion graisse/muscle -->
+  <text class="tv" x="12" y="24">Goutallier</text>
+  <text class="t" x="232" y="24">T1 sag.</text>
+  <ellipse class="mou" cx="36" cy="110" rx="26" ry="40"/>
+  <text class="tz" x="36" y="180" text-anchor="middle">0</text>
+  <ellipse class="mou" cx="98" cy="110" rx="26" ry="40"/>
+  <rect class="pe" x="91.0" y="76" width="2" height="68" rx="2"/>
+  <rect class="pe" x="103.0" y="76" width="2" height="68" rx="2"/>
+  <text class="tz" x="98" y="180" text-anchor="middle">1</text>
+  <ellipse class="mou" cx="160" cy="110" rx="26" ry="40"/>
+  <rect class="pe" x="147.5" y="76" width="5" height="68" rx="2"/>
+  <rect class="pe" x="167.5" y="76" width="5" height="68" rx="2"/>
+  <text class="tz" x="160" y="180" text-anchor="middle">2</text>
+  <ellipse class="mou" cx="222" cy="110" rx="26" ry="40"/>
+  <rect class="pe" x="204.5" y="76" width="9" height="68" rx="2"/>
+  <rect class="pe" x="217.5" y="76" width="9" height="68" rx="2"/>
+  <rect class="pe" x="230.5" y="76" width="9" height="68" rx="2"/>
+  <text class="tz" x="222" y="180" text-anchor="middle">3</text>
+  <ellipse class="mou" cx="284" cy="110" rx="26" ry="40"/>
+  <rect class="pe" x="265.0" y="76" width="14" height="68" rx="2"/>
+  <rect class="pe" x="277.0" y="76" width="14" height="68" rx="2"/>
+  <rect class="pe" x="289.0" y="76" width="14" height="68" rx="2"/>
+  <text class="tz" x="284" y="180" text-anchor="middle">4</text>
+  <text class="t" x="10" y="206">muscle</text>
+  <text class="t" x="250" y="206">graisse</text>
+  <rect class="pe" x="234" y="197" width="12" height="12" rx="2"/>
+</svg>

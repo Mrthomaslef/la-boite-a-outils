@@ -1,0 +1,25 @@
+/* Styles des schémas de mesure (SVG inline) — clair / sombre */
+.fig { --c-os:#f3ecdf; --c-os-s:#8b7a5e; --c-os2:#e2d5bd; --c-cart:#7cc4e8; --c-mou:#e8a0a8; --c-imp:#9aa5b4; --c-imp-s:#4b5563;
+  --c-pe:#fde68a; --c-zone:rgba(124,58,237,.16); --c-ref:#94a3b8; --c-m:#7c3aed; --c-m2:#ea580c; --c-t:#334155; }
+@media (prefers-color-scheme: dark) { .fig { --c-os:#3a3428; --c-os-s:#c9b48a; --c-os2:#4a412f; --c-cart:#38a1d1; --c-mou:#b45f6b;
+  --c-imp:#64748b; --c-imp-s:#cbd5e1; --c-pe:#a16207; --c-zone:rgba(167,139,250,.22); --c-ref:#64748b; --c-m:#a78bfa; --c-m2:#fb923c; --c-t:#cbd5e1; } }
+.fig svg { width:100%; height:auto; display:block; }
+.fig .os { fill:var(--c-os); stroke:var(--c-os-s); stroke-width:2; stroke-linejoin:round; }
+.fig .os2 { fill:var(--c-os2); stroke:var(--c-os-s); stroke-width:2; stroke-linejoin:round; }
+.fig .cart { fill:var(--c-cart); fill-opacity:.55; stroke:var(--c-cart); stroke-width:3; stroke-linecap:round; }
+.fig .cart[fill="none"] { fill:none; }
+.fig .mou { fill:var(--c-mou); fill-opacity:.6; stroke:var(--c-mou); stroke-width:2.5; stroke-linecap:round; }
+.fig .mou[fill="none"] { fill:none; }
+.fig .imp { fill:var(--c-imp); stroke:var(--c-imp-s); stroke-width:2; }
+.fig .pe { fill:var(--c-pe); stroke:var(--c-os-s); stroke-width:1.5; }
+.fig .zone { fill:var(--c-zone); stroke:var(--c-m); stroke-width:1; stroke-dasharray:3 3; }
+.fig .ref { stroke:var(--c-ref); stroke-width:1.6; stroke-dasharray:6 5; fill:none; }
+.fig .m { stroke:var(--c-m); stroke-width:3.2; stroke-linecap:round; fill:none; }
+.fig .m2 { stroke:var(--c-m2); stroke-width:3.2; stroke-linecap:round; fill:none; }
+.fig .dim { stroke:var(--c-m); stroke-width:2; fill:none; marker-start:none; }
+.fig .arc { stroke:var(--c-m); stroke-width:2.6; fill:none; }
+.fig .pt { fill:var(--c-m); } .fig .pt2 { fill:var(--c-m2); }
+.fig text { font-family:-apple-system,BlinkMacSystemFont,"Inter",system-ui,sans-serif; }
+.fig .t { fill:var(--c-t); font-size:12px; font-weight:500; }
+.fig .tv { fill:var(--c-m); font-size:14px; font-weight:800; }
+.fig .tz { fill:var(--c-t); font-size:12px; font-weight:800; }

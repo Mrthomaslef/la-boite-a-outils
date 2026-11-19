@@ -1,0 +1,43 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Angle supéro-médial de la scapula vs processus transverses C5 / T2 / T4 -->
+  <rect class="os" x="150" y="24" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="29" width="14" height="6"/>
+  <rect class="os2" x="174" y="29" width="14" height="6"/>
+  <rect class="os" x="150" y="45" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="50" width="14" height="6"/>
+  <rect class="os2" x="174" y="50" width="14" height="6"/>
+  <rect class="os" x="150" y="66" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="71" width="14" height="6"/>
+  <rect class="os2" x="174" y="71" width="14" height="6"/>
+  <rect class="os" x="150" y="87" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="92" width="14" height="6"/>
+  <rect class="os2" x="174" y="92" width="14" height="6"/>
+  <rect class="os" x="150" y="108" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="113" width="14" height="6"/>
+  <rect class="os2" x="174" y="113" width="14" height="6"/>
+  <rect class="os" x="150" y="129" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="134" width="14" height="6"/>
+  <rect class="os2" x="174" y="134" width="14" height="6"/>
+  <rect class="os" x="150" y="150" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="155" width="14" height="6"/>
+  <rect class="os2" x="174" y="155" width="14" height="6"/>
+  <rect class="os" x="150" y="171" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="176" width="14" height="6"/>
+  <rect class="os2" x="174" y="176" width="14" height="6"/>
+  <rect class="os" x="150" y="192" width="24" height="17" rx="3"/>
+  <rect class="os2" x="136" y="197" width="14" height="6"/>
+  <rect class="os2" x="174" y="197" width="14" height="6"/>
+  <line class="ref" x1="100" y1="55" x2="300" y2="55"/>
+  <line class="ref" x1="100" y1="118" x2="300" y2="118"/>
+  <line class="ref" x1="100" y1="160" x2="300" y2="160"/>
+  <polygon class="os" points="120,86 50,96 96,206"/>
+  <circle class="pt" cx="120" cy="86" r="4.5"/>
+  <text class="t" x="194" y="52">C5</text>
+  <text class="t" x="194" y="115">T2</text>
+  <text class="t" x="194" y="157">T4</text>
+  <text class="tz" x="266" y="44" text-anchor="middle">III</text>
+  <text class="tz" x="266" y="92" text-anchor="middle">II</text>
+  <text class="tz" x="266" y="144" text-anchor="middle">I</text>
+  <text class="tv" x="12" y="24">Rigault</text>
+  <text class="t" x="12" y="212">Face</text>
+</svg>

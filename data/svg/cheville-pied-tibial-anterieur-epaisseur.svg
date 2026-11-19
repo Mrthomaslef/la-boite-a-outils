@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" d="M60 8 L110 8 C112 50 116 76 120 92 C100 100 74 100 56 92 C58 60 60 40 60 8 Z"/>
+  <path class="os2" d="M50 104 C60 90 120 88 140 100 C160 104 176 116 172 132 C160 146 120 146 60 140 C46 130 44 116 50 104 Z"/>
+  <path class="os" d="M178 110 L200 112 L198 148 L176 146 Z"/>
+  <path class="os2" d="M202 114 L234 118 L232 156 L200 150 Z"/>
+  <path class="os" d="M236 120 L310 130 L310 160 L234 158 Z"/>
+  <path class="zone" d="M168 84 L224 108 L214 128 L160 102 Z"/>
+  <path class="mou" d="M120 8 C122 60 140 80 180 92 C200 98 214 106 222 118 L212 122 C200 112 186 106 172 104 C130 94 112 70 110 8 Z"/>
+  <line class="dim" x1="186" y1="90" x2="180" y2="106"/><line class="dim" x1="190.7" y1="91.8" x2="181.3" y2="88.2"/><line class="dim" x1="184.7" y1="107.8" x2="175.3" y2="104.2"/>
+  <circle class="pt" cx="217" cy="120" r="4"/>
+  <text class="t" x="136" y="30">TA</text>
+  <text class="t" x="150" y="68">3 derniers cm</text>
+  <text class="t" x="240" y="104">insertion</text>
+  <text class="t" x="120" y="176">≤ 5 mm</text>
+  <line class="ref" x1="183" y1="108" x2="150" y2="166"/>
+  <text class="tv" x="8" y="212">Tibial antérieur</text>
+  <text class="t" x="250" y="212">Sagittal</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os2" d="M214 214 C210 200 214 188 226 186 C236 186 240 198 238 214 Z"/>
+<path class="os" d="M158 8 L156 50 C140 54 136 66 148 74 C146 88 146 100 148 110 C150 140 172 162 200 162 C228 162 248 142 248 116 C248 94 234 78 214 70 L206 60 L204 8 Z"/>
+<path class="os" d="M152 170 L244 167 C250 172 248 182 238 190 L228 214 L152 214 C148 206 140 202 138 196 C136 186 144 176 152 170 Z"/>
+<circle class="pt" cx="140" cy="62" r="4.5"/>
+<text class="tv" x="40" y="24">Éperon</text>
+<text class="t" x="30" y="98">bosse</text>
+<text class="t" x="30" y="112">sus-trochléenne</text>
+<text class="t" x="12" y="206">Profil strict</text>
+</svg>

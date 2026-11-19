@@ -1,0 +1,24 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Zones de Gruen 1 à 7 sur le fémur prothésé de face -->
+  <path class="os" d="M152 64 L168 42 C186 36 198 46 200 62 C203 90 198 120 196 150 L196 214 L124 214 L124 150 C124 140 122 134 118 130 C108 128 110 116 122 114 C124 104 126 92 128 78 Z"/>
+  <path class="imp" d="M100 56 L112 42 L148 68 L168 54 L178 62 L172 186 Q166 198 160 186 L152 122 C148 100 138 88 124 82 Z"/>
+  <circle class="imp" cx="104" cy="48" r="20"/>
+  <path class="zone" d="M170 56 L198 56 L200 96 L174 96 Z"/>
+  <path class="zone" d="M174 96 L200 96 L197 140 L174 140 Z"/>
+  <path class="zone" d="M174 140 L197 140 L196 186 L172 186 Z"/>
+  <path class="zone" d="M150 186 L196 186 L196 208 L124 208 L124 186 Z"/>
+  <path class="zone" d="M124 140 L154 140 L159 186 L124 186 Z"/>
+  <path class="zone" d="M124 108 L146 104 L154 140 L124 140 Z"/>
+  <path class="zone" d="M120 86 L130 84 C138 92 144 100 146 104 L124 108 Z"/>
+  <text class="tz" x="212" y="80" text-anchor="middle">1</text>
+  <text class="tz" x="212" y="122" text-anchor="middle">2</text>
+  <text class="tz" x="212" y="168" text-anchor="middle">3</text>
+  <text class="tz" x="160" y="204" text-anchor="middle">4</text>
+  <text class="tz" x="112" y="180" text-anchor="middle">5</text>
+  <text class="tz" x="112" y="148" text-anchor="middle">6</text>
+  <text class="tz" x="112" y="98" text-anchor="middle">7</text>
+  <text class="tv" x="312" y="30" text-anchor="end">Gruen</text>
+  <text class="t" x="312" y="50" text-anchor="end">7 zones face</text>
+  <text class="t" x="312" y="66" text-anchor="end">8–14 profil</text>
+  <text class="t" x="14" y="212">Face</text>
+</svg>

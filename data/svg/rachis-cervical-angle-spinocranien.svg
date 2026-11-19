@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Profil en charge : angle plateau inférieur de C7 / droite milieu du plateau → selle turcique -->
+  <path class="os" d="M40 120 C30 50 90 8 170 8 C250 8 300 50 298 100 C296 116 280 124 262 120 L230 112 L200 112 L184 98 L160 100 L120 124 L80 132 L46 132 Z"/>
+  <path class="os2" d="M162 66 C164 80 184 80 186 66 Z"/>
+  <polygon class="os" points="205,121 223,121 226,124 226,128 223,131 205,131 202,128 202,124"/>
+  <polygon class="os" points="197.4,134.4 215.3,135.6 218.1,138.8 217.8,142.8 214.6,145.6 196.7,144.4 193.9,141.2 194.2,137.2"/>
+  <polygon class="os" points="191.6,148.1 209.5,150 212.1,153.3 211.7,157.2 208.4,159.9 190.5,158 187.9,154.7 188.3,150.8"/>
+  <polygon class="os" points="191.2,162.7 209.2,163.3 212.1,166.4 211.9,170.4 208.8,173.3 190.8,172.7 187.9,169.6 188.1,165.6"/>
+  <polygon class="os" points="193.4,178.3 211.2,175.8 214.6,178.3 215.2,182.3 212.6,185.7 194.8,188.2 191.4,185.7 190.8,181.7"/>
+  <polygon class="os" points="194.7,196.5 217.2,188.3 221.1,190.1 223.1,195.7 221.3,199.5 198.8,207.7 194.9,205.9 192.9,200.3"/>
+  <line class="m" x1="170.6" y1="218" x2="258" y2="186.2"/>
+  <line class="m2" x1="174" y1="72" x2="210.1" y2="203.6"/>
+  <circle class="pt" cx="174" cy="72" r="4.5"/>
+  <circle class="pt" cx="210.1" cy="203.6" r="4.5"/>
+  <path class="arc" d="M242 192 A34 34 0 0 0 201.1 170.8"/>
+  <text class="tv" x="250" y="150">SCA</text>
+  <text class="t" x="250" y="166">83 ± 9°</text>
+  <text class="t" x="196" y="62">selle</text>
+  <text class="None" x="162" y="212" text-anchor="end">C7</text>
+  <text class="None" x="312" y="212" text-anchor="end">Profil</text>
+</svg>

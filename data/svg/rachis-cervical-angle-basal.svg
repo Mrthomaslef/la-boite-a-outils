@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sagittal médian : angle nasion – tubercule de la selle – basion -->
+  <path class="os" d="M20 80 C14 30 80 8 160 8 C240 8 300 40 300 100 C298 130 276 140 256 138 L238 170 L214 172 L200 150 L176 112 L156 98 L140 96 L100 110 L60 116 L24 108 Z"/>
+  <path class="os2" d="M144 88 C146 104 166 104 170 92 L176 112 L214 168 L206 172 L170 118 Z"/>
+  <line class="m" x1="26" y1="74" x2="150" y2="86"/>
+  <line class="m" x1="150" y1="86" x2="210" y2="166"/>
+  <circle class="pt" cx="26" cy="74" r="4.5"/>
+  <circle class="pt" cx="150" cy="86" r="4.5"/>
+  <circle class="pt" cx="210" cy="166" r="4.5"/>
+  <path class="arc" d="M124.1 83.5 A26 26 0 0 0 165.6 106.8"/>
+  <text class="t" x="8" y="212">Sagittal</text>
+  <text class="t" x="24" y="64">nasion</text>
+  <text class="t" x="150" y="72">selle</text>
+  <text class="t" x="218" y="184">basion</text>
+  <text class="tv" x="60" y="150">Angle basal</text>
+  <text class="t" x="60" y="166">134–135°</text>
+</svg>

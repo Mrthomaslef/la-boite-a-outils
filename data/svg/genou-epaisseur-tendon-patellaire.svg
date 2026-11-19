@@ -1,0 +1,12 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M150 214 C130 190 150 150 200 150 L312 150 L312 214 Z"/>
+<path class="os2" d="M40 8 C30 40 40 66 80 84 C100 74 120 50 132 8 Z"/>
+<path class="mou" d="M66 72 L106 78 C120 110 150 150 176 196 L146 206 C126 160 96 120 66 72 Z"/>
+<line class="dim" x1="80" y1="108" x2="113" y2="92"/>
+<line class="dim" x1="77.81863246740315" y1="103.50092946401901" x2="82.18136753259685" y2="112.49907053598099"/>
+<line class="dim" x1="110.81863246740315" y1="87.50092946401901" x2="115.18136753259685" y2="96.49907053598099"/>
+<text class="tv" x="150" y="104">≤ 7 mm</text>
+<text class="t" x="56" y="40">patella</text>
+<text class="t" x="196" y="190">TA</text>
+<text class="t" x="12" y="214">Sagittal</text>
+</svg>

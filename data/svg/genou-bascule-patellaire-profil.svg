@@ -1,0 +1,12 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M226 8 C206 40 200 90 208 140 C220 190 260 212 312 212 L312 8 Z"/>
+<path class="os2" d="M100 28 C70 48 62 118 80 168 C92 192 112 202 122 196 C150 170 174 122 180 82 C182 50 160 28 130 26 Z"/>
+<path class="m2" fill="none" d="M172 56 C182 90 178 130 150 178"/>
+<path class="m" fill="none" d="M160 52 C170 90 166 130 138 178"/>
+<text class="t" x="186" y="108">crête</text>
+<text class="t" x="84" y="120">facette</text>
+<text class="t" x="84" y="134">lat.</text>
+<text class="tv" x="20" y="40">Bascule</text>
+<text class="t" x="12" y="18">Profil strict</text>
+<text class="t" x="230" y="40">trochlée</text>
+</svg>

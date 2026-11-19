@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rebord glénoïdal postéro-inférieur : pointu (normal), en J, en Delta -->
+  <text class="tv" x="12" y="24">Rebord post.-inf.</text>
+  <text class="t" x="216" y="24">Axial caudal</text>
+  <path class="os" d="M42 50 L42 156 L36 186 L82 166 L104 150 L104 56 Z"/>
+  <text class="tz" x="68" y="108" text-anchor="middle">N</text>
+  <text class="t" x="64" y="206" text-anchor="middle">pointu</text>
+  <path class="os" d="M144 50 L144 140 C144 170 160 180 184 168 L206 150 L206 56 Z"/>
+  <text class="tz" x="170" y="108" text-anchor="middle">J</text>
+  <text class="t" x="166" y="206" text-anchor="middle">en J</text>
+  <path class="os" d="M246 50 L246 140 L268 178 L286 168 L308 150 L308 56 Z"/>
+  <text class="tz" x="272" y="108" text-anchor="middle">Δ</text>
+  <text class="t" x="268" y="206" text-anchor="middle">Delta</text>
+  <path class="ref" d="M144 140 L144 156 L138 186 L184 166"/>
+  <path class="ref" d="M246 140 L246 156 L240 186 L286 166"/>
+  <text class="t" x="12" y="190">post.</text>
+</svg>

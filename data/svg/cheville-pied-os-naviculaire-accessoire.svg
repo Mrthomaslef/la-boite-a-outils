@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <text class="tv" x="8" y="22">Os naviculaire acc.</text>
+  <text class="tz" x="62" y="58" text-anchor="middle">I</text>
+  <path class="mou" fill="none" d="M6 74 C8 100 12 120 22 138"/>
+  <circle class="os2" cx="16" cy="130" r="6"/>
+  <path class="os" d="M32 108 C52 96 92 98 102 110 C106 124 92 140 72 138 C52 136 36 134 28 126 C24 120 26 112 32 108 Z"/>
+  <text class="t" x="62" y="170" text-anchor="middle">rond 2–6 mm</text>
+  <text class="tz" x="164" y="58" text-anchor="middle">II</text>
+  <path class="mou" fill="none" d="M104 74 C106 100 108 120 114 134"/>
+  <path class="os" d="M134 108 C154 96 194 98 204 110 C208 124 194 140 174 138 C154 136 138 134 130 126 C126 120 128 112 134 108 Z"/>
+  <polygon class="os2" points="125 111 125 132 104 132 106 116"/>
+  <line class="cart" x1="127" y1="112" x2="127" y2="132"/>
+  <text class="t" x="164" y="170" text-anchor="middle">triangle ≤ 12 mm</text>
+  <text class="tz" x="266" y="58" text-anchor="middle">III</text>
+  <path class="mou" fill="none" d="M202 74 C204 100 206 120 212 130"/>
+  <path class="os" d="M236 108 C256 96 296 98 306 110 C310 124 296 140 276 138 C256 136 236 142 216 136 C208 132 210 122 218 118 C224 114 230 110 236 108 Z"/>
+  <text class="t" x="266" y="170" text-anchor="middle">proéminent</text>
+  <text class="t" x="160" y="200" text-anchor="middle">TTP · face, médial à gauche</text>
+</svg>

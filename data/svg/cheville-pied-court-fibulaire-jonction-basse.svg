@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os2" d="M20 212 C24 190 60 176 120 178 L220 182 C250 186 262 200 258 212 Z"/>
+  <path class="os" d="M136 8 L162 8 C164 50 168 80 166 100 C164 114 156 120 148 116 C140 110 134 90 132 60 Z"/>
+  <path class="mou" d="M98 8 L126 8 C126 60 120 110 110 146 C106 152 100 152 98 146 C94 110 94 50 98 8 Z"/>
+  <path class="mou" fill="none" d="M104 146 C110 176 160 192 232 186"/>
+  <line class="ref" x1="40" y1="118" x2="250" y2="118"/>
+  <line class="dim" x1="80" y1="118" x2="80" y2="150"/><line class="dim" x1="85" y1="118" x2="75" y2="118"/><line class="dim" x1="85" y1="150" x2="75" y2="150"/>
+  <text class="t" x="176" y="112">pointe fibula</text>
+  <text class="t" x="12" y="140">≤ 13 mm</text>
+  <text class="t" x="30" y="60">muscle CF</text>
+  <text class="t" x="140" y="170">tendons fib.</text>
+  <text class="tv" x="180" y="40">Jonction CF</text>
+  <text class="t" x="186" y="60">Vue latérale</text>
+</svg>

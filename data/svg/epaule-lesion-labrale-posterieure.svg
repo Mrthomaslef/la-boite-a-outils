@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Étendue craniocaudale de la lésion du labrum postérieur -->
+  <path class="os" d="M150 30 C170 30 182 56 190 90 C200 120 210 140 210 160 C210 190 184 208 152 208 C120 208 94 186 94 158 C94 128 108 104 118 80 C126 50 136 30 150 30 Z"/>
+  <path class="cart" fill="none" d="M150 30 C170 30 182 56 190 90 C200 120 210 140 210 160 C210 190 184 208 152 208 C120 208 94 186 94 158 C94 128 108 104 118 80 C126 50 136 30 150 30 Z"/>
+  <path class="m2" d="M118 82 C108 106 96 130 95 158 C95 172 100 184 108 194"/>
+  <line class="ref" x1="72" y1="82" x2="118" y2="82"/>
+  <line class="ref" x1="72" y1="194" x2="108" y2="194"/>
+  <line class="dim" x1="76" y1="82" x2="76" y2="194"/>
+  <polyline class="dim" points="71.0 88.0 76 82 81.0 88.0"/>
+  <polyline class="dim" points="71.0 188.0 76 194 81.0 188.0"/>
+  <text class="tv" x="12" y="24">Hauteur lésion</text>
+  <text class="t" x="20" y="142">post.</text>
+  <text class="t" x="216" y="142">ant.</text>
+  <text class="t" x="240" y="24">En face</text>
+  <text class="t" x="130" y="140">glène</text>
+</svg>

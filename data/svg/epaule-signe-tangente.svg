@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Signe de la tangente : épine→coracoïde, muscle SE au-dessus = négatif -->
+  <path class="os" d="M150 212 L196 212 C192 170 196 140 206 128 C232 108 258 88 282 70 L290 62 C292 50 280 50 274 56 C246 80 216 100 188 112 C160 100 120 92 84 84 C74 74 60 72 54 82 C52 92 64 98 76 96 C110 104 140 116 168 130 C164 160 156 190 150 212 Z"/>
+  <ellipse class="mou" cx="180" cy="92" rx="44" ry="22"/>
+  <line class="m" x1="30" y1="72" x2="300" y2="52"/>
+  <circle class="pt" cx="62" cy="72" r="4.5"/>
+  <circle class="pt" cx="282" cy="56" r="4.5"/>
+  <text class="tv" x="12" y="24">Tangente</text>
+  <text class="t" x="20" y="112">coracoïde</text>
+  <text class="t" x="244" y="96">épine</text>
+  <text class="t" x="156" y="96">SE</text>
+  <text class="t" x="12" y="212">Sag. Y</text>
+</svg>

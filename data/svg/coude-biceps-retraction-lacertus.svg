@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M8 156 L112 150 C126 146 140 152 146 164 C150 176 140 188 126 186 L8 182 Z"/>
+<path class="os2" d="M152 160 C152 152 160 150 168 152 L196 154 C200 144 214 142 222 152 L312 154 L312 180 L168 180 C158 180 152 172 152 160 Z"/>
+<ellipse class="mou" cx="58" cy="78" rx="52" ry="22"/>
+<path class="mou" fill="none" d="M106 82 C116 86 120 92 116 100 C112 106 120 110 126 106"/>
+<path class="ref" d="M126 106 C160 112 196 130 208 146"/>
+<circle class="pt" cx="126" cy="106" r="4.5"/>
+<circle class="pt" cx="208" cy="148" r="4.5"/>
+<line class="dim" x1="132" y1="98" x2="212" y2="138"/>
+<polyline class="dim" fill="none" points="134.9,102.1 132,98 137.0,97.8"/>
+<polyline class="dim" fill="none" points="209.1,133.9 212,138 207.0,138.2"/>
+<text class="tv" x="150" y="44">Rétraction</text>
+<text class="t" x="150" y="62">&gt; 8 cm : lacertus</text>
+<text class="t" x="80" y="126">moignon</text>
+<text class="t" x="230" y="142">tubérosité</text>
+<text class="t" x="30" y="206">humérus</text>
+<text class="t" x="250" y="206">radius</text>
+<text class="t" x="12" y="20">Long. ant.</text>
+</svg>

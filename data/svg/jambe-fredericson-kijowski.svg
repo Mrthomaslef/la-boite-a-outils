@@ -1,0 +1,36 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <text class="tv" x="8" y="22">Fredericson</text>
+  <text class="t" x="270" y="22">Axial</text>
+  <text class="tz" x="34" y="72" text-anchor="middle">1</text>
+  <path class="os2" d="M34 94 C46 94 60 122 60 132 C60 142 46 144 34 144 C22 144 8 142 8 132 C8 122 22 94 34 94 Z"/>
+  <path class="os" d="M34 106 C42 106 50 122 50 129 C50 134 42 135 34 135 C26 135 18 134 18 129 C18 122 26 106 34 106 Z"/>
+  <path class="zone" d="M38 91 C57 94 69 122 65.5 142 L60 136 C60 122 48 96 38 94 Z"/>
+  <text class="t" x="34" y="170" text-anchor="middle">périoste</text>
+  <text class="tz" x="97" y="72" text-anchor="middle">2</text>
+  <path class="os2" d="M97 94 C109 94 123 122 123 132 C123 142 109 144 97 144 C85 144 71 142 71 132 C71 122 85 94 97 94 Z"/>
+  <path class="os" d="M97 106 C105 106 113 122 113 129 C113 134 105 135 97 135 C89 135 81 134 81 129 C81 122 89 106 97 106 Z"/>
+  <path class="zone" d="M101 91 C125 94 137 122 131 142 L123 136 C123 122 111 96 101 94 Z"/>
+  <ellipse class="zone" cx="101" cy="126" rx="5" ry="4.5"/>
+  <text class="t" x="97" y="170" text-anchor="middle">+ T2</text>
+  <text class="tz" x="160" y="72" text-anchor="middle">3</text>
+  <path class="os2" d="M160 94 C172 94 186 122 186 132 C186 142 172 144 160 144 C148 144 134 142 134 132 C134 122 148 94 160 94 Z"/>
+  <path class="os" d="M160 106 C168 106 176 122 176 129 C176 134 168 135 160 135 C152 135 144 134 144 129 C144 122 152 106 160 106 Z"/>
+  <path class="zone" d="M164 91 C188 94 200 122 194 142 L186 136 C186 122 174 96 164 94 Z"/>
+  <ellipse class="zone" cx="160" cy="126" rx="11" ry="9.9"/>
+  <text class="t" x="160" y="170" text-anchor="middle">+ T1</text>
+  <text class="tz" x="223" y="72" text-anchor="middle">4a</text>
+  <path class="os2" d="M223 94 C235 94 249 122 249 132 C249 142 235 144 223 144 C211 144 197 142 197 132 C197 122 211 94 223 94 Z"/>
+  <path class="os" d="M223 106 C231 106 239 122 239 129 C239 134 231 135 223 135 C215 135 207 134 207 129 C207 122 215 106 223 106 Z"/>
+  <path class="zone" d="M227 91 C251 94 263 122 257 142 L249 136 C249 122 237 96 227 94 Z"/>
+  <ellipse class="zone" cx="223" cy="126" rx="11" ry="9.9"/>
+  <circle class="pt2" cx="243" cy="126" r="3.5"/>
+  <text class="t" x="223" y="170" text-anchor="middle">foyer</text>
+  <text class="tz" x="286" y="72" text-anchor="middle">4b</text>
+  <path class="os2" d="M286 94 C298 94 312 122 312 132 C312 142 298 144 286 144 C274 144 260 142 260 132 C260 122 274 94 286 94 Z"/>
+  <path class="os" d="M286 106 C294 106 302 122 302 129 C302 134 294 135 286 135 C278 135 270 134 270 129 C270 122 278 106 286 106 Z"/>
+  <path class="zone" d="M290 91 C314 94 326 122 320 142 L312 136 C312 122 300 96 290 94 Z"/>
+  <ellipse class="zone" cx="286" cy="126" rx="11" ry="9.9"/>
+  <line class="m2" x1="300" y1="108" x2="309" y2="122"/>
+  <text class="t" x="286" y="170" text-anchor="middle">trait</text>
+  <text class="t" x="160" y="200" text-anchor="middle">œdème périosté → médullaire → cortical</text>
+</svg>

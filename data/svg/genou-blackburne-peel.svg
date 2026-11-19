@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os2" d="M214 214 C210 200 214 188 226 186 C236 186 240 198 238 214 Z"/>
+<path class="os" d="M158 8 L156 60 C150 76 146 92 148 110 C150 140 172 162 200 162 C228 162 248 142 248 116 C248 94 234 78 214 70 L206 60 L204 8 Z"/>
+<path class="os" d="M152 170 L244 167 C250 172 248 182 238 190 L228 214 L152 214 C148 206 140 202 138 196 C136 186 144 176 152 170 Z"/>
+<path class="mou" d="M112 72 L130 64 L150 8 L136 8 Z"/>
+<path class="os2" d="M126 64 C114 66 106 84 106 102 C106 116 112 126 120 132 C130 124 140 114 144 104 L146 84 C142 72 136 64 126 64 Z"/>
+<path class="mou" d="M116 128 L124 132 L144 194 L136 198 Z"/>
+<text class="t" x="12" y="18">Profil</text>
+<line class="ref" x1="40" y1="170" x2="152" y2="170"/>
+<line class="m" x1="145" y1="80" x2="140" y2="114"/>
+<circle class="pt" cx="145" cy="80" r="4.5"/>
+<circle class="pt" cx="140" cy="114" r="4.5"/>
+<line class="dim" x1="140" y1="118" x2="140" y2="168"/>
+<line class="dim" x1="145.0" y1="118.0" x2="135.0" y2="118.0"/>
+<line class="dim" x1="145.0" y1="168.0" x2="135.0" y2="168.0"/>
+<text class="t" x="150" y="96">b</text>
+<text class="t" x="118" y="150">a</text>
+<text class="tv" x="20" y="48">BP = a/b</text>
+<text class="t" x="30" y="186">tangente plateau</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Angle axe du corps de la scapula / horizontale -->
+  <ellipse class="mou" fill="none" cx="160" cy="112" rx="140" ry="78"/>
+  <circle class="os2" cx="160" cy="176" r="16"/>
+  <circle class="os2" cx="38" cy="92" r="22"/>
+  <polygon class="os" points="56,96 66,90 140,170 130,178"/>
+  <line class="ref" x1="130" y1="176" x2="24" y2="176"/>
+  <line class="m" x1="60" y1="96" x2="136" y2="174"/>
+  <path class="arc" d="M90.0 174.0 A46 46 0 0 1 104.0 140.9"/>
+  <text class="tv" x="12" y="24">Bascule</text>
+  <text class="t" x="54" y="160">30–44°</text>
+  <text class="t" x="130" y="206">rachis</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <text class="t" x="84" y="120">scapula</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Écho : deltoïde / bourse / supra-épineux / tête -->
+  <rect class="mou" x="8" y="40" width="304" height="52"/>
+  <path class="cart" d="M8 98 C100 94 220 94 312 98 L312 106 C220 102 100 102 8 106 Z"/>
+  <path class="mou" d="M8 110 C100 106 220 106 312 110 L312 150 C220 140 100 140 8 150 Z"/>
+  <path class="os" d="M8 172 C100 150 220 150 312 172 L312 212 L8 212 Z"/>
+  <line class="dim" x1="260" y1="96" x2="260" y2="108"/>
+  <polyline class="dim" points="257.0 102.0 260 96 263.0 102.0"/>
+  <polyline class="dim" points="257.0 102.0 260 108 263.0 102.0"/>
+  <text class="tv" x="12" y="24">Bourse SAD</text>
+  <text class="t" x="20" y="72">deltoïde</text>
+  <text class="t" x="20" y="132">supra-épineux</text>
+  <text class="t" x="20" y="200">tête</text>
+  <text class="t" x="226" y="24">Écho</text>
+  <text class="t" x="170" y="90">bourse</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="os" points="177,168.1 153.6,179.5 149.1,169.3 173.2,159.6"/>
+  <polygon class="os" points="171.9,156.2 147.5,165.2 144,154.6 169,147.4"/>
+  <polygon class="os" points="168,143.9 142.9,150.4 140.5,139.5 166.1,134.9"/>
+  <polygon class="os" points="165.5,131.3 139.8,135.2 138.5,124.1 164.4,122.1"/>
+  <polygon class="os" points="164.2,118.5 138.2,119.8 138,108.6 164,109.2"/>
+  <polygon class="os" points="164.2,105.5 138.2,104.2 139.2,93.1 165,96.3"/>
+  <polygon class="os" points="165.5,92.7 139.8,88.8 141.8,77.8 167.2,83.6"/>
+  <polygon class="os" points="168,80.1 142.9,73.6 146,62.9 170.7,71.2"/>
+  <polygon class="os" points="171.9,67.8 147.5,58.8 151.7,48.4 175.4,59.2"/>
+  <line class="ref" x1="184.1" y1="164.6" x2="292" y2="112"/>
+  <line class="ref" x1="182.7" y1="62.5" x2="292" y2="112"/>
+  <line class="m" x1="135.6" y1="188.3" x2="184.1" y2="164.6"/>
+  <line class="m" x1="133.5" y1="40.2" x2="182.7" y2="62.5"/>
+  <path class="arc" d="M259.6 127.8 A36 36 0 0 1 259.2 97.1"/>
+  <circle class="pt" cx="292" cy="112" r="4.5"/>
+  <text class="tv" x="214" y="117">TK</text>
+  <text class="t" x="66" y="36">T4 sup.</text>
+  <text class="t" x="66" y="200">T12 inf.</text>
+  <text class="t" x="12" y="20">Profil</text>
+  <text class="t" x="278" y="150">ant.</text>
+</svg>

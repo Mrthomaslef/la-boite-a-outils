@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="os2" points="142,128 150,128 152,136 156,204 152,212 147,206 147,136"/>
+  <path class="os" d="M148 122 C150 120 184 120 186 122 C188 130 180 136 174 140 L174 196 C178 198 180 204 178 210 L172 210 L170 205 L160 205 C156 200 156 196 160 194 L160 140 C154 136 146 130 148 122 Z"/>
+  <path class="os" d="M140 20 C136 22 132 30 136 38 L142 46 L154 94 C146 98 144 108 150 114 C156 116 162 114 166 110 C170 114 178 116 184 114 C190 108 188 98 176 94 L164 50 C168 46 170 40 166 32 L160 26 L150 18 C146 16 142 18 140 20 Z"/>
+  <circle class="os" cx="162" cy="20" r="10"/>
+  <line class="m" x1="162" y1="20" x2="166" y2="118"/>
+  <line class="m2" x1="166" y1="118" x2="167" y2="206"/>
+  <path class="arc" d="M166.2 138 A20 20 0 0 1 165.2 98"/>
+  <circle class="pt" cx="162" cy="20" r="4.5"/>
+  <circle class="pt" cx="166" cy="118" r="4.5"/>
+  <circle class="pt" cx="167" cy="206" r="4.5"/>
+  <text class="tv" x="204" y="122">HKA</text>
+  <text class="t" x="180" y="18">centre tête</text>
+  <text class="t" x="186" y="212">pince</text>
+  <text class="t" x="90" y="122">genou</text>
+  <text class="t" x="12" y="20">Face</text>
+  <text class="t" x="12" y="214">lat.</text>
+</svg>

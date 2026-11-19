@@ -1,0 +1,12 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M40 140 C38 104 60 80 95 78 C125 76 150 92 165 105 C180 94 202 84 228 86 C260 88 284 114 282 145 C280 172 270 194 250 199 C228 203 206 196 196 182 C186 170 176 168 165 170 C154 168 144 170 134 182 C124 196 100 205 78 201 C56 197 42 172 40 140 Z"/>
+<g transform="rotate(-8 160 130)"><path class="ref" d="M40 120 C40 90 90 70 160 70 C230 70 282 90 282 125 C282 160 260 190 230 192 C210 194 196 186 180 182 L150 182 C134 186 118 194 92 192 C60 190 40 160 40 120 Z"/>
+</g>
+<line class="m" x1="20" y1="201" x2="300" y2="201"/>
+<line class="m2" x1="30" y1="166" x2="300" y2="204"/>
+<path class="arc" fill="none" d="M226 201 A40 40 0 0 0 227 192"/>
+<text class="tv" x="110" y="40">> 4,9°</text>
+<text class="t" x="12" y="18">Axial superposé</text>
+<text class="t" x="30" y="214">condyles</text>
+<text class="t" x="220" y="180">plateaux</text>
+</svg>

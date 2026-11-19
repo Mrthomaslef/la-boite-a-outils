@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Butée affleurant la tangente glénoïdale (axial) ; 30 % au-dessus / 70 % sous l'équateur (sagittal) -->
+  <circle class="os2" cx="46" cy="128" r="40"/>
+  <path class="os" d="M98 70 Q110 128 98 186 C120 192 140 176 150 160 L150 92 C140 80 120 68 98 70 Z"/>
+  <rect class="os2" x="102" y="40" width="36" height="30" rx="4"/>
+  <line class="ref" x1="100" y1="30" x2="100" y2="200"/>
+  <line class="ref" x1="166" y1="36" x2="166" y2="206"/>
+  <path class="os" d="M234 50 C252 50 260 70 266 92 C272 110 280 124 280 140 C280 170 262 190 236 190 C210 190 192 170 192 144 C192 120 204 100 212 82 C218 62 224 50 234 50 Z"/>
+  <line class="ref" x1="184" y1="112" x2="300" y2="112"/>
+  <rect class="os2" x="282" y="92" width="16" height="66" rx="4"/>
+  <line class="dim" x1="304" y1="92" x2="304" y2="112"/>
+  <polyline class="dim" points="301.0 98.0 304 92 307.0 98.0"/>
+  <polyline class="dim" points="301.0 106.0 304 112 307.0 106.0"/>
+  <text class="tv" x="12" y="24">Butée</text>
+  <text class="t" x="104" y="210">tangente</text>
+  <text class="t" x="116" y="120">glène</text>
+  <text class="t" x="188" y="104">équateur</text>
+  <text class="t" x="212" y="210">30 / 70 %</text>
+  <text class="t" x="250" y="24">Sag.</text>
+  <text class="t" x="8" y="196">Axial</text>
+</svg>

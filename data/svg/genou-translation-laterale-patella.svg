@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M40 140 C38 104 60 80 95 78 C125 76 150 92 165 105 C180 94 202 84 228 86 C260 88 284 114 282 145 C280 172 270 194 250 199 C228 203 206 196 196 182 C186 170 176 168 165 170 C154 168 144 170 134 182 C124 196 100 205 78 201 C56 197 42 172 40 140 Z"/>
+<text class="t" x="12" y="18">Axial</text>
+<text class="t" x="12" y="214">lat.</text>
+<text class="t" x="280" y="214">méd.</text>
+<g transform="translate(-24,0)"><path class="os2" d="M84 58 C98 36 136 28 170 28 C206 28 238 40 246 54 C232 62 210 70 190 78 L172 90 L152 81 C128 73 104 68 84 58 Z"/>
+</g>
+<line class="m" x1="165" y1="105" x2="165" y2="140"/>
+<line class="m2" x1="146" y1="86" x2="146" y2="140"/>
+<line class="ref" x1="165" y1="20" x2="165" y2="105"/>
+<circle class="pt" cx="165" cy="105" r="4.5"/>
+<circle class="pt2" cx="146" cy="86" r="4.5"/>
+<line class="dim" x1="146" y1="134" x2="165" y2="134"/>
+<line class="dim" x1="146.0" y1="129.0" x2="146.0" y2="139.0"/>
+<line class="dim" x1="165.0" y1="129.0" x2="165.0" y2="139.0"/>
+<text class="tv" x="174" y="152">> 5 mm</text>
+<text class="t" x="188" y="112">gorge</text>
+<text class="t" x="92" y="112">crête</text>
+</svg>

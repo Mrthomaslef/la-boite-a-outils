@@ -1,0 +1,23 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Insertion capsulaire : I labrum, II glène < 1 cm, III col > 1 cm -->
+  <text class="tv" x="12" y="24">Capsule ant.</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <path class="os" d="M28 196 L28 86 L58 92 L106 96 L106 196 Z"/>
+  <polygon class="cart" points="28,86 16,68 48,86"/>
+  <path class="mou" fill="none" d="M10 40 C28 46 12 56 22 70"/>
+  <circle class="pt" cx="22" cy="70" r="4.5"/>
+  <text class="tz" x="66" y="150" text-anchor="middle">I</text>
+  <path class="os" d="M132 196 L132 86 L162 92 L210 96 L210 196 Z"/>
+  <polygon class="cart" points="132,86 120,68 152,86"/>
+  <path class="mou" fill="none" d="M114 40 C132 46 154 76 164 90"/>
+  <circle class="pt" cx="164" cy="90" r="4.5"/>
+  <text class="tz" x="170" y="150" text-anchor="middle">II</text>
+  <path class="os" d="M236 196 L236 86 L266 92 L314 96 L314 196 Z"/>
+  <polygon class="cart" points="236,86 224,68 256,86"/>
+  <path class="mou" fill="none" d="M218 40 C236 46 296 80 306 94"/>
+  <circle class="pt" cx="306" cy="94" r="4.5"/>
+  <text class="tz" x="274" y="150" text-anchor="middle">III</text>
+  <text class="t" x="12" y="212">labrum</text>
+  <text class="t" x="124" y="212">< 1 cm</text>
+  <text class="t" x="226" y="212">> 1 cm</text>
+</svg>

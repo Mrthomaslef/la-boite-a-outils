@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Distance épaulement prothétique - sommet du grand trochanter -->
+  <path class="os" d="M152 64 L168 42 C186 36 198 46 200 62 C203 90 198 120 196 150 L196 214 L124 214 L124 150 C124 140 122 134 118 130 C108 128 110 116 122 114 C124 104 126 92 128 78 Z"/>
+  <path class="imp" d="M100 56 L112 42 L148 68 L168 54 L178 62 L172 186 Q166 198 160 186 L152 122 C148 100 138 88 124 82 Z"/>
+  <circle class="imp" cx="104" cy="48" r="20"/>
+  <line class="ref" x1="150" y1="54" x2="230" y2="54"/>
+  <line class="ref" x1="160" y1="40" x2="230" y2="40"/>
+  <line class="dim" x1="222" y1="40" x2="222" y2="54"/>
+  <line class="dim" x1="226" y1="40" x2="218" y2="40"/>
+  <line class="dim" x1="226" y1="54" x2="218" y2="54"/>
+  <circle class="pt2" cx="170" cy="40" r="4.5"/>
+  <circle class="pt" cx="168" cy="54" r="4.5"/>
+  <text class="t" x="230" y="34">sommet GT</text>
+  <text class="t" x="230" y="66">épaulement</text>
+  <text class="tv" x="312" y="120" text-anchor="end">Enfoncement</text>
+  <text class="t" x="312" y="140" text-anchor="end">≥ 5 mm</text>
+  <text class="t" x="14" y="212">Face</text>
+</svg>

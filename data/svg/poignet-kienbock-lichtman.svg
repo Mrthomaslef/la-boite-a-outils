@@ -1,0 +1,30 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M6 150 C22 158 42 158 58 150 L58 186 L6 186 Z"/>
+<path class="os" d="M16 104 C16 70 22 50 32 50 C42 50 48 70 48 104 C40 110 24 110 16 104 Z"/>
+<path class="os" d="M12 112 C26 120 38 120 52 112 L54 136 C42 152 22 152 10 136 Z"/>
+<path class="os" d="M70 150 C86 158 106 158 122 150 L122 186 L70 186 Z"/>
+<path class="os" d="M80 104 C80 70 86 50 96 50 C106 50 112 70 112 104 C104 110 88 110 80 104 Z"/>
+<path class="os2" d="M76 112 C90 120 102 120 116 112 L118 136 C106 152 86 152 74 136 Z"/>
+<path class="os" d="M134 150 C150 158 170 158 186 150 L186 186 L134 186 Z"/>
+<path class="os" d="M144 118 C144 70 150 50 160 50 C170 50 176 70 176 118 C168 124 152 124 144 118 Z"/>
+<path class="os2" d="M136 128 C152 134 168 134 184 128 L184 140 C170 150 150 150 136 140 Z"/>
+<path class="os" d="M198 150 C214 158 234 158 250 150 L250 186 L198 186 Z"/>
+<path class="os" d="M208 122 C208 70 214 50 224 50 C234 50 240 70 240 122 C232 128 216 128 208 122 Z"/>
+<path class="os2" d="M200 130 C216 136 232 136 248 130 L248 140 C234 150 214 150 200 140 Z"/>
+<path class="os" d="M262 150 C278 158 298 158 314 150 L314 186 L262 186 Z"/>
+<path class="os" d="M272 126 C272 70 278 50 288 50 C298 50 304 70 304 126 C296 132 280 132 272 126 Z"/>
+<path class="os2" d="M264 131 C280 137 296 137 312 131 L312 140 C298 150 278 150 264 140 Z"/>
+<line class="m2" x1="262" y1="149" x2="258" y2="142"/>
+<line class="m2" x1="314" y1="149" x2="318" y2="142"/>
+<text class="tz" x="32" y="202" text-anchor="middle">I</text>
+<text class="tz" x="96" y="202" text-anchor="middle">II</text>
+<text class="tz" x="160" y="202" text-anchor="middle">IIIa</text>
+<text class="tz" x="224" y="202" text-anchor="middle">IIIb</text>
+<text class="tz" x="288" y="202" text-anchor="middle">IV</text>
+<text class="t" x="96" y="216" text-anchor="middle">dense</text>
+<text class="t" x="160" y="216" text-anchor="middle">aplati</text>
+<text class="t" x="224" y="216" text-anchor="middle">RS &gt; 60°</text>
+<text class="t" x="288" y="216" text-anchor="middle">arthrose</text>
+<text class="tv" x="8" y="24">Lichtman</text>
+<text class="t" x="88" y="24">lunatum, face</text>
+</svg>

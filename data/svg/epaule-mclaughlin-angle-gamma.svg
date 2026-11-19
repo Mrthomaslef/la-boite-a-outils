@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Encoche antéro-médiale : angle γ centre → sillon / bord médial encoche -->
+  <path class="os" d="M200 84 Q212 120 200 156 C214 160 222 152 228 140 L300 196 L308 186 L234 118 C232 100 220 84 200 84 Z"/>
+  <path class="os" d="M120.2 60.0 A62 62 0 0 1 170.6 89.1 Q159.1 113.3 179.4 130.6 A62 62 0 1 1 96.8 63.7 Q110.8 76.6 120.2 60.0 Z"/>
+  <circle class="ref" cx="118" cy="122" r="62"/>
+  <line class="m" x1="118" y1="122" x2="120.2" y2="60.0"/>
+  <line class="m" x1="118" y1="122" x2="179.4" y2="130.6"/>
+  <circle class="pt" cx="118" cy="122" r="3.5"/>
+  <path class="arc" d="M119.0 92.0 A30 30 0 0 1 147.7 126.2"/>
+  <text class="tv" x="12" y="24">Angle γ</text>
+  <text class="tv" x="142" y="112">γ</text>
+  <text class="t" x="44" y="52">sillon</text>
+  <text class="t" x="170" y="46">encoche</text>
+  <text class="t" x="250" y="212">Axial</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- GT = 0,83 D − d (glène) ; HSI = coiffe → bord médial encoche (tête vue postérieure, latéral à droite) -->
+  <path class="os" d="M76 70 C88 70 96 92 100 110 L104 124 L104 170 C96 178 88 180 78 180 C58 180 44 166 44 146 C44 128 54 112 62 98 C66 82 70 70 76 70 Z"/>
+  <circle class="ref" cx="78" cy="146" r="34"/>
+  <line class="dim" x1="44" y1="146" x2="92" y2="146"/>
+  <polyline class="dim" points="50.0 150.0 44 146 50.0 142.0"/>
+  <polyline class="dim" points="86.0 150.0 92 146 86.0 142.0"/>
+  <line class="m2" x1="104" y1="124" x2="104" y2="172"/>
+  <circle class="os" cx="242" cy="124" r="60"/>
+  <path class="mou" fill="none" d="M294 92 C306 112 306 136 294 156"/>
+  <ellipse class="os2" cx="258" cy="128" rx="9" ry="26"/>
+  <line class="dim" x1="249" y1="180" x2="292" y2="180"/>
+  <polyline class="dim" points="255.0 184.0 249 180 255.0 176.0"/>
+  <polyline class="dim" points="286.0 184.0 292 180 286.0 176.0"/>
+  <line class="ref" x1="249" y1="128" x2="249" y2="186"/>
+  <line class="ref" x1="292" y1="150" x2="292" y2="186"/>
+  <line class="ref" x1="160" y1="40" x2="160" y2="200"/>
+  <text class="tv" x="12" y="24">GT vs HSI</text>
+  <text class="t" x="54" y="138">GT</text>
+  <text class="t" x="20" y="206">glène face</text>
+  <text class="tv" x="256" y="206">HSI</text>
+  <text class="t" x="190" y="206">tête post.</text>
+  <text class="t" x="200" y="60">Hill-Sachs</text>
+  <text class="t" x="108" y="170">d</text>
+</svg>

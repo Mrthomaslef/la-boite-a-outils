@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rapport surface muscle / fosse SE (limite sup. = clavicule) -->
+  <path class="os" d="M150 212 L196 212 C192 170 196 140 206 128 C232 108 258 88 282 70 L290 62 C292 50 280 50 274 56 C246 80 216 100 188 112 C160 100 120 92 84 84 C74 74 60 72 54 82 C52 92 64 98 76 96 C110 104 140 116 168 130 C164 160 156 190 150 212 Z"/>
+  <ellipse class="os2" cx="170" cy="40" rx="70" ry="16"/>
+  <path class="zone" d="M112 54 C150 58 200 58 236 52 C246 70 222 96 188 110 C160 98 124 88 92 84 C96 70 102 60 112 54 Z"/>
+  <ellipse class="mou" cx="170" cy="82" rx="40" ry="18"/>
+  <text class="tv" x="12" y="24">Muscle/fosse</text>
+  <text class="t" x="250" y="40">clavicule</text>
+  <text class="t" x="160" y="88">SE</text>
+  <text class="t" x="20" y="112">coracoïde</text>
+  <text class="t" x="244" y="96">épine</text>
+  <text class="t" x="12" y="212">Sag. Y</text>
+</svg>

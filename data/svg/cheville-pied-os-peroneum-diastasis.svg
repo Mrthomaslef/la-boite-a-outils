@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" d="M20 170 C10 150 16 110 40 100 C70 92 110 100 140 108 L170 114 C180 128 178 148 170 158 C120 166 60 180 20 170 Z"/>
+  <path class="os2" d="M176 112 L222 116 L226 160 L178 164 C184 146 184 128 176 112 Z"/>
+  <path class="os" d="M228 120 L300 130 L302 152 L230 158 Z"/>
+  <path class="mou" fill="none" d="M26 30 C36 100 70 150 104 166 C134 180 172 182 204 176 C236 170 270 176 304 190"/>
+  <ellipse class="os2" cx="128" cy="177" rx="8" ry="6"/>
+  <ellipse class="os2" cx="182" cy="180" rx="8" ry="6"/>
+  <line class="dim" x1="136" y1="198" x2="174" y2="198"/><line class="dim" x1="136" y1="193" x2="136" y2="203"/><line class="dim" x1="174" y1="193" x2="174" y2="203"/>
+  <circle class="pt" cx="136" cy="177" r="3"/>
+  <circle class="pt" cx="174" cy="180" r="3"/>
+  <text class="t" x="132" y="214">≥ 6 mm</text>
+  <text class="t" x="34" y="52">LF</text>
+  <text class="t" x="184" y="104">cuboïde</text>
+  <text class="t" x="50" y="140">calcanéus</text>
+  <text class="tv" x="110" y="24">Os peroneum</text>
+  <text class="t" x="250" y="212">Oblique</text>
+</svg>

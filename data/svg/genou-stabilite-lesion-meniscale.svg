@@ -1,0 +1,10 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M30 112 C30 64 90 42 160 42 C230 42 290 64 290 112 C290 160 240 188 160 184 C80 188 30 160 30 112 Z"/>
+<path class="cart" d="M176 54 C246 48 284 90 276 136 C270 168 232 180 184 172 L186 156 C222 162 254 152 258 128 C262 98 236 70 180 70 Z"/>
+<path class="m" fill="none" d="M196 165 C226 170 256 158 266 128"/>
+<text class="tv" x="20" y="24">Fissure verticale</text>
+<text class="t" x="130" y="206">> 10 mm = instable</text>
+<text class="t" x="12" y="40">Axial</text>
+<text class="t" x="200" y="110">ménisque méd.</text>
+<text class="t" x="24" y="214"></text>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" d="M40 92 C50 50 96 26 150 26 C200 26 244 40 266 66 C276 78 274 96 262 104 C250 116 236 128 232 150 L226 196 L176 204 C164 176 140 156 112 146 C86 138 60 132 48 120 C40 112 38 102 40 92 Z"/>
+  <polygon class="cart" points="40,72.7 72,36.7 78,42 46,78"/>
+  <polygon class="cart" points="85.8,29.3 137.8,14.3 140,22 88,37"/>
+  <polygon class="cart" points="148.5,13 200.5,16 200,24 148,21"/>
+  <polygon class="cart" points="211.3,18.7 255.3,38.7 252,46 208,26"/>
+  <text class="tz" x="50" y="46" text-anchor="middle">1</text>
+  <text class="tz" x="112" y="20" text-anchor="middle">2</text>
+  <text class="tz" x="176" y="16" text-anchor="middle">3</text>
+  <text class="tz" x="240" y="30" text-anchor="middle">4</text>
+  <text class="tv" x="120" y="100">Risser</text>
+  <text class="t" x="100" y="124">0 = absent</text>
+  <text class="t" x="100" y="140">5 = fusion</text>
+  <text class="t" x="12" y="214">lat.</text>
+  <text class="t" x="272" y="214">méd.</text>
+  <text class="t" x="280" y="20">Face</text>
+</svg>

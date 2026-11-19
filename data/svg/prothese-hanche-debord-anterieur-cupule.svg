@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rebord antérieur de la cupule dépassant le rebord osseux acétabulaire -->
+  <path class="os" d="M118 96 C100 78 70 70 40 74 L14 72 L14 186 C50 196 100 200 140 192 C160 188 172 178 176 168 L152 122 Z"/>
+  <path class="imp" d="M134.3 78.8 A46 46 0 0 0 106.8 137.7 A46 46 0 0 0 165.7 165.2 Z"/>
+  <path class="pe" d="M137.3 87.2 A37 37 0 0 0 115.2 134.7 A37 37 0 0 0 162.7 156.8 Z"/>
+  <circle class="imp" cx="150" cy="122" r="22"/>
+  <ellipse class="mou" cx="168" cy="52" rx="26" ry="13"/>
+  <circle class="pt2" cx="118" cy="96" r="4.5"/>
+  <circle class="pt" cx="134.3" cy="78.8" r="4.5"/>
+  <line class="ref" x1="118" y1="96" x2="140" y2="40"/>
+  <text class="tv" x="312" y="30" text-anchor="end">Débord ant.</text>
+  <text class="t" x="312" y="50" text-anchor="end">> 8 mm : conflit</text>
+  <text class="t" x="198" y="56">psoas</text>
+  <text class="t" x="14" y="212">Axial</text>
+  <text class="t" x="14" y="20">ant. ↑</text>
+  <text class="t" x="40" y="110">cotyle</text>
+</svg>

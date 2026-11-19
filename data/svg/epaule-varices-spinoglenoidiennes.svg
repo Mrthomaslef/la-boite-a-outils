@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Échancrure spinoglénoïdale : veines dilatées -->
+  <circle class="os2" cx="118" cy="112" r="62"/>
+  <path class="os" d="M200 84 Q212 120 200 156 C214 160 222 152 228 140 L300 196 L308 186 L234 118 C232 100 220 84 200 84 Z"/>
+  <path class="os" d="M228 150 C232 170 236 190 236 206 L252 206 C250 186 246 170 244 160 Z"/>
+  <circle class="mou" cx="206" cy="176" r="11"/>
+  <circle class="mou" cx="222" cy="194" r="7"/>
+  <line class="dim" x1="195" y1="176" x2="217" y2="176"/>
+  <polyline class="dim" points="201.0 179.0 195 176 201.0 173.0"/>
+  <polyline class="dim" points="211.0 179.0 217 176 211.0 173.0"/>
+  <text class="tv" x="12" y="24">Calibre veine</text>
+  <text class="t" x="146" y="186">6–10 mm</text>
+  <text class="t" x="236" y="130">glène</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <text class="t" x="258" y="200">épine</text>
+</svg>

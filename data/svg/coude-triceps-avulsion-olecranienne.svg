@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M128 4 L176 4 L178 92 C188 104 186 132 170 144 C152 156 128 150 120 134 C112 120 118 102 128 94 Z"/>
+<path class="os2" d="M196 100 C204 104 206 118 198 136 C190 156 172 168 150 168 L146 214 L184 214 L190 176 C204 160 214 130 208 106 Z"/>
+<path class="os2" d="M112 160 C112 150 120 148 128 154 C136 162 140 168 146 170 L150 214 L120 214 Z"/>
+<path class="mou" fill="none" d="M206 4 C206 24 214 40 214 52"/>
+<path class="mou" fill="none" d="M222 4 C220 24 226 40 224 52"/>
+<polygon class="os2" points="208,58 228,56 224,68 210,68"/>
+<line class="ref" x1="200" y1="100" x2="218" y2="62"/>
+<circle class="pt" cx="200" cy="100" r="4.5"/>
+<circle class="pt2" cx="218" cy="62" r="4.5"/>
+<line class="dim" x1="256" y1="62" x2="256" y2="100"/>
+<polyline class="dim" fill="none" points="254.1,65.5 256,62 257.9,65.5"/>
+<polyline class="dim" fill="none" points="257.9,96.5 256,100 254.1,96.5"/>
+<line class="ref" x1="224" y1="62" x2="262" y2="62"/>
+<line class="ref" x1="206" y1="100" x2="262" y2="100"/>
+<text class="tv" x="264" y="86">≥ 2,4</text>
+<text class="t" x="264" y="102">cm</text>
+<text class="t" x="236" y="46">flake</text>
+<text class="t" x="218" y="138">olécrâne</text>
+<text class="t" x="234" y="22">triceps</text>
+<text class="t" x="12" y="20">Profil</text>
+</svg>

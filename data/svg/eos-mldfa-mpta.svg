@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="os2" points="90,168 110,164 114,176 106,214 94,214 96,180"/>
+  <path class="os" d="M94 134 C98 128 236 128 240 134 C244 148 230 158 206 162 L196 214 L134 214 L124 162 C100 158 90 148 94 134 Z"/>
+  <path class="os" d="M140 8 L184 8 L188 52 C212 60 236 76 238 96 C240 110 228 116 214 112 C200 108 188 106 178 110 L166 98 L154 110 C144 106 130 108 116 112 C102 116 88 110 90 96 C92 76 116 60 136 52 Z"/>
+  <line class="m" x1="84" y1="113" x2="244" y2="113"/>
+  <line class="m" x1="150" y1="10" x2="165.5" y2="113"/>
+  <line class="m2" x1="84" y1="131" x2="244" y2="131"/>
+  <line class="m2" x1="166" y1="131" x2="166" y2="212"/>
+  <path class="arc" d="M139.5 113 A26 26 0 0 1 161.7 87.3"/>
+  <path class="arc" d="M192 131 A26 26 0 0 1 166 157"/>
+  <text class="tv" x="40" y="70">mLDFA</text>
+  <text class="tv" x="206" y="186">MPTA</text>
+  <text class="t" x="12" y="214">lat.</text>
+  <text class="t" x="270" y="214">méd.</text>
+  <text class="t" x="12" y="20">Face</text>
+</svg>

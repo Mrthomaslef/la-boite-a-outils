@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="mou" d="M46 102 C58 94 78 104 92 104 C106 104 126 94 138 102 C144 120 122 132 92 132 C62 132 40 120 46 102 Z"/>
+  <ellipse class="mou" cx="232" cy="112" rx="40" ry="30"/>
+  <line class="dim" x1="92" y1="104" x2="92" y2="132"/><line class="dim" x1="97" y1="104" x2="87" y2="104"/><line class="dim" x1="97" y1="132" x2="87" y2="132"/>
+  <line class="dim" x1="232" y1="82" x2="232" y2="142"/><line class="dim" x1="237" y1="82" x2="227" y2="82"/><line class="dim" x1="237" y1="142" x2="227" y2="142"/>
+  <text class="t" x="66" y="160">normal</text>
+  <text class="t" x="58" y="178">&lt; 6 mm</text>
+  <text class="t" x="204" y="166">tendinose</text>
+  <text class="t" x="196" y="184">bord ant. convexe</text>
+  <text class="t" x="30" y="82">bord ant. plat</text>
+  <text class="tv" x="8" y="22">Ø AP Achille</text>
+  <text class="t" x="270" y="22">Axial</text>
+  <text class="t" x="276" y="62">ant. ↑</text>
+</svg>

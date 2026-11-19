@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" fill-rule="evenodd" d="M140.7 117.6 L142.2 132.1 L111.5 146.7 L111.5 157.5 L143.4 151.1 L166.1 159.1 L186.1 189.9 L195.4 186.2 L188.4 150.2 L199.1 128.6 L226.5 111 L219 103.3 L186.7 114.1 L177.8 102.7 Z M153.7 128.7 A13 11 0 1 0 179.7 128.7 A13 11 0 1 0 153.7 128.7 Z"/>
+  <ellipse class="os" cx="146.5" cy="78.6" rx="48" ry="34" transform="rotate(-22 146.5 78.6)"/>
+  <line class="ref" x1="160" y1="24" x2="160" y2="212"/>
+  <line class="m" x1="128.5" y1="34.1" x2="196" y2="201"/>
+  <path class="arc" d="M132.3 43.4 A74 74 0 0 1 160 38"/>
+  <circle class="pt" cx="146.5" cy="78.6" r="4.5"/>
+  <circle class="pt" cx="190.7" cy="188" r="4.5"/>
+  <text class="tv" x="190" y="30">Rotation</text>
+  <text class="t" x="168" y="210">sagittal</text>
+  <text class="t" x="12" y="20">Axial</text>
+  <text class="t" x="12" y="210">apex</text>
+  <text class="t" x="12" y="120">convexité</text>
+</svg>

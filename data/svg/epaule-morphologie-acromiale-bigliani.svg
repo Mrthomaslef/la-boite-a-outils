@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bigliani I plat / II courbe / III crochu (profil, avant à droite) -->
+  <path class="os2" d="M16 205 C16 160 36 135 58 135 C80 135 100 160 100 205 Z"/>
+  <path class="os" d="M12 110 L104 104 L104 116 L12 124 Z"/>
+  <text class="tz" x="58" y="88" text-anchor="middle">I</text>
+  <text class="t" x="58" y="72" text-anchor="middle">plat</text>
+  <path class="os2" d="M120 205 C120 160 140 135 162 135 C184 135 204 160 204 205 Z"/>
+  <path class="os" d="M116 102 C152 94 182 100 208 116 L204 126 C180 112 152 108 116 116 Z"/>
+  <text class="tz" x="162" y="88" text-anchor="middle">II</text>
+  <text class="t" x="162" y="72" text-anchor="middle">courbe</text>
+  <path class="os2" d="M224 205 C224 160 244 135 266 135 C288 135 308 160 308 205 Z"/>
+  <path class="os" d="M220 104 L286 100 C302 102 312 110 312 134 L304 134 C302 120 296 116 286 116 L220 118 Z"/>
+  <text class="tz" x="266" y="88" text-anchor="middle">III</text>
+  <text class="t" x="266" y="72" text-anchor="middle">crochu</text>
+  <text class="tv" x="12" y="24">Bigliani</text>
+  <text class="t" x="240" y="24">Profil</text>
+</svg>

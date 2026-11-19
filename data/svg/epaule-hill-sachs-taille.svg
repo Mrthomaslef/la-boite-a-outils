@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Encoche postéro-latérale : largeur et profondeur -->
+  <path class="os" d="M200 84 Q212 120 200 156 C214 160 222 152 228 140 L300 196 L308 186 L234 118 C232 100 220 84 200 84 Z"/>
+  <path class="os" d="M66.5 135.2 A62 62 0 1 1 100.8 169.5 Q92.9 143.1 66.5 135.2 Z"/>
+  <line class="ref" x1="100.8" y1="169.5" x2="66.5" y2="135.2"/>
+  <line class="ref" x1="100.8" y1="169.5" x2="94.8" y2="184.3"/>
+  <line class="ref" x1="66.5" y1="135.2" x2="51.7" y2="141.2"/>
+  <line class="dim" x1="96.3" y1="180.6" x2="55.4" y2="139.7"/>
+  <polyline class="dim" points="95.6 172.8 96.3 180.6 88.5 179.9"/>
+  <polyline class="dim" points="63.2 140.4 55.4 139.7 56.1 147.5"/>
+  <line class="dim" x1="83.65" y1="152.35" x2="92.2" y2="143.8"/>
+  <polyline class="dim" points="90.0 150.2 83.65 152.35 85.8 146.0"/>
+  <polyline class="dim" points="90.1 150.2 92.2 143.8 85.8 145.9"/>
+  <text class="tv" x="12" y="24">Hill-Sachs</text>
+  <text class="t" x="10" y="212">largeur</text>
+  <text class="t" x="112" y="140">prof.</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <text class="t" x="236" y="130">glène</text>
+  <text class="t" x="140" y="206">post.</text>
+  <text class="t" x="124" y="40">ant.</text>
+</svg>

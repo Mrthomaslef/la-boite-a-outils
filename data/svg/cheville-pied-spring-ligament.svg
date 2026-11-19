@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os2" d="M40 100 C50 60 120 50 150 70 C164 80 170 86 180 86 C200 80 222 96 222 116 C222 138 200 146 184 140 C170 134 156 132 140 136 L60 140 C44 136 38 120 40 100 Z"/>
+  <path class="os" d="M226 84 C240 80 258 86 262 100 L262 150 C256 160 236 160 226 150 C232 130 232 104 226 84 Z"/>
+  <path class="os" d="M20 204 C10 186 18 158 48 152 L110 150 C122 146 132 150 136 160 L170 166 C190 170 198 182 194 196 C188 208 100 212 20 204 Z"/>
+  <path class="mou" d="M118 150 C150 150 184 150 228 148 L230 162 C184 168 150 168 118 162 Z"/>
+  <path class="mou" fill="none" d="M44 40 C56 100 100 136 150 141 C190 144 220 138 244 130"/>
+  <line class="dim" x1="176" y1="150" x2="176" y2="167"/><line class="dim" x1="181" y1="150" x2="171" y2="150"/><line class="dim" x1="181" y1="167" x2="171" y2="167"/>
+  <text class="t" x="186" y="186">spring SM</text>
+  <text class="t" x="160" y="108">tête talus</text>
+  <text class="t" x="18" y="64">TTP</text>
+  <text class="t" x="196" y="206">≈ 3–4 mm</text>
+  <text class="tv" x="8" y="22">Spring ligament</text>
+  <text class="t" x="250" y="22">Médial</text>
+  <text class="t" x="266" y="120">nav.</text>
+</svg>

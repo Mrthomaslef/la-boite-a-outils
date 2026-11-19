@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- LCH (sagittal) et LGHI/récessus axillaire (coronal) épaissis -->
+  <circle class="os" cx="84" cy="140" r="46"/>
+  <path class="os2" d="M20 56 C40 40 70 42 82 56 C90 66 80 76 70 72 C60 64 44 64 30 72 Z"/>
+  <path class="mou" d="M74 74 C96 82 112 96 120 112 L108 118 C100 104 88 92 70 84 Z"/>
+  <line class="dim" x1="124" y1="100" x2="110" y2="122"/>
+  <polyline class="dim" points="118.2 103.5 124 100 123.3 106.7"/>
+  <polyline class="dim" points="110.7 115.3 110 122 115.8 118.5"/>
+  <line class="ref" x1="160" y1="40" x2="160" y2="206"/>
+  <circle class="os" cx="232" cy="94" r="40"/>
+  <path class="os" d="M212 130 L216 206 L250 206 L252 130 Z"/>
+  <path class="os2" d="M300 60 C292 80 290 110 296 140 L312 140 L312 60 Z"/>
+  <path class="mou" fill="none" d="M300 140 C296 178 274 190 254 164"/>
+  <line class="dim" x1="270" y1="196" x2="282" y2="180"/>
+  <polyline class="dim" points="276.0 193.0 270 196 271.2 189.4"/>
+  <polyline class="dim" points="280.8 186.6 282 180 276.0 183.0"/>
+  <text class="tv" x="12" y="24">Capsulite</text>
+  <text class="t" x="16" y="206">LCH ≥ 4 mm</text>
+  <text class="t" x="204" y="30">LGHI > 4 mm</text>
+  <text class="t" x="130" y="138">Sag.</text>
+  <text class="t" x="264" y="212">Cor.</text>
+</svg>

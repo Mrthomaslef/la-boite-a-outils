@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coupe frontale / bouche ouverte : tangentes aux interlignes atlanto-occipitaux se coupant au centre de l odontoïde -->
+  <path class="os2" d="M30 40 L290 40 L290 70 C270 70 240 80 222 110 L206 106 L196 88 L124 88 L114 106 L98 110 C80 80 50 70 30 70 Z"/>
+  <path class="os" d="M58 118 L108 140 L122 136 L124 170 L60 170 Z"/>
+  <path class="os" d="M262 118 L212 140 L198 136 L196 170 L260 170 Z"/>
+  <path class="os2" d="M64 106 C70 92 104 98 112 120 L104 132 L62 114 Z"/>
+  <path class="os2" d="M256 106 C250 92 216 98 208 120 L216 132 L258 114 Z"/>
+  <path class="os" d="M146 200 L148 120 C148 100 172 100 172 120 L174 200 Z"/>
+  <polygon class="os" points="116,182 204,182 208,212 112,212"/>
+  <line class="m" x1="64" y1="112" x2="160" y2="152"/>
+  <line class="m" x1="256" y1="112" x2="160" y2="152"/>
+  <path class="arc" d="M139.7 143.5 A22 22 0 0 1 180.3 143.5"/>
+  <circle class="pt" cx="160" cy="152" r="4.5"/>
+  <text class="tv" x="160" y="30" text-anchor="middle">Atlanto-occipital</text>
+  <text class="t" x="16" y="190">124–127°</text>
+  <text class="t" x="8" y="212">Frontal</text>
+  <text class="None" x="276" y="190" text-anchor="middle">C1</text>
+</svg>

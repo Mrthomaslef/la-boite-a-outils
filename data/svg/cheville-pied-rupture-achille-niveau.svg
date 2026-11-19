@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" d="M176 8 L224 8 C226 50 230 80 240 96 C226 92 196 90 172 98 C172 70 174 40 176 8 Z"/>
+  <path class="os2" d="M168 106 C180 90 228 88 242 102 C252 116 248 134 234 140 L180 140 C166 136 162 120 168 106 Z"/>
+  <path class="os" d="M52 208 C36 202 30 184 38 170 C46 160 70 158 96 160 L180 162 C214 164 244 176 248 196 C248 204 242 208 232 208 Z"/>
+  <path class="mou" d="M38 176 L60 172 L62 130 C58 126 56 130 52 124 C48 130 44 124 40 130 Z"/>
+  <path class="mou" d="M40 84 C44 90 48 82 52 88 C56 82 60 90 64 84 L68 8 L36 8 Z"/>
+  <line class="m2" x1="51" y1="90" x2="51" y2="124"/>
+  <circle class="pt2" cx="51" cy="90" r="3.5"/>
+  <circle class="pt2" cx="51" cy="124" r="3.5"/>
+  <line class="dim" x1="84" y1="126" x2="84" y2="164"/><line class="dim" x1="89" y1="126" x2="79" y2="126"/><line class="dim" x1="89" y1="164" x2="79" y2="164"/>
+  <circle class="pt" cx="44" cy="164" r="4"/>
+  <text class="t" x="64" y="110">écart</text>
+  <text class="t" x="92" y="150">4–6 cm</text>
+  <text class="t" x="110" y="196">calcanéus</text>
+  <text class="tv" x="84" y="44">Rupture Achille</text>
+  <text class="t" x="258" y="212">Sagittal</text>
+  <text class="t" x="190" y="122">talus</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <circle class="os2" cx="140" cy="150" r="34"/>
+  <path class="os" d="M196 104 C216 96 252 100 264 118 C272 134 266 170 248 184 C232 194 210 190 200 176 C208 156 206 126 196 104 Z"/>
+  <path class="mou" d="M14 36 C70 54 130 84 182 112 C196 118 206 126 212 140 L206 172 C196 168 186 158 172 148 C120 112 64 78 14 62 Z"/>
+  <line class="dim" x1="200" y1="128" x2="180" y2="162"/><line class="dim" x1="204.3" y1="130.5" x2="195.7" y2="125.5"/><line class="dim" x1="184.3" y1="164.5" x2="175.7" y2="159.5"/>
+  <text class="t" x="20" y="90">TTP</text>
+  <text class="t" x="222" y="206">naviculaire</text>
+  <text class="t" x="110" y="160">tête talus</text>
+  <text class="t" x="150" y="206">≈ 8 mm</text>
+  <line class="ref" x1="176" y1="166" x2="166" y2="196"/>
+  <text class="tv" x="8" y="22">Insertion TTP</text>
+  <text class="t" x="226" y="22">Longitudinal</text>
+</svg>

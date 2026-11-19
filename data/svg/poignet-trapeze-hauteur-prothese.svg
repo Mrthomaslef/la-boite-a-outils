@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M60 186 C58.3 177.3 68.3 166.0 80 160 C91.7 154.0 115.0 150.0 130 150 C145.0 150.0 161.0 154.0 170 160 C179.0 166.0 187.3 177.7 184 186 C180.7 194.3 165.7 205.7 150 210 C134.3 214.3 105.0 216.0 90 212 C75.0 208.0 61.7 194.7 60 186 Z"/>
+<path class="os2" d="M84 138 C81.0 130.7 85.3 111.7 92 104 C98.7 96.3 112.7 92.7 124 92 C135.3 91.3 152.3 93.7 160 100 C167.7 106.3 171.7 122.3 170 130 C168.3 137.7 160.0 143.0 150 146 C140.0 149.0 121.0 149.3 110 148 C99.0 146.7 87.0 145.3 84 138 Z"/>
+<path class="os" d="M98 86 L150 80 L170 8 L120 8 Z"/>
+<line class="ref" x1="92" y1="92" x2="212" y2="92"/>
+<line class="ref" x1="100" y1="148" x2="212" y2="148"/>
+<line class="dim" x1="200" y1="92" x2="200" y2="148"/>
+<polyline class="dim" fill="none" points="197.6,96.4 200,92 202.4,96.4"/>
+<polyline class="dim" fill="none" points="202.4,143.6 200,148 197.6,143.6"/>
+<line class="dim" x1="86" y1="124" x2="168" y2="124"/>
+<polyline class="dim" fill="none" points="90.4,126.4 86,124 90.4,121.6"/>
+<polyline class="dim" fill="none" points="163.6,121.6 168,124 163.6,126.4"/>
+<text class="tv" x="216" y="112">&gt; 8 mm</text>
+<text class="t" x="216" y="130">hauteur</text>
+<text class="t" x="104" y="140">largeur</text>
+<text class="t" x="186" y="30">M1</text>
+<text class="t" x="12" y="206">scaphoïde</text>
+<text class="t" x="12" y="20">Kapandji</text>
+</svg>

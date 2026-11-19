@@ -1,0 +1,43 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lafosse : I partielle 1/3 sup, II complète 1/3 sup, III 2/3, IV totale, V + involution graisseuse -->
+  <text class="tv" x="12" y="24">Lafosse</text>
+  <text class="t" x="220" y="24">Sagittal</text>
+  <rect class="os" x="12" y="46" width="12" height="120"/>
+  <rect class="mou" x="24" y="46" width="40" height="120"/>
+  <rect class="zone" x="24" y="46" width="20" height="40"/>
+  <line class="ref" x1="24" y1="86" x2="64" y2="86"/>
+  <line class="ref" x1="24" y1="126" x2="64" y2="126"/>
+  <line class="m2" x1="26" y1="49" x2="26" y2="83"/>
+  <text class="tz" x="44" y="190" text-anchor="middle">I</text>
+  <rect class="os" x="74" y="46" width="12" height="120"/>
+  <rect class="mou" x="86" y="46" width="40" height="120"/>
+  <rect class="zone" x="86" y="46" width="40" height="40"/>
+  <line class="ref" x1="86" y1="86" x2="126" y2="86"/>
+  <line class="ref" x1="86" y1="126" x2="126" y2="126"/>
+  <line class="m2" x1="88" y1="49" x2="88" y2="83"/>
+  <text class="tz" x="106" y="190" text-anchor="middle">II</text>
+  <rect class="os" x="136" y="46" width="12" height="120"/>
+  <rect class="mou" x="148" y="46" width="40" height="120"/>
+  <rect class="zone" x="148" y="46" width="40" height="80"/>
+  <line class="ref" x1="148" y1="86" x2="188" y2="86"/>
+  <line class="ref" x1="148" y1="126" x2="188" y2="126"/>
+  <line class="m2" x1="150" y1="49" x2="150" y2="123"/>
+  <text class="tz" x="168" y="190" text-anchor="middle">III</text>
+  <rect class="os" x="198" y="46" width="12" height="120"/>
+  <rect class="mou" x="210" y="46" width="40" height="120"/>
+  <rect class="zone" x="210" y="46" width="40" height="120"/>
+  <line class="ref" x1="210" y1="86" x2="250" y2="86"/>
+  <line class="ref" x1="210" y1="126" x2="250" y2="126"/>
+  <line class="m2" x1="212" y1="49" x2="212" y2="163"/>
+  <text class="tz" x="230" y="190" text-anchor="middle">IV</text>
+  <rect class="os" x="260" y="46" width="12" height="120"/>
+  <rect class="mou" x="272" y="46" width="40" height="120"/>
+  <rect class="zone" x="272" y="46" width="40" height="120"/>
+  <line class="ref" x1="272" y1="86" x2="312" y2="86"/>
+  <line class="ref" x1="272" y1="126" x2="312" y2="126"/>
+  <line class="m2" x1="274" y1="49" x2="274" y2="163"/>
+  <text class="tz" x="292" y="190" text-anchor="middle">V</text>
+  <rect class="pe" x="288" y="52" width="20" height="108" rx="3"/>
+  <text class="t" x="10" y="212">rupture</text>
+  <text class="t" x="240" y="212">+ graisse</text>
+</svg>

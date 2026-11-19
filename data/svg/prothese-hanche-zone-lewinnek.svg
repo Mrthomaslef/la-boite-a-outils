@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Zone de sécurité : inclinaison 40±10° / antéversion 15±10° -->
+  <line class="ref" x1="60" y1="186" x2="300" y2="186"/>
+  <line class="ref" x1="60" y1="186" x2="60" y2="20"/>
+  <rect class="zone" x="140" y="54" width="80" height="88"/>
+  <circle class="pt" cx="188" cy="93.6" r="4.5"/>
+  <circle class="pt2" cx="268" cy="164" r="4.5"/>
+  <text class="t" x="140" y="202" text-anchor="middle">30°</text>
+  <text class="t" x="220" y="202" text-anchor="middle">50°</text>
+  <text class="t" x="54" y="146" text-anchor="end">5°</text>
+  <text class="t" x="54" y="58" text-anchor="end">25°</text>
+  <line class="ref" x1="140" y1="186" x2="140" y2="182"/>
+  <text class="t" x="300" y="214" text-anchor="end">inclinaison →</text>
+  <text class="t" x="14" y="20">AV ↑</text>
+  <text class="t" x="180" y="120" text-anchor="middle">safe zone</text>
+  <text class="t" x="268" y="152" text-anchor="middle">hors zone</text>
+  <text class="tv" x="312" y="30" text-anchor="end">Lewinnek</text>
+</svg>

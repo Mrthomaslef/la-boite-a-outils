@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M40 140 C38 104 60 80 95 78 C125 76 150 92 165 105 C180 94 202 84 228 86 C260 88 284 114 282 145 C280 172 270 194 250 199 C228 203 206 196 196 182 C186 170 176 168 165 170 C154 168 144 170 134 182 C124 196 100 205 78 201 C56 197 42 172 40 140 Z"/>
+<text class="t" x="12" y="18">Axial</text>
+<text class="t" x="12" y="214">lat.</text>
+<text class="t" x="280" y="214">méd.</text>
+<g transform="translate(0,-14) rotate(-16 165 60)"><path class="os2" d="M84 58 C98 36 136 28 170 28 C206 28 238 40 246 54 C232 62 210 70 190 78 L172 90 L152 81 C128 73 104 68 84 58 Z"/>
+</g>
+<line class="ref" x1="30" y1="201" x2="290" y2="201"/>
+<line class="ref" x1="56" y1="73" x2="200" y2="73"/>
+<line class="m" x1="66" y1="73" x2="262" y2="11"/>
+<path class="arc" fill="none" d="M126 73 A60 60 0 0 0 123.2 54.9"/>
+<text class="tv" x="132" y="70">> 20°</text>
+<text class="t" x="110" y="214">plan bicondylien</text>
+</svg>

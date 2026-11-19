@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Angle axe du pivot / axe diaphysaire (varus de tige) -->
+  <path class="os" d="M152 64 L168 42 C186 36 198 46 200 62 C203 90 198 120 196 150 L196 214 L124 214 L124 150 C124 140 122 134 118 130 C108 128 110 116 122 114 C124 104 126 92 128 78 Z"/>
+  <path class="imp" d="M 99.3 62.3 L 109.8 47.1 L 148.3 69.2 L 166.7 53.2 L 177.5 60.1 L 184.5 184.1 Q 179.8 196.6 172.5 185.3 L 157.9 122.5 C 151.6 101.1 140.4 90.2 125.9 85.7 Z"/>
+  <circle class="imp" cx="102.4" cy="54" r="20"/>
+  <line class="ref" x1="160" y1="22" x2="160" y2="214"/>
+  <line class="m" x1="152.7" y1="36" x2="181.9" y2="206.7"/>
+  <path class="arc" d="M175.2 167.5 A90 90 0 0 1 160 168.8"/>
+  <circle class="pt" cx="160" cy="78.8" r="4.5"/>
+  <text class="t" x="166" y="20">axe diaphyse</text>
+  <text class="t" x="206" y="200">axe pivot</text>
+  <text class="tv" x="312" y="100" text-anchor="end">Axe tige</text>
+  <text class="t" x="312" y="120" text-anchor="end">bascule > 5°</text>
+  <text class="t" x="14" y="212">Face</text>
+</svg>

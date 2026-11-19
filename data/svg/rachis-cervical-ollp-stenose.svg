@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axial TDM cervical : épaisseur de l ossification du LLP / diamètre sagittal du canal osseux -->
+  <path class="os" d="M104 16 C130 6 190 6 216 16 C230 26 230 62 218 74 L102 74 C90 62 90 26 104 16 Z"/>
+  <path class="os" d="M104 70 L120 70 L100 98 L114 140 L160 162 L206 140 L220 98 L200 70 L216 70 L246 80 L290 90 L292 114 L256 120 L250 142 L198 172 L186 202 L170 200 L160 186 L150 200 L134 202 L122 172 L70 142 L64 120 L28 114 L30 90 L74 80 Z"/>
+  <path class="os2" d="M128 74 L192 74 C190 88 178 96 160 96 C142 96 130 88 128 74 Z"/>
+  <ellipse class="mou" cx="160" cy="124" rx="28" ry="15"/>
+  <line class="m2" x1="178" y1="75" x2="178" y2="94"/>
+  <line class="dim" x1="144" y1="76" x2="144" y2="160"/><line class="dim" x1="149" y1="76" x2="139" y2="76"/><line class="dim" x1="149" y1="160" x2="139" y2="160"/>
+  <text class="tv" x="250" y="36">OLLP %</text>
+  <text class="t" x="200" y="90">ossif.</text>
+  <text class="None" x="138" y="128" text-anchor="end">canal</text>
+  <text class="t" x="8" y="212">Axial TDM</text>
+</svg>

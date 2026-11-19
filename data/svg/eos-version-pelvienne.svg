@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="os2" points="130,64 172,54 216,68 228,94 216,106 208,152 198,166 170,162 148,144 130,114"/>
+  <polygon class="os" points="142.1,77.3 181.9,110.7 182,126 172,148 154,168 132,184 118,190 110,174 108,142 114,112 126,90"/>
+  <circle class="os" cx="182" cy="182" r="20"/>
+  <polygon class="os" points="172,198 193,198 195,220 171,220"/>
+  <circle class="os" cx="182" cy="182" r="20"/>
+  <polygon class="os" points="145.9,72.7 185.8,106.1 197.5,62.1 149.9,46.7"/>
+  <line class="ref" x1="182" y1="212" x2="182" y2="20"/>
+  <line class="m" x1="162" y1="94" x2="182" y2="182"/>
+  <path class="arc" d="M170.9 133.2 A50 50 0 0 1 182 132"/>
+  <circle class="pt" cx="162" cy="94" r="4.5"/>
+  <circle class="pt" cx="182" cy="182" r="4.5"/>
+  <text class="tv" x="194" y="116">PT</text>
+  <text class="t" x="186" y="30">verticale</text>
+  <text class="t" x="208" y="190">tête fém.</text>
+  <text class="t" x="62" y="80">milieu S1</text>
+  <text class="t" x="12" y="20">Profil</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Récessus sous-labral : I absent, II 2–5 mm, III > 5 mm -->
+  <text class="tv" x="12" y="24">Récessus</text>
+  <text class="t" x="216" y="24">Cor. oblique</text>
+  <path class="os" d="M42 200 L42 118 C48 106 62 98 80 96 L106 94 L106 200 Z"/>
+  <polygon class="cart" points="20,96 46,112 74,88"/>
+  <text class="tz" x="74" y="160" text-anchor="middle">I</text>
+  <path class="os" d="M146 200 L146 118 C152 106 166 98 184 96 L210 94 L210 200 Z"/>
+  <polygon class="cart" points="124,96 150,112 178,88"/>
+  <polygon class="cart" points="146,114 158,104 150,116"/>
+  <line class="m2" x1="147" y1="115" x2="159" y2="103"/>
+  <text class="tz" x="178" y="160" text-anchor="middle">II</text>
+  <path class="os" d="M250 200 L250 118 C256 106 270 98 288 96 L314 94 L314 200 Z"/>
+  <polygon class="cart" points="228,96 254,112 282,88"/>
+  <line class="m2" x1="251" y1="115" x2="276" y2="94"/>
+  <line class="dim" x1="260" y1="128" x2="282" y2="108"/>
+  <polyline class="dim" points="266.5 126.2 260 128 262.4 121.7"/>
+  <polyline class="dim" points="279.6 114.3 282 108 275.5 109.8"/>
+  <text class="tz" x="282" y="160" text-anchor="middle">III</text>
+  <text class="t" x="20" y="212">absent</text>
+  <text class="t" x="122" y="212">2–5 mm</text>
+  <text class="t" x="228" y="212">> 5 mm</text>
+</svg>

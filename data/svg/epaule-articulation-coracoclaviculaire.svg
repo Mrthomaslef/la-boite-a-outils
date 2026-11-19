@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Processus conoïde articulé avec le coracoïde -->
+  <path class="os" d="M8 44 C100 32 220 32 312 42 L312 84 C220 78 100 80 8 90 Z"/>
+  <path class="os" d="M150 80 L156 114 L184 114 L192 79 Z"/>
+  <path class="os2" d="M100 170 C130 132 210 126 246 140 C270 150 296 150 312 146 L312 206 L210 206 C180 186 140 182 100 180 Z"/>
+  <line class="ref" x1="196" y1="79" x2="224" y2="79"/>
+  <line class="ref" x1="184" y1="114" x2="224" y2="114"/>
+  <line class="dim" x1="218" y1="80" x2="218" y2="113"/>
+  <polyline class="dim" points="215.0 86.0 218 80 221.0 86.0"/>
+  <polyline class="dim" points="215.0 107.0 218 113 221.0 107.0"/>
+  <text class="tv" x="12" y="24">Conoïde</text>
+  <text class="t" x="20" y="72">clavicule</text>
+  <text class="t" x="230" y="104">≥ 3 mm</text>
+  <text class="t" x="150" y="196">coracoïde</text>
+  <text class="t" x="260" y="24">Face</text>
+</svg>

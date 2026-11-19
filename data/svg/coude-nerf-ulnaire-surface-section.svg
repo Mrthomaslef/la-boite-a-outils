@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<line class="ref" x1="8" y1="40" x2="312" y2="40"/>
+<path class="os" d="M10 212 L10 150 C30 122 84 112 116 128 C132 138 136 160 128 182 L124 212 Z"/>
+<path class="os2" d="M206 212 L200 172 C202 144 240 130 282 136 C302 140 310 160 310 212 Z"/>
+<path class="mou" fill="none" d="M118 118 C148 104 186 108 212 128"/>
+<ellipse class="mou" cx="162" cy="146" rx="24" ry="16"/>
+<circle class="ref" cx="152" cy="142" r="4"/>
+<circle class="ref" cx="164" cy="140" r="4"/>
+<circle class="ref" cx="174" cy="148" r="4"/>
+<circle class="ref" cx="158" cy="154" r="4"/>
+<circle class="ref" cx="146" cy="150" r="3"/>
+<ellipse class="m" fill="none" cx="162" cy="146" rx="28" ry="20"/>
+<text class="tv" x="162" y="190" text-anchor="middle">SST</text>
+<text class="t" x="162" y="98" text-anchor="middle">nerf ulnaire</text>
+<text class="t" x="20" y="200">épicondyle méd.</text>
+<text class="t" x="226" y="200">olécrâne</text>
+<text class="t" x="12" y="28">Axial écho</text>
+<text class="t" x="162" y="210" text-anchor="middle">&lt; 8 mm²</text>
+</svg>

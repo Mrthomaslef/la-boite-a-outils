@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axiale : pointe coracoïde → tubercule mineur (subscapulaire entre) -->
+  <path class="os" d="M200 84 Q212 120 200 156 C214 160 222 152 228 140 L300 196 L308 186 L234 118 C232 100 220 84 200 84 Z"/>
+  <circle class="os" cx="116" cy="128" r="62"/>
+  <path class="os2" d="M214 104 C214 80 202 60 180 46 C172 42 164 50 170 56 C186 68 194 84 194 104 Z"/>
+  <path class="mou" fill="none" d="M132.0 68.1 A62 62 0 0 1 172.2 101.8"/>
+  <line class="dim" x1="172" y1="58" x2="158" y2="80"/>
+  <polyline class="dim" points="165.4 60.9 172 58 172.2 65.2"/>
+  <polyline class="dim" points="157.8 72.8 158 80 164.6 77.1"/>
+  <circle class="pt" cx="172" cy="56" r="4.5"/>
+  <circle class="pt" cx="156" cy="82" r="4.5"/>
+  <text class="tv" x="12" y="24">Coraco-huméral</text>
+  <text class="t" x="196" y="40">coracoïde</text>
+  <text class="t" x="104" y="104">Tm</text>
+  <text class="t" x="250" y="212">Axial</text>
+  <text class="t" x="236" y="130">glène</text>
+  <text class="t" x="160" y="112">SSC</text>
+</svg>

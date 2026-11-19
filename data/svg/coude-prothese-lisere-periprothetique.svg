@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M120 4 L200 4 C204 50 222 80 240 96 C246 112 236 130 220 130 L100 130 C84 130 74 112 80 96 C98 80 116 50 120 4 Z"/>
+<rect class="zone" x="132" y="18" width="8" height="80"/>
+<rect class="pe" x="140" y="14" width="40" height="104"/>
+<rect class="imp" x="152" y="18" width="16" height="100"/>
+<path class="os2" d="M136 146 L184 146 C190 170 186 194 184 214 L140 214 C136 194 132 170 136 146 Z"/>
+<rect class="pe" x="148" y="140" width="24" height="68"/>
+<rect class="imp" x="154" y="132" width="12" height="72"/>
+<rect class="imp" x="126" y="114" width="68" height="22" rx="8"/>
+<line class="dim" x1="110" y1="58" x2="140" y2="58"/>
+<polyline class="dim" fill="none" points="113.5,59.9 110,58 113.5,56.1"/>
+<polyline class="dim" fill="none" points="136.5,56.1 140,58 136.5,59.9"/>
+<text class="tv" x="14" y="52">Liseré</text>
+<text class="t" x="14" y="72">&gt; 2 mm ?</text>
+<text class="t" x="210" y="40">tige hum.</text>
+<text class="t" x="200" y="190">tige ulnaire</text>
+<text class="t" x="14" y="190">ciment</text>
+<line class="ref" x1="62" y1="184" x2="148" y2="180"/>
+<text class="t" x="280" y="20">Face</text>
+</svg>

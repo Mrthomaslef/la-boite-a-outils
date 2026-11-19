@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Interligne glénohuméral de face -->
+  <path class="os" d="M192 92 C202 88 210 92 212 100 L216 108 L312 100 L312 212 L232 212 C220 192 208 178 198 168 C194 146 192 116 192 92 Z"/>
+  <path class="os" d="M102 215 L100 178 C90 166 80 150 78 128 C77 112 82 100 90 94 C94 90 98 90 102 88 C112 80 124 77 138 78 C162 82 180 102 181 128 C182 150 170 166 152 176 L148 215 Z"/>
+  <ellipse class="os2" cx="228" cy="82" rx="13" ry="9"/>
+  <path class="os" d="M218 32 C252 24 290 20 312 20 L312 38 C290 38 254 42 220 52 Z"/>
+  <path class="os" d="M212 34 C170 30 116 32 78 42 C66 46 68 58 80 58 C120 52 170 50 210 52 Z"/>
+  <line class="dim" x1="181" y1="132" x2="193" y2="132"/>
+  <polyline class="dim" points="187.0 135.0 181 132 187.0 129.0"/>
+  <polyline class="dim" points="187.0 135.0 193 132 187.0 129.0"/>
+  <line class="dim" x1="181" y1="132" x2="193" y2="132"/>
+  <polyline class="dim" points="187.0 135.0 181 132 187.0 129.0"/>
+  <polyline class="dim" points="187.0 135.0 193 132 187.0 129.0"/>
+  <text class="tv" x="14" y="24">Interligne GH</text>
+  <text class="t" x="198" y="122">< 2 mm</text>
+  <text class="t" x="14" y="212">Face</text>
+  <text class="t" x="124" y="130">tête</text>
+  <text class="t" x="232" y="170">glène</text>
+</svg>

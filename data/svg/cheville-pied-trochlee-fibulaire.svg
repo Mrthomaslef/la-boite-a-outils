@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os2" d="M90 84 C96 44 226 44 234 86 C200 92 124 92 90 84 Z"/>
+  <path class="os" d="M66 118 C70 94 110 88 160 90 C220 92 252 104 254 134 C254 172 222 202 160 202 C110 202 80 186 70 166 C60 160 38 154 38 142 C38 132 58 128 66 118 Z"/>
+  <line class="ref" x1="68" y1="96" x2="68" y2="190"/>
+  <line class="dim" x1="38" y1="142" x2="68" y2="142"/><line class="dim" x1="38" y1="137" x2="38" y2="147"/><line class="dim" x1="68" y1="137" x2="68" y2="147"/>
+  <ellipse class="mou" cx="48" cy="112" rx="9" ry="7"/>
+  <ellipse class="mou" cx="54" cy="176" rx="9" ry="7"/>
+  <text class="t" x="18" y="100">CF</text>
+  <text class="t" x="20" y="204">LF</text>
+  <text class="t" x="80" y="150">≤ 5 mm</text>
+  <text class="t" x="150" y="150">calcanéus</text>
+  <text class="t" x="146" y="74">talus</text>
+  <text class="tv" x="110" y="24">Trochlée fib.</text>
+  <text class="t" x="254" y="212">Coronal</text>
+  <text class="t" x="8" y="40">lat.</text>
+</svg>

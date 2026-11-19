@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M118 6 L186 6 C190 46 210 66 238 84 C250 92 248 106 236 108 C222 110 214 116 212 130 C208 144 194 148 180 140 C174 136 168 136 162 140 C152 148 140 146 138 136 C132 144 116 150 102 144 C92 138 88 126 86 116 C76 110 66 104 72 94 C92 78 114 58 118 6 Z"/>
+<path class="os2" d="M96 214 L102 172 C94 164 96 154 104 154 L132 154 C140 154 142 164 134 172 L130 214 Z"/>
+<path class="os2" d="M150 214 L156 172 C148 164 148 156 154 150 C164 152 170 146 178 150 C188 154 200 152 210 146 C220 152 224 162 222 172 C218 180 208 182 200 184 L190 214 Z"/>
+<path class="cart" fill="none" d="M156 150 C170 146 190 156 210 146"/>
+<path class="mou" d="M228 104 L240 108 L226 176 L214 174 Z"/>
+<circle class="pt" cx="210" cy="147" r="4.5"/>
+<circle class="pt2" cx="218" cy="172" r="4.5"/>
+<line class="ref" x1="210" y1="147" x2="268" y2="147"/>
+<line class="ref" x1="218" y1="172" x2="268" y2="172"/>
+<line class="dim" x1="262" y1="147" x2="262" y2="172"/>
+<polyline class="dim" fill="none" points="260.1,150.5 262,147 263.9,150.5"/>
+<polyline class="dim" fill="none" points="263.9,168.5 262,172 260.1,168.5"/>
+<text class="tv" x="250" y="136">2–4 mm</text>
+<text class="t" x="246" y="104">LCU ant.</text>
+<text class="t" x="236" y="196">tubercule</text>
+<text class="t" x="236" y="210">sublime</text>
+<text class="t" x="12" y="20">Coronal</text>
+<text class="t" x="286" y="20">méd.</text>
+</svg>

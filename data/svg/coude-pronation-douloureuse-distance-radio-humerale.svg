@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<line class="ref" x1="8" y1="44" x2="312" y2="44"/>
+<path class="os" d="M8 128 L86 124 C92 140 92 156 86 172 L8 168 Z"/>
+<ellipse class="cart" cx="118" cy="148" rx="34" ry="30"/>
+<circle class="os" cx="114" cy="152" r="14"/>
+<path class="cart" d="M176 120 C186 140 186 156 176 176 L226 176 L226 120 Z"/>
+<path class="os2" d="M226 124 L312 128 L312 168 L226 172 Z"/>
+<path class="mou" fill="none" d="M246 120 C214 122 186 120 168 126 C160 136 162 150 166 156"/>
+<line class="dim" x1="152" y1="188" x2="178" y2="188"/>
+<polyline class="dim" fill="none" points="155.5,189.9 152,188 155.5,186.1"/>
+<polyline class="dim" fill="none" points="174.5,186.1 178,188 174.5,189.9"/>
+<line class="ref" x1="152" y1="160" x2="152" y2="194"/>
+<line class="ref" x1="178" y1="160" x2="178" y2="194"/>
+<text class="tv" x="184" y="80">Écart RC ↑</text>
+<text class="t" x="64" y="200">capitulum</text>
+<text class="t" x="196" y="200">tête radiale</text>
+<text class="t" x="250" y="108">lig. ann.</text>
+<text class="t" x="12" y="20">Long. écho</text>
+<text class="t" x="222" y="20">vs côté sain</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os" d="M156 28 C204 32 252 50 296 80 L300 170 C260 196 210 206 156 206 L164 176 C194 172 212 146 212 116 C212 84 192 60 164 58 Z"/>
+  <path class="imp" d="M164.2 72.3 A46 46 0 0 1 135.8 159.7 Z"/>
+  <path class="pe" d="M161.1 81.8 A36 36 0 0 1 138.9 150.2 Z"/>
+  <circle class="imp" cx="150" cy="116" r="24"/>
+  <line class="ref" x1="150" y1="18" x2="150" y2="212"/>
+  <line class="m" x1="178.4" y1="28.5" x2="121.6" y2="203.5"/>
+  <path class="arc" d="M150 46 A70 70 0 0 1 171.6 49.4"/>
+  <text class="tv" x="16" y="40">AV cupule</text>
+  <text class="t" x="98" y="22">sagittal</text>
+  <text class="t" x="236" y="140">bassin</text>
+  <text class="t" x="12" y="214">lat.</text>
+  <text class="t" x="12" y="20">Axial</text>
+</svg>

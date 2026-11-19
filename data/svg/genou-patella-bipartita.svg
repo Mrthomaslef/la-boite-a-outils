@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(18,62)"><path class="os2" d="M36 4 C58 4 70 22 68 42 C66 62 50 80 36 82 C22 80 6 62 4 42 C2 22 14 4 36 4 Z"/>
+<path class="zone" d="M18 72 C28 66 44 66 54 72 C48 78 40 82 36 82 C30 82 24 78 18 72 Z"/>
+</g>
+<text class="tz" x="54" y="52" text-anchor="middle">I</text>
+<text class="t" x="54" y="166" text-anchor="middle">pôle inf.</text>
+<g transform="translate(124,62)"><path class="os2" d="M36 4 C58 4 70 22 68 42 C66 62 50 80 36 82 C22 80 6 62 4 42 C2 22 14 4 36 4 Z"/>
+<path class="zone" d="M14 18 C20 30 20 56 14 70 C8 62 4 52 4 42 C4 32 8 24 14 18 Z"/>
+</g>
+<text class="tz" x="160" y="52" text-anchor="middle">II</text>
+<text class="t" x="160" y="166" text-anchor="middle">latéral</text>
+<g transform="translate(230,62)"><path class="os2" d="M36 4 C58 4 70 22 68 42 C66 62 50 80 36 82 C22 80 6 62 4 42 C2 22 14 4 36 4 Z"/>
+<path class="zone" d="M6 34 C10 24 18 18 26 18 C30 10 32 6 34 4 C22 4 10 10 6 22 C4 26 4 30 6 34 Z"/>
+</g>
+<text class="tz" x="266" y="52" text-anchor="middle">III</text>
+<text class="t" x="266" y="166" text-anchor="middle">supérolat.</text>
+<text class="tv" x="12" y="24">Saupe (face)</text>
+<text class="t" x="12" y="200">lat.</text>
+<text class="t" x="280" y="200">méd.</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axial T2 cervical bas : sac dural décollé des lames (espace épidural postérieur élargi), moelle atrophique asymétrique -->
+  <path class="os" d="M104 16 C130 6 190 6 216 16 C230 26 230 62 218 74 L102 74 C90 62 90 26 104 16 Z"/>
+  <path class="os" d="M104 70 L120 70 L100 98 L114 140 L160 162 L206 140 L220 98 L200 70 L216 70 L246 80 L290 90 L292 114 L256 120 L250 142 L198 172 L186 202 L170 200 L160 186 L150 200 L134 202 L122 172 L70 142 L64 120 L28 114 L30 90 L74 80 Z"/>
+  <ellipse class="cart" cx="160" cy="100" rx="48" ry="22"/>
+  <ellipse class="mou" cx="150" cy="96" rx="22" ry="11"/>
+  <path class="zone" d="M116 112 C136 126 184 126 204 112 L206 140 L160 162 L114 140 Z"/>
+  <circle class="pt" cx="160" cy="140" r="4.5"/>
+  <text class="tv" x="250" y="36">Hirayama</text>
+  <text class="t" x="206" y="196">décollement</text>
+  <text class="t" x="8" y="212">Axial T2</text>
+</svg>

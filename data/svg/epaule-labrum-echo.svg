@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Écho postérieure : zone hypoéchogène à la base du labrum -->
+  <rect class="mou" x="8" y="36" width="304" height="44"/>
+  <path class="os" d="M8 212 L8 124 C50 104 110 108 150 140 C160 150 166 176 166 212 Z"/>
+  <path class="os" d="M312 212 L312 128 L222 134 C206 140 198 170 198 212 Z"/>
+  <polygon class="os2" points="168,118 214,126 222,136 204,140"/>
+  <rect class="zone" x="204" y="136" width="20" height="6"/>
+  <polygon class="zone" points="204,140 222,136 228,146 210,150"/>
+  <line class="dim" x1="244" y1="134" x2="244" y2="154"/>
+  <polyline class="dim" points="241.0 140.0 244 134 247.0 140.0"/>
+  <polyline class="dim" points="241.0 148.0 244 154 247.0 148.0"/>
+  <text class="t" x="20" y="64">infra-épineux</text>
+  <text class="t" x="30" y="190">tête</text>
+  <text class="t" x="240" y="190">glène</text>
+  <text class="t" x="160" y="104">labrum</text>
+  <text class="t" x="240" y="24">Écho post.</text>
+</svg>

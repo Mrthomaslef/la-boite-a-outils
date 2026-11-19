@@ -1,0 +1,26 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Walch : A1, A2, B2 biconcave, B3 rétroversée, C dysplasique -->
+  <text class="tv" x="12" y="24">Walch</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <path class="os" d="M44 88 Q52 120 44 152 L64 156 L64 84 Z"/>
+  <circle class="os2" cx="26" cy="120" r="18"/>
+  <line class="ref" x1="10" y1="120" x2="66" y2="120"/>
+  <text class="tz" x="36" y="184" text-anchor="middle">A1</text>
+  <path class="os" d="M106 86 Q130 120 106 154 L126 156 L126 84 Z"/>
+  <circle class="os2" cx="98" cy="120" r="18"/>
+  <line class="ref" x1="72" y1="120" x2="128" y2="120"/>
+  <text class="tz" x="98" y="184" text-anchor="middle">A2</text>
+  <path class="os" d="M168 88 Q172 104 170 118 Q180 136 174 152 L188 156 L188 84 Z"/>
+  <circle class="os2" cx="152" cy="136" r="18"/>
+  <line class="ref" x1="134" y1="120" x2="190" y2="120"/>
+  <text class="tz" x="160" y="184" text-anchor="middle">B2</text>
+  <path class="os" d="M230 88 Q246 116 242 154 L250 156 L250 84 Z"/>
+  <circle class="os2" cx="216" cy="138" r="18"/>
+  <line class="ref" x1="196" y1="120" x2="252" y2="120"/>
+  <text class="tz" x="222" y="184" text-anchor="middle">B3</text>
+  <path class="os" d="M288 90 Q298 118 304 152 L312 156 L312 84 Z"/>
+  <circle class="os2" cx="276" cy="134" r="18"/>
+  <line class="ref" x1="258" y1="120" x2="314" y2="120"/>
+  <text class="tz" x="284" y="184" text-anchor="middle">C</text>
+  <text class="t" x="12" y="212">post. ↓</text>
+</svg>

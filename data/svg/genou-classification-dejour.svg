@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(6,70)"><path class="os" d="M0 64 L2 64 C2 30 12 16 24 16 C30 16 33 22 36 25 C40 22 46 18 54 18 C64 18 70 32 70 64 Z"/>
+</g>
+<text class="tz" x="42" y="60" text-anchor="middle">A</text>
+<text class="t" x="42" y="160" text-anchor="middle">peu creusée</text>
+<g transform="translate(84,70)"><path class="os" d="M0 64 L2 64 C2 30 10 18 22 18 L50 18 C62 18 70 32 70 64 Z"/>
+</g>
+<text class="tz" x="120" y="60" text-anchor="middle">B</text>
+<text class="t" x="120" y="160" text-anchor="middle">plate</text>
+<g transform="translate(162,70)"><path class="os" d="M0 64 L2 64 C2 28 12 14 28 14 C42 14 52 20 58 28 C64 36 70 46 70 64 Z"/>
+</g>
+<text class="tz" x="198" y="60" text-anchor="middle">C</text>
+<text class="t" x="198" y="160" text-anchor="middle">asymétrique</text>
+<g transform="translate(240,70)"><path class="os" d="M0 64 L2 64 C2 28 12 14 28 14 C38 14 42 18 42 26 L44 40 C52 36 62 38 70 46 L70 64 Z"/>
+</g>
+<text class="tz" x="276" y="60" text-anchor="middle">D</text>
+<text class="t" x="276" y="160" text-anchor="middle">falaise</text>
+<text class="tv" x="12" y="24">Dejour (axial)</text>
+<text class="t" x="40" y="190">tous : signe du croisement</text>
+<text class="t" x="70" y="208">B à D = haut grade</text>
+</svg>

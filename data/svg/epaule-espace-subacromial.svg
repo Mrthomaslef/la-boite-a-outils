@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Épaule droite de face : acromion → sommet tête -->
+  <path class="os" d="M192 92 C202 88 210 92 212 100 L216 108 L312 100 L312 212 L232 212 C220 192 208 178 198 168 C194 146 192 116 192 92 Z"/>
+  <path class="os" d="M102 215 L100 178 C90 166 80 150 78 128 C77 112 82 100 90 94 C94 90 98 90 102 88 C112 80 124 77 138 78 C162 82 180 102 181 128 C182 150 170 166 152 176 L148 215 Z"/>
+  <ellipse class="os2" cx="228" cy="82" rx="13" ry="9"/>
+  <path class="os" d="M218 32 C252 24 290 20 312 20 L312 38 C290 38 254 42 220 52 Z"/>
+  <path class="os" d="M212 34 C170 30 116 32 78 42 C66 46 68 58 80 58 C120 52 170 50 210 52 Z"/>
+  <line class="dim" x1="128" y1="54" x2="128" y2="77"/>
+  <polyline class="dim" points="123.0 60.0 128 54 133.0 60.0"/>
+  <polyline class="dim" points="123.0 71.0 128 77 133.0 71.0"/>
+  <circle class="pt" cx="128" cy="54" r="4.5"/>
+  <circle class="pt" cx="128" cy="78" r="4.5"/>
+  <text class="tv" x="14" y="24">Espace SA</text>
+  <text class="t" x="140" y="70">acromion</text>
+  <text class="t" x="14" y="212">Face</text>
+  <text class="t" x="150" y="110">tête</text>
+</svg>

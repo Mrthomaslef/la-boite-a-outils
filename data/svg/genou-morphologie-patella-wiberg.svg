@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(8,70)"><path class="os2" d="M4 30 C18 2 72 2 86 30 C74 32 62 38 46 54 C30 38 16 32 4 30 Z"/>
+</g>
+<text class="tz" x="53" y="58" text-anchor="middle">I</text>
+<text class="t" x="53" y="150" text-anchor="middle">normal</text>
+<g transform="translate(115,70)"><path class="os2" d="M4 30 C18 2 72 2 86 30 C80 34 72 42 62 54 C44 40 22 32 4 30 Z"/>
+</g>
+<text class="tz" x="160" y="58" text-anchor="middle">II</text>
+<text class="t" x="160" y="150" text-anchor="middle">normal</text>
+<g transform="translate(222,70)"><path class="os2" d="M4 30 C18 2 72 2 86 30 C86 44 78 56 66 56 C46 42 22 32 4 30 Z"/>
+</g>
+<text class="tz" x="267" y="58" text-anchor="middle">III</text>
+<text class="t" x="267" y="150" text-anchor="middle">dysplasie</text>
+<text class="tv" x="12" y="24">Wiberg (axial 30°)</text>
+<text class="t" x="12" y="200">lat.</text>
+<text class="t" x="280" y="200">méd.</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os2" d="M176 50 C206 40 256 50 266 90 C270 120 246 130 216 126 C186 122 172 100 176 50 Z"/>
+  <path class="os" d="M92 40 C122 30 152 40 158 70 C162 100 152 118 132 122 C112 126 94 118 88 100 C82 80 80 54 92 40 Z"/>
+  <ellipse class="zone" cx="126" cy="154" rx="42" ry="34"/>
+  <path class="mou" d="M102 140 C110 122 142 122 150 140 C140 134 112 134 102 140 Z"/>
+  <ellipse class="mou" cx="126" cy="162" rx="17" ry="11"/>
+  <line class="dim" x1="143" y1="162" x2="168" y2="162"/><line class="dim" x1="143" y1="157" x2="143" y2="167"/><line class="dim" x1="168" y1="157" x2="168" y2="167"/>
+  <text class="t" x="116" y="166">LF</text>
+  <text class="t" x="150" y="128">CF</text>
+  <text class="t" x="16" y="80">fibula</text>
+  <text class="t" x="212" y="92">talus</text>
+  <text class="t" x="176" y="184">&lt; 3 mm</text>
+  <text class="tv" x="8" y="212">Gaine fibulaires</text>
+  <text class="t" x="270" y="212">Axial</text>
+</svg>

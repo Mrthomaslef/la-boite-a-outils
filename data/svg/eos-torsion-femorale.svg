@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="os2" d="M70 130 C76 104 120 96 160 104 C200 96 244 104 250 130 C254 158 236 178 206 180 C190 172 176 168 160 176 C144 168 130 172 114 180 C84 178 66 158 70 130 Z"/>
+  <polygon class="os" points="154.3,133.3 239.9,105.5 231.3,78.9 145.7,106.7"/>
+  <circle class="os" cx="235.6" cy="92.2" r="24"/>
+  <line class="ref" x1="56" y1="181" x2="276" y2="181"/>
+  <line class="ref" x1="130" y1="120" x2="290" y2="120"/>
+  <line class="m" x1="112" y1="132.4" x2="271.7" y2="80.4"/>
+  <path class="arc" d="M222.3 96.5 A76 76 0 0 1 226 120"/>
+  <circle class="pt" cx="235.6" cy="92.2" r="4.5"/>
+  <circle class="pt" cx="150" cy="120" r="4.5"/>
+  <text class="tv" x="16" y="40">Antéversion</text>
+  <text class="t" x="180" y="72">col</text>
+  <text class="t" x="80" y="206">bicondylienne post.</text>
+  <text class="t" x="266" y="20">Axial</text>
+  <text class="t" x="238" y="112">∥</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M90 8 L200 8 C250 20 284 60 282 104 C280 136 252 152 200 152 C150 152 112 146 96 126 C84 104 84 50 90 8 Z"/>
+<path class="os" d="M44 166 L260 166 C268 172 266 186 256 194 L246 214 L68 214 C54 200 44 186 44 166 Z"/>
+<path class="cart" d="M44 165 L46 132 C60 140 80 152 100 162 L100 165 Z"/>
+<path class="cart" d="M272 165 L274 124 C256 136 236 150 214 162 L214 165 Z"/>
+<line class="ref" x1="262" y1="60" x2="262" y2="200"/>
+<line class="m2" x1="274" y1="60" x2="274" y2="200"/>
+<line class="dim" x1="262" y1="190" x2="274" y2="190"/>
+<line class="dim" x1="262.0" y1="185.0" x2="262.0" y2="195.0"/>
+<line class="dim" x1="274.0" y1="185.0" x2="274.0" y2="195.0"/>
+<text class="tv" x="150" y="40">> 3,5 mm</text>
+<text class="t" x="12" y="30">Sagittal lat.</text>
+<text class="t" x="176" y="62">corne post.</text>
+</svg>

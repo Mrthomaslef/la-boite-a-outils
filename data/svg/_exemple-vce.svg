@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hanche droite de face : os iliaque (médial, à gauche) + toit couvrant la tête -->
+  <path class="os" d="M14 20 L150 20 C190 30 230 50 262 78 C266 84 262 88 256 87 C236 72 212 66 190 70 C160 76 140 96 130 120 L120 200 L14 200 Z"/>
+  <path class="cart" fill="none" d="M176 84 C196 72 230 74 254 88"/>
+  <circle class="os2" cx="212" cy="122" r="44"/>
+  <path class="os2" d="M196 162 L230 160 L250 210 L190 210 Z"/>
+  <circle class="pt" cx="212" cy="122" r="4.5"/>
+  <circle class="pt" cx="258" cy="83" r="4.5"/>
+  <line class="ref" x1="212" y1="122" x2="212" y2="14"/>
+  <line class="m" x1="212" y1="122" x2="266" y2="54"/>
+  <path class="arc" d="M212 72 A50 50 0 0 1 243 83"/>
+  <text class="tv" x="220" y="44">VCE</text>
+  <text class="t" x="166" y="136">centre</text>
+  <text class="t" x="262" y="104">rebord</text>
+  <text class="t" x="20" y="214">Face</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M140 8 L136 50 C118 80 108 120 116 156 C126 196 170 214 214 212 C262 210 298 176 298 136 C298 100 276 76 248 62 L232 50 L230 8 Z"/>
+<path class="ref" fill="none" d="M137 52 C126 90 126 130 140 170"/>
+<path class="m2" fill="none" d="M137 50 C146 80 162 116 200 160"/>
+<line class="ref" x1="60" y1="100" x2="240" y2="100"/>
+<circle class="pt" cx="116" cy="100" r="4.5"/>
+<circle class="pt" cx="128" cy="100" r="4.5"/>
+<circle class="pt2" cx="154" cy="100" r="4.5"/>
+<line class="dim" x1="116" y1="86" x2="154" y2="86"/>
+<line class="dim" x1="116.0" y1="81.0" x2="116.0" y2="91.0"/>
+<line class="dim" x1="154.0" y1="81.0" x2="154.0" y2="91.0"/>
+<line class="dim" x1="128" y1="114" x2="154" y2="114"/>
+<line class="dim" x1="128.0" y1="109.0" x2="128.0" y2="119.0"/>
+<line class="dim" x1="154.0" y1="109.0" x2="154.0" y2="119.0"/>
+<text class="t" x="98" y="96">L</text>
+<text class="t" x="118" y="134">M</text>
+<text class="t" x="162" y="124">G</text>
+<text class="tv" x="170" y="40">(GL+GM)/2</text>
+<text class="t" x="12" y="18">Profil strict (zoom)</text>
+<text class="t" x="200" y="96">1 cm</text>
+</svg>

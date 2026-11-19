@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Épaisseur du LCB en coupe transversale, avant le sillon -->
+  <path class="os" d="M10 212 C60 150 260 150 310 212 Z"/>
+  <path class="cart" d="M20 168 C60 132 260 132 300 168"/>
+  <ellipse class="mou" cx="160" cy="118" rx="44" ry="14"/>
+  <line class="ref" x1="160" y1="104" x2="214" y2="104"/>
+  <line class="ref" x1="160" y1="132" x2="214" y2="132"/>
+  <line class="dim" x1="212" y1="104" x2="212" y2="132"/>
+  <polyline class="dim" points="208.0 110.0 212 104 216.0 110.0"/>
+  <polyline class="dim" points="208.0 126.0 212 132 216.0 126.0"/>
+  <text class="tv" x="12" y="24">Épaisseur LCB</text>
+  <text class="t" x="140" y="90">LCB</text>
+  <text class="t" x="222" y="122">≤ 2,5 mm</text>
+  <text class="t" x="110" y="200">tête humérale</text>
+  <text class="t" x="220" y="24">Sag. oblique</text>
+</svg>

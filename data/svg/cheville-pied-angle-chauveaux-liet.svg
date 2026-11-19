@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <line class="ref" x1="8" y1="196" x2="312" y2="196"/>
+  <path class="os2" d="M100 104 C100 74 150 62 180 76 L214 92 C232 94 242 110 230 120 C216 126 202 118 190 116 L150 112 C128 112 104 116 100 104 Z"/>
+  <path class="os" d="M58 196 C44 192 34 178 34 158 C34 146 40 134 42 126 C44 116 44 108 48 104 C54 98 62 100 70 110 C78 120 92 120 104 112 C120 102 140 96 160 100 C176 104 186 116 200 118 C230 120 262 126 278 136 C286 144 282 154 270 156 C230 164 150 178 58 196 Z"/>
+  <line class="ref" x1="25" y1="196" x2="25" y2="70"/>
+  <line class="m" x1="25" y1="196" x2="58.4" y2="62.6"/>
+  <line class="m2" x1="58" y1="196" x2="286.8" y2="145.4"/>
+  <path class="arc" d="M25 132 A64 64 0 0 1 40.5 133.9"/>
+  <path class="arc" d="M126.3 180.9 A70 70 0 0 1 128 196"/>
+  <text class="t" x="36" y="124">β</text>
+  <text class="t" x="132" y="192">α</text>
+  <text class="t" x="70" y="92">Haglund</text>
+  <text class="tv" x="120" y="30">Chauveaux-Liet</text>
+  <text class="t" x="130" y="50">β − α</text>
+  <text class="t" x="270" y="22">Profil</text>
+</svg>

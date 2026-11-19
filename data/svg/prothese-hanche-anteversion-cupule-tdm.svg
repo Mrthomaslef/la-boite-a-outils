@@ -1,0 +1,21 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coupe axiale fonctionnelle : axe d'ouverture de la cupule / perpendiculaire à la ligne bi-ischiatique -->
+  <path class="os" d="M104 64 C140 62 160 86 162 112 C162 140 150 162 126 178 L86 188 C72 186 64 176 62 162 L80 152 C112 156 134 136 134 112 C134 88 118 72 104 78 Z"/>
+  <path class="os" d="M 216,64C 180,62 160,86 158,112C 158,140 170,162 194,178L 234,188C 248,186 256,176 258,162L 240,152C 208,156 186,136 186,112C 186,88 202,72 216,78Z"/>
+  <path class="imp" d="M107.6 80.1 A34 34 0 0 1 127.9 123.6 A34 34 0 0 1 84.4 143.9 Z"/>
+  <circle class="imp" cx="96" cy="112" r="17"/>
+  <circle class="os2" cx="222" cy="112" r="19"/>
+  <line class="ref" x1="40" y1="182" x2="280" y2="182"/>
+  <circle class="pt2" cx="72" cy="182" r="4.5"/>
+  <circle class="pt2" cx="248" cy="182" r="4.5"/>
+  <line class="ref" x1="84.4" y1="143.9" x2="84.4" y2="40"/>
+  <line class="m" x1="79.7" y1="156.7" x2="119.3" y2="48.1"/>
+  <path class="arc" d="M84.4 103.9 A40 40 0 0 1 98.1 106.4"/>
+  <circle class="pt" cx="107.6" cy="80.1" r="4.5"/>
+  <circle class="pt" cx="84.4" cy="143.9" r="4.5"/>
+  <text class="tv" x="312" y="30" text-anchor="end">AV cupule</text>
+  <text class="t" x="312" y="50" text-anchor="end">15 ± 10°</text>
+  <text class="t" x="160" y="204" text-anchor="middle">ligne bi-ischiatique</text>
+  <text class="t" x="12" y="20">Axial</text>
+  <text class="t" x="160" y="24" text-anchor="middle">ant. ↑</text>
+</svg>

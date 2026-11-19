@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coupe axiale cervicale T2 (antérieur en haut) : section médullaire, diamètres sagittal et transverse -->
+  <path class="os" d="M104 16 C130 6 190 6 216 16 C230 26 230 62 218 74 L102 74 C90 62 90 26 104 16 Z"/>
+  <path class="os" d="M104 70 L120 70 L100 98 L114 140 L160 162 L206 140 L220 98 L200 70 L216 70 L246 80 L290 90 L292 114 L256 120 L250 142 L198 172 L186 202 L170 200 L160 186 L150 200 L134 202 L122 172 L70 142 L64 120 L28 114 L30 90 L74 80 Z"/>
+  <circle class="mou" cx="272" cy="104" r="7"/>
+  <circle class="mou" cx="48" cy="104" r="7"/>
+  <ellipse class="cart" cx="160" cy="112" rx="50" ry="32"/>
+  <ellipse class="mou" cx="160" cy="108" rx="32" ry="18"/>
+  <line class="dim" x1="160" y1="90" x2="160" y2="126"/><line class="dim" x1="165" y1="90" x2="155" y2="90"/><line class="dim" x1="165" y1="126" x2="155" y2="126"/>
+  <line class="m2" x1="128" y1="108" x2="192" y2="108"/>
+  <text class="tv" x="252" y="36">Moelle</text>
+  <text class="t" x="252" y="52">80–90 mm²</text>
+  <text class="t" x="166" y="142">AP</text>
+  <text class="None" x="96" y="190" text-anchor="middle">transverse</text>
+  <text class="t" x="8" y="212">Axial T2</text>
+</svg>

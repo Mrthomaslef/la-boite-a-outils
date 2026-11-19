@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M90 8 L200 8 C250 20 284 60 282 104 C280 136 252 152 200 152 C150 152 112 146 96 126 C84 104 84 50 90 8 Z"/>
+<path class="os" d="M60 166 L276 166 C284 172 282 186 272 194 L262 214 L84 214 C70 200 60 186 60 166 Z"/>
+<path class="cart" d="M58 165 L60 112 C78 116 100 132 120 160 L120 165 Z"/>
+<path class="cart" d="M126 164 C132 150 146 146 156 150 L160 164 Z"/>
+<path class="cart" d="M276 165 L278 128 C262 140 240 154 214 162 L214 165 Z"/>
+<line class="dim" x1="44" y1="112" x2="44" y2="165"/>
+<line class="dim" x1="49.0" y1="112.0" x2="39.0" y2="112.0"/>
+<line class="dim" x1="49.0" y1="165.0" x2="39.0" y2="165.0"/>
+<text class="tv" x="150" y="40">Mégacorne</text>
+<text class="t" x="10" y="100">> 6–8 mm</text>
+<text class="t" x="150" y="186">double corne</text>
+<text class="t" x="12" y="214">Sagittal</text>
+</svg>

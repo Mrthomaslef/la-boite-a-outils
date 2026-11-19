@@ -1,0 +1,24 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sugaya 1-5 : épaisseur, signal, discontinuité -->
+  <text class="tv" x="12" y="24">Sugaya</text>
+  <text class="t" x="226" y="24">T2 cor.</text>
+  <path class="os" d="M8 200 C8 150 64 150 64 200 Z"/>
+  <path class="mou" d="M8 146 C26 128 46 128 64 146 L64 160 C46 142 26 142 8 160 Z"/>
+  <text class="tz" x="36" y="100" text-anchor="middle">1</text>
+  <path class="os" d="M70 200 C70 150 126 150 126 200 Z"/>
+  <path class="mou" d="M70 146 C88 128 108 128 126 146 L126 160 C108 142 88 142 70 160 Z"/>
+  <ellipse class="zone" cx="98" cy="140" rx="8" ry="4"/>
+  <text class="tz" x="98" y="100" text-anchor="middle">2</text>
+  <path class="os" d="M132 200 C132 150 188 150 188 200 Z"/>
+  <path class="mou" d="M132 152 C150 136 170 136 188 152 L188 158 C170 142 150 142 132 158 Z"/>
+  <text class="tz" x="160" y="100" text-anchor="middle">3</text>
+  <path class="os" d="M194 200 C194 150 250 150 250 200 Z"/>
+  <path class="mou" d="M194 146 C204 136 214 132 218 132 L218 146 C204 146 198 152 194 160 Z"/>
+  <path class="mou" d="M250 146 C240 136 230 132 226 132 L226 146 C240 146 246 152 250 160 Z"/>
+  <text class="tz" x="222" y="100" text-anchor="middle">4</text>
+  <path class="os" d="M256 200 C256 150 312 150 312 200 Z"/>
+  <path class="mou" d="M256 146 C266 136 266 132 270 132 L270 146 C266 146 260 152 256 160 Z"/>
+  <path class="mou" d="M312 146 C302 136 302 132 298 132 L298 146 C302 146 308 152 312 160 Z"/>
+  <text class="tz" x="284" y="100" text-anchor="middle">5</text>
+  <text class="t" x="30" y="72">épais. · signal · continuité</text>
+</svg>

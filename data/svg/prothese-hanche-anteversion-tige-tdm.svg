@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axe du col prothétique / tangente bicondylienne postérieure (superposition) -->
+  <path class="os2" d="M50 166 C50 146 80 138 160 140 C240 138 270 146 270 166 C270 186 260 200 236 200 C216 200 204 190 188 184 L132 184 C116 190 104 200 84 200 C60 200 50 186 50 166 Z"/>
+  <ellipse class="os" cx="228" cy="104" rx="40" ry="26"/>
+  <ellipse class="imp" cx="222" cy="104" rx="14" ry="10"/>
+  <path class="imp" d="M84 55 L214 96 L214 110 L84 69 Z"/>
+  <circle class="imp" cx="84" cy="62" r="20"/>
+  <line class="ref" x1="30" y1="200" x2="290" y2="200"/>
+  <line class="ref" x1="228" y1="104" x2="40" y2="104"/>
+  <line class="m" x1="258" y1="112.7" x2="40" y2="49.2"/>
+  <path class="arc" d="M158 104 A70 70 0 0 1 160.8 84.4"/>
+  <circle class="pt" cx="84" cy="62" r="4.5"/>
+  <circle class="pt2" cx="228" cy="104" r="4.5"/>
+  <text class="tv" x="312" y="30" text-anchor="end">AV tige</text>
+  <text class="t" x="312" y="50" text-anchor="end">10–20°</text>
+  <text class="t" x="160" y="214" text-anchor="middle">bicondylienne postérieure</text>
+  <text class="t" x="160" y="160" text-anchor="middle">condyles</text>
+  <text class="t" x="14" y="20">Axial</text>
+  <text class="t" x="104" y="30">col</text>
+</svg>

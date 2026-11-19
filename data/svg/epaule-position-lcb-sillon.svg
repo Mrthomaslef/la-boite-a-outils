@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axiale : centre LCB vs fond du sillon (décalage médial) -->
+  <path class="os" d="M200 84 Q212 120 200 156 C214 160 222 152 228 140 L300 196 L308 186 L234 118 C232 100 220 84 200 84 Z"/>
+  <path class="os" d="M137.1 62.4 A62 62 0 1 1 96.8 64.5 Q117.9 82.1 137.1 62.4 Z"/>
+  <circle class="mou" cx="134" cy="64" r="8"/>
+  <line class="ref" x1="116" y1="70" x2="116" y2="40"/>
+  <line class="ref" x1="134" y1="64" x2="134" y2="40"/>
+  <line class="dim" x1="116" y1="44" x2="134" y2="44"/>
+  <polyline class="dim" points="122.0 48.0 116 44 122.0 40.0"/>
+  <polyline class="dim" points="128.0 48.0 134 44 128.0 40.0"/>
+  <circle class="pt2" cx="116" cy="74" r="4"/>
+  <circle class="pt" cx="134" cy="64" r="4.5"/>
+  <text class="tv" x="12" y="24">Décalage LCB</text>
+  <text class="t" x="148" y="56">LCB</text>
+  <text class="t" x="30" y="80">TM</text>
+  <text class="t" x="150" y="96">Tm</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <text class="t" x="214" y="212">glène</text>
+</svg>

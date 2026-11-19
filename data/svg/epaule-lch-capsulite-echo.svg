@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Intervalle des rotateurs : LCH médial près du coracoïde, LCB dessous -->
+  <rect class="mou" x="8" y="36" width="304" height="40"/>
+  <path class="os" d="M8 212 L8 170 C80 130 220 130 300 160 L300 212 Z"/>
+  <path class="os2" d="M250 120 C262 96 290 88 312 88 L312 150 C290 150 270 140 250 120 Z"/>
+  <path class="mou" d="M40 104 C90 84 180 84 252 106 L250 120 C180 100 90 100 42 118 Z"/>
+  <ellipse class="mou" cx="148" cy="128" rx="26" ry="13"/>
+  <line class="ref" x1="214" y1="90" x2="236" y2="90"/>
+  <line class="dim" x1="232" y1="92" x2="232" y2="113"/>
+  <polyline class="dim" points="229.0 98.0 232 92 235.0 98.0"/>
+  <polyline class="dim" points="229.0 107.0 232 113 235.0 107.0"/>
+  <text class="tv" x="12" y="24">Épaisseur LCH</text>
+  <text class="t" x="20" y="62">deltoïde</text>
+  <text class="t" x="66" y="96">LCH</text>
+  <text class="t" x="136" y="132">LCB</text>
+  <text class="t" x="262" y="170">coracoïde</text>
+  <text class="t" x="244" y="24">Écho</text>
+</svg>

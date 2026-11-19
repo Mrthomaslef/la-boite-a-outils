@@ -1,0 +1,24 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <text class="tv" x="8" y="22">Sobel</text>
+  <text class="t" x="270" y="22">Axial</text>
+  <text class="tz" x="44" y="66" text-anchor="middle">1</text>
+  <path class="mou" d="M14 126 C22 106 66 106 74 126 C62 116 26 116 14 126 Z"/>
+  <ellipse class="mou" cx="44" cy="136" rx="13" ry="8"/>
+  <text class="t" x="44" y="160" text-anchor="middle">amincie</text>
+  <text class="tz" x="121" y="66" text-anchor="middle">2</text>
+  <path class="mou" d="M91 126 C99 96 143 96 151 126 C139 116 103 116 91 126 Z"/>
+  <ellipse class="mou" cx="121" cy="136" rx="13" ry="8"/>
+  <line class="m" x1="121" y1="110" x2="121" y2="117"/>
+  <text class="t" x="121" y="160" text-anchor="middle">&lt; 1 cm</text>
+  <text class="tz" x="198" y="66" text-anchor="middle">3</text>
+  <path class="mou" d="M168 126 C176 96 220 96 228 126 C216 116 180 116 168 126 Z"/>
+  <ellipse class="mou" cx="198" cy="136" rx="13" ry="8"/>
+  <line class="m" x1="198" y1="105" x2="198" y2="121"/>
+  <text class="t" x="198" y="160" text-anchor="middle">&lt; 2 cm</text>
+  <text class="tz" x="275" y="66" text-anchor="middle">4</text>
+  <path class="mou" d="M245 126 C253 96 297 96 305 126 C293 116 257 116 245 126 Z"/>
+  <ellipse class="mou" cx="275" cy="136" rx="13" ry="8"/>
+  <line class="m" x1="275" y1="105" x2="275" y2="121"/>
+  <text class="t" x="275" y="160" text-anchor="middle">&gt; 2 cm</text>
+  <text class="t" x="160" y="196" text-anchor="middle">CF en croissant · LF en arrière</text>
+</svg>

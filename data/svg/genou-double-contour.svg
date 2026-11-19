@@ -1,0 +1,13 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M140 8 L136 50 C118 80 108 120 116 156 C126 196 170 214 214 212 C262 210 298 176 298 136 C298 100 276 76 248 62 L232 50 L230 8 Z"/>
+<path class="m2" fill="none" d="M164 30 C144 62 126 86 116 101 C113 112 114 132 122 152"/>
+<path class="m" fill="none" d="M150 24 C142 60 132 110 130 150"/>
+<circle class="pt2" cx="116" cy="101" r="4.5"/>
+<circle class="pt" cx="130" cy="150" r="4.5"/>
+<text class="tv" x="20" y="40">Double contour</text>
+<text class="t" x="40" y="110">croisement</text>
+<text class="t" x="40" y="160">fin du</text>
+<text class="t" x="16" y="174">double contour</text>
+<text class="t" x="176" y="40">gorge</text>
+<text class="t" x="12" y="18">Profil strict (zoom)</text>
+</svg>

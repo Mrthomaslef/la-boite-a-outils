@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M40 78 C55.0 71.0 94.0 70.7 120 70 C146.0 69.3 186.3 69.3 196 74 C205.7 78.7 181.3 90.0 178 98 C174.7 106.0 173.0 114.0 176 122 C179.0 130.0 205.3 141.0 196 146 C186.7 151.0 145.3 151.7 120 152 C94.7 152.3 59.0 154.7 44 148 C29.0 141.3 30.7 123.7 30 112 C29.3 100.3 25.0 85.0 40 78 Z"/>
+<circle class="os2" cx="214" cy="112" r="32"/>
+<circle class="os2" cx="246" cy="82" r="9"/>
+<line class="ref" x1="8" y1="77" x2="312" y2="72"/>
+<line class="ref" x1="8" y1="152" x2="312" y2="145"/>
+<line class="m" x1="196" y1="74" x2="196" y2="146"/>
+<text class="t" x="280" y="66">RUD</text>
+<text class="t" x="280" y="166">RUP</text>
+<text class="tv" x="14" y="198">Tête entre RUD et RUP</text>
+<text class="t" x="14" y="214">d &lt; D/4 · pro- / supination</text>
+<text class="t" x="184" y="170">D</text>
+<text class="t" x="90" y="116">radius</text>
+<text class="t" x="202" y="116">ulna</text>
+<text class="t" x="12" y="20">Axial TDM · dorsal ↑</text>
+</svg>

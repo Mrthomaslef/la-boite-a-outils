@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- T = a/b : a = tête en arrière de la perpendiculaire à AB en C, b = diamètre -->
+  <path class="os" d="M200 64 Q214 118 200 172 C214 176 222 168 228 156 L300 200 L308 190 L234 134 C232 100 220 64 200 64 Z"/>
+  <circle class="os2" cx="128" cy="134" r="56"/>
+  <line class="ref" x1="200" y1="64" x2="200" y2="172"/>
+  <line class="ref" x1="20" y1="118" x2="200" y2="118"/>
+  <line class="m2" x1="146.66666666666666" y1="81.20269367140446" x2="146.66666666666666" y2="186.79730632859554"/>
+  <line class="m" x1="146.66666666666666" y1="118" x2="146.66666666666666" y2="186.79730632859554"/>
+  <circle class="pt" cx="200" cy="64" r="4.5"/>
+  <circle class="pt" cx="200" cy="172" r="4.5"/>
+  <circle class="pt" cx="200" cy="118" r="4.5"/>
+  <text class="tv" x="12" y="24">T = a/b</text>
+  <text class="t" x="208" y="60">A</text>
+  <text class="t" x="208" y="186">B</text>
+  <text class="t" x="208" y="114">C</text>
+  <text class="tv" x="153" y="170">a</text>
+  <text class="t" x="153" y="96">b</text>
+  <text class="t" x="250" y="24">Axial</text>
+  <text class="t" x="30" y="206">post.</text>
+</svg>

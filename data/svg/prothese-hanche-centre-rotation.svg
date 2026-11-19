@@ -1,0 +1,23 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Centre de rotation : distances à la ligne ilio-pubienne et bi-ischiatique -->
+  <path class="os" fill-rule="evenodd" d="M168 66 C180 50 184 30 180 10 L14 10 L14 190 C40 196 60 200 80 204 C100 210 120 212 136 204 C146 196 146 176 140 160 C136 146 134 138 130 130 C150 122 166 98 168 66 Z M48 165 C48 150 66 144 80 145 C96 146 108 154 108 166 C108 178 94 186 78 185 C62 184 48 178 48 165 Z"/>
+  <path class="os2" d="M94 98 C90 112 92 124 100 125 C107 124 108 112 106 98 C103 105 97 105 94 98 Z"/>
+  <path class="os" d="M188 98 C206 92 224 100 228 116 C232 136 226 158 224 178 L224 214 L174 214 L176 178 C176 172 172 166 164 162 C158 158 160 148 166 146 C164 136 160 130 152 124 Z"/>
+  <path class="imp" d="M132 100 L144 86 L176 114 L194 104 L204 194 Q199 205 193 194 L186 152 C182 138 174 130 162 124 Z"/>
+  <path class="imp" d="M166.3 65.7 A40 40 0 0 0 109.7 65.7 A40 40 0 0 0 109.7 122.3 Z"/>
+  <path class="pe" d="M160.6 71.4 A32 32 0 0 0 115.4 71.4 A32 32 0 0 0 115.4 116.6 Z"/>
+  <circle class="imp" cx="138" cy="94" r="18"/>
+  <path class="ref" d="M66 14 C78 50 84 80 82 118 C82 130 80 140 70 148"/>
+  <line class="ref" x1="60" y1="209" x2="230" y2="209"/>
+  <line class="dim" x1="82" y1="94" x2="138" y2="94"/>
+  <line class="dim" x1="82" y1="89" x2="82" y2="99"/>
+  <line class="dim" x1="138" y1="89" x2="138" y2="99"/>
+  <line class="dim" x1="138" y1="94" x2="138" y2="209"/>
+  <line class="dim" x1="143" y1="94" x2="133" y2="94"/>
+  <line class="dim" x1="143" y1="209" x2="133" y2="209"/>
+  <circle class="pt" cx="138" cy="94" r="4.5"/>
+  <text class="tv" x="312" y="30" text-anchor="end">Centre</text>
+  <text class="t" x="312" y="50" text-anchor="end">vs controlatéral</text>
+  <text class="t" x="16" y="62">ilio-pub.</text>
+  <text class="t" x="232" y="192">bi-ischiatique</text>
+</svg>

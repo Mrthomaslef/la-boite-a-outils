@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <path class="ref" d="M158 30 C206 26 252 50 262 90 C272 132 246 176 200 196 C168 208 128 204 104 188 C72 166 56 130 64 94 C72 58 110 34 158 30 Z"/>
+  <path class="zone" d="M180 92 L116 112 C100 96 102 66 124 50 C144 38 168 40 180 58 Z"/>
+  <path class="os" d="M198 44 C206 44 224 72 226 88 C224 100 208 106 194 104 C182 102 178 92 182 78 C186 62 192 44 198 44 Z"/>
+  <circle class="os" cx="104" cy="122" r="13"/>
+  <line class="mou" x1="182" y1="94" x2="116" y2="114"/>
+  <path class="ref" d="M116 112 C130 140 170 150 196 106"/>
+  <path class="ref" d="M100 136 C110 170 170 186 236 150"/>
+  <line class="m" x1="82" y1="16" x2="140" y2="76"/>
+  <circle class="pt" cx="140" cy="76" r="4.5"/>
+  <text class="t" x="124" y="86">loge ant.</text>
+  <text class="t" x="232" y="60">tibia</text>
+  <text class="t" x="84" y="158">fibula</text>
+  <text class="t" x="150" y="130">loges post.</text>
+  <text class="t" x="150" y="176">Δ ≥ 30 mmHg</text>
+  <text class="tv" x="8" y="212">Pression de loge</text>
+  <text class="t" x="266" y="20">Axial</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<path class="os" d="M10 8 L250 8 C262 40 266 70 258 96 C246 122 200 132 140 132 C80 132 30 128 10 124 Z"/>
+<path class="os" d="M10 144 L256 144 C264 144 268 150 266 160 L262 214 L10 214 Z"/>
+<path class="cart" d="M292 143 L288 100 C272 112 244 130 214 139 L214 143 Z"/>
+<line class="ref" x1="267" y1="60" x2="267" y2="200"/>
+<line class="m2" x1="292" y1="60" x2="292" y2="200"/>
+<line class="dim" x1="267" y1="190" x2="292" y2="190"/>
+<line class="dim" x1="267.0" y1="185.0" x2="267.0" y2="195.0"/>
+<line class="dim" x1="292.0" y1="185.0" x2="292.0" y2="195.0"/>
+<text class="tv" x="150" y="40">Extrusion</text>
+<text class="t" x="190" y="64">rebord tibial</text>
+<text class="t" x="12" y="214">Frontal</text>
+<text class="t" x="186" y="182">≥ 3 mm</text>
+</svg>

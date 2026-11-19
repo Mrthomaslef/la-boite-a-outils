@@ -1,0 +1,15 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Profondeur d'os spongieux dans l'axe de la future quille -->
+  <circle class="os2" cx="48" cy="116" r="36"/>
+  <path class="os" d="M96 52 Q118 116 96 180 C130 186 166 168 190 146 L300 168 L306 154 L196 108 C176 74 140 52 96 52 Z"/>
+  <line class="ref" x1="110" y1="116" x2="300" y2="116"/>
+  <rect class="pe" x="112" y="108" width="44" height="16" rx="3"/>
+  <line class="dim" x1="112" y1="116" x2="188" y2="116"/>
+  <polyline class="dim" points="118.0 121.0 112 116 118.0 111.0"/>
+  <polyline class="dim" points="182.0 121.0 188 116 182.0 111.0"/>
+  <text class="tv" x="12" y="24">Profondeur</text>
+  <text class="t" x="118" y="146">spongieux</text>
+  <text class="t" x="118" y="100">quille</text>
+  <text class="t" x="220" y="100">≥ 15 mm</text>
+  <text class="t" x="250" y="212">Axial</text>
+</svg>

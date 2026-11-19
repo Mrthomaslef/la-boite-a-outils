@@ -1,0 +1,18 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cercle des 2/3 inf. ; perte = d/D -->
+  <path class="os" d="M150 30 C170 30 182 56 188 86 L192 110 L192 196 C180 204 166 206 152 206 C120 206 94 180 94 148 C94 120 110 100 120 80 C128 50 136 30 150 30 Z"/>
+  <circle class="ref" cx="152" cy="148" r="58"/>
+  <circle class="pt" cx="152" cy="148" r="3.5"/>
+  <line class="dim" x1="94" y1="148" x2="210" y2="148"/>
+  <polyline class="dim" points="100.0 153.0 94 148 100.0 143.0"/>
+  <polyline class="dim" points="204.0 153.0 210 148 204.0 143.0"/>
+  <line class="dim" x1="192" y1="174" x2="204" y2="174"/>
+  <polyline class="dim" points="198.0 177.0 192 174 198.0 171.0"/>
+  <polyline class="dim" points="198.0 177.0 204 174 198.0 171.0"/>
+  <line class="m2" x1="192" y1="112" x2="192" y2="194"/>
+  <text class="tv" x="12" y="24">Perte glène</text>
+  <text class="t" x="118" y="140">D</text>
+  <text class="t" x="210" y="184">d</text>
+  <text class="t" x="240" y="24">En face</text>
+  <text class="t" x="214" y="110">ant.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(8,70)"><path class="cart" d="M4 6 L4 60 L92 60 Z"/>
+<circle class="pt" cx="26" cy="44" r="5"/>
+</g>
+<text class="tz" x="56" y="56" text-anchor="middle">1</text>
+<text class="t" x="56" y="160" text-anchor="middle">punctiforme</text>
+<g transform="translate(114,70)"><path class="cart" d="M4 6 L4 60 L92 60 Z"/>
+<line class="m" x1="14" y1="46" x2="50" y2="48"/>
+</g>
+<text class="tz" x="162" y="56" text-anchor="middle">2</text>
+<text class="t" x="162" y="160" text-anchor="middle">linéaire</text>
+<g transform="translate(220,70)"><path class="cart" d="M4 6 L4 60 L92 60 Z"/>
+<line class="m" x1="12" y1="50" x2="58" y2="34"/>
+</g>
+<text class="tz" x="268" y="56" text-anchor="middle">3</text>
+<text class="t" x="268" y="160" text-anchor="middle">atteint surface</text>
+<text class="tv" x="12" y="24">Hypersignal méniscal</text>
+<text class="t" x="80" y="196">3 = fissure ; 1–2 = dégénératif</text>
+</svg>
